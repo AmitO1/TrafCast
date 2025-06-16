@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Mac / Windows / Linux OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Cache and large files
+cache/
+map/cache/
+*.sqlite
+*.h5
+*.tar
+*.zip
+*.gz
+*.npz
+*.pt
+*.pkl
+*.ckpt
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Ignore large .json files specifically
+*.json
+
+# Ignore any file over 50MB using Git LFS (see below)
