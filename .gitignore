@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Mac / Windows / Linux OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Cache and large files
+cache/
+map/cache/
+
+# Common large data formats
+*.sqlite
+*.h5
+*.tar
+*.zip
+*.gz
+*.npz
+*.pt
+*.pkl
+*.ckpt
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Block heavy .json and .graphml
+*.json
+*.graphml
+
+# Project-specific exclusions
+map/road_network.graphml
+
+# Prevent Git LFS tracked files from being committed directly
+.gitattributes
