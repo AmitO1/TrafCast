@@ -48,7 +48,8 @@ map/cache/
 *.graphml
 
 # Project-specific exclusions
-map/road_network.graphml
+roadmap/old_implmentation/road_network.graphml
+roadmap/data/Los Angeles/maps/Los_Angeles_network.graphml
 
 # Prevent Git LFS tracked files from being committed directly
 .gitattributes
