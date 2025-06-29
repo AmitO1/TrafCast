@@ -11,9 +11,10 @@ from typing import Tuple, List
 from utils import get_coordinates_from_network, sort_gps_by_greedy_path
 from mock_predictor import MockTrafficPredictor
 from geopy.distance import geodesic
+import re
 
-DIST_THRESHOLD_METERS_MAX = 2000
-DIST_THRESHOLD_METERS_MIN = 10
+DIST_THRESHOLD_METERS_MAX = 1200 #2000
+DIST_THRESHOLD_METERS_MIN = 10 #10
 
 #TODO
 #2. After matching need to append relevent data for predictions for exmaple only Weather, date, direction left:
@@ -50,10 +51,10 @@ class RoadMapManager:
         parts = road_name.split()
         return " ".join(parts[:-1]), parts[-1]
     
-    def set_roads(self, roads: List[str]):
+    def set_roads(self, roads: List[str], add_weather_time: bool = True):
         for road in roads:
             road_name, direction = self.split_road_name_direction(road)
-            self.roads[(road_name,direction)] = get_coordinates_from_network(self.road_network, road_name, direction)
+            self.roads[(road_name,direction)] = get_coordinates_from_network(self.road_network, road_name, direction, add_weather_time)
     
     def get_roads(self):
         """
@@ -81,7 +82,7 @@ class RoadMapManager:
             self.road_network = ox.bearing.add_edge_bearings(self.road_network)
 
             ox.save_graphml(self.road_network, filepath=network_path)
-            
+
     def apply_prediction_data(self, predict_time = None):
         """
         Needed data to predict: 
@@ -92,9 +93,28 @@ class RoadMapManager:
         Lanes - either from coordinate if given else from road network
         Time - input from user
         """
+
         mock_predictor = MockTrafficPredictor({
-            'I 405': 'moderate'
+            'I 405 North': 'moderate',
+            'I 405 South': 'free',
+            'US 101 North': 'busy',
+            'US 101 South': 'moderate',
+            'I 5 North': 'busy',
+            'I 5 South': 'moderate',
+            'I 10 East': 'moderate',
+            'I 10 West': 'moderate',
+            'CA 110 North': 'busy',
+            'CA 110 South': 'busy',
+            'CA 170 North': 'moderate',
+            'CA 170 South': 'free',
+            'CA 118 East': 'free',
+            'CA 118 West': 'free',
+            'CA 134 East': 'moderate',
+            'CA 134 West': 'moderate',
+            'CA 2 North': 'moderate',
+            'CA 2 South': 'moderate'
         })
+
         for (road_name, direction), df in self.roads.items():
             print(f"Mocking for {road_name} - {direction}")
             df = mock_predictor.predict(df)
@@ -117,7 +137,8 @@ class RoadMapManager:
 
         m = folium.Map(
         location=[center_lat, center_lon],
-        zoom_start=13
+        zoom_start=13,
+        tiles='CartoDB positron'
         )
 
         for (road_name, direction), df in self.roads.items():
@@ -125,7 +146,11 @@ class RoadMapManager:
                 lat1, lon1, speed1 = df.loc[i, ['Latitude', 'Longitude', 'speed']] # type: ignore
                 lat2, lon2, speed2 = df.loc[i+1, ['Latitude', 'Longitude', 'speed']] # type: ignore
                 raw_speed = df.loc[i, 'maxspeed']
-                max_speed = float(str(raw_speed).split()[0])
+                match = re.search(r'\d+', str(raw_speed))
+                if match:
+                    max_speed = float(match.group())
+                else:
+                    max_speed = 60
 
                 dist = geodesic((lat1, lon1), (lat2, lon2)).meters
                 if dist > DIST_THRESHOLD_METERS_MAX or dist < DIST_THRESHOLD_METERS_MIN:
@@ -137,7 +162,7 @@ class RoadMapManager:
                 folium.PolyLine(
                     locations=[(lat1, lon1), (lat2, lon2)],
                     color=color,
-                    weight=8,
+                    weight=6,
                     opacity=0.9
                 ).add_to(m)
 
