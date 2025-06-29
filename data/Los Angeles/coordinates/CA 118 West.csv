@@ -1,0 +1,163 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.4322376,34.2701379,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4324644,34.2699896,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4325247,34.2699507,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.433055,34.2695558,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.433973,34.2690483,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4345242,34.2687723,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4349118,34.268605,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4353305,34.2684584,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4353305,34.2684584,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4359353,34.2682531,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4363434,34.2681383,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4365525,34.2680791,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4367496,34.2680303,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4369684,34.2679772,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4372655,34.2679175,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4376989,34.2678475,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4409255,34.2673833,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4414946,34.267303,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4433359,34.2670335,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4442333,34.2669051,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4457104,34.2666987,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4219489,34.2781103,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4222001,34.2779192,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4250122,34.2755598,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4253118,34.2753128,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.426898,34.2740496,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.426898,34.2740496,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4273851,34.273682,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4285337,34.2728425,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4291609,34.2723914,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4302632,34.2715834,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4322376,34.2701379,"['5', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.459947,34.2660263,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4633712,34.2660438,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4633712,34.2660438,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4665374,34.2660591,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4670188,34.2660514,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4676143,34.2660544,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4702532,34.2660844,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4718155,34.266091,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4457104,34.2666987,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4460828,34.2666408,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4489282,34.2662201,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4496795,34.2661287,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4499458,34.2661074,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4504605,34.2660731,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4517044,34.2659893,"['3', '4']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5083438,34.2780078,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5132216,34.2778781,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5141456,34.2778536,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5150353,34.2778547,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5158308,34.2778729,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5165529,34.2778996,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5172178,34.2779433,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.520653,34.2782228,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5216258,34.2782821,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5226971,34.2783229,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5256031,34.2783539,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5261401,34.2783391,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5266275,34.2783107,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5272697,34.2782369,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.528068,34.2780911,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5287907,34.2779057,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5295294,34.2776699,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5300996,34.2774425,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5330684,34.2762829,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4961424,34.2768065,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4967559,34.2770938,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4971307,34.2772513,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4974879,34.2773812,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4979599,34.2775443,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4985007,34.2777003,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4990242,34.2778351,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.499594,34.2779546,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5000568,34.2780337,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5005506,34.2781024,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5011786,34.2781598,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5018071,34.2781897,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5024026,34.2781924,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5058967,34.2780912,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5083438,34.2780078,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5330684,34.2762829,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5348864,34.2755756,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5359868,34.2752467,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5369161,34.275021,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5381278,34.27481,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5387666,34.2747319,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5394042,34.2746687,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.542974,34.2744986,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.542974,34.2744986,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5446618,34.2744337,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5453961,34.2743951,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5459187,34.2743489,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5466811,34.2742447,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5469987,34.274185,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5476179,34.2740582,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5483673,34.273855,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5503,34.2732746,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5503,34.2732746,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5517322,34.2728414,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5523603,34.2726783,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5530243,34.2725543,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5536597,34.2724682,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5541342,34.2724241,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5546153,34.272408,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.555045,34.272396,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5558032,34.2724311,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5565503,34.2724898,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5570917,34.2725503,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5580117,34.2726409,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5596594,34.2728083,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5608587,34.272935,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5608587,34.272935,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.5628653,34.2731466,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.564815,34.2733167,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4754501,34.2661259,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4763424,34.2661241,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4786917,34.2661369,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4793857,34.2661457,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4793857,34.2661457,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4800611,34.2662468,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4804237,34.266301,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4807634,34.2663484,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4810825,34.2664072,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4817633,34.2665777,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.482319,34.2667497,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4829924,34.2670064,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.483508,34.2672387,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.484523,34.2678038,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4849884,34.2681216,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4867965,34.2695868,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.487469,34.2701178,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4884256,34.2709035,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4902116,34.2723662,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4932113,34.2748002,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4936666,34.2751762,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4949178,34.2761053,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4955601,34.2764984,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4961424,34.2768065,6,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4884256,34.2709035,7,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.488682,34.2711084,7,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4902116,34.2723662,7,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4120956,34.2853304,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4124058,34.2851041,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4154067,34.2829067,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4156608,34.2827225,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4159614,34.2825026,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4159614,34.2825026,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4186222,34.2805529,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4190245,34.2802569,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4215474,34.2784169,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4219489,34.2781103,4,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4517044,34.2659893,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4534537,34.2660031,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4540921,34.2660095,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4547247,34.2660098,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4548377,34.2660099,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4590657,34.2660272,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.459766,34.2660271,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.459947,34.2660263,"['6', '7']",65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4718155,34.266091,5,65 mph,Ronald Reagan Freeway,CA 118,West
+-118.4754501,34.2661259,5,65 mph,Ronald Reagan Freeway,CA 118,West

@@ -1,0 +1,488 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.2673194,34.1557944,6,65 mph,Ventura Freeway,CA 134,West
+-118.2703608,34.1550861,6,65 mph,Ventura Freeway,CA 134,West
+-118.2472401,34.1564826,6,65 mph,Ventura Freeway,CA 134,West
+-118.2507499,34.1564621,6,65 mph,Ventura Freeway,CA 134,West
+-118.3355128,34.152803,5,65 mph,Ventura Freeway,CA 134,West
+-118.3373917,34.1532679,5,65 mph,Ventura Freeway,CA 134,West
+-118.3375655,34.153309,5,65 mph,Ventura Freeway,CA 134,West
+-118.3377239,34.1533454,5,65 mph,Ventura Freeway,CA 134,West
+-118.3378719,34.1533764,5,65 mph,Ventura Freeway,CA 134,West
+-118.3380286,34.153409,5,65 mph,Ventura Freeway,CA 134,West
+-118.3381781,34.1534382,5,65 mph,Ventura Freeway,CA 134,West
+-118.3383388,34.1534683,5,65 mph,Ventura Freeway,CA 134,West
+-118.33849,34.1534962,5,65 mph,Ventura Freeway,CA 134,West
+-118.338648,34.1535231,5,65 mph,Ventura Freeway,CA 134,West
+-118.3388043,34.1535483,5,65 mph,Ventura Freeway,CA 134,West
+-118.3389619,34.1535719,5,65 mph,Ventura Freeway,CA 134,West
+-118.3391168,34.153594,5,65 mph,Ventura Freeway,CA 134,West
+-118.3392757,34.1536147,5,65 mph,Ventura Freeway,CA 134,West
+-118.3406911,34.1538015,5,65 mph,Ventura Freeway,CA 134,West
+-118.3422594,34.1540063,5,65 mph,Ventura Freeway,CA 134,West
+-118.3424158,34.1540261,5,65 mph,Ventura Freeway,CA 134,West
+-118.3425739,34.1540451,5,65 mph,Ventura Freeway,CA 134,West
+-118.3427305,34.1540627,5,65 mph,Ventura Freeway,CA 134,West
+-118.3428895,34.1540793,5,65 mph,Ventura Freeway,CA 134,West
+-118.343046,34.154094,5,65 mph,Ventura Freeway,CA 134,West
+-118.3432059,34.1541078,5,65 mph,Ventura Freeway,CA 134,West
+-118.3433646,34.1541208,5,65 mph,Ventura Freeway,CA 134,West
+-118.3435224,34.1541316,5,65 mph,Ventura Freeway,CA 134,West
+-118.3436842,34.1541412,5,65 mph,Ventura Freeway,CA 134,West
+-118.3438457,34.1541507,5,65 mph,Ventura Freeway,CA 134,West
+-118.3440011,34.1541579,5,65 mph,Ventura Freeway,CA 134,West
+-118.3441587,34.1541644,5,65 mph,Ventura Freeway,CA 134,West
+-118.3443199,34.1541696,5,65 mph,Ventura Freeway,CA 134,West
+-118.3444779,34.1541738,5,65 mph,Ventura Freeway,CA 134,West
+-118.344635,34.1541765,5,65 mph,Ventura Freeway,CA 134,West
+-118.3447947,34.1541777,5,65 mph,Ventura Freeway,CA 134,West
+-118.3449503,34.154177,5,65 mph,Ventura Freeway,CA 134,West
+-118.3451114,34.1541755,5,65 mph,Ventura Freeway,CA 134,West
+-118.3452701,34.1541726,5,65 mph,Ventura Freeway,CA 134,West
+-118.34543,34.1541692,5,65 mph,Ventura Freeway,CA 134,West
+-118.3455864,34.1541645,5,65 mph,Ventura Freeway,CA 134,West
+-118.3457484,34.154158,5,65 mph,Ventura Freeway,CA 134,West
+-118.3459078,34.1541505,5,65 mph,Ventura Freeway,CA 134,West
+-118.3460651,34.1541414,5,65 mph,Ventura Freeway,CA 134,West
+-118.3462235,34.1541315,5,65 mph,Ventura Freeway,CA 134,West
+-118.3463816,34.1541197,5,65 mph,Ventura Freeway,CA 134,West
+-118.3465417,34.1541068,5,65 mph,Ventura Freeway,CA 134,West
+-118.3466997,34.154093,5,65 mph,Ventura Freeway,CA 134,West
+-118.3468889,34.1540747,5,65 mph,Ventura Freeway,CA 134,West
+-118.3470799,34.1540542,5,65 mph,Ventura Freeway,CA 134,West
+-118.3472385,34.1540359,5,65 mph,Ventura Freeway,CA 134,West
+-118.3473975,34.1540166,5,65 mph,Ventura Freeway,CA 134,West
+-118.3475538,34.1539961,5,65 mph,Ventura Freeway,CA 134,West
+-118.3477047,34.1539754,5,65 mph,Ventura Freeway,CA 134,West
+-118.3478621,34.1539513,5,65 mph,Ventura Freeway,CA 134,West
+-118.3480169,34.1539268,5,65 mph,Ventura Freeway,CA 134,West
+-118.240104,34.1550257,5,,Ventura Freeway,CA 134,West
+-118.2412047,34.1555611,5,,Ventura Freeway,CA 134,West
+-118.2417283,34.1557742,5,,Ventura Freeway,CA 134,West
+-118.2422175,34.1559376,5,,Ventura Freeway,CA 134,West
+-118.2426982,34.1560725,5,,Ventura Freeway,CA 134,West
+-118.2432046,34.1562004,5,,Ventura Freeway,CA 134,West
+-118.2437453,34.156314,5,,Ventura Freeway,CA 134,West
+-118.2441916,34.156385,5,,Ventura Freeway,CA 134,West
+-118.2447066,34.1564419,5,,Ventura Freeway,CA 134,West
+-118.2454619,34.1564703,5,,Ventura Freeway,CA 134,West
+-118.2472401,34.1564826,5,,Ventura Freeway,CA 134,West
+-118.2363595,34.1523573,6,,Ventura Freeway,CA 134,West
+-118.2372994,34.1530506,6,,Ventura Freeway,CA 134,West
+-118.2395482,34.1546875,6,,Ventura Freeway,CA 134,West
+-118.240104,34.1550257,6,,Ventura Freeway,CA 134,West
+-118.2703608,34.1550861,6,65 mph,Ventura Freeway,CA 134,West
+-118.2708607,34.1549731,6,65 mph,Ventura Freeway,CA 134,West
+-118.2713419,34.1548665,6,65 mph,Ventura Freeway,CA 134,West
+-118.2724782,34.1546092,6,65 mph,Ventura Freeway,CA 134,West
+-118.167667,34.1450151,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1692179,34.1441047,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1696275,34.1439082,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1698414,34.1438059,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1704771,34.1435375,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1736657,34.142363,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3480169,34.1539268,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3481753,34.1539003,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3496616,34.1536417,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3501964,34.1535487,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3503487,34.1535215,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3505035,34.1534944,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3506699,34.1534663,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3508194,34.1534416,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3509769,34.1534166,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3511313,34.1533931,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3512919,34.1533697,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3514498,34.1533469,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3516047,34.1533254,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3517539,34.1533052,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3518861,34.1532886,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3520328,34.1532709,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3521957,34.1532523,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3523542,34.1532353,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3525075,34.1532197,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.353004,34.1531724,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3531302,34.1531618,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3535953,34.1531286,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.354298,34.1530975,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.35521,34.1530754,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3560629,34.1530842,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3569255,34.1531049,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.3573263,34.1531203,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.357961,34.1531569,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.157328,34.1487951,5,65 mph,Ventura Freeway,CA 134,West
+-118.1587608,34.1480204,5,65 mph,Ventura Freeway,CA 134,West
+-118.159528,34.1475986,5,65 mph,Ventura Freeway,CA 134,West
+-118.1600054,34.1473589,5,65 mph,Ventura Freeway,CA 134,West
+-118.160448,34.1471613,5,65 mph,Ventura Freeway,CA 134,West
+-118.1607805,34.1470259,5,65 mph,Ventura Freeway,CA 134,West
+-118.1610997,34.1469038,5,65 mph,Ventura Freeway,CA 134,West
+-118.1614806,34.1467662,5,65 mph,Ventura Freeway,CA 134,West
+-118.1618982,34.1466362,5,65 mph,Ventura Freeway,CA 134,West
+-118.1624945,34.1464776,5,65 mph,Ventura Freeway,CA 134,West
+-118.1630331,34.146356,5,65 mph,Ventura Freeway,CA 134,West
+-118.1434784,34.1520445,6,65 mph,Ventura Freeway,CA 134,West
+-118.1466175,34.1520117,6,65 mph,Ventura Freeway,CA 134,West
+-118.1494619,34.1519713,6,65 mph,Ventura Freeway,CA 134,West
+-118.1547844,34.1501665,6,65 mph,Ventura Freeway,CA 134,West
+-118.157328,34.1487951,6,65 mph,Ventura Freeway,CA 134,West
+-118.370033,34.1530717,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3707556,34.1530102,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.371492,34.1529588,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3719727,34.1529517,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3724104,34.1529517,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3727194,34.1529659,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3729836,34.1529863,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3730885,34.1529944,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3734919,34.1530441,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3738609,34.153108,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3741871,34.1531719,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3745304,34.1532643,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3748222,34.1533637,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.375271,34.1535283,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3759144,34.153797,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3764187,34.154003,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3770353,34.15427,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3772582,34.1543563,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.377394,34.1544055,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3775822,34.1544654,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3778998,34.1545434,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.3781987,34.1545595,"['3', '2']",65 mph,Ventura Freeway,CA 134,West
+-118.1794208,34.1413074,"['1', '2']",,,CA 134,West
+-118.1801663,34.1414593,"['1', '2']",,,CA 134,West
+-118.1806167,34.1415363,"['1', '2']",,,CA 134,West
+-118.1811145,34.1416611,"['1', '2']",,,CA 134,West
+-118.1815054,34.1417773,"['1', '2']",,,CA 134,West
+-118.1823025,34.1420141,"['1', '2']",,,CA 134,West
+-118.1794208,34.1413074,5,65 mph,Ventura Freeway,CA 134,West
+-118.1802219,34.1413587,5,65 mph,Ventura Freeway,CA 134,West
+-118.1807197,34.1414013,5,65 mph,Ventura Freeway,CA 134,West
+-118.1812175,34.1414653,5,65 mph,Ventura Freeway,CA 134,West
+-118.1816123,34.1415292,5,65 mph,Ventura Freeway,CA 134,West
+-118.1820586,34.1416216,5,65 mph,Ventura Freeway,CA 134,West
+-118.1824878,34.1417423,5,65 mph,Ventura Freeway,CA 134,West
+-118.182977,34.1418986,5,65 mph,Ventura Freeway,CA 134,West
+-118.1831641,34.141966,5,65 mph,Ventura Freeway,CA 134,West
+-118.1837066,34.1421614,5,65 mph,Ventura Freeway,CA 134,West
+-118.1843417,34.1424172,5,65 mph,Ventura Freeway,CA 134,West
+-118.1852515,34.1428221,5,65 mph,Ventura Freeway,CA 134,West
+-118.1857923,34.1430778,5,65 mph,Ventura Freeway,CA 134,West
+-118.1866825,34.143495,5,65 mph,Ventura Freeway,CA 134,West
+-118.1823025,34.1420141,"['1', '2']",,,CA 134,West
+-118.1825273,34.1420333,"['1', '2']",,,CA 134,West
+-118.1827539,34.1420407,"['1', '2']",,,CA 134,West
+-118.1829513,34.1420336,"['1', '2']",,,CA 134,West
+-118.1831659,34.1420052,"['1', '2']",,,CA 134,West
+-118.1834663,34.141927,"['1', '2']",,,CA 134,West
+-118.1838525,34.1417849,"['1', '2']",,,CA 134,West
+-118.1846316,34.1415015,"['1', '2']",,,CA 134,West
+-118.1854641,34.141196,"['1', '2']",,,CA 134,West
+-118.1864684,34.1408053,"['1', '2']",,,CA 134,West
+-118.1867945,34.1406632,"['1', '2']",,,CA 134,West
+-118.1871121,34.140514,"['1', '2']",,,CA 134,West
+-118.1877301,34.1401801,"['1', '2']",,,CA 134,West
+-118.1884768,34.1397397,"['1', '2']",,,CA 134,West
+-118.1891034,34.1394058,"['1', '2']",,,CA 134,West
+-118.1896247,34.1391358,"['1', '2']",,,CA 134,West
+-118.1900332,34.1389588,"['1', '2']",,,CA 134,West
+-118.1902496,34.1388807,"['1', '2']",,,CA 134,West
+-118.1904645,34.138803,"['1', '2']",,,CA 134,West
+-118.1906415,34.1387556,"['1', '2']",,,CA 134,West
+-118.190675,34.1387466,"['1', '2']",,,CA 134,West
+-118.1908727,34.138692,"['1', '2']",,,CA 134,West
+-118.1910911,34.1386414,"['1', '2']",,,CA 134,West
+-118.1913582,34.1385979,"['1', '2']",,,CA 134,West
+-118.1916221,34.1385637,"['1', '2']",,,CA 134,West
+-118.1919173,34.138536,"['1', '2']",,,CA 134,West
+-118.1921575,34.1385297,"['1', '2']",,,CA 134,West
+-118.1923808,34.1385502,"['1', '2']",,,CA 134,West
+-118.1924552,34.1385611,"['1', '2']",,,CA 134,West
+-118.1925515,34.1385751,"['1', '2']",,,CA 134,West
+-118.1926996,34.138611,"['1', '2']",,,CA 134,West
+-118.1931604,34.1387781,"['1', '2']",,,CA 134,West
+-118.1866825,34.143495,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1912149,34.1456231,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1917875,34.1458897,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.192328,34.1461413,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1928232,34.1463718,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1953503,34.1475483,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1957902,34.1477347,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1962247,34.1478812,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1965788,34.1479745,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1969865,34.1480721,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1975175,34.1481565,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1980057,34.1482009,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1985529,34.1482142,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1990625,34.148192,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.1995667,34.1481387,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2000334,34.1480677,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2005699,34.1479567,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2010688,34.1477969,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2055159,34.1460388,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2058968,34.1459145,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2064171,34.1457636,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2069428,34.1456392,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2074739,34.1455194,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2079849,34.1454246,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2083883,34.1453607,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2089977,34.1452825,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2097273,34.1452257,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2111435,34.1451618,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2147141,34.1450481,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2165613,34.1450955,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2175053,34.1451446,"['5', '6']",65 mph,Ventura Freeway,CA 134,West
+-118.2858253,34.1544158,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2862906,34.1546771,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2867376,34.1549208,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2869645,34.1550264,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2869645,34.1550264,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2872392,34.15514,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.287531,34.1552324,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2876342,34.1552568,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2878314,34.1553034,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2881576,34.1553673,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2884923,34.1554028,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2888013,34.155417,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.289784,34.1554139,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2900958,34.1554137,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2907299,34.1554132,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2920067,34.1554189,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2925162,34.1554181,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2932878,34.1554189,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2934459,34.1554196,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.293604,34.1554219,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2937619,34.1554257,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2939264,34.155431,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2940785,34.1554365,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2942359,34.1554435,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2943909,34.1554529,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2945497,34.155463,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2947107,34.1554753,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2948749,34.1554891,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2950292,34.155504,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2951826,34.1555196,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.295343,34.155537,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2954994,34.1555559,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.295653,34.1555756,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2958192,34.1555988,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2959795,34.1556233,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2983217,34.1560018,"['5', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.3314788,34.1527036,5,65 mph,Ventura Freeway,CA 134,West
+-118.3316384,34.1526711,5,65 mph,Ventura Freeway,CA 134,West
+-118.3317954,34.1526402,5,65 mph,Ventura Freeway,CA 134,West
+-118.3319543,34.1526101,5,65 mph,Ventura Freeway,CA 134,West
+-118.3321039,34.1525857,5,65 mph,Ventura Freeway,CA 134,West
+-118.3322669,34.1525622,5,65 mph,Ventura Freeway,CA 134,West
+-118.3324179,34.1525426,5,65 mph,Ventura Freeway,CA 134,West
+-118.3325781,34.1525256,5,65 mph,Ventura Freeway,CA 134,West
+-118.3327288,34.1525132,5,65 mph,Ventura Freeway,CA 134,West
+-118.3328891,34.152503,5,65 mph,Ventura Freeway,CA 134,West
+-118.3330554,34.1524959,5,65 mph,Ventura Freeway,CA 134,West
+-118.33321,34.1524923,5,65 mph,Ventura Freeway,CA 134,West
+-118.3333666,34.1524913,5,65 mph,Ventura Freeway,CA 134,West
+-118.333527,34.152495,5,65 mph,Ventura Freeway,CA 134,West
+-118.333687,34.1525016,5,65 mph,Ventura Freeway,CA 134,West
+-118.3338433,34.1525102,5,65 mph,Ventura Freeway,CA 134,West
+-118.3340036,34.1525229,5,65 mph,Ventura Freeway,CA 134,West
+-118.3341577,34.152538,5,65 mph,Ventura Freeway,CA 134,West
+-118.3343164,34.1525575,5,65 mph,Ventura Freeway,CA 134,West
+-118.334473,34.152579,5,65 mph,Ventura Freeway,CA 134,West
+-118.3346312,34.1526046,5,65 mph,Ventura Freeway,CA 134,West
+-118.3347809,34.1526319,5,65 mph,Ventura Freeway,CA 134,West
+-118.3349393,34.152665,5,65 mph,Ventura Freeway,CA 134,West
+-118.3350866,34.1526982,5,65 mph,Ventura Freeway,CA 134,West
+-118.3355128,34.152803,5,65 mph,Ventura Freeway,CA 134,West
+-118.2336735,34.1504116,5,,Ventura Freeway,CA 134,West
+-118.234909,34.1512717,5,,Ventura Freeway,CA 134,West
+-118.23547,34.1516897,5,,Ventura Freeway,CA 134,West
+-118.2363595,34.1523573,5,,Ventura Freeway,CA 134,West
+-118.2317344,34.1492284,5,65 mph,Ventura Freeway,CA 134,West
+-118.2322575,34.1495263,5,65 mph,Ventura Freeway,CA 134,West
+-118.2327128,34.1498058,5,65 mph,Ventura Freeway,CA 134,West
+-118.2336735,34.1504116,5,65 mph,Ventura Freeway,CA 134,West
+-118.2175053,34.1451446,5,65 mph,Ventura Freeway,CA 134,West
+-118.2181421,34.1451751,5,65 mph,Ventura Freeway,CA 134,West
+-118.2184938,34.1452053,5,65 mph,Ventura Freeway,CA 134,West
+-118.2188771,34.1452409,5,65 mph,Ventura Freeway,CA 134,West
+-118.2193232,34.1452866,5,65 mph,Ventura Freeway,CA 134,West
+-118.2197362,34.1453389,5,65 mph,Ventura Freeway,CA 134,West
+-118.2203945,34.1454317,5,65 mph,Ventura Freeway,CA 134,West
+-118.2207565,34.1454885,5,65 mph,Ventura Freeway,CA 134,West
+-118.2223702,34.1457798,5,65 mph,Ventura Freeway,CA 134,West
+-118.223031,34.1459147,5,65 mph,Ventura Freeway,CA 134,West
+-118.2240505,34.1461874,5,65 mph,Ventura Freeway,CA 134,West
+-118.2246686,34.146347,5,65 mph,Ventura Freeway,CA 134,West
+-118.2254756,34.146576,5,65 mph,Ventura Freeway,CA 134,West
+-118.2254756,34.146576,5,65 mph,Ventura Freeway,CA 134,West
+-118.2256793,34.1466438,5,65 mph,Ventura Freeway,CA 134,West
+-118.226062,34.1467646,5,65 mph,Ventura Freeway,CA 134,West
+-118.2265778,34.1469477,5,65 mph,Ventura Freeway,CA 134,West
+-118.2274827,34.1472678,5,65 mph,Ventura Freeway,CA 134,West
+-118.2285029,34.1476747,5,65 mph,Ventura Freeway,CA 134,West
+-118.2289612,34.1478662,5,65 mph,Ventura Freeway,CA 134,West
+-118.2296988,34.1481972,5,65 mph,Ventura Freeway,CA 134,West
+-118.2304331,34.1485432,5,65 mph,Ventura Freeway,CA 134,West
+-118.2310965,34.1488846,5,65 mph,Ventura Freeway,CA 134,West
+-118.2314268,34.1490629,5,65 mph,Ventura Freeway,CA 134,West
+-118.2317344,34.1492284,5,65 mph,Ventura Freeway,CA 134,West
+-118.3140006,34.1545901,5,65 mph,Ventura Freeway,CA 134,West
+-118.3141575,34.1545964,5,65 mph,Ventura Freeway,CA 134,West
+-118.3143163,34.154606,5,65 mph,Ventura Freeway,CA 134,West
+-118.3144714,34.1546192,5,65 mph,Ventura Freeway,CA 134,West
+-118.3146241,34.1546346,5,65 mph,Ventura Freeway,CA 134,West
+-118.314771,34.1546525,5,65 mph,Ventura Freeway,CA 134,West
+-118.3149272,34.1546739,5,65 mph,Ventura Freeway,CA 134,West
+-118.3150696,34.1546935,5,65 mph,Ventura Freeway,CA 134,West
+-118.3152173,34.1547128,5,65 mph,Ventura Freeway,CA 134,West
+-118.3154443,34.1547377,5,65 mph,Ventura Freeway,CA 134,West
+-118.3166703,34.1549664,5,65 mph,Ventura Freeway,CA 134,West
+-118.3171043,34.1550453,5,65 mph,Ventura Freeway,CA 134,West
+-118.317261,34.1550709,5,65 mph,Ventura Freeway,CA 134,West
+-118.3174154,34.1550932,5,65 mph,Ventura Freeway,CA 134,West
+-118.3175719,34.155113,5,65 mph,Ventura Freeway,CA 134,West
+-118.3177254,34.1551295,5,65 mph,Ventura Freeway,CA 134,West
+-118.3178818,34.1551424,5,65 mph,Ventura Freeway,CA 134,West
+-118.318039,34.155153,5,65 mph,Ventura Freeway,CA 134,West
+-118.3181948,34.1551604,5,65 mph,Ventura Freeway,CA 134,West
+-118.3183525,34.1551646,5,65 mph,Ventura Freeway,CA 134,West
+-118.3185115,34.155166,5,65 mph,Ventura Freeway,CA 134,West
+-118.3186676,34.1551637,5,65 mph,Ventura Freeway,CA 134,West
+-118.3188249,34.155159,5,65 mph,Ventura Freeway,CA 134,West
+-118.3189815,34.1551509,5,65 mph,Ventura Freeway,CA 134,West
+-118.3191387,34.1551399,5,65 mph,Ventura Freeway,CA 134,West
+-118.3192931,34.1551254,5,65 mph,Ventura Freeway,CA 134,West
+-118.31945,34.1551077,5,65 mph,Ventura Freeway,CA 134,West
+-118.3196062,34.1550878,5,65 mph,Ventura Freeway,CA 134,West
+-118.3197587,34.1550644,5,65 mph,Ventura Freeway,CA 134,West
+-118.3199723,34.1550272,5,65 mph,Ventura Freeway,CA 134,West
+-118.3225034,34.1545202,5,65 mph,Ventura Freeway,CA 134,West
+-118.1630331,34.146356,5,65 mph,Ventura Freeway,CA 134,West
+-118.1634765,34.1462547,5,65 mph,Ventura Freeway,CA 134,West
+-118.1650347,34.1459048,5,65 mph,Ventura Freeway,CA 134,West
+-118.1653895,34.1458465,5,65 mph,Ventura Freeway,CA 134,West
+-118.1653895,34.1458465,6,65 mph,Ventura Freeway,CA 134,West
+-118.1663971,34.145572,6,65 mph,Ventura Freeway,CA 134,West
+-118.1667672,34.145441,6,65 mph,Ventura Freeway,CA 134,West
+-118.1671883,34.145259,6,65 mph,Ventura Freeway,CA 134,West
+-118.167667,34.1450151,6,65 mph,Ventura Freeway,CA 134,West
+-118.3077215,34.1558121,5,65 mph,Ventura Freeway,CA 134,West
+-118.3107972,34.1550746,5,65 mph,Ventura Freeway,CA 134,West
+-118.3109957,34.1550273,5,65 mph,Ventura Freeway,CA 134,West
+-118.3118322,34.1548254,5,65 mph,Ventura Freeway,CA 134,West
+-118.3119845,34.15479,5,65 mph,Ventura Freeway,CA 134,West
+-118.3121342,34.1547565,5,65 mph,Ventura Freeway,CA 134,West
+-118.312285,34.1547257,5,65 mph,Ventura Freeway,CA 134,West
+-118.312436,34.1546985,5,65 mph,Ventura Freeway,CA 134,West
+-118.3125885,34.1546739,5,65 mph,Ventura Freeway,CA 134,West
+-118.3127425,34.1546516,5,65 mph,Ventura Freeway,CA 134,West
+-118.3129008,34.1546331,5,65 mph,Ventura Freeway,CA 134,West
+-118.3130596,34.1546172,5,65 mph,Ventura Freeway,CA 134,West
+-118.3132146,34.1546045,5,65 mph,Ventura Freeway,CA 134,West
+-118.3133711,34.154595,5,65 mph,Ventura Freeway,CA 134,West
+-118.3135292,34.1545887,5,65 mph,Ventura Freeway,CA 134,West
+-118.3136863,34.1545858,5,65 mph,Ventura Freeway,CA 134,West
+-118.3138335,34.1545871,5,65 mph,Ventura Freeway,CA 134,West
+-118.3140006,34.1545901,5,65 mph,Ventura Freeway,CA 134,West
+-118.1494619,34.1519713,5,65 mph,Ventura Freeway,CA 134,West
+-118.1498036,34.1519484,5,65 mph,Ventura Freeway,CA 134,West
+-118.1500644,34.1519171,5,65 mph,Ventura Freeway,CA 134,West
+-118.1502927,34.15188,5,65 mph,Ventura Freeway,CA 134,West
+-118.1507631,34.1517844,5,65 mph,Ventura Freeway,CA 134,West
+-118.1513382,34.1516423,5,65 mph,Ventura Freeway,CA 134,West
+-118.1519047,34.1514576,5,65 mph,Ventura Freeway,CA 134,West
+-118.1524797,34.1512659,5,65 mph,Ventura Freeway,CA 134,West
+-118.1531406,34.151003,5,65 mph,Ventura Freeway,CA 134,West
+-118.1536814,34.1507331,5,65 mph,Ventura Freeway,CA 134,West
+-118.154007,34.1505604,5,65 mph,Ventura Freeway,CA 134,West
+-118.1547844,34.1501665,5,65 mph,Ventura Freeway,CA 134,West
+-118.2724782,34.1546092,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2751559,34.1539864,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.276736,34.1536175,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2781472,34.1532857,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2795273,34.152986,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2800057,34.1528873,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2802883,34.1528453,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2806222,34.1528123,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2809192,34.1527995,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2813684,34.1528103,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2818147,34.1528387,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2822441,34.1528803,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2826361,34.152941,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2831666,34.1530793,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2831929,34.1530889,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2835399,34.1532152,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.283909,34.1533714,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2844497,34.1536343,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2851621,34.154032,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2858253,34.1544158,"['3', '4']",65 mph,Ventura Freeway,CA 134,West
+-118.2585072,34.1564444,5,65 mph,Ventura Freeway,CA 134,West
+-118.2625128,34.1564123,5,65 mph,Ventura Freeway,CA 134,West
+-118.263237,34.1563825,5,65 mph,Ventura Freeway,CA 134,West
+-118.264183,34.1563125,5,65 mph,Ventura Freeway,CA 134,West
+-118.2647726,34.1562561,5,65 mph,Ventura Freeway,CA 134,West
+-118.1736657,34.142363,5,65 mph,Ventura Freeway,CA 134,West
+-118.1742467,34.1421452,5,65 mph,Ventura Freeway,CA 134,West
+-118.1748979,34.1419251,5,65 mph,Ventura Freeway,CA 134,West
+-118.1754522,34.1417615,5,65 mph,Ventura Freeway,CA 134,West
+-118.1762015,34.1415768,5,65 mph,Ventura Freeway,CA 134,West
+-118.1770696,34.1414272,5,65 mph,Ventura Freeway,CA 134,West
+-118.1778104,34.1413484,5,65 mph,Ventura Freeway,CA 134,West
+-118.1787611,34.141301,5,65 mph,Ventura Freeway,CA 134,West
+-118.1794208,34.1413074,5,65 mph,Ventura Freeway,CA 134,West
+-118.2507499,34.1564621,5,65 mph,Ventura Freeway,CA 134,West
+-118.2546573,34.1564619,5,65 mph,Ventura Freeway,CA 134,West
+-118.2585072,34.1564444,5,65 mph,Ventura Freeway,CA 134,West
+-118.2647726,34.1562561,5,65 mph,Ventura Freeway,CA 134,West
+-118.2655182,34.1561528,5,65 mph,Ventura Freeway,CA 134,West
+-118.2666715,34.1559309,5,65 mph,Ventura Freeway,CA 134,West
+-118.2673194,34.1557944,5,65 mph,Ventura Freeway,CA 134,West
+-118.3225034,34.1545202,5,65 mph,Ventura Freeway,CA 134,West
+-118.325923,34.1538256,5,65 mph,Ventura Freeway,CA 134,West
+-118.3266194,34.1536846,5,65 mph,Ventura Freeway,CA 134,West
+-118.3301725,34.152967,5,65 mph,Ventura Freeway,CA 134,West
+-118.3305536,34.1528897,5,65 mph,Ventura Freeway,CA 134,West
+-118.3314788,34.1527036,5,65 mph,Ventura Freeway,CA 134,West
+-118.3644308,34.1533704,5,65 mph,Ventura Freeway,CA 134,West
+-118.3651466,34.1533428,5,65 mph,Ventura Freeway,CA 134,West
+-118.3658923,34.1533155,5,65 mph,Ventura Freeway,CA 134,West
+-118.367287,34.1532348,5,65 mph,Ventura Freeway,CA 134,West
+-118.3678774,34.1532001,5,65 mph,Ventura Freeway,CA 134,West
+-118.370033,34.1530717,5,65 mph,Ventura Freeway,CA 134,West
+-118.357961,34.1531569,5,65 mph,Ventura Freeway,CA 134,West
+-118.3583482,34.1531775,5,65 mph,Ventura Freeway,CA 134,West
+-118.3600711,34.1532428,5,65 mph,Ventura Freeway,CA 134,West
+-118.3613429,34.1533076,5,65 mph,Ventura Freeway,CA 134,West
+-118.3616641,34.15332,5,65 mph,Ventura Freeway,CA 134,West
+-118.3631292,34.1533599,5,65 mph,Ventura Freeway,CA 134,West
+-118.3644308,34.1533704,5,65 mph,Ventura Freeway,CA 134,West
+-118.2983217,34.1560018,5,65 mph,Ventura Freeway,CA 134,West
+-118.3012159,34.1564595,5,65 mph,Ventura Freeway,CA 134,West
+-118.3013715,34.1564831,5,65 mph,Ventura Freeway,CA 134,West
+-118.3015301,34.1565051,5,65 mph,Ventura Freeway,CA 134,West
+-118.3016839,34.1565237,5,65 mph,Ventura Freeway,CA 134,West
+-118.3018429,34.1565409,5,65 mph,Ventura Freeway,CA 134,West
+-118.3020008,34.1565563,5,65 mph,Ventura Freeway,CA 134,West
+-118.3021529,34.1565685,5,65 mph,Ventura Freeway,CA 134,West
+-118.3023088,34.1565795,5,65 mph,Ventura Freeway,CA 134,West
+-118.3024672,34.1565882,5,65 mph,Ventura Freeway,CA 134,West
+-118.3026271,34.156595,5,65 mph,Ventura Freeway,CA 134,West
+-118.3027848,34.1565996,5,65 mph,Ventura Freeway,CA 134,West
+-118.3029437,34.1566021,5,65 mph,Ventura Freeway,CA 134,West
+-118.3030998,34.1566028,5,65 mph,Ventura Freeway,CA 134,West
+-118.3032591,34.1566006,5,65 mph,Ventura Freeway,CA 134,West
+-118.3034131,34.1565966,5,65 mph,Ventura Freeway,CA 134,West
+-118.3035701,34.1565911,5,65 mph,Ventura Freeway,CA 134,West
+-118.3037286,34.1565825,5,65 mph,Ventura Freeway,CA 134,West
+-118.3038854,34.1565728,5,65 mph,Ventura Freeway,CA 134,West
+-118.304046,34.1565598,5,65 mph,Ventura Freeway,CA 134,West
+-118.304203,34.1565453,5,65 mph,Ventura Freeway,CA 134,West
+-118.3043551,34.1565297,5,65 mph,Ventura Freeway,CA 134,West
+-118.304514,34.1565101,5,65 mph,Ventura Freeway,CA 134,West
+-118.3046646,34.15649,5,65 mph,Ventura Freeway,CA 134,West
+-118.3048275,34.1564659,5,65 mph,Ventura Freeway,CA 134,West
+-118.3049745,34.1564425,5,65 mph,Ventura Freeway,CA 134,West
+-118.3051329,34.1564145,5,65 mph,Ventura Freeway,CA 134,West
+-118.3052843,34.1563864,5,65 mph,Ventura Freeway,CA 134,West
+-118.3054436,34.1563539,5,65 mph,Ventura Freeway,CA 134,West
+-118.3055937,34.156321,5,65 mph,Ventura Freeway,CA 134,West
+-118.3057467,34.1562847,5,65 mph,Ventura Freeway,CA 134,West
+-118.3058948,34.156249,5,65 mph,Ventura Freeway,CA 134,West
+-118.3077215,34.1558121,5,65 mph,Ventura Freeway,CA 134,West

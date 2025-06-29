@@ -29,10 +29,13 @@ def filter_by_direction(selected_road: GeoDataFrame, road_direction: str) -> Geo
     else:
         raise ValueError(f"Invalid road_direction: {road_direction}. Must be one of: North, South, East, West.")
 
-def add_weather_to_df(df: pd.DataFrame, num_clusters: int = 4 , api_key = 'FLMEW5QEEB8WT8YGUJXF6KAPK', time: datetime = datetime.now()) -> pd.DataFrame:
+def add_weather_to_df(df: pd.DataFrame, num_clusters: int = 4 , api_key = 'FLMEW5QEEB8WT8YGUJXF6KAPK', time: datetime | None = None) -> pd.DataFrame:
     if df.empty:
         df['weather'] = None
         return df
+    
+    if time is None:
+        time = datetime.now()
     
     coords = df[['Latitude', 'Longitude']].dropna().values
     kmeans = KMeans(n_clusters=min(num_clusters, len(coords)), random_state=42)
@@ -87,7 +90,7 @@ def add_weather_to_df(df: pd.DataFrame, num_clusters: int = 4 , api_key = 'FLMEW
     df.drop(columns=['weather_cluster'], inplace=True)
     return df
 
-def get_coordinates_from_network(G : MultiDiGraph, road_name: str, road_direction: str, add_weather_time: bool):
+def get_coordinates_from_network(G : MultiDiGraph, road_name: str, road_direction: str):
 
     edges = ox.graph_to_gdfs(G, nodes=False, edges=True)
 
@@ -128,9 +131,6 @@ def get_coordinates_from_network(G : MultiDiGraph, road_name: str, road_directio
 
     # Step 6: Build DataFrame
     road_df = pd.DataFrame(rows)
-    if add_weather_time:
-        road_df = add_weather_to_df(road_df)
-
     print(f"Total points in {road_name} - {road_direction}: {len(road_df)}")
     return road_df
 

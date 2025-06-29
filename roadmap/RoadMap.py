@@ -8,11 +8,12 @@ from shapely.geometry import LineString, MultiLineString, Point
 from shapely import ops
 from sklearn.neighbors import BallTree
 from typing import Tuple, List
-from utils import get_coordinates_from_network, sort_gps_by_greedy_path
+from utils import get_coordinates_from_network, sort_gps_by_greedy_path, add_weather_to_df
 from mock_predictor import MockTrafficPredictor
 from geopy.distance import geodesic
 import re
 import math
+from datetime import datetime
 
 DIST_THRESHOLD_METERS_MAX = 1200 #2000
 DIST_THRESHOLD_METERS_MIN = 10 #10
@@ -52,11 +53,24 @@ class RoadMapManager:
         parts = road_name.split()
         return " ".join(parts[:-1]), parts[-1]
     
-    def set_roads(self, roads: List[str], add_weather_time: bool = True):
+    def set_roads(self, roads: List[str]):
+        os.makedirs(self.coordinates_path, exist_ok=True)
+
         for road in roads:
             road_name, direction = self.split_road_name_direction(road)
-            self.roads[(road_name,direction)] = get_coordinates_from_network(self.road_network, road_name, direction, add_weather_time)
-    
+            file_name = f"{road_name} {direction}.csv"
+            file_path =  os.path.join(self.coordinates_path,file_name)
+            
+            if os.path.exists(file_path):
+                print(f"DataFrame for {road_name} - {direction} already exists")
+                df = pd.read_csv(file_path)
+            else:
+                print(f"Downloading DataFrame for {road_name} - {direction}")
+                df = get_coordinates_from_network(self.road_network, road_name, direction)
+                df.to_csv(file_path, index=False)
+
+            self.roads[(road_name,direction)] = df  
+
     def get_roads(self):
         """
         Used for testing 
@@ -84,7 +98,7 @@ class RoadMapManager:
 
             ox.save_graphml(self.road_network, filepath=network_path)
 
-    def apply_prediction_data(self, predict_time = None):
+    def apply_prediction_data(self, predict_time: datetime | None = None):
         """
         Needed data to predict: 
         Gather data about weather in current day in time for each point
@@ -116,7 +130,11 @@ class RoadMapManager:
             'CA 2 South': 'moderate'
         })
 
+        if predict_time is None:
+            predict_time = datetime.now()
+
         for (road_name, direction), df in self.roads.items():
+            self.roads[(road_name, direction)] = add_weather_to_df(self.roads[(road_name, direction)], time = predict_time)
             print(f"Mocking for {road_name} - {direction}")
             df = mock_predictor.predict(df)
             print(df.head())
@@ -246,3 +264,4 @@ class RoadMapManager:
         output_path = os.path.join(self.visualizations_path, "direction_offset_map.html")
         m.save(output_path)
         print("✅ Saved map with directional offsets to 'direction_offset_map.html'")
+        return m

@@ -1,0 +1,2212 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-117.4619582,33.296848,4,65 mph,San Diego Freeway,I 5,North
+-117.464303,33.298725,4,65 mph,San Diego Freeway,I 5,North
+-117.4646697,33.2990499,4,65 mph,San Diego Freeway,I 5,North
+-117.466103,33.300194,4,65 mph,San Diego Freeway,I 5,North
+-117.467346,33.301231,4,65 mph,San Diego Freeway,I 5,North
+-117.4684291,33.3021418,4,65 mph,San Diego Freeway,I 5,North
+-117.4386044,33.269859,4,65 mph,San Diego Freeway,I 5,North
+-117.4391414,33.2702491,4,65 mph,San Diego Freeway,I 5,North
+-117.4395013,33.2705162,4,65 mph,San Diego Freeway,I 5,North
+-117.441559,33.2720386,4,65 mph,San Diego Freeway,I 5,North
+-117.442177,33.2725496,4,65 mph,San Diego Freeway,I 5,North
+-117.442497,33.2728546,4,65 mph,San Diego Freeway,I 5,North
+-117.442947,33.2733276,4,65 mph,San Diego Freeway,I 5,North
+-117.444,33.2747386,4,65 mph,San Diego Freeway,I 5,North
+-117.445717,33.2769706,4,65 mph,San Diego Freeway,I 5,North
+-117.455009,33.2891886,4,65 mph,San Diego Freeway,I 5,North
+-117.4568934,33.2917179,4,65 mph,San Diego Freeway,I 5,North
+-117.457314,33.2922775,4,65 mph,San Diego Freeway,I 5,North
+-117.4582729,33.2935496,4,65 mph,San Diego Freeway,I 5,North
+-117.4587765,33.2941328,4,65 mph,San Diego Freeway,I 5,North
+-117.4594376,33.2947452,4,65 mph,San Diego Freeway,I 5,North
+-117.4598671,33.2951066,4,65 mph,San Diego Freeway,I 5,North
+-117.4619582,33.296848,4,65 mph,San Diego Freeway,I 5,North
+-117.4328792,33.2656005,4,65 mph,San Diego Freeway,I 5,North
+-117.4386044,33.269859,4,65 mph,San Diego Freeway,I 5,North
+-117.4684291,33.3021418,4,65 mph,San Diego Freeway,I 5,North
+-117.4708924,33.3042006,4,65 mph,San Diego Freeway,I 5,North
+-117.479439,33.311169,4,65 mph,San Diego Freeway,I 5,North
+-117.479975,33.311637,4,65 mph,San Diego Freeway,I 5,North
+-117.480389,33.31207,4,65 mph,San Diego Freeway,I 5,North
+-117.480966,33.312794,4,65 mph,San Diego Freeway,I 5,North
+-117.48137,33.313498,4,65 mph,San Diego Freeway,I 5,North
+-117.481578,33.313952,4,65 mph,San Diego Freeway,I 5,North
+-117.4817671,33.3144723,4,65 mph,San Diego Freeway,I 5,North
+-117.481881,33.3149693,4,65 mph,San Diego Freeway,I 5,North
+-117.4819495,33.3154639,4,65 mph,San Diego Freeway,I 5,North
+-117.4820956,33.3171694,4,65 mph,San Diego Freeway,I 5,North
+-117.482163,33.3177903,4,65 mph,San Diego Freeway,I 5,North
+-117.482292,33.319374,4,65 mph,San Diego Freeway,I 5,North
+-117.482422,33.319969,4,65 mph,San Diego Freeway,I 5,North
+-117.482567,33.320419,4,65 mph,San Diego Freeway,I 5,North
+-117.482849,33.321068,4,65 mph,San Diego Freeway,I 5,North
+-117.482986,33.321342,4,65 mph,San Diego Freeway,I 5,North
+-117.483307,33.321854,4,65 mph,San Diego Freeway,I 5,North
+-117.483681,33.322342,4,65 mph,San Diego Freeway,I 5,North
+-117.484154,33.322868,4,65 mph,San Diego Freeway,I 5,North
+-117.484627,33.323315,4,65 mph,San Diego Freeway,I 5,North
+-117.4925375,33.3290643,4,65 mph,San Diego Freeway,I 5,North
+-117.4973494,33.3325809,4,65 mph,San Diego Freeway,I 5,North
+-117.5022589,33.3361448,4,65 mph,San Diego Freeway,I 5,North
+-117.5067393,33.3393932,4,65 mph,San Diego Freeway,I 5,North
+-117.509537,33.341442,4,65 mph,San Diego Freeway,I 5,North
+-117.5110044,33.3425009,4,65 mph,San Diego Freeway,I 5,North
+-117.5149481,33.345347,4,65 mph,San Diego Freeway,I 5,North
+-117.5149481,33.345347,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.5160757,33.3461602,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.517647,33.347294,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.518418,33.347888,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.518945,33.3482891,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.5203895,33.3492856,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.5215098,33.3500498,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.5149481,33.345347,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5151668,33.3453901,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5180174,33.3474583,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5190444,33.3481769,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.520331,33.3490658,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5219354,33.3501658,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5231331,33.3509891,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5255443,33.3526498,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5256986,33.3527568,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5257242,33.3527743,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5258553,33.352864,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5272569,33.3538265,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5281229,33.3544211,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5293207,33.3552555,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5293759,33.3554484,"['1', '2']",65 mph,San Diego Freeway,I 5,North
+-117.5796216,33.3842663,4,65 mph,San Diego Freeway,I 5,North
+-117.584007,33.386017,4,65 mph,San Diego Freeway,I 5,North
+-117.58474,33.386383,4,65 mph,San Diego Freeway,I 5,North
+-117.585449,33.386806,4,65 mph,San Diego Freeway,I 5,North
+-117.5865921,33.3876654,4,65 mph,San Diego Freeway,I 5,North
+-117.591084,33.3929274,4,65 mph,San Diego Freeway,I 5,North
+-117.5922256,33.3944036,4,65 mph,San Diego Freeway,I 5,North
+-117.5929895,33.3955143,4,65 mph,San Diego Freeway,I 5,North
+-117.5935817,33.3964316,4,65 mph,San Diego Freeway,I 5,North
+-117.5939532,33.3970862,4,65 mph,San Diego Freeway,I 5,North
+-117.5945319,33.3982205,4,65 mph,San Diego Freeway,I 5,North
+-117.5865921,33.3876654,4,65 mph,San Diego Freeway,I 5,North
+-117.5871702,33.3881331,4,65 mph,San Diego Freeway,I 5,North
+-117.5875135,33.3884843,4,65 mph,San Diego Freeway,I 5,North
+-117.5880456,33.3890504,4,65 mph,San Diego Freeway,I 5,North
+-117.588624,33.389762,4,65 mph,San Diego Freeway,I 5,North
+-117.5898336,33.3913049,4,65 mph,San Diego Freeway,I 5,North
+-117.5907994,33.3925415,4,65 mph,San Diego Freeway,I 5,North
+-117.591084,33.3929274,4,65 mph,San Diego Freeway,I 5,North
+-117.6742576,33.4709951,5,65 mph,San Diego Freeway,I 5,North
+-117.6743457,33.4712934,5,65 mph,San Diego Freeway,I 5,North
+-117.6744572,33.4717027,5,65 mph,San Diego Freeway,I 5,North
+-117.6745277,33.4721085,5,65 mph,San Diego Freeway,I 5,North
+-117.67457,33.4723936,5,65 mph,San Diego Freeway,I 5,North
+-117.6745922,33.4727256,5,65 mph,San Diego Freeway,I 5,North
+-117.6746064,33.4731104,5,65 mph,San Diego Freeway,I 5,North
+-117.6746048,33.4735384,5,65 mph,San Diego Freeway,I 5,North
+-117.6745632,33.4739767,5,65 mph,San Diego Freeway,I 5,North
+-117.6744892,33.4744564,5,65 mph,San Diego Freeway,I 5,North
+-117.6743922,33.474845,5,65 mph,San Diego Freeway,I 5,North
+-117.6743267,33.4751065,5,65 mph,San Diego Freeway,I 5,North
+-117.6741516,33.4756627,5,65 mph,San Diego Freeway,I 5,North
+-117.673975,33.4761178,5,65 mph,San Diego Freeway,I 5,North
+-117.673794,33.4764928,5,65 mph,San Diego Freeway,I 5,North
+-117.6736199,33.4768082,5,65 mph,San Diego Freeway,I 5,North
+-117.6734592,33.4770808,5,65 mph,San Diego Freeway,I 5,North
+-117.6732313,33.4774146,5,65 mph,San Diego Freeway,I 5,North
+-117.6730438,33.4776807,5,65 mph,San Diego Freeway,I 5,North
+-117.6728306,33.4779569,5,65 mph,San Diego Freeway,I 5,North
+-117.6723066,33.4785537,5,65 mph,San Diego Freeway,I 5,North
+-117.6660428,33.4858845,5,65 mph,San Diego Freeway,I 5,North
+-117.6648087,33.4875523,5,65 mph,San Diego Freeway,I 5,North
+-117.6624869,33.4906447,5,65 mph,San Diego Freeway,I 5,North
+-117.6584474,33.4983944,5,65 mph,San Diego Freeway,I 5,North
+-117.6583033,33.499275,5,65 mph,San Diego Freeway,I 5,North
+-117.6582438,33.5000965,5,65 mph,San Diego Freeway,I 5,North
+-117.6582419,33.5001647,5,65 mph,San Diego Freeway,I 5,North
+-117.65822,33.5009299,5,65 mph,San Diego Freeway,I 5,North
+-117.6582398,33.5014975,5,65 mph,San Diego Freeway,I 5,North
+-117.6582874,33.5020372,5,65 mph,San Diego Freeway,I 5,North
+-117.6584065,33.5028032,5,65 mph,San Diego Freeway,I 5,North
+-117.658536,33.5034638,5,65 mph,San Diego Freeway,I 5,North
+-117.6585613,33.5035929,5,65 mph,San Diego Freeway,I 5,North
+-117.6586932,33.5041409,5,65 mph,San Diego Freeway,I 5,North
+-117.6587793,33.5044313,5,65 mph,San Diego Freeway,I 5,North
+-117.6592121,33.5056884,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6595206,33.5064002,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6601369,33.5078197,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6602507,33.5080963,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6604453,33.5085691,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6610775,33.5101056,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6622123,33.5126627,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6642062,33.5173958,"['6', '7']",65 mph,San Diego Freeway,I 5,North
+-117.6642062,33.5173958,6,65 mph,San Diego Freeway,I 5,North
+-117.6647285,33.5185688,6,65 mph,San Diego Freeway,I 5,North
+-117.6654947,33.5204006,6,65 mph,San Diego Freeway,I 5,North
+-117.6656698,33.5208098,6,65 mph,San Diego Freeway,I 5,North
+-117.666852,33.5235716,6,65 mph,San Diego Freeway,I 5,North
+-117.6671416,33.5243415,6,65 mph,San Diego Freeway,I 5,North
+-117.6733886,33.5438101,5,65 mph,San Diego Freeway,I 5,North
+-117.6733048,33.5442363,5,65 mph,San Diego Freeway,I 5,North
+-117.6730586,33.5452138,5,65 mph,San Diego Freeway,I 5,North
+-117.672881,33.5459131,5,65 mph,San Diego Freeway,I 5,North
+-117.6727411,33.5465017,5,65 mph,San Diego Freeway,I 5,North
+-117.6726798,33.5469241,5,65 mph,San Diego Freeway,I 5,North
+-117.6726142,33.5474784,5,65 mph,San Diego Freeway,I 5,North
+-117.6725901,33.5481479,5,65 mph,San Diego Freeway,I 5,North
+-117.6726011,33.548972,5,65 mph,San Diego Freeway,I 5,North
+-117.6726204,33.5497041,5,65 mph,San Diego Freeway,I 5,North
+-117.6727217,33.5516372,5,65 mph,San Diego Freeway,I 5,North
+-117.672264,33.5646422,6,65 mph,San Diego Freeway,I 5,North
+-117.6720125,33.5670586,6,65 mph,San Diego Freeway,I 5,North
+-117.6718087,33.5687386,6,65 mph,San Diego Freeway,I 5,North
+-117.6717534,33.5706527,6,65 mph,San Diego Freeway,I 5,North
+-117.6717079,33.5739241,6,65 mph,San Diego Freeway,I 5,North
+-117.6717079,33.5743153,6,65 mph,San Diego Freeway,I 5,North
+-117.6717047,33.5746141,6,65 mph,San Diego Freeway,I 5,North
+-117.6717073,33.5748695,6,65 mph,San Diego Freeway,I 5,North
+-117.6734733,33.5956151,5,65 mph,San Diego Freeway,I 5,North
+-117.6738863,33.5961294,5,65 mph,San Diego Freeway,I 5,North
+-117.6746183,33.5969585,5,65 mph,San Diego Freeway,I 5,North
+-117.6751754,33.5974659,5,65 mph,San Diego Freeway,I 5,North
+-117.6759497,33.5980801,5,65 mph,San Diego Freeway,I 5,North
+-117.6764169,33.598391,5,65 mph,San Diego Freeway,I 5,North
+-117.676889,33.5986605,5,65 mph,San Diego Freeway,I 5,North
+-117.6776454,33.5990582,5,65 mph,San Diego Freeway,I 5,North
+-117.6776454,33.5990582,5,65 mph,San Diego Freeway,I 5,North
+-117.6783125,33.5993016,5,65 mph,San Diego Freeway,I 5,North
+-117.6805541,33.6001579,5,65 mph,San Diego Freeway,I 5,North
+-117.6870141,33.6025582,6,65 mph,San Diego Freeway,I 5,North
+-117.6871418,33.6026221,6,65 mph,San Diego Freeway,I 5,North
+-117.6873649,33.6027384,6,65 mph,San Diego Freeway,I 5,North
+-117.6876648,33.6028988,6,65 mph,San Diego Freeway,I 5,North
+-117.688609,33.6034421,6,65 mph,San Diego Freeway,I 5,North
+-117.6894673,33.604014,6,65 mph,San Diego Freeway,I 5,North
+-117.6900665,33.6044403,6,65 mph,San Diego Freeway,I 5,North
+-117.6905449,33.6047587,6,65 mph,San Diego Freeway,I 5,North
+-117.6906775,33.6048504,6,65 mph,San Diego Freeway,I 5,North
+-117.6924479,33.6059195,6,65 mph,San Diego Freeway,I 5,North
+-117.6924479,33.6059195,7,65 mph,San Diego Freeway,I 5,North
+-117.6935802,33.6065487,7,65 mph,San Diego Freeway,I 5,North
+-117.6941881,33.60682,7,65 mph,San Diego Freeway,I 5,North
+-117.7159002,33.6235574,8,65 mph,San Diego Freeway,I 5,North
+-117.7162577,33.6239309,8,65 mph,San Diego Freeway,I 5,North
+-117.7165791,33.6242782,8,65 mph,San Diego Freeway,I 5,North
+-117.7168389,33.6245586,8,65 mph,San Diego Freeway,I 5,North
+-117.717996,33.6258179,8,65 mph,San Diego Freeway,I 5,North
+-117.6074558,33.4220675,5,65 mph,San Diego Freeway,I 5,North
+-117.6075348,33.4222232,5,65 mph,San Diego Freeway,I 5,North
+-117.6077128,33.4225696,5,65 mph,San Diego Freeway,I 5,North
+-117.6080218,33.4232215,5,65 mph,San Diego Freeway,I 5,North
+-117.6086581,33.4244456,5,65 mph,San Diego Freeway,I 5,North
+-117.60884,33.4247529,5,65 mph,San Diego Freeway,I 5,North
+-117.7077209,33.6149905,6,65 mph,San Diego Freeway,I 5,North
+-117.7092513,33.6163589,6,65 mph,San Diego Freeway,I 5,North
+-117.7103664,33.617542,6,65 mph,San Diego Freeway,I 5,North
+-117.6525097,33.4569019,5,65 mph,San Diego Freeway,I 5,North
+-117.6528084,33.457056,5,65 mph,San Diego Freeway,I 5,North
+-117.6541553,33.457804,5,65 mph,San Diego Freeway,I 5,North
+-117.6565495,33.4592727,5,65 mph,San Diego Freeway,I 5,North
+-117.6575221,33.4597785,5,65 mph,San Diego Freeway,I 5,North
+-117.6028745,33.4148407,5,65 mph,San Diego Freeway,I 5,North
+-117.6029866,33.4150428,5,65 mph,San Diego Freeway,I 5,North
+-117.6006138,33.4102741,4,65 mph,San Diego Freeway,I 5,North
+-117.6028745,33.4148407,4,65 mph,San Diego Freeway,I 5,North
+-117.6158829,33.4328708,5,65 mph,San Diego Freeway,I 5,North
+-117.6163246,33.4335342,5,65 mph,San Diego Freeway,I 5,North
+-117.6176135,33.4354701,5,65 mph,San Diego Freeway,I 5,North
+-117.6180856,33.4360503,5,65 mph,San Diego Freeway,I 5,North
+-117.6185213,33.4365129,5,65 mph,San Diego Freeway,I 5,North
+-117.60884,33.4247529,4,65 mph,San Diego Freeway,I 5,North
+-117.6102665,33.4268539,4,65 mph,San Diego Freeway,I 5,North
+-117.6104899,33.4271593,4,65 mph,San Diego Freeway,I 5,North
+-117.611093,33.4279827,4,65 mph,San Diego Freeway,I 5,North
+-117.6115545,33.4285438,4,65 mph,San Diego Freeway,I 5,North
+-117.6119792,33.429,4,65 mph,San Diego Freeway,I 5,North
+-117.6125456,33.4296084,4,65 mph,San Diego Freeway,I 5,North
+-117.5945319,33.3982205,4,65 mph,San Diego Freeway,I 5,North
+-117.6006138,33.4102741,4,65 mph,San Diego Freeway,I 5,North
+-117.7039001,33.6117499,6,65 mph,San Diego Freeway,I 5,North
+-117.7046474,33.6123894,6,65 mph,San Diego Freeway,I 5,North
+-117.7058746,33.6134152,6,65 mph,San Diego Freeway,I 5,North
+-117.7073888,33.6147065,6,65 mph,San Diego Freeway,I 5,North
+-117.7077209,33.6149905,6,65 mph,San Diego Freeway,I 5,North
+-117.6629449,33.4627676,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6641445,33.4635261,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6645446,33.4637969,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6683271,33.4663568,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6685154,33.4664832,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6689233,33.4667149,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6691543,33.4668462,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.669465,33.4669795,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6699654,33.4672167,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6709041,33.4676264,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6713989,33.4678634,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.671816,33.4681024,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.672151,33.4683255,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6723998,33.4685188,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6727221,33.4688024,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6730126,33.4690962,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6733559,33.4694853,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6736559,33.4698949,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6739217,33.4702767,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.674101,33.4706294,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6742576,33.4709951,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6282915,33.4429181,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6285858,33.443172,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6308678,33.4450177,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6314981,33.4455056,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6324001,33.4460776,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6329679,33.4463914,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.5215098,33.3500498,4,65 mph,San Diego Freeway,I 5,North
+-117.5254388,33.3527591,4,65 mph,San Diego Freeway,I 5,North
+-117.525595,33.3528641,4,65 mph,San Diego Freeway,I 5,North
+-117.5264194,33.3534294,4,65 mph,San Diego Freeway,I 5,North
+-117.5281992,33.3546497,4,65 mph,San Diego Freeway,I 5,North
+-117.5281992,33.3546497,4,65 mph,San Diego Freeway,I 5,North
+-117.5293759,33.3554484,4,65 mph,San Diego Freeway,I 5,North
+-117.6185213,33.4365129,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6186418,33.4366026,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6195235,33.4372534,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6199939,33.4375531,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6207212,33.4379609,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6219915,33.4386645,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6226842,33.439046,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.624823,33.440287,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6258515,33.4409629,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6261721,33.441225,"['5', '4']",65 mph,San Diego Freeway,I 5,North
+-117.6261721,33.441225,6,65 mph,San Diego Freeway,I 5,North
+-117.6268454,33.4417362,6,65 mph,San Diego Freeway,I 5,North
+-117.6282915,33.4429181,6,65 mph,San Diego Freeway,I 5,North
+-117.6624869,33.4906447,5,65 mph,San Diego Freeway,I 5,North
+-117.6619218,33.4913536,5,65 mph,San Diego Freeway,I 5,North
+-117.6617045,33.4916556,5,65 mph,San Diego Freeway,I 5,North
+-117.6611948,33.4923459,5,65 mph,San Diego Freeway,I 5,North
+-117.6608819,33.4927732,5,65 mph,San Diego Freeway,I 5,North
+-117.6602725,33.493668,5,65 mph,San Diego Freeway,I 5,North
+-117.660004,33.4941474,5,65 mph,San Diego Freeway,I 5,North
+-117.6596714,33.4948073,5,65 mph,San Diego Freeway,I 5,North
+-117.6593391,33.4955007,5,65 mph,San Diego Freeway,I 5,North
+-117.6590216,33.4962865,5,65 mph,San Diego Freeway,I 5,North
+-117.6586803,33.4973581,5,65 mph,San Diego Freeway,I 5,North
+-117.6584474,33.4983944,5,65 mph,San Diego Freeway,I 5,North
+-117.6671416,33.5243415,7,65 mph,San Diego Freeway,I 5,North
+-117.6674077,33.5249256,7,65 mph,San Diego Freeway,I 5,North
+-117.6676204,33.5252778,7,65 mph,San Diego Freeway,I 5,North
+-117.6678564,33.525644,7,65 mph,San Diego Freeway,I 5,North
+-117.6681477,33.5260373,7,65 mph,San Diego Freeway,I 5,North
+-117.6683977,33.5263703,7,65 mph,San Diego Freeway,I 5,North
+-117.6686458,33.5266679,7,65 mph,San Diego Freeway,I 5,North
+-117.6689456,33.5269733,7,65 mph,San Diego Freeway,I 5,North
+-117.6695259,33.5274784,7,65 mph,San Diego Freeway,I 5,North
+-117.6700785,33.5278888,7,65 mph,San Diego Freeway,I 5,North
+-117.6722574,33.5294532,7,65 mph,San Diego Freeway,I 5,North
+-117.6728209,33.5298739,7,65 mph,San Diego Freeway,I 5,North
+-117.6732984,33.5303422,7,65 mph,San Diego Freeway,I 5,North
+-117.6737181,33.5308542,7,65 mph,San Diego Freeway,I 5,North
+-117.674282,33.5318111,7,65 mph,San Diego Freeway,I 5,North
+-117.6745446,33.5324228,7,65 mph,San Diego Freeway,I 5,North
+-117.6746524,33.5330745,7,65 mph,San Diego Freeway,I 5,North
+-117.6747163,33.5337738,7,65 mph,San Diego Freeway,I 5,North
+-117.674709,33.5343081,7,65 mph,San Diego Freeway,I 5,North
+-117.6747323,33.5352452,7,65 mph,San Diego Freeway,I 5,North
+-117.6747148,33.535649,7,65 mph,San Diego Freeway,I 5,North
+-117.6746999,33.5358513,7,65 mph,San Diego Freeway,I 5,North
+-117.6746236,33.5365455,7,65 mph,San Diego Freeway,I 5,North
+-117.6745442,33.5370994,7,65 mph,San Diego Freeway,I 5,North
+-117.6727781,33.5548463,5,65 mph,San Diego Freeway,I 5,North
+-117.6728209,33.5559406,5,65 mph,San Diego Freeway,I 5,North
+-117.6728363,33.556585,5,65 mph,San Diego Freeway,I 5,North
+-117.6728633,33.558926,5,65 mph,San Diego Freeway,I 5,North
+-117.6728743,33.5595277,5,65 mph,San Diego Freeway,I 5,North
+-117.6728665,33.5598478,5,65 mph,San Diego Freeway,I 5,North
+-117.6728305,33.5604196,5,65 mph,San Diego Freeway,I 5,North
+-117.6727632,33.5609863,5,65 mph,San Diego Freeway,I 5,North
+-117.6727486,33.5611101,5,65 mph,San Diego Freeway,I 5,North
+-117.6727217,33.5516372,6,65 mph,San Diego Freeway,I 5,North
+-117.6727352,33.5537376,6,65 mph,San Diego Freeway,I 5,North
+-117.6727781,33.5548463,6,65 mph,San Diego Freeway,I 5,North
+-117.6717073,33.5748695,5,65 mph,San Diego Freeway,I 5,North
+-117.6717012,33.5757693,5,65 mph,San Diego Freeway,I 5,North
+-117.6716462,33.5787291,5,65 mph,San Diego Freeway,I 5,North
+-117.6716431,33.5789564,5,65 mph,San Diego Freeway,I 5,North
+-117.6716318,33.5797805,5,65 mph,San Diego Freeway,I 5,North
+-117.6716118,33.5812359,5,65 mph,San Diego Freeway,I 5,North
+-117.6715566,33.5848671,5,65 mph,San Diego Freeway,I 5,North
+-117.6715421,33.5853473,5,65 mph,San Diego Freeway,I 5,North
+-117.6714854,33.5890126,5,65 mph,San Diego Freeway,I 5,North
+-117.6714828,33.5900918,5,65 mph,San Diego Freeway,I 5,North
+-117.671493,33.5907129,5,65 mph,San Diego Freeway,I 5,North
+-117.6715273,33.5911636,5,65 mph,San Diego Freeway,I 5,North
+-117.6715886,33.5915793,5,65 mph,San Diego Freeway,I 5,North
+-117.6716982,33.5921623,5,65 mph,San Diego Freeway,I 5,North
+-117.6718451,33.5926586,5,65 mph,San Diego Freeway,I 5,North
+-117.6720139,33.5931653,5,65 mph,San Diego Freeway,I 5,North
+-117.6722019,33.5936041,5,65 mph,San Diego Freeway,I 5,North
+-117.672658,33.5943777,5,65 mph,San Diego Freeway,I 5,North
+-117.6734733,33.5956151,5,65 mph,San Diego Freeway,I 5,North
+-117.7103664,33.617542,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7115344,33.6187891,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7125815,33.619947,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7128442,33.6202324,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7157062,33.6233423,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7159002,33.6235574,"['9', '8']",65 mph,San Diego Freeway,I 5,North
+-117.6941881,33.60682,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.6943266,33.6068803,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.6948677,33.6071159,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.6977541,33.6083723,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7002629,33.6094708,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7009659,33.6098094,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7016874,33.6102093,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7021622,33.6104887,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7026951,33.6108504,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7033863,33.6113385,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7039001,33.6117499,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.6805541,33.6001579,6,65 mph,San Diego Freeway,I 5,North
+-117.6810722,33.600327,6,65 mph,San Diego Freeway,I 5,North
+-117.6815048,33.6004573,6,65 mph,San Diego Freeway,I 5,North
+-117.684001,33.6013387,6,65 mph,San Diego Freeway,I 5,North
+-117.6853587,33.6018824,6,65 mph,San Diego Freeway,I 5,North
+-117.6870141,33.6025582,6,65 mph,San Diego Freeway,I 5,North
+-117.6716118,33.5812359,5,65 mph,San Diego Freeway,I 5,North
+-117.6715986,33.5821938,5,65 mph,San Diego Freeway,I 5,North
+-117.6715566,33.5848671,5,65 mph,San Diego Freeway,I 5,North
+-117.6727486,33.5611101,5,65 mph,San Diego Freeway,I 5,North
+-117.672264,33.5646422,5,65 mph,San Diego Freeway,I 5,North
+-117.6723066,33.4785537,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6720879,33.4788313,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6709279,33.4801754,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6704778,33.480697,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6686759,33.4827959,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.667332,33.4843293,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6666695,33.4851089,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6660428,33.4858845,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6745442,33.5370994,5,65 mph,San Diego Freeway,I 5,North
+-117.6744277,33.5378396,5,65 mph,San Diego Freeway,I 5,North
+-117.6743333,33.538587,5,65 mph,San Diego Freeway,I 5,North
+-117.6739347,33.5404372,5,65 mph,San Diego Freeway,I 5,North
+-117.6737185,33.5414741,5,65 mph,San Diego Freeway,I 5,North
+-117.673595,33.542705,5,65 mph,San Diego Freeway,I 5,North
+-117.6735208,33.5431822,5,65 mph,San Diego Freeway,I 5,North
+-117.6733886,33.5438101,5,65 mph,San Diego Freeway,I 5,North
+-117.6029866,33.4150428,4,65 mph,San Diego Freeway,I 5,North
+-117.6045077,33.4181025,4,65 mph,San Diego Freeway,I 5,North
+-117.6049203,33.4187746,4,65 mph,San Diego Freeway,I 5,North
+-117.6050894,33.4190177,4,65 mph,San Diego Freeway,I 5,North
+-117.6053378,33.419343,4,65 mph,San Diego Freeway,I 5,North
+-117.6057878,33.4198504,4,65 mph,San Diego Freeway,I 5,North
+-117.6066765,33.4208441,4,65 mph,San Diego Freeway,I 5,North
+-117.6070113,33.4213001,4,65 mph,San Diego Freeway,I 5,North
+-117.6073175,33.4218055,4,65 mph,San Diego Freeway,I 5,North
+-117.6074558,33.4220675,4,65 mph,San Diego Freeway,I 5,North
+-117.6125456,33.4296084,4,65 mph,San Diego Freeway,I 5,North
+-117.6130543,33.4300594,4,65 mph,San Diego Freeway,I 5,North
+-117.614092,33.4308721,4,65 mph,San Diego Freeway,I 5,North
+-117.6144367,33.4311818,4,65 mph,San Diego Freeway,I 5,North
+-117.6150081,33.4317497,4,65 mph,San Diego Freeway,I 5,North
+-117.6155485,33.4323925,4,65 mph,San Diego Freeway,I 5,North
+-117.6158829,33.4328708,4,65 mph,San Diego Freeway,I 5,North
+-117.717996,33.6258179,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7181143,33.6259456,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7183147,33.6261622,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7185896,33.6264366,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7204899,33.6285333,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7207316,33.6287824,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7213435,33.6294301,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7217125,33.6298149,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7220531,33.6301387,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7223696,33.6304212,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.722631,33.6306486,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7239736,33.6317872,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7246548,33.6323708,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7253142,33.6329536,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7255963,33.6332172,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7258649,33.6334781,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7261717,33.6337979,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.72636,33.6340071,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7267496,33.6344926,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.7268314,33.634591,"['7', '8']",65 mph,San Diego Freeway,I 5,North
+-117.717996,33.6258179,2,65 mph,,I 5 Truck,North
+-117.718562,33.6267345,2,65 mph,,I 5 Truck,North
+-117.7189578,33.6271818,2,65 mph,,I 5 Truck,North
+-117.719609,33.6278462,2,65 mph,,I 5 Truck,North
+-117.7203664,33.6286617,2,65 mph,,I 5 Truck,North
+-117.7212072,33.6295815,2,65 mph,,I 5 Truck,North
+-117.7212072,33.6295815,4,65 mph,,I 5 Truck,North
+-117.7217031,33.6300739,4,65 mph,,I 5 Truck,North
+-117.7221684,33.6305139,4,65 mph,,I 5 Truck,North
+-117.7226815,33.6309524,4,65 mph,,I 5 Truck,North
+-117.7238885,33.6319768,4,65 mph,,I 5 Truck,North
+-117.7244912,33.6324847,4,65 mph,,I 5 Truck,North
+-117.7250644,33.6330029,4,65 mph,,I 5 Truck,North
+-117.7255359,33.6334696,4,65 mph,,I 5 Truck,North
+-117.7259784,33.633954,4,65 mph,,I 5 Truck,North
+-117.7263299,33.634364,4,65 mph,,I 5 Truck,North
+-117.7266801,33.6348153,4,65 mph,,I 5 Truck,North
+-117.727144,33.6354123,4,65 mph,,I 5 Truck,North
+-117.727144,33.6354123,2,65 mph,,I 5 Truck,North
+-117.7281056,33.6366366,2,65 mph,,I 5 Truck,North
+-117.7287226,33.6374258,2,65 mph,,I 5 Truck,North
+-117.7293754,33.6382562,2,65 mph,,I 5 Truck,North
+-117.6605637,33.4611526,7,65 mph,San Diego Freeway,I 5,North
+-117.6622938,33.462326,7,65 mph,San Diego Freeway,I 5,North
+-117.6629449,33.4627676,7,65 mph,San Diego Freeway,I 5,North
+-117.6575221,33.4597785,6,65 mph,San Diego Freeway,I 5,North
+-117.657887,33.4599604,6,65 mph,San Diego Freeway,I 5,North
+-117.6582627,33.4601184,6,65 mph,San Diego Freeway,I 5,North
+-117.6588332,33.4603618,6,65 mph,San Diego Freeway,I 5,North
+-117.6593737,33.4605813,6,65 mph,San Diego Freeway,I 5,North
+-117.6598582,33.4607886,6,65 mph,San Diego Freeway,I 5,North
+-117.660201,33.4609494,6,65 mph,San Diego Freeway,I 5,North
+-117.6605637,33.4611526,6,65 mph,San Diego Freeway,I 5,North
+-117.6587793,33.5044313,5,65 mph,San Diego Freeway,I 5,North
+-117.6588345,33.5046178,5,65 mph,San Diego Freeway,I 5,North
+-117.6592121,33.5056884,5,65 mph,San Diego Freeway,I 5,North
+-117.6364288,33.4481797,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6367013,33.4483245,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6372924,33.4486271,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6376053,33.4488244,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6376374,33.4488477,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6379236,33.4490529,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6394252,33.4501061,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6406337,33.4509731,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6415656,33.4516218,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6425537,33.4522549,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.643288,33.4526767,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6439514,33.4530211,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6450505,33.4536004,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6458535,33.4539637,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6466887,33.4543291,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6483322,33.4550377,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6525097,33.4569019,"['5', '6']",65 mph,San Diego Freeway,I 5,North
+-117.6329679,33.4463914,5,65 mph,San Diego Freeway,I 5,North
+-117.6335944,33.4467034,5,65 mph,San Diego Freeway,I 5,North
+-117.6343398,33.4470902,5,65 mph,San Diego Freeway,I 5,North
+-117.6364288,33.4481797,5,65 mph,San Diego Freeway,I 5,North
+-117.5293759,33.3554484,4,65 mph,San Diego Freeway,I 5,North
+-117.540176,33.362778,4,65 mph,San Diego Freeway,I 5,North
+-117.5443331,33.3655904,4,65 mph,San Diego Freeway,I 5,North
+-117.546257,33.366909,4,65 mph,San Diego Freeway,I 5,North
+-117.5473115,33.3675832,4,65 mph,San Diego Freeway,I 5,North
+-117.554291,33.371372,4,65 mph,San Diego Freeway,I 5,North
+-117.559013,33.37397,4,65 mph,San Diego Freeway,I 5,North
+-117.5604396,33.3747802,4,65 mph,San Diego Freeway,I 5,North
+-117.5611777,33.3752174,4,65 mph,San Diego Freeway,I 5,North
+-117.5614438,33.3753966,4,65 mph,San Diego Freeway,I 5,North
+-117.562073,33.375862,4,65 mph,San Diego Freeway,I 5,North
+-117.562553,33.376335,4,65 mph,San Diego Freeway,I 5,North
+-117.564072,33.377628,4,65 mph,San Diego Freeway,I 5,North
+-117.564697,33.378094,4,65 mph,San Diego Freeway,I 5,North
+-117.565498,33.378601,4,65 mph,San Diego Freeway,I 5,North
+-117.566078,33.378914,4,65 mph,San Diego Freeway,I 5,North
+-117.571142,33.380913,4,65 mph,San Diego Freeway,I 5,North
+-117.5730484,33.3816676,4,65 mph,San Diego Freeway,I 5,North
+-117.576606,33.3830781,4,65 mph,San Diego Freeway,I 5,North
+-117.5776846,33.3834953,4,65 mph,San Diego Freeway,I 5,North
+-117.5796216,33.3842663,4,65 mph,San Diego Freeway,I 5,North
+-118.0057323,33.8706301,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0063168,33.8709029,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0067865,33.8711967,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0074495,33.8716526,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0081133,33.8721084,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0087851,33.8726504,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0094104,33.87322,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0099383,33.8736909,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0104223,33.8740789,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0113541,33.8747595,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0116079,33.8749459,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9163947,33.8166759,5,65 mph,Santa Ana Freeway,I 5,North
+-117.91972,33.8199525,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9259597,33.8267748,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9263025,33.8271135,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9272322,33.8280141,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9284531,33.8292053,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8386403,33.7425562,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8393772,33.7428479,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8399142,33.7431367,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8400854,33.7432442,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8404309,33.7434891,6,65 mph,Santa Ana Freeway,I 5,North
+-117.840674,33.7436719,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8407788,33.7437637,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8410136,33.7439815,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8412498,33.7442307,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8413516,33.7443338,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8415051,33.7445089,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8417068,33.7448031,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8417068,33.7448031,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8419695,33.7453485,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8434522,33.7491326,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8436348,33.7495531,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8439108,33.7499938,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8443655,33.7505423,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8443655,33.7505423,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8448576,33.7511198,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8453662,33.7516018,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8467462,33.752583,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8478112,33.7531895,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8483387,33.7534899,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8719173,33.773985,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8741549,33.776733,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8746793,33.7774447,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8751884,33.7780368,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8760741,33.7789036,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8770963,33.7800458,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0116079,33.8749459,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0126211,33.8756522,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0129905,33.875943,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0136889,33.8763642,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0143432,33.8767154,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0149795,33.8770308,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0154443,33.8772419,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0159445,33.8774682,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0165101,33.8777196,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0176317,33.8781997,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0185887,33.8786361,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0207079,33.8796591,6,65 mph,Santa Ana Freeway,I 5,North
+-118.022847,33.8807755,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0246097,33.8817293,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0249229,33.8819002,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0251104,33.8819979,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8025617,33.7249093,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8036171,33.7255956,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8057558,33.7270346,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8075689,33.7282824,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8181398,33.7354965,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8186287,33.7357229,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8190655,33.7359127,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8195366,33.7360954,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8199627,33.736247,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8227637,33.7371488,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8232231,33.7372996,6,65 mph,Santa Ana Freeway,I 5,North
+-117.826419,33.7383056,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8309629,33.7397879,6,65 mph,Santa Ana Freeway,I 5,North
+-117.832211,33.7402008,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7268314,33.634591,7,65 mph,San Diego Freeway,I 5,North
+-117.728214,33.6363497,7,65 mph,San Diego Freeway,I 5,North
+-117.7285985,33.6368696,7,65 mph,San Diego Freeway,I 5,North
+-117.729751,33.6383367,7,65 mph,San Diego Freeway,I 5,North
+-117.7303116,33.6390322,7,65 mph,San Diego Freeway,I 5,North
+-117.7303116,33.6390322,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7307783,33.6395783,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7313653,33.6403076,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7327963,33.6420333,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7348148,33.6445141,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7357472,33.645688,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7375135,33.6479238,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7378216,33.6482946,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7381815,33.6487635,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7572449,33.6769738,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7574601,33.6772237,6,65 mph,Santa Ana Freeway,I 5,North
+-117.757769,33.6775724,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7583,33.6780991,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7593278,33.6790122,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7606394,33.6801666,6,65 mph,Santa Ana Freeway,I 5,North
+-117.761397,33.6808356,6,65 mph,Santa Ana Freeway,I 5,North
+-117.761397,33.6808356,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7621341,33.681489,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7628559,33.6821819,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7633531,33.6827571,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7793572,33.7069606,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7797502,33.7074567,6,65 mph,Santa Ana Freeway,I 5,North
+-117.779879,33.7076043,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7811382,33.7090468,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7819295,33.7099489,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7824332,33.7104569,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7834477,33.7114178,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0251104,33.8819979,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0256511,33.8822518,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0264907,33.8827103,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0278261,33.8835282,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0285631,33.8839863,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0291957,33.8843813,5,65 mph,Santa Ana Freeway,I 5,North
+-118.029309,33.8844524,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0298908,33.884766,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0304757,33.8851002,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0309748,33.8853948,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0314916,33.8856875,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0318778,33.8859174,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0325366,33.8863105,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0326436,33.8863727,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0328785,33.8865093,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0335154,33.8868757,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0350268,33.887687,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7633531,33.6827571,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7636409,33.6831101,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7641175,33.6837852,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7655076,33.6858848,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7660739,33.6867349,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8846918,33.7866752,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8849352,33.7869333,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8864216,33.7886807,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8865232,33.7887899,6,65 mph,Santa Ana Freeway,I 5,North
+-117.886743,33.7890269,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9907078,33.8623568,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9914397,33.8628156,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9923517,33.8633649,6,65 mph,Santa Ana Freeway,I 5,North
+-117.993407,33.8639466,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9965298,33.865668,6,65 mph,Santa Ana Freeway,I 5,North
+-117.858081,33.7578533,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8587518,33.7581289,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7308438,33.6402751,4,65 mph,,I 5 Truck,North
+-117.7315474,33.6412182,4,65 mph,,I 5 Truck,North
+-117.7330467,33.6433701,4,65 mph,,I 5 Truck,North
+-117.7333377,33.643776,4,65 mph,,I 5 Truck,North
+-117.7335735,33.6440611,4,65 mph,,I 5 Truck,North
+-117.7338468,33.6443401,4,65 mph,,I 5 Truck,North
+-117.7341336,33.6446033,4,65 mph,,I 5 Truck,North
+-117.7504802,33.6643279,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7506713,33.6645674,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7522533,33.6664569,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7532747,33.6677142,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7539968,33.6686276,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7543052,33.6690804,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7545136,33.6694433,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7546933,33.6698079,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7548864,33.6702447,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7550445,33.6706937,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7551688,33.6710939,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7553176,33.6717382,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7553176,33.6717382,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7553751,33.6719772,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7554604,33.6724765,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7556048,33.67319,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7556224,33.6732732,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7557707,33.6739759,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7558896,33.6743946,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7560224,33.6747908,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7561922,33.6752279,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7564094,33.6756565,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7566837,33.6761342,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7572449,33.6769738,7,65 mph,Santa Ana Freeway,I 5,North
+-118.0350268,33.887687,6,65 mph,Santa Ana Freeway,I 5,North
+-118.035846,33.8881012,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0392592,33.8898272,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0407628,33.8905871,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0412386,33.8908325,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8650775,33.764099,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8678982,33.7691213,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8686328,33.7701972,5,65 mph,Santa Ana Freeway,I 5,North
+-117.868979,33.7706401,5,65 mph,Santa Ana Freeway,I 5,North
+-117.864338,33.7628722,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8650775,33.764099,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8525442,33.7554422,6,65 mph,Santa Ana Freeway,I 5,North
+-117.858081,33.7578533,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9053287,33.8062922,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9059152,33.8067698,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9064303,33.8071886,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9067173,33.8074377,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9071404,33.8078232,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9073262,33.8080002,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9079298,33.8085755,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9090857,33.8096945,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8977166,33.7994345,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8985478,33.8002413,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8770963,33.7800458,4,65 mph,Santa Ana Freeway,I 5,North
+-117.877891,33.7809027,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8782319,33.781204,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8785141,33.781425,4,65 mph,Santa Ana Freeway,I 5,North
+-117.878796,33.7815906,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8791737,33.7818117,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8804096,33.7824467,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8806947,33.7826351,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8811216,33.7830055,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8813562,33.7831955,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8815468,33.7833631,4,65 mph,Santa Ana Freeway,I 5,North
+-117.7341336,33.6446033,2,65 mph,,I 5 Truck,North
+-117.7345093,33.6450178,2,65 mph,,I 5 Truck,North
+-117.7348073,33.6452852,2,65 mph,,I 5 Truck,North
+-117.7353676,33.6458451,2,65 mph,,I 5 Truck,North
+-117.7359181,33.6464291,2,65 mph,,I 5 Truck,North
+-117.7378345,33.6484999,2,65 mph,,I 5 Truck,North
+-117.7381815,33.6487635,2,65 mph,,I 5 Truck,North
+-117.7381815,33.6487635,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-117.7384347,33.6491006,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-117.739485,33.6504157,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-117.7405493,33.651766,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-117.7410064,33.6523301,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-117.7458972,33.6586406,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7467812,33.6597194,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7494751,33.6630798,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7503296,33.6641457,6,65 mph,Santa Ana Freeway,I 5,North
+-117.826419,33.7383056,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8297865,33.7393668,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8309629,33.7397879,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7906673,33.7167143,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7909176,33.7168727,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7922533,33.7177611,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7928738,33.7181859,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7935757,33.7186687,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7938412,33.7188574,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7947037,33.7194704,6,65 mph,Santa Ana Freeway,I 5,North
+-117.795013,33.7196942,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8075689,33.7282824,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8103052,33.7302039,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8122267,33.7315116,7,65 mph,Santa Ana Freeway,I 5,North
+-117.832211,33.7402008,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8334312,33.7406451,4,65 mph,Santa Ana Freeway,I 5,North
+-117.8122267,33.7315116,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8132603,33.7322064,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8142307,33.7328826,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8149841,33.7334296,6,65 mph,Santa Ana Freeway,I 5,North
+-117.815569,33.7338716,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8161036,33.7342764,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8165653,33.7346057,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8169981,33.7348775,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8175545,33.7351909,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8181398,33.7354965,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9020874,33.8036888,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9034838,33.8048599,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9040908,33.8052962,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9042414,33.8054297,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9045365,33.8056528,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9053287,33.8062922,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7448575,33.6572052,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7458972,33.6586406,5,65 mph,Santa Ana Freeway,I 5,North
+-117.893152,33.7950308,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8940694,33.7959265,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8945506,33.7963792,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8959128,33.7977122,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8973454,33.79908,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8977166,33.7994345,5,65 mph,Santa Ana Freeway,I 5,North
+-117.886743,33.7890269,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8870263,33.7892703,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8880657,33.7902079,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8896314,33.7916526,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8902921,33.792221,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8925336,33.7944133,5,65 mph,Santa Ana Freeway,I 5,North
+-117.893152,33.7950308,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0034544,33.8693705,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0057323,33.8706301,6,65 mph,Santa Ana Freeway,I 5,North
+-117.845979,33.7518269,2,65 mph,,I 5,North
+-117.8460807,33.7519052,2,65 mph,,I 5,North
+-117.8465253,33.7522473,2,65 mph,,I 5,North
+-117.8478089,33.7530605,2,65 mph,,I 5,North
+-117.8478089,33.7530605,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8479802,33.7531602,2,65 mph,Santa Ana Freeway,I 5,North
+-117.848727,33.7535453,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8508138,33.7545399,2,65 mph,Santa Ana Freeway,I 5,North
+-117.85148,33.7548541,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8515809,33.7549012,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8521608,33.7551431,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8524505,33.7552725,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8528898,33.7554498,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8538608,33.7558333,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8549122,33.7562704,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8557228,33.7566105,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8567541,33.7570813,2,65 mph,Santa Ana Freeway,I 5,North
+-117.8575772,33.7574567,2,65 mph,Santa Ana Freeway,I 5,North
+-117.9284531,33.8292053,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9288059,33.8295283,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9290988,33.8297842,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9319536,33.8324578,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9333374,33.8333212,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9340324,33.8336794,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9346286,33.8339221,5,65 mph,Santa Ana Freeway,I 5,North
+-117.935359,33.834172,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9360134,33.834369,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9965298,33.865668,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9994615,33.8671793,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0007407,33.8678647,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0034544,33.8693705,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8815468,33.7833631,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8820147,33.7838142,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8833114,33.7850662,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8835273,33.7853215,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8839604,33.7857899,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8846918,33.7866752,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7293754,33.6382562,"['3', '2']",65 mph,,I 5 Truck,North
+-117.729765,33.6387782,"['3', '2']",65 mph,,I 5 Truck,North
+-117.7304752,33.6397592,"['3', '2']",65 mph,,I 5 Truck,North
+-117.7308438,33.6402751,"['3', '2']",65 mph,,I 5 Truck,North
+-117.7410064,33.6523301,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7416994,33.6532093,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7425529,33.654242,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7435534,33.6555312,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7448415,33.6571832,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7448575,33.6572052,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9561989,33.8440455,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9573725,33.8447918,5,65 mph,Santa Ana Freeway,I 5,North
+-117.957937,33.8451424,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9586006,33.8455088,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9590482,33.8457535,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9720507,33.8524186,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9729166,33.8528744,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9733262,33.8531238,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9743202,33.8538296,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9743202,33.8538296,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9747827,33.854181,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9752185,33.854525,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9757799,33.8549685,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9764129,33.8554579,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9777014,33.8564922,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9784396,33.8569627,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9790635,33.8572693,4,65 mph,Santa Ana Freeway,I 5,North
+-117.979888,33.8575723,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9801605,33.8576558,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9847449,33.8590657,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9856187,33.8594348,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9124862,33.8129541,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9130827,33.8135213,4,65 mph,Santa Ana Freeway,I 5,North
+-117.914913,33.8152565,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9157157,33.8160445,4,65 mph,Santa Ana Freeway,I 5,North
+-117.987848,33.8605113,7,65 mph,Santa Ana Freeway,I 5,North
+-117.9885833,33.8609332,7,65 mph,Santa Ana Freeway,I 5,North
+-117.989569,33.8615607,7,65 mph,Santa Ana Freeway,I 5,North
+-117.9900031,33.8618642,7,65 mph,Santa Ana Freeway,I 5,North
+-117.9907078,33.8623568,7,65 mph,Santa Ana Freeway,I 5,North
+-117.9596248,33.8460841,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9626256,33.8475585,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9644007,33.8484491,5,65 mph,Santa Ana Freeway,I 5,North
+-117.952402,33.8418228,4,65 mph,Santa Ana Freeway,I 5,North
+-117.954374,33.8428826,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9554991,33.8435536,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9554991,33.8435536,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9561989,33.8440455,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9644007,33.8484491,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9657029,33.8490965,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9720507,33.8524186,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7855166,33.7131267,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7860226,33.7135062,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7874388,33.7144879,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7902869,33.7164356,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7906673,33.7167143,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7834477,33.7114178,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7839063,33.7117992,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7847137,33.7125245,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7855166,33.7131267,7,65 mph,Santa Ana Freeway,I 5,North
+-117.795013,33.7196942,7,65 mph,Santa Ana Freeway,I 5,North
+-117.795324,33.7199121,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7978587,33.7216748,7,65 mph,Santa Ana Freeway,I 5,North
+-117.868979,33.7706401,6,65 mph,Santa Ana Freeway,I 5,North
+-117.869886,33.7716216,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8702127,33.7719228,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8704614,33.7722285,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8712496,33.7731823,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8719173,33.773985,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8483387,33.7534899,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8491256,33.7538241,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8515804,33.7549987,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8522211,33.7552747,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8525442,33.7554422,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7706327,33.6936952,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7714017,33.6948548,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7729761,33.6973159,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7754824,33.7011362,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7772161,33.7037496,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7793572,33.7069606,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7689201,33.691101,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7704596,33.6934341,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7706327,33.6936952,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9090857,33.8096945,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9092755,33.8098782,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9107412,33.811308,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9112622,33.8117582,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9124862,33.8129541,5,65 mph,Santa Ana Freeway,I 5,North
+-117.8329347,33.7403645,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8335135,33.7405786,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8341251,33.7407972,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8351349,33.7411847,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8368558,33.7418093,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8383935,33.7423219,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8390452,33.7425671,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8395049,33.7427739,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8401404,33.7431382,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8404866,33.7433721,1,65 mph,Santa Ana Freeway,I 5,North
+-117.840922,33.7437386,1,65 mph,Santa Ana Freeway,I 5,North
+-117.841306,33.7441074,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8416359,33.744492,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8419902,33.7450047,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8422146,33.7454274,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8424093,33.7458861,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8429637,33.7474669,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8434992,33.748888,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8437777,33.7494614,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8440779,33.7498976,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8445349,33.750462,1,65 mph,Santa Ana Freeway,I 5,North
+-117.845046,33.7510242,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8457329,33.7516605,1,65 mph,Santa Ana Freeway,I 5,North
+-117.845979,33.7518269,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8334312,33.7406451,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8334496,33.7406492,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8340944,33.7408827,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8371398,33.7420038,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8386403,33.7425562,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.8575772,33.7574567,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8601211,33.7586476,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8604858,33.7588304,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8608351,33.7590233,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8612047,33.7592541,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8615426,33.7594905,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8618484,33.7597135,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8619557,33.7597938,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8624814,33.7602308,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8627282,33.7604627,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8629486,33.7606913,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8632378,33.7609979,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.863624,33.7614483,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8638767,33.7618062,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8652709,33.7640929,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8657376,33.7649358,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8660219,33.7654085,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8663116,33.765908,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8666227,33.7664342,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8668695,33.7668846,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8670953,33.7672782,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8678136,33.7685881,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8681731,33.769208,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8683447,33.7695112,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8685539,33.7698189,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8688012,33.7701411,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8690099,33.7704075,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.869321,33.7707553,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8696826,33.7711602,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8700278,33.771544,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.870434,33.7719927,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8710377,33.7726594,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8717136,33.7734353,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8733127,33.7754341,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.874326,33.7766726,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8746694,33.7771497,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8749108,33.7774663,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8751527,33.7777483,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8753458,33.7779534,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8765898,33.7792097,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8587518,33.7581289,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8592107,33.7583681,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8599789,33.758737,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8604308,33.7589701,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8610572,33.7593425,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8616007,33.7597074,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8617084,33.7597941,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8622834,33.7602579,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8634164,33.7614139,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8638131,33.7619473,6,65 mph,Santa Ana Freeway,I 5,North
+-117.864338,33.7628722,6,65 mph,Santa Ana Freeway,I 5,North
+-117.8765898,33.7792097,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8775071,33.7802129,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8779148,33.7806499,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8781723,33.7808907,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8784191,33.7811002,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8786283,33.7812607,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8788536,33.7814168,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8790253,33.7815372,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.879868,33.7820065,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8801357,33.7821569,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8803991,33.782323,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8806346,33.782478,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8809457,33.7826964,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8812086,33.7829149,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8816056,33.7832582,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8821152,33.7837487,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.883349,33.7849436,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8836923,33.7852958,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8840303,33.7856569,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8842556,33.7859111,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8844916,33.7861875,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.884792,33.7865709,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8858971,33.7879307,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8861921,33.7882874,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8864389,33.7885504,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8866857,33.7887912,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8878326,33.7898518,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8882896,33.7902446,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8888422,33.7907261,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8897648,33.7915776,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8904461,33.7921705,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8911461,33.7928232,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.8985478,33.8002413,5,65 mph,Santa Ana Freeway,I 5,North
+-117.900509,33.8021614,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9015024,33.8031245,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9015182,33.8031396,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9019555,33.8035648,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9020874,33.8036888,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9070623,33.807571,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9076429,33.8080973,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9084114,33.8088424,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9090474,33.8094677,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9095526,33.8099605,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9117909,33.8121451,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.912934,33.8132155,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9161155,33.8163006,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9157157,33.8160445,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9163947,33.8166759,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9161155,33.8163006,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9165478,33.816704,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9187365,33.8187898,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9198416,33.819904,1,65 mph,Santa Ana Freeway,I 5,North
+-117.921286,33.8213352,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9227397,33.8227524,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9231085,33.8231528,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9233767,33.8234648,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9237093,33.8238659,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9244818,33.8248329,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9249968,33.8254791,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9253683,33.8259343,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9257331,33.8263666,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9260764,33.8267677,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9263875,33.8270841,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9266665,33.8273515,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9288822,33.8294793,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9290988,33.8297842,1,65 mph,Santa Ana Freeway,I 5,North
+-117.91972,33.8199525,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9220552,33.8222352,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9228231,33.8229893,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9231785,33.8233754,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9259597,33.8267748,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-117.9312606,33.8318159,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9314759,33.8319179,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9317949,33.8321686,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9321757,33.8324761,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9326263,33.832788,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9329858,33.8330242,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9332593,33.8331801,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9335705,33.8333495,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9339286,33.833527,1,65 mph,Santa Ana Freeway,I 5,North
+-117.934288,33.8336875,1,65 mph,Santa Ana Freeway,I 5,North
+-117.934642,33.8338256,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9350779,33.8339778,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9355821,33.8341382,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9360864,33.8342808,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9376836,33.8346499,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9393788,33.8350554,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9399649,33.835221,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9404584,33.8353903,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9408524,33.8355316,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9412684,33.8357156,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9418786,33.8360268,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9435966,33.8369365,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9458979,33.8382064,1,65 mph,Santa Ana Freeway,I 5,North
+-117.948784,33.8397481,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9526249,33.8418315,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9532364,33.842163,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9543402,33.8427638,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9546902,33.842965,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9550496,33.84317,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9553768,33.8433794,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9556665,33.8435709,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9560098,33.8437937,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9312606,33.8318159,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9314883,33.8320189,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9319536,33.8324578,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9290988,33.8297842,6,65 mph,Santa Ana Freeway,I 5,North
+-117.930427,33.8310663,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9308824,33.8314819,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9312606,33.8318159,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9454505,33.838072,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9463807,33.8385994,5,65 mph,Santa Ana Freeway,I 5,North
+-117.952402,33.8418228,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9360134,33.834369,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9393936,33.8351486,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9402647,33.8354003,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9404844,33.8354855,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9407942,33.8356057,4,65 mph,Santa Ana Freeway,I 5,North
+-117.94138,33.8358767,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9454505,33.838072,4,65 mph,Santa Ana Freeway,I 5,North
+-117.9560098,33.8437937,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9568628,33.844364,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9574904,33.8447828,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9580958,33.8451433,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9587189,33.8454823,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9593894,33.845812,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9590482,33.8457535,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9596248,33.8460841,5,65 mph,Santa Ana Freeway,I 5,North
+-117.9593894,33.845812,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9604234,33.8463059,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9633484,33.8477946,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9659917,33.8490949,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.972291,33.8523806,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9723391,33.8524057,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9727897,33.8526552,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9731492,33.8528646,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9734442,33.8530472,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9738036,33.8533012,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9741791,33.853564,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9746345,33.8539137,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9754845,33.8546066,"['1', '2']",65 mph,Santa Ana Freeway,I 5,North
+-117.9754845,33.8546066,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9764719,33.8553911,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9777922,33.8564243,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9785835,33.8569188,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9791226,33.8571838,1,65 mph,Santa Ana Freeway,I 5,North
+-117.97982,33.8574489,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9803001,33.8575915,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9815634,33.8579657,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9826282,33.8582463,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9837092,33.8585537,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9846694,33.8588945,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9858321,33.8593477,1,65 mph,Santa Ana Freeway,I 5,North
+-117.9858321,33.8593477,2,,Santa Ana Freeway,I 5,North
+-117.9864575,33.8596609,2,,Santa Ana Freeway,I 5,North
+-117.9872135,33.8600426,2,,Santa Ana Freeway,I 5,North
+-117.9876122,33.8602498,2,,Santa Ana Freeway,I 5,North
+-117.987848,33.8605113,2,,Santa Ana Freeway,I 5,North
+-117.9856187,33.8594348,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9863756,33.8597546,6,65 mph,Santa Ana Freeway,I 5,North
+-117.9871384,33.8601217,6,65 mph,Santa Ana Freeway,I 5,North
+-117.987848,33.8605113,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0523484,33.8971164,5,65 mph,Santa Ana Freeway,I 5,North
+-118.052779,33.8973313,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0545702,33.8982998,5,65 mph,Santa Ana Freeway,I 5,North
+-118.055358,33.8987268,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0559377,33.8990436,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0564566,33.8993302,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0579042,33.900111,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0412386,33.8908325,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0449968,33.8927525,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0461068,33.8933706,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0489965,33.8950638,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0507241,33.8961379,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0523484,33.8971164,5,65 mph,Santa Ana Freeway,I 5,North
+-117.7660739,33.6867349,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7662306,33.6869742,6,65 mph,Santa Ana Freeway,I 5,North
+-117.767452,33.6888505,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7679918,33.6896766,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7689201,33.691101,6,65 mph,Santa Ana Freeway,I 5,North
+-117.7978587,33.7216748,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7978928,33.7216987,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7983477,33.72202,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7989742,33.7224697,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8020429,33.724576,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8025617,33.7249093,7,65 mph,Santa Ana Freeway,I 5,North
+-117.8269258,33.7383489,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8283262,33.7387853,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8287773,33.7389292,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8294741,33.7391511,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8300696,33.7393474,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8307568,33.7395805,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8312444,33.7397578,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8318243,33.7399686,1,65 mph,Santa Ana Freeway,I 5,North
+-117.832328,33.7401504,1,65 mph,Santa Ana Freeway,I 5,North
+-117.8329347,33.7403645,1,65 mph,Santa Ana Freeway,I 5,North
+-117.7503296,33.6641457,7,65 mph,Santa Ana Freeway,I 5,North
+-117.7504802,33.6643279,7,65 mph,Santa Ana Freeway,I 5,North
+-118.1335038,33.9845784,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1340389,33.9850067,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1342892,33.9851787,4,65 mph,Santa Ana Freeway,I 5,North
+-118.136355,33.9865813,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1367399,33.9869188,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1368797,33.9870649,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0976953,33.942937,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0982384,33.9437228,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0988985,33.9447854,4,65 mph,Santa Ana Freeway,I 5,North
+-118.093001,33.9361741,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0934805,33.9367467,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0939091,33.9373364,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0950247,33.9389459,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0959406,33.9403392,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0963655,33.9409888,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1577198,34.0080701,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1580502,34.0083368,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1583077,34.0085625,4,65 mph,Santa Ana Freeway,I 5,North
+-118.158541,34.008786,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1587945,34.0090276,4,65 mph,Santa Ana Freeway,I 5,North
+-118.159736,34.0101294,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1553412,34.0065318,4,65 mph,Santa Ana Freeway,I 5,North
+-118.155677,34.0067674,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1558461,34.0068936,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1562419,34.0071462,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1566647,34.0073818,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1571981,34.0077024,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1577198,34.0080701,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0704031,33.9102964,5,65 mph,Santa Ana Freeway,I 5,North
+-118.070989,33.9107304,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0718473,33.9112943,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0732355,33.9121027,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0738705,33.9124576,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0749935,33.9130983,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0760336,33.9137932,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0771811,33.9146214,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0777787,33.9150969,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0782162,33.9154811,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0785809,33.9158781,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0789511,33.9162659,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0792903,33.9166086,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0794792,33.9168372,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0799443,33.9174093,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0804589,33.918098,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0809981,33.9188737,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0814698,33.9195529,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0819763,33.9202702,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0824465,33.9209371,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0824465,33.9209371,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0829086,33.9215627,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0841111,33.923254,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0841986,33.9233794,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0859388,33.925873,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0865262,33.9267494,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.088121,33.9290912,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0884088,33.9295107,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0885448,33.9297109,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0890155,33.9304123,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0901758,33.9321373,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.0901758,33.9321373,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0909378,33.9331465,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0916502,33.9341758,6,65 mph,Santa Ana Freeway,I 5,North
+-118.0922637,33.9351124,6,65 mph,Santa Ana Freeway,I 5,North
+-118.093001,33.9361741,6,65 mph,Santa Ana Freeway,I 5,North
+-118.1616352,34.0116422,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1625125,34.0120658,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1630166,34.0122948,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1650426,34.0132149,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1654666,34.0133999,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1683901,34.0146693,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.159736,34.0101294,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1600145,34.0104429,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1603217,34.0107357,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1604926,34.0108866,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1609274,34.0112018,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1612875,34.0114408,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1616352,34.0116422,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1183861,33.9627839,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1186631,33.96298,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1188749,33.9631397,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1192613,33.9634809,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1198943,33.9641489,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1200722,33.9644209,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1114597,33.9577982,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1118166,33.9580733,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1119691,33.9581906,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1133565,33.9591912,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1683901,34.0146693,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1687444,34.0147896,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1690925,34.0149004,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1477204,33.9991405,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1482965,33.9997469,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1489677,34.0004515,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1512807,34.0028675,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1515484,34.0031458,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1520632,34.0036458,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1528487,34.0043428,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1539994,34.0053695,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1553412,34.0065318,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1452873,33.995754,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1455213,33.9960123,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1456876,33.9962046,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1459185,33.9964933,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1461631,33.9968343,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1463923,33.9971939,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1466079,33.9975597,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1468632,33.9979946,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1472512,33.9985528,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1477204,33.9991405,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1368797,33.9870649,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1372033,33.9874028,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1376125,33.9878104,4,65 mph,Santa Ana Freeway,I 5,North
+-118.139508,33.9896988,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1404574,33.9907258,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1446627,33.9950884,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1452434,33.9957089,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1452873,33.995754,4,65 mph,Santa Ana Freeway,I 5,North
+-118.123706,33.9737494,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1237279,33.9737873,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1240369,33.9742144,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1249124,33.9754387,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1258292,33.9766121,4,65 mph,Santa Ana Freeway,I 5,North
+-118.126397,33.9773571,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1269184,33.9779846,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1284314,33.9795597,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1320436,33.9831585,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1335038,33.9845784,4,65 mph,Santa Ana Freeway,I 5,North
+-118.109395,33.9562841,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1101549,33.9568208,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1114597,33.9577982,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1133565,33.9591912,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1183861,33.9627839,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0988985,33.9447854,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.099495,33.9456562,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.099676,33.9459325,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1006507,33.9474205,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1018683,33.9492188,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1030585,33.9510451,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1035229,33.9516337,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1042859,33.9524466,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1048252,33.952927,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.105444,33.9534209,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.109395,33.9562841,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1200722,33.9644209,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1201831,33.9645478,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1204471,33.9648728,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1206989,33.9652776,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1210863,33.9660309,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1211495,33.9661851,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1215221,33.9672529,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1223642,33.9700026,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1227375,33.9712451,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1230909,33.9723761,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1232646,33.9728623,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.1234843,33.9733357,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.123706,33.9737494,"['5', '4']",65 mph,Santa Ana Freeway,I 5,North
+-118.0579042,33.900111,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0582925,33.9003349,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0595919,33.9010652,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0606464,33.9016649,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0614166,33.9021495,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0620041,33.9025294,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0631196,33.9033772,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0639859,33.9040928,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0647413,33.9047763,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0650783,33.9051089,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0655493,33.9055661,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0655493,33.9055661,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0660797,33.9060597,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0665563,33.9065465,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0690177,33.9090913,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0704031,33.9102964,5,65 mph,Santa Ana Freeway,I 5,North
+-118.0963655,33.9409888,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0969732,33.9419165,4,65 mph,Santa Ana Freeway,I 5,North
+-118.0976953,33.942937,4,65 mph,Santa Ana Freeway,I 5,North
+-118.2139046,34.0511029,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2140328,34.0540751,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2140458,34.0544011,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2140595,34.0548415,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2140908,34.0556405,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.3061745,34.1731143,6,65 mph,Golden State Freeway,I 5,North
+-118.3062812,34.1734811,6,65 mph,Golden State Freeway,I 5,North
+-118.3066259,34.1746304,6,65 mph,Golden State Freeway,I 5,North
+-118.3067479,34.1750365,6,65 mph,Golden State Freeway,I 5,North
+-118.3068405,34.1754381,6,65 mph,Golden State Freeway,I 5,North
+-118.3070257,34.1758186,6,65 mph,Golden State Freeway,I 5,North
+-118.3072349,34.1761476,6,65 mph,Golden State Freeway,I 5,North
+-118.3074401,34.1764211,6,65 mph,Golden State Freeway,I 5,North
+-118.3076775,34.1766663,6,65 mph,Golden State Freeway,I 5,North
+-118.3077846,34.1767806,6,65 mph,Golden State Freeway,I 5,North
+-118.3078246,34.1768246,6,65 mph,Golden State Freeway,I 5,North
+-118.2397004,34.0915116,5,65 mph,Golden State Freeway,I 5,North
+-118.2434784,34.0952963,5,65 mph,Golden State Freeway,I 5,North
+-118.2598006,34.1088233,5,65 mph,Golden State Freeway,I 5,North
+-118.2610489,34.1094457,5,65 mph,Golden State Freeway,I 5,North
+-118.261933,34.1099031,5,65 mph,Golden State Freeway,I 5,North
+-118.2692217,34.1170889,4,65 mph,Golden State Freeway,I 5,North
+-118.2703747,34.1192477,4,65 mph,Golden State Freeway,I 5,North
+-118.2709682,34.1203134,4,65 mph,Golden State Freeway,I 5,North
+-118.2715884,34.1215755,4,65 mph,Golden State Freeway,I 5,North
+-118.3131757,34.1804557,6,65 mph,Golden State Freeway,I 5,North
+-118.3136596,34.1809171,6,65 mph,Golden State Freeway,I 5,North
+-118.3140968,34.181408,6,65 mph,Golden State Freeway,I 5,North
+-118.3143188,34.181685,6,65 mph,Golden State Freeway,I 5,North
+-118.3146764,34.1821472,6,65 mph,Golden State Freeway,I 5,North
+-118.2730482,34.1261939,5,65 mph,Golden State Freeway,I 5,North
+-118.2739394,34.1293158,5,65 mph,Golden State Freeway,I 5,North
+-118.2748795,34.1325951,5,65 mph,Golden State Freeway,I 5,North
+-118.2756748,34.1353892,5,65 mph,Golden State Freeway,I 5,North
+-118.2766182,34.1384773,5,65 mph,Golden State Freeway,I 5,North
+-118.214553,34.047287,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.214194,34.0484927,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2140022,34.0494584,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2139419,34.0499489,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2139085,34.0504222,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2139001,34.0507639,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2139046,34.0511029,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2715884,34.1215755,4,65 mph,Golden State Freeway,I 5,North
+-118.2717514,34.1219423,4,65 mph,Golden State Freeway,I 5,North
+-118.2719397,34.1224312,4,65 mph,Golden State Freeway,I 5,North
+-118.2721448,34.1229906,4,65 mph,Golden State Freeway,I 5,North
+-118.2723096,34.1235036,4,65 mph,Golden State Freeway,I 5,North
+-118.2724602,34.123994,4,65 mph,Golden State Freeway,I 5,North
+-118.2726258,34.124572,4,65 mph,Golden State Freeway,I 5,North
+-118.2730482,34.1261939,4,65 mph,Golden State Freeway,I 5,North
+-118.346308,34.2104095,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.3479784,34.2118578,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.3487149,34.2124521,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.3514072,34.2147764,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.362812,34.2219186,5,65 mph,Golden State Freeway,I 5,North
+-118.3633841,34.2219459,5,65 mph,Golden State Freeway,I 5,North
+-118.3681262,34.2222164,5,65 mph,Golden State Freeway,I 5,North
+-118.3688383,34.2223129,5,65 mph,Golden State Freeway,I 5,North
+-118.3694687,34.2224537,5,65 mph,Golden State Freeway,I 5,North
+-118.3240798,34.1893818,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3246837,34.1898076,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3257154,34.1905815,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3268171,34.191499,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3273061,34.1919118,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3284075,34.1927972,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3288665,34.1931671,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3296237,34.1937095,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3306785,34.1943734,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3309201,34.1945201,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3312212,34.1947022,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3317948,34.1950387,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.5062062,34.3308526,4,65 mph,Golden State Freeway,I 5,North
+-118.5068419,34.3321409,4,65 mph,Golden State Freeway,I 5,North
+-118.5069988,34.3324023,4,65 mph,Golden State Freeway,I 5,North
+-118.5071634,34.3326491,4,65 mph,Golden State Freeway,I 5,North
+-118.5073216,34.3328851,4,65 mph,Golden State Freeway,I 5,North
+-118.5075258,34.3331211,4,65 mph,Golden State Freeway,I 5,North
+-118.5076865,34.3333291,4,65 mph,Golden State Freeway,I 5,North
+-118.5078958,34.333551,4,65 mph,Golden State Freeway,I 5,North
+-118.5081085,34.3337821,4,65 mph,Golden State Freeway,I 5,North
+-118.5085203,34.3342023,4,65 mph,Golden State Freeway,I 5,North
+-118.5087478,34.3344075,4,65 mph,Golden State Freeway,I 5,North
+-118.5089755,34.3345977,4,65 mph,Golden State Freeway,I 5,North
+-118.5091796,34.3347623,4,65 mph,Golden State Freeway,I 5,North
+-118.5094284,34.3349423,4,65 mph,Golden State Freeway,I 5,North
+-118.5096909,34.3351328,4,65 mph,Golden State Freeway,I 5,North
+-118.5099356,34.335298,4,65 mph,Golden State Freeway,I 5,North
+-118.5117887,34.3365267,4,65 mph,Golden State Freeway,I 5,North
+-118.5120472,34.3366945,4,65 mph,Golden State Freeway,I 5,North
+-118.5123668,34.3368934,4,65 mph,Golden State Freeway,I 5,North
+-118.5126614,34.337071,4,65 mph,Golden State Freeway,I 5,North
+-118.5129349,34.3372291,4,65 mph,Golden State Freeway,I 5,North
+-118.5132085,34.3373767,4,65 mph,Golden State Freeway,I 5,North
+-118.5135089,34.3375348,4,65 mph,Golden State Freeway,I 5,North
+-118.5147002,34.3380987,4,65 mph,Golden State Freeway,I 5,North
+-118.5147002,34.3380987,4,65 mph,Golden State Freeway,I 5,North
+-118.5184529,34.339934,4,65 mph,Golden State Freeway,I 5,North
+-118.5188227,34.340109,4,65 mph,Golden State Freeway,I 5,North
+-118.5192549,34.3402876,4,65 mph,Golden State Freeway,I 5,North
+-118.5196258,34.3404303,4,65 mph,Golden State Freeway,I 5,North
+-118.5200268,34.3405676,4,65 mph,Golden State Freeway,I 5,North
+-118.520456,34.3406949,4,65 mph,Golden State Freeway,I 5,North
+-118.5208744,34.3408034,4,65 mph,Golden State Freeway,I 5,North
+-118.5213076,34.3408942,4,65 mph,Golden State Freeway,I 5,North
+-118.5562064,34.3652381,5,65 mph,Golden State Freeway,I 5,North
+-118.5593635,34.3694197,5,65 mph,Golden State Freeway,I 5,North
+-118.5625414,34.3743575,5,65 mph,Golden State Freeway,I 5,North
+-118.5631867,34.3753496,5,65 mph,Golden State Freeway,I 5,North
+-118.2992978,34.1667738,6,65 mph,Golden State Freeway,I 5,North
+-118.299973,34.1672491,6,65 mph,Golden State Freeway,I 5,North
+-118.3001456,34.1673907,6,65 mph,Golden State Freeway,I 5,North
+-118.3078246,34.1768246,5,65 mph,Golden State Freeway,I 5,North
+-118.3078593,34.1768536,5,65 mph,Golden State Freeway,I 5,North
+-118.3080997,34.1770763,5,65 mph,Golden State Freeway,I 5,North
+-118.3084033,34.177341,5,65 mph,Golden State Freeway,I 5,North
+-118.3088057,34.1776133,5,65 mph,Golden State Freeway,I 5,North
+-118.3095238,34.1779944,5,65 mph,Golden State Freeway,I 5,North
+-118.310451,34.1785758,5,65 mph,Golden State Freeway,I 5,North
+-118.3120707,34.179625,5,65 mph,Golden State Freeway,I 5,North
+-118.3127409,34.1800812,5,65 mph,Golden State Freeway,I 5,North
+-118.3131757,34.1804557,5,65 mph,Golden State Freeway,I 5,North
+-118.4070062,34.2322347,6,65 mph,Golden State Freeway,I 5,North
+-118.4076888,34.2324109,6,65 mph,Golden State Freeway,I 5,North
+-118.4083342,34.2326603,6,65 mph,Golden State Freeway,I 5,North
+-118.465245,34.2888761,4,65 mph,Golden State Freeway,I 5,North
+-118.4657325,34.2893738,4,65 mph,Golden State Freeway,I 5,North
+-118.4675938,34.2912441,4,65 mph,Golden State Freeway,I 5,North
+-118.4682116,34.2918714,4,65 mph,Golden State Freeway,I 5,North
+-118.4733515,34.2970448,4,65 mph,Golden State Freeway,I 5,North
+-118.5213076,34.3408942,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5217018,34.3409684,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5220787,34.3410304,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5247126,34.3413792,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5250586,34.3414313,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5254408,34.3415033,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.525807,34.3415819,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5261607,34.3416665,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5265719,34.3417866,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5269849,34.3419206,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5274879,34.3421188,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5278848,34.3422949,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5282657,34.342471,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5287042,34.3427124,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5291388,34.3429626,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5298424,34.3434548,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.530524,34.3440292,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5311222,34.3446614,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5316613,34.3452594,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5321414,34.3457399,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5325746,34.3461087,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.532997,34.3464364,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5334517,34.3467454,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5339144,34.347031,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.53442,34.3473045,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5349403,34.3475492,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5358362,34.3479069,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5412882,34.3499972,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5435513,34.3508852,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5456412,34.3516914,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5461648,34.3519252,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5466369,34.3521732,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5472033,34.3525134,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5477012,34.3528818,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.548096,34.3531794,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5524733,34.3571758,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5529111,34.3576789,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5534003,34.3583591,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5537395,34.3589061,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5539948,34.3593937,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5541037,34.3596526,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5631867,34.3753496,4,65 mph,Golden State Freeway,I 5,North
+-118.5663072,34.3803717,4,65 mph,Golden State Freeway,I 5,North
+-118.566432,34.3806469,4,65 mph,Golden State Freeway,I 5,North
+-118.268051,34.1148722,5,65 mph,Golden State Freeway,I 5,North
+-118.2683412,34.1154495,5,65 mph,Golden State Freeway,I 5,North
+-118.2685815,34.1159039,5,65 mph,Golden State Freeway,I 5,North
+-118.2692217,34.1170889,5,65 mph,Golden State Freeway,I 5,North
+-118.4733515,34.2970448,7,65 mph,Golden State Freeway,I 5,North
+-118.4770188,34.3007564,7,65 mph,Golden State Freeway,I 5,North
+-118.2184964,34.0408218,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2178945,34.0417117,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2172388,34.0427013,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2169165,34.0431934,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2161393,34.0443431,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2154008,34.045503,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2152843,34.0457049,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2148216,34.0466187,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2148216,34.0466187,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.2145687,34.0472478,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.214553,34.047287,5,55 mph,Golden State Freeway,I 5;I 10,North
+-118.190134,34.0202245,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1904822,34.0202227,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1910377,34.0202199,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1913011,34.0202197,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1914719,34.020228,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1919317,34.0202555,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1926141,34.0203355,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.193653,34.0205416,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1943384,34.0207301,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.1943856,34.0207429,"['5', '6']",65 mph,Santa Ana Freeway,I 5,North
+-118.2766182,34.1384773,5,65 mph,Golden State Freeway,I 5,North
+-118.2769469,34.139347,5,65 mph,Golden State Freeway,I 5,North
+-118.2774632,34.1406967,5,65 mph,Golden State Freeway,I 5,North
+-118.2775755,34.1410047,5,65 mph,Golden State Freeway,I 5,North
+-118.2776744,34.1413319,5,65 mph,Golden State Freeway,I 5,North
+-118.2778849,34.1423087,5,65 mph,Golden State Freeway,I 5,North
+-118.278072,34.143291,5,65 mph,Golden State Freeway,I 5,North
+-118.4246959,34.247141,7,65 mph,Golden State Freeway,I 5,North
+-118.4270965,34.2494213,7,65 mph,Golden State Freeway,I 5,North
+-118.4821715,34.3061368,6,65 mph,Golden State Freeway,I 5,North
+-118.4837769,34.3078,6,65 mph,Golden State Freeway,I 5,North
+-118.4845822,34.3086547,6,65 mph,Golden State Freeway,I 5,North
+-118.4853617,34.3095199,6,65 mph,Golden State Freeway,I 5,North
+-118.48721,34.3119947,6,65 mph,Golden State Freeway,I 5,North
+-118.4192848,34.2420253,7,65 mph,Golden State Freeway,I 5,North
+-118.4211977,34.2437871,7,65 mph,Golden State Freeway,I 5,North
+-118.4220581,34.2446618,7,65 mph,Golden State Freeway,I 5,North
+-118.4224274,34.245009,7,65 mph,Golden State Freeway,I 5,North
+-118.4270965,34.2494213,7,65 mph,Golden State Freeway,I 5,North
+-118.428423,34.2506788,7,65 mph,Golden State Freeway,I 5,North
+-118.4287709,34.2509905,7,65 mph,Golden State Freeway,I 5,North
+-118.431404,34.2534698,7,65 mph,Golden State Freeway,I 5,North
+-118.5083817,34.3361213,2,,Golden State Freeway,I 5 Truck,North
+-118.5086216,34.3361928,2,,Golden State Freeway,I 5 Truck,North
+-118.5095686,34.3363987,2,,Golden State Freeway,I 5 Truck,North
+-118.5099283,34.3364783,2,,Golden State Freeway,I 5 Truck,North
+-118.5102482,34.336549,2,,Golden State Freeway,I 5 Truck,North
+-118.5105639,34.3366288,2,,Golden State Freeway,I 5 Truck,North
+-118.5109014,34.3367283,2,,Golden State Freeway,I 5 Truck,North
+-118.5112218,34.33684,2,,Golden State Freeway,I 5 Truck,North
+-118.5114554,34.3369312,2,,Golden State Freeway,I 5 Truck,North
+-118.5117126,34.3370417,2,,Golden State Freeway,I 5 Truck,North
+-118.5157179,34.3388327,2,,Golden State Freeway,I 5 Truck,North
+-118.5184838,34.3400708,2,,Golden State Freeway,I 5 Truck,North
+-118.5187697,34.340196,2,,Golden State Freeway,I 5 Truck,North
+-118.5192015,34.3403732,2,,Golden State Freeway,I 5 Truck,North
+-118.5195878,34.3405127,2,,Golden State Freeway,I 5 Truck,North
+-118.5199968,34.3406445,2,,Golden State Freeway,I 5 Truck,North
+-118.5204353,34.3407663,2,,Golden State Freeway,I 5 Truck,North
+-118.5208704,34.3408765,2,,Golden State Freeway,I 5 Truck,North
+-118.5213076,34.3408942,2,,Golden State Freeway,I 5 Truck,North
+-118.3912596,34.2281562,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3915705,34.2283039,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3949209,34.2298941,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3954488,34.2301079,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3959338,34.2302734,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3965137,34.2304487,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3970009,34.230557,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3977297,34.2306955,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3982088,34.2307715,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3991073,34.2309156,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.2045752,34.025116,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2061153,34.0256473,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1911134,34.0200539,5,55 mph,Santa Ana Freeway,I 5,North
+-118.1878617,34.0200892,5,55 mph,Santa Ana Freeway,I 5,North
+-118.215175,34.0611484,5,55 mph,Golden State Freeway,I 5,North
+-118.215477,34.0620595,5,55 mph,Golden State Freeway,I 5,North
+-118.2156805,34.0626581,5,55 mph,Golden State Freeway,I 5,North
+-118.2157553,34.0629264,5,55 mph,Golden State Freeway,I 5,North
+-118.2158497,34.063282,5,55 mph,Golden State Freeway,I 5,North
+-118.215936,34.0636295,5,55 mph,Golden State Freeway,I 5,North
+-118.2160235,34.0641306,5,55 mph,Golden State Freeway,I 5,North
+-118.2160783,34.0645995,5,55 mph,Golden State Freeway,I 5,North
+-118.2161379,34.0652376,5,55 mph,Golden State Freeway,I 5,North
+-118.2161892,34.0658645,5,55 mph,Golden State Freeway,I 5,North
+-118.2161988,34.0661092,5,55 mph,Golden State Freeway,I 5,North
+-118.2162127,34.0665392,5,55 mph,Golden State Freeway,I 5,North
+-118.2140908,34.0556405,4,55 mph,Golden State Freeway,I 5,North
+-118.2141134,34.0561727,4,55 mph,Golden State Freeway,I 5,North
+-118.2141518,34.0571219,4,55 mph,Golden State Freeway,I 5,North
+-118.2141778,34.0574969,4,55 mph,Golden State Freeway,I 5,North
+-118.2142267,34.0579405,4,55 mph,Golden State Freeway,I 5,North
+-118.2142267,34.0579405,5,55 mph,Golden State Freeway,I 5,North
+-118.2143046,34.0583635,5,55 mph,Golden State Freeway,I 5,North
+-118.2144391,34.0588989,5,55 mph,Golden State Freeway,I 5,North
+-118.2146218,34.0594989,5,55 mph,Golden State Freeway,I 5,North
+-118.2148141,34.0600751,5,55 mph,Golden State Freeway,I 5,North
+-118.2149252,34.0604079,5,55 mph,Golden State Freeway,I 5,North
+-118.215175,34.0611484,5,55 mph,Golden State Freeway,I 5,North
+-118.2341105,34.0872121,5,65 mph,Golden State Freeway,I 5,North
+-118.2352751,34.0879235,5,65 mph,Golden State Freeway,I 5,North
+-118.2362563,34.0885244,5,65 mph,Golden State Freeway,I 5,North
+-118.236661,34.0887964,5,65 mph,Golden State Freeway,I 5,North
+-118.2373862,34.0893235,5,65 mph,Golden State Freeway,I 5,North
+-118.2379631,34.0897829,5,65 mph,Golden State Freeway,I 5,North
+-118.2397004,34.0915116,5,65 mph,Golden State Freeway,I 5,North
+-118.2256588,34.0825419,4,65 mph,Golden State Freeway,I 5,North
+-118.2265319,34.0827877,4,65 mph,Golden State Freeway,I 5,North
+-118.2273476,34.0830299,4,65 mph,Golden State Freeway,I 5,North
+-118.2278458,34.0832017,4,65 mph,Golden State Freeway,I 5,North
+-118.2282969,34.0833923,4,65 mph,Golden State Freeway,I 5,North
+-118.2286871,34.0836051,4,65 mph,Golden State Freeway,I 5,North
+-118.2290963,34.083847,4,65 mph,Golden State Freeway,I 5,North
+-118.2294591,34.0841052,4,65 mph,Golden State Freeway,I 5,North
+-118.2312838,34.085421,4,65 mph,Golden State Freeway,I 5,North
+-118.2315134,34.0855729,4,65 mph,Golden State Freeway,I 5,North
+-118.2320145,34.0858953,4,65 mph,Golden State Freeway,I 5,North
+-118.23226,34.0860483,4,65 mph,Golden State Freeway,I 5,North
+-118.2341105,34.0872121,4,65 mph,Golden State Freeway,I 5,North
+-118.4957327,34.3208895,7,65 mph,Golden State Freeway,I 5,North
+-118.4963373,34.3212263,7,65 mph,Golden State Freeway,I 5,North
+-118.498546,34.3224569,7,65 mph,Golden State Freeway,I 5,North
+-118.4986844,34.3225303,7,65 mph,Golden State Freeway,I 5,North
+-118.489175,34.3146775,2,,Golden State Freeway,I 5 Truck,North
+-118.4892374,34.3149223,2,,Golden State Freeway,I 5 Truck,North
+-118.489337,34.3150984,2,,Golden State Freeway,I 5 Truck,North
+-118.4895486,34.315421,2,,Golden State Freeway,I 5 Truck,North
+-118.4908591,34.3174408,2,,Golden State Freeway,I 5 Truck,North
+-118.4911708,34.3179732,2,,Golden State Freeway,I 5 Truck,North
+-118.4914859,34.318374,2,,Golden State Freeway,I 5 Truck,North
+-118.4918974,34.3188143,2,,Golden State Freeway,I 5 Truck,North
+-118.4923229,34.3191825,2,,Golden State Freeway,I 5 Truck,North
+-118.4927056,34.3194865,2,,Golden State Freeway,I 5 Truck,North
+-118.4931153,34.3197727,2,,Golden State Freeway,I 5 Truck,North
+-118.4940855,34.3203053,2,,Golden State Freeway,I 5 Truck,North
+-118.4947761,34.3206561,2,,Golden State Freeway,I 5 Truck,North
+-118.489175,34.3146775,5,65 mph,Golden State Freeway,I 5,North
+-118.4897487,34.3154578,5,65 mph,Golden State Freeway,I 5,North
+-118.4900767,34.3159205,5,65 mph,Golden State Freeway,I 5,North
+-118.4902616,34.3161692,5,65 mph,Golden State Freeway,I 5,North
+-118.4906001,34.3166358,5,65 mph,Golden State Freeway,I 5,North
+-118.4911331,34.3172622,5,65 mph,Golden State Freeway,I 5,North
+-118.4916445,34.317819,5,65 mph,Golden State Freeway,I 5,North
+-118.4922897,34.3184381,5,65 mph,Golden State Freeway,I 5,North
+-118.4927902,34.3188734,5,65 mph,Golden State Freeway,I 5,North
+-118.4931692,34.3191764,5,65 mph,Golden State Freeway,I 5,North
+-118.4938544,34.3196862,5,65 mph,Golden State Freeway,I 5,North
+-118.494135,34.3198719,5,65 mph,Golden State Freeway,I 5,North
+-118.4944814,34.3201016,5,65 mph,Golden State Freeway,I 5,North
+-118.4947722,34.320282,5,65 mph,Golden State Freeway,I 5,North
+-118.4957327,34.3208895,5,65 mph,Golden State Freeway,I 5,North
+-118.4775085,34.3012305,6,65 mph,Golden State Freeway,I 5,North
+-118.4794272,34.3032229,6,65 mph,Golden State Freeway,I 5,North
+-118.4797101,34.3035189,6,65 mph,Golden State Freeway,I 5,North
+-118.4821715,34.3061368,6,65 mph,Golden State Freeway,I 5,North
+-118.4770188,34.3007564,7,65 mph,Golden State Freeway,I 5,North
+-118.4772145,34.3009469,7,65 mph,Golden State Freeway,I 5,North
+-118.4775085,34.3012305,7,65 mph,Golden State Freeway,I 5,North
+-118.4554137,34.2795857,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4556385,34.2799618,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4572249,34.2826166,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4577842,34.2834088,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.458389,34.2840933,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4587247,34.2844172,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4591303,34.2847594,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4594491,34.2850039,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4599603,34.2853674,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4632914,34.2873742,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4633901,34.2874377,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4640228,34.2878428,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4644003,34.2881079,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.4647589,34.2884077,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.465245,34.2888761,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.449581,34.2735353,4,65 mph,Golden State Freeway,I 5,North
+-118.4498669,34.2738947,4,65 mph,Golden State Freeway,I 5,North
+-118.4502672,34.2743729,4,65 mph,Golden State Freeway,I 5,North
+-118.4508705,34.2749924,4,65 mph,Golden State Freeway,I 5,North
+-118.4514825,34.2755589,4,65 mph,Golden State Freeway,I 5,North
+-118.4527493,34.2767588,4,65 mph,Golden State Freeway,I 5,North
+-118.4531025,34.2770798,4,65 mph,Golden State Freeway,I 5,North
+-118.4541378,34.2780568,4,65 mph,Golden State Freeway,I 5,North
+-118.4547269,34.2786444,4,65 mph,Golden State Freeway,I 5,North
+-118.4550834,34.2790843,4,65 mph,Golden State Freeway,I 5,North
+-118.4554137,34.2795857,4,65 mph,Golden State Freeway,I 5,North
+-118.3991073,34.2309156,5,65 mph,Golden State Freeway,I 5,North
+-118.4007855,34.2311866,5,65 mph,Golden State Freeway,I 5,North
+-118.4029835,34.2315347,5,65 mph,Golden State Freeway,I 5,North
+-118.4043364,34.2317525,5,65 mph,Golden State Freeway,I 5,North
+-118.4061246,34.2320676,5,65 mph,Golden State Freeway,I 5,North
+-118.4070062,34.2322347,5,65 mph,Golden State Freeway,I 5,North
+-118.2162127,34.0665392,5,55 mph,Golden State Freeway,I 5,North
+-118.2162577,34.0671391,5,55 mph,Golden State Freeway,I 5,North
+-118.2163187,34.0675154,5,55 mph,Golden State Freeway,I 5,North
+-118.2164091,34.0678701,5,55 mph,Golden State Freeway,I 5,North
+-118.2165676,34.0683211,5,55 mph,Golden State Freeway,I 5,North
+-118.2167832,34.068768,5,55 mph,Golden State Freeway,I 5,North
+-118.2167832,34.068768,4,55 mph,Golden State Freeway,I 5,North
+-118.2170831,34.0692614,4,55 mph,Golden State Freeway,I 5,North
+-118.2186309,34.0717263,4,55 mph,Golden State Freeway,I 5,North
+-118.2187913,34.0720156,4,55 mph,Golden State Freeway,I 5,North
+-118.2189903,34.0724605,4,55 mph,Golden State Freeway,I 5,North
+-118.2191057,34.0727946,4,55 mph,Golden State Freeway,I 5,North
+-118.21922,34.0732487,4,55 mph,Golden State Freeway,I 5,North
+-118.2192688,34.0735677,4,55 mph,Golden State Freeway,I 5,North
+-118.2193038,34.0738839,4,55 mph,Golden State Freeway,I 5,North
+-118.2193017,34.074196,4,55 mph,Golden State Freeway,I 5,North
+-118.2193017,34.074196,4,55 mph,Golden State Freeway,I 5,North
+-118.2192919,34.0746345,4,55 mph,Golden State Freeway,I 5,North
+-118.2191706,34.0760043,4,55 mph,Golden State Freeway,I 5,North
+-118.2191685,34.0765001,4,55 mph,Golden State Freeway,I 5,North
+-118.2191996,34.0768664,4,55 mph,Golden State Freeway,I 5,North
+-118.2192519,34.077189,4,55 mph,Golden State Freeway,I 5,North
+-118.2193367,34.0774961,4,55 mph,Golden State Freeway,I 5,North
+-118.2194309,34.0777694,4,55 mph,Golden State Freeway,I 5,North
+-118.2195353,34.0780058,4,55 mph,Golden State Freeway,I 5,North
+-118.2197456,34.078436,4,55 mph,Golden State Freeway,I 5,North
+-118.2197456,34.078436,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2200636,34.078927,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2202838,34.0792235,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2204988,34.0794885,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2208165,34.0798495,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.221106,34.0801333,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2215128,34.0804823,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2218915,34.0807895,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2222074,34.0810209,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2226712,34.0813259,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2230478,34.0815461,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2234648,34.081755,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2239104,34.0819606,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2245089,34.0821942,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2250547,34.0823747,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2256588,34.0825419,4,"['55 mph', '65 mph']",Golden State Freeway,I 5,North
+-118.2434784,34.0952963,5,65 mph,Golden State Freeway,I 5,North
+-118.2435796,34.0954059,5,65 mph,Golden State Freeway,I 5,North
+-118.243864,34.0956935,5,65 mph,Golden State Freeway,I 5,North
+-118.2441886,34.0960296,5,65 mph,Golden State Freeway,I 5,North
+-118.2464612,34.0983542,5,65 mph,Golden State Freeway,I 5,North
+-118.2467496,34.098669,5,65 mph,Golden State Freeway,I 5,North
+-118.2469544,34.0988995,5,65 mph,Golden State Freeway,I 5,North
+-118.2471494,34.0991386,5,65 mph,Golden State Freeway,I 5,North
+-118.247314,34.0993581,5,65 mph,Golden State Freeway,I 5,North
+-118.247314,34.0993581,4,65 mph,Golden State Freeway,I 5,North
+-118.247807,34.1000797,4,65 mph,Golden State Freeway,I 5,North
+-118.2482885,34.1008004,4,65 mph,Golden State Freeway,I 5,North
+-118.2485017,34.1011202,4,65 mph,Golden State Freeway,I 5,North
+-118.2487391,34.1014345,4,65 mph,Golden State Freeway,I 5,North
+-118.2489952,34.1017466,4,65 mph,Golden State Freeway,I 5,North
+-118.2494472,34.1022263,4,65 mph,Golden State Freeway,I 5,North
+-118.2499058,34.1026594,4,65 mph,Golden State Freeway,I 5,North
+-118.2502948,34.1029781,4,65 mph,Golden State Freeway,I 5,North
+-118.250702,34.1032768,4,65 mph,Golden State Freeway,I 5,North
+-118.4461638,34.2694416,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4468213,34.2700661,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4470338,34.2702662,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4472492,34.270477,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4475601,34.270819,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4434804,34.2668866,5,65 mph,Golden State Freeway,I 5,North
+-118.4439803,34.2674132,5,65 mph,Golden State Freeway,I 5,North
+-118.4443084,34.2677204,5,65 mph,Golden State Freeway,I 5,North
+-118.4447871,34.268158,5,65 mph,Golden State Freeway,I 5,North
+-118.4461638,34.2694416,5,65 mph,Golden State Freeway,I 5,North
+-118.4475601,34.270819,5,65 mph,Golden State Freeway,I 5,North
+-118.4478084,34.2710945,5,65 mph,Golden State Freeway,I 5,North
+-118.4480659,34.271435,5,65 mph,Golden State Freeway,I 5,North
+-118.4487631,34.2723843,5,65 mph,Golden State Freeway,I 5,North
+-118.4492684,34.2731096,5,65 mph,Golden State Freeway,I 5,North
+-118.449581,34.2735353,5,65 mph,Golden State Freeway,I 5,North
+-118.440231,34.2620595,5,65 mph,Golden State Freeway,I 5,North
+-118.4407288,34.2628043,5,65 mph,Golden State Freeway,I 5,North
+-118.440968,34.2631796,5,65 mph,Golden State Freeway,I 5,North
+-118.4418787,34.2646111,5,65 mph,Golden State Freeway,I 5,North
+-118.4421491,34.2650377,5,65 mph,Golden State Freeway,I 5,North
+-118.442625,34.2657799,5,65 mph,Golden State Freeway,I 5,North
+-118.4431934,34.2665268,5,65 mph,Golden State Freeway,I 5,North
+-118.4434804,34.2668866,5,65 mph,Golden State Freeway,I 5,North
+-118.278072,34.143291,6,65 mph,Golden State Freeway,I 5,North
+-118.2783499,34.1446331,6,65 mph,Golden State Freeway,I 5,North
+-118.2790667,34.147252,6,65 mph,Golden State Freeway,I 5,North
+-118.2061153,34.0256473,4,65 mph,Golden State Freeway,I 5,North
+-118.2062359,34.0257296,4,65 mph,Golden State Freeway,I 5,North
+-118.2066231,34.0258804,4,65 mph,Golden State Freeway,I 5,North
+-118.2072815,34.0261319,4,65 mph,Golden State Freeway,I 5,North
+-118.2078422,34.0263778,4,65 mph,Golden State Freeway,I 5,North
+-118.2086059,34.0267413,4,65 mph,Golden State Freeway,I 5,North
+-118.2093583,34.0271069,4,65 mph,Golden State Freeway,I 5,North
+-118.209591,34.0272195,4,65 mph,Golden State Freeway,I 5,North
+-118.209591,34.0272195,2,65 mph,Golden State Freeway,I 5,North
+-118.2098223,34.0272966,2,65 mph,Golden State Freeway,I 5,North
+-118.2108091,34.0277823,2,65 mph,Golden State Freeway,I 5,North
+-118.2112726,34.0280028,2,65 mph,Golden State Freeway,I 5,North
+-118.2119764,34.0283655,2,65 mph,Golden State Freeway,I 5,North
+-118.2124056,34.0286003,2,65 mph,Golden State Freeway,I 5,North
+-118.2128777,34.0288493,2,65 mph,Golden State Freeway,I 5,North
+-118.2132553,34.0290627,2,65 mph,Golden State Freeway,I 5,North
+-118.2132553,34.0290627,2,65 mph,Golden State Freeway,I 5,North
+-118.2142228,34.0295094,2,65 mph,Golden State Freeway,I 5,North
+-118.2167261,34.0306516,2,65 mph,Golden State Freeway,I 5,North
+-118.2167261,34.0306516,3,65 mph,Golden State Freeway,I 5,North
+-118.2174553,34.0309917,3,65 mph,Golden State Freeway,I 5,North
+-118.2179725,34.0312756,3,65 mph,Golden State Freeway,I 5,North
+-118.2183197,34.0315044,3,65 mph,Golden State Freeway,I 5,North
+-118.2185816,34.0317005,3,65 mph,Golden State Freeway,I 5,North
+-118.2189206,34.0319851,3,65 mph,Golden State Freeway,I 5,North
+-118.2189206,34.0319851,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.219004,34.0320589,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2191221,34.0321762,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2191665,34.0322242,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.219291,34.0323584,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2194131,34.0324918,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2195244,34.032623,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2197027,34.0328574,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2197731,34.0329786,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2198375,34.0330886,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2198811,34.033174,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2199207,34.0332579,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2199502,34.0333307,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2199774,34.0334207,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2199998,34.0335313,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2200159,34.0336437,"['3', '2']",65 mph,Golden State Freeway,I 5,North
+-118.2200159,34.0336437,2,65 mph,Golden State Freeway,I 5,North
+-118.2200997,34.0341611,2,65 mph,Golden State Freeway,I 5,North
+-118.2200796,34.0344223,2,65 mph,Golden State Freeway,I 5,North
+-118.2200484,34.034689,2,65 mph,Golden State Freeway,I 5,North
+-118.2200193,34.0349544,2,65 mph,Golden State Freeway,I 5,North
+-118.2199657,34.0353256,2,65 mph,Golden State Freeway,I 5,North
+-118.2199255,34.035669,2,65 mph,Golden State Freeway,I 5,North
+-118.2198835,34.0360162,2,65 mph,Golden State Freeway,I 5,North
+-118.2198267,34.0364512,2,65 mph,Golden State Freeway,I 5,North
+-118.2197428,34.0370929,2,65 mph,Golden State Freeway,I 5,North
+-118.2196688,34.037626,2,65 mph,Golden State Freeway,I 5,North
+-118.2196868,34.0377424,2,65 mph,Golden State Freeway,I 5,North
+-118.2878287,34.1545102,6,65 mph,Golden State Freeway,I 5,North
+-118.2881814,34.1547533,6,65 mph,Golden State Freeway,I 5,North
+-118.2885435,34.1550185,6,65 mph,Golden State Freeway,I 5,North
+-118.2889157,34.1553017,6,65 mph,Golden State Freeway,I 5,North
+-118.289326,34.1556547,6,65 mph,Golden State Freeway,I 5,North
+-118.2896505,34.1559655,6,65 mph,Golden State Freeway,I 5,North
+-118.2900304,34.1563698,6,65 mph,Golden State Freeway,I 5,North
+-118.290456,34.1568796,6,65 mph,Golden State Freeway,I 5,North
+-118.2907515,34.1572774,6,65 mph,Golden State Freeway,I 5,North
+-118.2910043,34.1576714,6,65 mph,Golden State Freeway,I 5,North
+-118.2913255,34.1581996,6,65 mph,Golden State Freeway,I 5,North
+-118.2928645,34.1608763,6,65 mph,Golden State Freeway,I 5,North
+-118.2930123,34.1611131,6,65 mph,Golden State Freeway,I 5,North
+-118.2932835,34.1616006,6,65 mph,Golden State Freeway,I 5,North
+-118.2933469,34.1616924,6,65 mph,Golden State Freeway,I 5,North
+-118.387007,34.226626,5,65 mph,Golden State Freeway,I 5,North
+-118.3874831,34.2266959,5,65 mph,Golden State Freeway,I 5,North
+-118.3879538,34.2267934,5,65 mph,Golden State Freeway,I 5,North
+-118.388458,34.2269287,5,65 mph,Golden State Freeway,I 5,North
+-118.3889234,34.2270829,5,65 mph,Golden State Freeway,I 5,North
+-118.3894263,34.2272824,5,65 mph,Golden State Freeway,I 5,North
+-118.3899185,34.2275075,5,65 mph,Golden State Freeway,I 5,North
+-118.3912596,34.2281562,5,65 mph,Golden State Freeway,I 5,North
+-118.4083342,34.2326603,5,65 mph,Golden State Freeway,I 5,North
+-118.4085987,34.2327694,5,65 mph,Golden State Freeway,I 5,North
+-118.4088793,34.2329116,5,65 mph,Golden State Freeway,I 5,North
+-118.4094651,34.233271,5,65 mph,Golden State Freeway,I 5,North
+-118.4098755,34.233572,5,65 mph,Golden State Freeway,I 5,North
+-118.4109058,34.2344513,5,65 mph,Golden State Freeway,I 5,North
+-118.4119439,34.2353259,5,65 mph,Golden State Freeway,I 5,North
+-118.4127949,34.236065,5,65 mph,Golden State Freeway,I 5,North
+-118.4137034,34.2367763,5,65 mph,Golden State Freeway,I 5,North
+-118.4143016,34.2372497,5,65 mph,Golden State Freeway,I 5,North
+-118.3001456,34.1673907,5,65 mph,Golden State Freeway,I 5,North
+-118.3040668,34.1702514,5,65 mph,Golden State Freeway,I 5,North
+-118.3043301,34.1704451,5,65 mph,Golden State Freeway,I 5,North
+-118.3046034,34.1706789,5,65 mph,Golden State Freeway,I 5,North
+-118.3048522,34.1708969,5,65 mph,Golden State Freeway,I 5,North
+-118.305164,34.1712159,5,65 mph,Golden State Freeway,I 5,North
+-118.3054698,34.1716032,5,65 mph,Golden State Freeway,I 5,North
+-118.3057159,34.1719738,5,65 mph,Golden State Freeway,I 5,North
+-118.3058949,34.1723188,5,65 mph,Golden State Freeway,I 5,North
+-118.306029,34.172634,5,65 mph,Golden State Freeway,I 5,North
+-118.3061745,34.1731143,5,65 mph,Golden State Freeway,I 5,North
+-118.3694687,34.2224537,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3699863,34.222619,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3700695,34.2226516,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3705509,34.2228419,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3710766,34.223108,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3717003,34.2235072,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3722756,34.223953,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.4155667,34.2385042,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4158118,34.2387532,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4160843,34.2390486,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4162547,34.2392074,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4192848,34.2420253,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4224274,34.245009,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4230455,34.24559,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4246959,34.247141,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.431404,34.2534698,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4333439,34.2552617,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4347185,34.2565707,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4350865,34.2569162,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4379671,34.2596359,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.4387302,34.260363,"['7', '8']",65 mph,Golden State Freeway,I 5,North
+-118.28215,34.1519891,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2822942,34.1520802,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2828523,34.1523854,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2831938,34.152547,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2835358,34.1526901,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2839663,34.1528488,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2840196,34.1528674,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2846476,34.1530852,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2851679,34.1532617,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2855823,34.1534093,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2859243,34.1535425,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2862449,34.1536723,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.28656,34.1538166,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2868725,34.1539642,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2871166,34.1540974,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2874706,34.1542916,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.2878287,34.1545102,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.3722756,34.223953,5,65 mph,Golden State Freeway,I 5,North
+-118.3740844,34.2253986,5,65 mph,Golden State Freeway,I 5,North
+-118.3745342,34.2257073,5,65 mph,Golden State Freeway,I 5,North
+-118.374955,34.2259521,5,65 mph,Golden State Freeway,I 5,North
+-118.3753677,34.2261494,5,65 mph,Golden State Freeway,I 5,North
+-118.3756614,34.2262845,5,65 mph,Golden State Freeway,I 5,North
+-118.376187,34.2264799,5,65 mph,Golden State Freeway,I 5,North
+-118.3765755,34.2265972,5,65 mph,Golden State Freeway,I 5,North
+-118.3769772,34.2266927,5,65 mph,Golden State Freeway,I 5,North
+-118.3775226,34.2267905,5,65 mph,Golden State Freeway,I 5,North
+-118.3779042,34.2268392,5,65 mph,Golden State Freeway,I 5,North
+-118.3782441,34.2268603,5,65 mph,Golden State Freeway,I 5,North
+-118.3786459,34.2268625,5,65 mph,Golden State Freeway,I 5,North
+-118.3789803,34.2268536,5,65 mph,Golden State Freeway,I 5,North
+-118.3806693,34.2267746,5,65 mph,Golden State Freeway,I 5,North
+-118.3808548,34.2267701,5,65 mph,Golden State Freeway,I 5,North
+-118.1763663,34.0181187,5,65 mph,Santa Ana Freeway,I 5,North
+-118.177388,34.0185776,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1779254,34.0188178,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1784547,34.0190543,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1793,34.0194309,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1798698,34.0196363,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1802215,34.0197442,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1805735,34.0198523,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1811581,34.019988,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1817613,34.0201008,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1826162,34.0202137,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2196868,34.0377424,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2196259,34.038101,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2195509,34.0385375,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2194788,34.0389068,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2193862,34.0392167,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2192792,34.039506,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2191344,34.0398214,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2189074,34.0402431,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.2184964,34.0408218,5,65 mph,Golden State Freeway,I 5;I 10,North
+-118.250702,34.1032768,4,65 mph,Golden State Freeway,I 5,North
+-118.2514989,34.1038057,4,65 mph,Golden State Freeway,I 5,North
+-118.2518042,34.1040188,4,65 mph,Golden State Freeway,I 5,North
+-118.2529343,34.1048089,4,65 mph,Golden State Freeway,I 5,North
+-118.2530809,34.1049132,4,65 mph,Golden State Freeway,I 5,North
+-118.2535112,34.105207,4,65 mph,Golden State Freeway,I 5,North
+-118.2539509,34.1055406,4,65 mph,Golden State Freeway,I 5,North
+-118.2543514,34.1058645,4,65 mph,Golden State Freeway,I 5,North
+-118.261933,34.1099031,4,65 mph,Golden State Freeway,I 5,North
+-118.2632019,34.1106424,4,65 mph,Golden State Freeway,I 5,North
+-118.2646469,34.1115852,4,65 mph,Golden State Freeway,I 5,North
+-118.265324,34.112051,4,65 mph,Golden State Freeway,I 5,North
+-118.2658255,34.112393,4,65 mph,Golden State Freeway,I 5,North
+-118.266389,34.1127977,4,65 mph,Golden State Freeway,I 5,North
+-118.2667173,34.1130658,4,65 mph,Golden State Freeway,I 5,North
+-118.2670623,34.113399,4,65 mph,Golden State Freeway,I 5,North
+-118.267303,34.113675,4,65 mph,Golden State Freeway,I 5,North
+-118.2675112,34.1139479,4,65 mph,Golden State Freeway,I 5,North
+-118.2677019,34.1142389,4,65 mph,Golden State Freeway,I 5,North
+-118.2679044,34.1145953,4,65 mph,Golden State Freeway,I 5,North
+-118.268051,34.1148722,4,65 mph,Golden State Freeway,I 5,North
+-118.1826162,34.0202137,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1831771,34.0202458,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1837028,34.0202536,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1870364,34.0202371,5,65 mph,Santa Ana Freeway,I 5,North
+-118.188239,34.0202327,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1943856,34.0207429,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1951272,34.0210107,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1955732,34.0211861,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1960858,34.0214131,5,65 mph,Santa Ana Freeway,I 5,North
+-118.4986844,34.3225303,7,65 mph,Golden State Freeway,I 5,North
+-118.5013286,34.3240843,7,65 mph,Golden State Freeway,I 5,North
+-118.501723,34.3243451,7,65 mph,Golden State Freeway,I 5,North
+-118.5020641,34.3245962,7,65 mph,Golden State Freeway,I 5,North
+-118.5024746,34.324919,7,65 mph,Golden State Freeway,I 5,North
+-118.503132,34.3255692,7,65 mph,Golden State Freeway,I 5,North
+-118.5036349,34.3261246,7,65 mph,Golden State Freeway,I 5,North
+-118.5037226,34.326245,7,65 mph,Golden State Freeway,I 5,North
+-118.5040371,34.3266563,7,65 mph,Golden State Freeway,I 5,North
+-118.5042945,34.3270515,7,65 mph,Golden State Freeway,I 5,North
+-118.5046104,34.3276213,7,65 mph,Golden State Freeway,I 5,North
+-118.5051829,34.3287917,7,65 mph,Golden State Freeway,I 5,North
+-118.5062062,34.3308526,7,65 mph,Golden State Freeway,I 5,North
+-118.472044,34.2959603,3,65 mph,,I 5 Truck,North
+-118.4733515,34.2970448,3,65 mph,,I 5 Truck,North
+-118.2543514,34.1058645,5,65 mph,Golden State Freeway,I 5,North
+-118.255027,34.1063379,5,65 mph,Golden State Freeway,I 5,North
+-118.2555336,34.1066516,5,65 mph,Golden State Freeway,I 5,North
+-118.2558294,34.1068257,5,65 mph,Golden State Freeway,I 5,North
+-118.2563852,34.1071127,5,65 mph,Golden State Freeway,I 5,North
+-118.2567125,34.1072837,5,65 mph,Golden State Freeway,I 5,North
+-118.2598006,34.1088233,5,65 mph,Golden State Freeway,I 5,North
+-118.3146764,34.1821472,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3152638,34.1830329,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3154948,34.1832832,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3156101,34.1834177,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3164552,34.1843491,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3168193,34.1846718,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3172704,34.1850239,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3176801,34.1853125,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3181594,34.1856284,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3187795,34.1859813,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3208148,34.1870791,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3217241,34.1876318,"['5', '6']",65 mph,Golden State Freeway,I 5,North
+-118.3217241,34.1876318,7,65 mph,Golden State Freeway,I 5,North
+-118.3221712,34.1879467,7,65 mph,Golden State Freeway,I 5,North
+-118.3233386,34.1888407,7,65 mph,Golden State Freeway,I 5,North
+-118.3240798,34.1893818,7,65 mph,Golden State Freeway,I 5,North
+-118.2790667,34.147252,5,65 mph,Golden State Freeway,I 5,North
+-118.2791391,34.1475294,5,65 mph,Golden State Freeway,I 5,North
+-118.2793859,34.1484273,5,65 mph,Golden State Freeway,I 5,North
+-118.2795388,34.1488602,5,65 mph,Golden State Freeway,I 5,North
+-118.279574,34.1489468,5,65 mph,Golden State Freeway,I 5,North
+-118.2796876,34.1492187,5,65 mph,Golden State Freeway,I 5,North
+-118.2799129,34.1496426,5,65 mph,Golden State Freeway,I 5,North
+-118.2801838,34.1500877,5,65 mph,Golden State Freeway,I 5,North
+-118.2805205,34.1505516,5,65 mph,Golden State Freeway,I 5,North
+-118.2808571,34.1509023,5,65 mph,Golden State Freeway,I 5,North
+-118.28215,34.1519891,5,65 mph,Golden State Freeway,I 5,North
+-118.48721,34.3119947,6,65 mph,Golden State Freeway,I 5,North
+-118.4883451,34.3135599,6,65 mph,Golden State Freeway,I 5,North
+-118.4885416,34.3138309,6,65 mph,Golden State Freeway,I 5,North
+-118.4891026,34.314579,6,65 mph,Golden State Freeway,I 5,North
+-118.489175,34.3146775,6,65 mph,Golden State Freeway,I 5,North
+-118.4947761,34.3206561,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.496396,34.3214789,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.4989325,34.3229184,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5007951,34.323985,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5009767,34.3241172,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5013046,34.324414,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.501457,34.3245833,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5015904,34.3247538,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5018273,34.325133,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5019221,34.3253261,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5019955,34.3255151,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5021023,34.3259178,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5023564,34.3271827,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5024171,34.3273788,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.502488,34.327566,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5028715,34.3283136,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5029935,34.3285513,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.503836,34.3301107,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5039707,34.3304266,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5040899,34.3307702,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.5043762,34.3315957,"['3', '2']",,Golden State Freeway,I 5 Truck,North
+-118.1690925,34.0149004,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1696869,34.0150745,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1701933,34.0152168,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1704851,34.0153093,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1706418,34.0153573,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1709612,34.0154784,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1712406,34.0155997,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1715055,34.0157285,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1717928,34.0158847,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1721611,34.016108,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1723648,34.0162342,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1727763,34.0164782,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1731731,34.0166895,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1736265,34.0168958,4,65 mph,Santa Ana Freeway,I 5,North
+-118.174095,34.0171131,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1743271,34.0172194,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1750323,34.0175337,4,65 mph,Santa Ana Freeway,I 5,North
+-118.17558,34.0177812,4,65 mph,Santa Ana Freeway,I 5,North
+-118.1763663,34.0181187,4,65 mph,Santa Ana Freeway,I 5,North
+-118.5541037,34.3596526,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5541848,34.3598472,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5545333,34.3610374,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5549254,34.3621688,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5551,34.3627114,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5556184,34.3640547,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5558804,34.3646615,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5562064,34.3652381,"['5', '4']",65 mph,Golden State Freeway,I 5,North
+-118.5043762,34.3315957,2,,Golden State Freeway,I 5 Truck,North
+-118.5044628,34.3318453,2,,Golden State Freeway,I 5 Truck,North
+-118.5049512,34.3333269,2,,Golden State Freeway,I 5 Truck,North
+-118.5050458,34.3335398,2,,Golden State Freeway,I 5 Truck,North
+-118.5051462,34.3337403,2,,Golden State Freeway,I 5 Truck,North
+-118.5052658,34.3339421,2,,Golden State Freeway,I 5 Truck,North
+-118.5053814,34.3341179,2,,Golden State Freeway,I 5 Truck,North
+-118.505523,34.3343085,2,,Golden State Freeway,I 5 Truck,North
+-118.5056737,34.3344954,2,,Golden State Freeway,I 5 Truck,North
+-118.5058671,34.3347014,2,,Golden State Freeway,I 5 Truck,North
+-118.5060716,34.3348999,2,,Golden State Freeway,I 5 Truck,North
+-118.5062927,34.335089,2,,Golden State Freeway,I 5 Truck,North
+-118.5065279,34.3352656,2,,Golden State Freeway,I 5 Truck,North
+-118.5067729,34.33543,2,,Golden State Freeway,I 5 Truck,North
+-118.5070297,34.3355843,2,,Golden State Freeway,I 5 Truck,North
+-118.5072927,34.3357248,2,,Golden State Freeway,I 5 Truck,North
+-118.5075748,34.3358556,2,,Golden State Freeway,I 5 Truck,North
+-118.5078938,34.3359695,2,,Golden State Freeway,I 5 Truck,North
+-118.5083817,34.3361213,2,,Golden State Freeway,I 5 Truck,North
+-118.2933469,34.1616924,5,65 mph,Golden State Freeway,I 5,North
+-118.2936644,34.1621664,5,65 mph,Golden State Freeway,I 5,North
+-118.294056,34.162658,5,65 mph,Golden State Freeway,I 5,North
+-118.2944154,34.1630519,5,65 mph,Golden State Freeway,I 5,North
+-118.294854,34.1634769,5,65 mph,Golden State Freeway,I 5,North
+-118.2953622,34.1638753,5,65 mph,Golden State Freeway,I 5,North
+-118.2960812,34.1644076,5,65 mph,Golden State Freeway,I 5,North
+-118.2968861,34.1649954,5,65 mph,Golden State Freeway,I 5,North
+-118.2992978,34.1667738,5,65 mph,Golden State Freeway,I 5,North
+-118.1960858,34.0214131,5,65 mph,Santa Ana Freeway,I 5,North
+-118.19622,34.0214705,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1979545,34.0222268,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1980445,34.022266,5,65 mph,Santa Ana Freeway,I 5,North
+-118.198157,34.0223143,5,65 mph,Santa Ana Freeway,I 5,North
+-118.1983375,34.0223918,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2020062,34.0239818,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2029088,34.0243926,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2032484,34.0245397,5,65 mph,Santa Ana Freeway,I 5,North
+-118.2045752,34.025116,5,65 mph,Santa Ana Freeway,I 5,North
+-118.4143016,34.2372497,6,65 mph,Golden State Freeway,I 5,North
+-118.4145818,34.2375624,6,65 mph,Golden State Freeway,I 5,North
+-118.4153288,34.2382714,6,65 mph,Golden State Freeway,I 5,North
+-118.4155667,34.2385042,6,65 mph,Golden State Freeway,I 5,North
+-118.3317948,34.1950387,6,65 mph,Golden State Freeway,I 5,North
+-118.3345817,34.1965121,6,65 mph,Golden State Freeway,I 5,North
+-118.336388,34.1976941,6,65 mph,Golden State Freeway,I 5,North
+-118.3371546,34.1983024,6,65 mph,Golden State Freeway,I 5,North
+-118.3373605,34.1984906,6,65 mph,Golden State Freeway,I 5,North
+-118.3375603,34.1986797,6,65 mph,Golden State Freeway,I 5,North
+-118.3377988,34.1989223,6,65 mph,Golden State Freeway,I 5,North
+-118.4387302,34.260363,5,65 mph,Golden State Freeway,I 5,North
+-118.4391882,34.2607893,5,65 mph,Golden State Freeway,I 5,North
+-118.4395011,34.2611149,5,65 mph,Golden State Freeway,I 5,North
+-118.4397328,34.2613933,5,65 mph,Golden State Freeway,I 5,North
+-118.4399587,34.2616761,5,65 mph,Golden State Freeway,I 5,North
+-118.440231,34.2620595,5,65 mph,Golden State Freeway,I 5,North
+-118.3877779,34.2265489,5,65 mph,Golden State Freeway,I 5,North
+-118.3874972,34.2264994,5,65 mph,Golden State Freeway,I 5,North
+-118.3870526,34.2264231,5,65 mph,Golden State Freeway,I 5,North
+-118.3865792,34.2263721,5,65 mph,Golden State Freeway,I 5,North
+-118.386235,34.226356,5,65 mph,Golden State Freeway,I 5,North
+-118.3857085,34.226355,5,65 mph,Golden State Freeway,I 5,North
+-118.3826414,34.2264983,5,65 mph,Golden State Freeway,I 5,North
+-118.382018,34.2265267,5,65 mph,Golden State Freeway,I 5,North
+-118.3804501,34.2265904,5,65 mph,Golden State Freeway,I 5,North
+-118.357327,34.2204365,5,65 mph,Golden State Freeway,I 5,North
+-118.3576844,34.2206883,5,65 mph,Golden State Freeway,I 5,North
+-118.358253,34.2210099,5,65 mph,Golden State Freeway,I 5,North
+-118.3587693,34.2212528,5,65 mph,Golden State Freeway,I 5,North
+-118.3592897,34.2214457,5,65 mph,Golden State Freeway,I 5,North
+-118.3598315,34.2216043,5,65 mph,Golden State Freeway,I 5,North
+-118.3603679,34.2217185,5,65 mph,Golden State Freeway,I 5,North
+-118.3609312,34.2217995,5,65 mph,Golden State Freeway,I 5,North
+-118.3614596,34.2218394,5,65 mph,Golden State Freeway,I 5,North
+-118.362812,34.2219186,5,65 mph,Golden State Freeway,I 5,North
+-118.3514072,34.2147764,5,65 mph,Golden State Freeway,I 5,North
+-118.3535689,34.2165731,5,65 mph,Golden State Freeway,I 5,North
+-118.3540215,34.2169801,5,65 mph,Golden State Freeway,I 5,North
+-118.3544818,34.217489,5,65 mph,Golden State Freeway,I 5,North
+-118.3549432,34.2179747,5,65 mph,Golden State Freeway,I 5,North
+-118.3551202,34.2181744,5,65 mph,Golden State Freeway,I 5,North
+-118.3552449,34.2183074,5,65 mph,Golden State Freeway,I 5,North
+-118.3561711,34.2193443,5,65 mph,Golden State Freeway,I 5,North
+-118.3566168,34.2198243,5,65 mph,Golden State Freeway,I 5,North
+-118.3569359,34.2201169,5,65 mph,Golden State Freeway,I 5,North
+-118.357327,34.2204365,5,65 mph,Golden State Freeway,I 5,North
+-118.3402484,34.2025223,5,65 mph,Golden State Freeway,I 5,North
+-118.3423979,34.2055662,5,65 mph,Golden State Freeway,I 5,North
+-118.3437926,34.2075914,5,65 mph,Golden State Freeway,I 5,North
+-118.3443816,34.2084384,5,65 mph,Golden State Freeway,I 5,North
+-118.3449354,34.2090517,5,65 mph,Golden State Freeway,I 5,North
+-118.3455885,34.2097338,5,65 mph,Golden State Freeway,I 5,North
+-118.346308,34.2104095,5,65 mph,Golden State Freeway,I 5,North
+-118.3377988,34.1989223,5,65 mph,Golden State Freeway,I 5,North
+-118.3380801,34.1992125,5,65 mph,Golden State Freeway,I 5,North
+-118.3384551,34.1996484,5,65 mph,Golden State Freeway,I 5,North
+-118.3402484,34.2025223,5,65 mph,Golden State Freeway,I 5,North
