@@ -1,0 +1,778 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.2225479,34.049988,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2227024,34.0502443,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2232357,34.0513227,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2234159,34.0515645,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2236048,34.0517778,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2238708,34.0520054,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2241541,34.0521902,2,55 mph,Santa Ana Freeway,US 101,North
+-118.224394,34.0523276,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2245266,34.0523872,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2247548,34.052472,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2249274,34.0525264,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2250999,34.0525764,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2253397,34.0526066,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2260384,34.0527079,2,55 mph,Santa Ana Freeway,US 101,North
+-118.3141297,34.0976985,4,55 mph,Hollywood Freeway,US 101,North
+-118.3144607,34.0982051,4,55 mph,Hollywood Freeway,US 101,North
+-118.3147906,34.0987548,4,55 mph,Hollywood Freeway,US 101,North
+-118.2581893,34.0687318,4,55 mph,Hollywood Freeway,US 101,North
+-118.2609165,34.0696821,4,55 mph,Hollywood Freeway,US 101,North
+-118.304762,34.0882714,4,55 mph,Hollywood Freeway,US 101,North
+-118.3049393,34.0884979,4,55 mph,Hollywood Freeway,US 101,North
+-118.3051011,34.0887164,4,55 mph,Hollywood Freeway,US 101,North
+-118.3052496,34.0889365,4,55 mph,Hollywood Freeway,US 101,North
+-118.3053916,34.0891625,4,55 mph,Hollywood Freeway,US 101,North
+-118.3065949,34.0911644,4,55 mph,Hollywood Freeway,US 101,North
+-118.3067399,34.0913956,4,55 mph,Hollywood Freeway,US 101,North
+-118.3068773,34.0916232,4,55 mph,Hollywood Freeway,US 101,North
+-118.3070286,34.0918536,4,55 mph,Hollywood Freeway,US 101,North
+-118.3071857,34.0920719,4,55 mph,Hollywood Freeway,US 101,North
+-118.3073555,34.092286,4,55 mph,Hollywood Freeway,US 101,North
+-118.307543,34.0924998,4,55 mph,Hollywood Freeway,US 101,North
+-118.3077499,34.0927115,4,55 mph,Hollywood Freeway,US 101,North
+-118.3079494,34.0928943,4,55 mph,Hollywood Freeway,US 101,North
+-118.3081658,34.0930791,4,55 mph,Hollywood Freeway,US 101,North
+-118.3083919,34.0932568,4,55 mph,Hollywood Freeway,US 101,North
+-118.3086203,34.0934192,4,55 mph,Hollywood Freeway,US 101,North
+-118.308873,34.0935832,4,55 mph,Hollywood Freeway,US 101,North
+-118.3114905,34.0952236,4,55 mph,Hollywood Freeway,US 101,North
+-118.3117419,34.0953851,4,55 mph,Hollywood Freeway,US 101,North
+-118.3119661,34.0955374,4,55 mph,Hollywood Freeway,US 101,North
+-118.3122188,34.0957177,4,55 mph,Hollywood Freeway,US 101,North
+-118.2782446,34.0763978,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2789255,34.0765862,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2793484,34.0767094,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2796855,34.0768002,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2800075,34.0768826,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2803287,34.0769616,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.280682,34.0770438,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2810453,34.0771269,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2820195,34.0773493,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2841549,34.0778398,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.4280404,34.1557246,5,65 mph,Ventura Freeway,US 101,North
+-118.4284244,34.1557167,5,65 mph,Ventura Freeway,US 101,North
+-118.4286779,34.1557128,5,65 mph,Ventura Freeway,US 101,North
+-118.4310594,34.1557196,5,65 mph,Ventura Freeway,US 101,North
+-118.431432,34.1557229,5,65 mph,Ventura Freeway,US 101,North
+-118.4345069,34.1557309,5,65 mph,Ventura Freeway,US 101,North
+-118.427995,34.1555305,5,65 mph,Ventura Freeway,US 101,North
+-118.4273909,34.1555628,5,65 mph,Ventura Freeway,US 101,North
+-118.4265854,34.1556736,5,65 mph,Ventura Freeway,US 101,North
+-118.4259095,34.1558023,5,65 mph,Ventura Freeway,US 101,North
+-118.4239408,34.156264,5,65 mph,Ventura Freeway,US 101,North
+-118.42319,34.1564325,5,65 mph,Ventura Freeway,US 101,North
+-118.4229562,34.1564819,5,65 mph,Ventura Freeway,US 101,North
+-118.4226772,34.1565323,5,65 mph,Ventura Freeway,US 101,North
+-118.4223668,34.1565794,5,65 mph,Ventura Freeway,US 101,North
+-118.4219968,34.156623,5,65 mph,Ventura Freeway,US 101,North
+-118.4214785,34.156671,5,65 mph,Ventura Freeway,US 101,North
+-118.4210151,34.156693,5,65 mph,Ventura Freeway,US 101,North
+-118.4170416,34.1566666,5,65 mph,Ventura Freeway,US 101,North
+-118.3195605,34.104022,4,55 mph,Hollywood Freeway,US 101,North
+-118.3198749,34.1041079,4,55 mph,Hollywood Freeway,US 101,North
+-118.3201702,34.1041874,4,55 mph,Hollywood Freeway,US 101,North
+-118.3204651,34.104252,4,55 mph,Hollywood Freeway,US 101,North
+-118.32077,34.104305,4,55 mph,Hollywood Freeway,US 101,North
+-118.3210859,34.104346,4,55 mph,Hollywood Freeway,US 101,North
+-118.3213902,34.1043706,4,55 mph,Hollywood Freeway,US 101,North
+-118.3217014,34.1043872,4,55 mph,Hollywood Freeway,US 101,North
+-118.3220006,34.1043967,4,55 mph,Hollywood Freeway,US 101,North
+-118.3222661,34.1044019,4,55 mph,Hollywood Freeway,US 101,North
+-118.3226186,34.1044085,4,55 mph,Hollywood Freeway,US 101,North
+-118.3230166,34.1044178,4,55 mph,Hollywood Freeway,US 101,North
+-118.3233318,34.1044348,4,55 mph,Hollywood Freeway,US 101,North
+-118.3236384,34.1044619,4,55 mph,Hollywood Freeway,US 101,North
+-118.3239451,34.1045032,4,55 mph,Hollywood Freeway,US 101,North
+-118.3242616,34.1045625,4,55 mph,Hollywood Freeway,US 101,North
+-118.3245607,34.1046341,4,55 mph,Hollywood Freeway,US 101,North
+-118.3248517,34.1047168,4,55 mph,Hollywood Freeway,US 101,North
+-118.3250894,34.104795,4,55 mph,Hollywood Freeway,US 101,North
+-118.3253166,34.1048787,4,55 mph,Hollywood Freeway,US 101,North
+-118.3255296,34.1049657,4,55 mph,Hollywood Freeway,US 101,North
+-118.325738,34.1050591,4,55 mph,Hollywood Freeway,US 101,North
+-118.3259455,34.1051609,4,55 mph,Hollywood Freeway,US 101,North
+-118.3261393,34.105266,4,55 mph,Hollywood Freeway,US 101,North
+-118.3264084,34.1054234,4,55 mph,Hollywood Freeway,US 101,North
+-118.3283787,34.1065986,4,55 mph,Hollywood Freeway,US 101,North
+-118.244475,34.0584076,3,55 mph,,US 101,North
+-118.2446249,34.0585178,3,55 mph,,US 101,North
+-118.2448339,34.0586785,3,55 mph,,US 101,North
+-118.2451261,34.0589062,3,55 mph,,US 101,North
+-118.24543,34.0591475,3,55 mph,,US 101,North
+-118.2457153,34.0593804,3,55 mph,,US 101,North
+-118.2459697,34.059602,3,55 mph,,US 101,North
+-118.2462005,34.0598196,3,55 mph,,US 101,North
+-118.2464372,34.0600544,3,55 mph,,US 101,North
+-118.2466116,34.0602432,3,55 mph,,US 101,North
+-118.24679,34.0604436,3,55 mph,,US 101,North
+-118.2469657,34.0606489,3,55 mph,,US 101,North
+-118.2475479,34.061356,3,55 mph,,US 101,North
+-118.4531347,34.1578338,6,65 mph,Ventura Freeway,US 101,North
+-118.4541136,34.1579114,6,65 mph,Ventura Freeway,US 101,North
+-118.4548173,34.1579885,6,65 mph,Ventura Freeway,US 101,North
+-118.4552368,34.1580618,6,65 mph,Ventura Freeway,US 101,North
+-118.4555358,34.158126,6,65 mph,Ventura Freeway,US 101,North
+-118.456147,34.1582891,6,65 mph,Ventura Freeway,US 101,North
+-118.4572823,34.1586355,6,65 mph,Ventura Freeway,US 101,North
+-118.4576134,34.1587393,6,65 mph,Ventura Freeway,US 101,North
+-118.4587218,34.1590966,6,65 mph,Ventura Freeway,US 101,North
+-118.4593672,34.1592641,6,65 mph,Ventura Freeway,US 101,North
+-118.4601374,34.159412,6,65 mph,Ventura Freeway,US 101,North
+-118.4606861,34.1594881,6,65 mph,Ventura Freeway,US 101,North
+-118.4611378,34.1595247,6,65 mph,Ventura Freeway,US 101,North
+-118.4621743,34.1595676,6,65 mph,Ventura Freeway,US 101,North
+-118.36814,34.1450243,5,55 mph,Hollywood Freeway,US 101,North
+-118.3683059,34.1452591,5,55 mph,Hollywood Freeway,US 101,North
+-118.368507,34.145511,5,55 mph,Hollywood Freeway,US 101,North
+-118.368689,34.1457115,5,55 mph,Hollywood Freeway,US 101,North
+-118.3688821,34.1459026,5,55 mph,Hollywood Freeway,US 101,North
+-118.3689976,34.1460199,5,55 mph,Hollywood Freeway,US 101,North
+-118.3692106,34.1462086,5,55 mph,Hollywood Freeway,US 101,North
+-118.3694399,34.1463967,5,55 mph,Hollywood Freeway,US 101,North
+-118.3696615,34.1465626,5,55 mph,Hollywood Freeway,US 101,North
+-118.3701057,34.1468734,5,55 mph,Hollywood Freeway,US 101,North
+-118.3705192,34.1471658,5,55 mph,Hollywood Freeway,US 101,North
+-118.3714178,34.1478071,5,55 mph,Hollywood Freeway,US 101,North
+-118.3717878,34.1480438,5,55 mph,Hollywood Freeway,US 101,North
+-118.3721108,34.1482837,5,55 mph,Hollywood Freeway,US 101,North
+-118.3026531,34.0863852,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3028842,34.0865456,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3031261,34.0867176,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3033561,34.0868913,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3035784,34.0870696,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3037847,34.0872489,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3039923,34.0874393,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3041984,34.0876385,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3044054,34.0878561,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.304593,34.0880668,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.304762,34.0882714,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2715009,34.074151,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2716579,34.0742192,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2718708,34.0743156,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2719035,34.0743312,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2720993,34.0744234,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2722928,34.07451,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2726007,34.0746377,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2729436,34.0747742,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2732389,34.0748856,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2735164,34.0749886,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2743477,34.0752908,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2609165,34.0696821,4,55 mph,Hollywood Freeway,US 101,North
+-118.2616443,34.0699418,4,55 mph,Hollywood Freeway,US 101,North
+-118.2629478,34.0703958,4,55 mph,Hollywood Freeway,US 101,North
+-118.2632447,34.0705063,4,55 mph,Hollywood Freeway,US 101,North
+-118.2635327,34.0706205,4,55 mph,Hollywood Freeway,US 101,North
+-118.264081,34.0708569,4,55 mph,Hollywood Freeway,US 101,North
+-118.2260384,34.0527079,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2261582,34.0527272,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2269962,34.0528598,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2282639,34.0530881,4,55 mph,Santa Ana Freeway,US 101,North
+-118.228664,34.0531541,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2308451,34.0534877,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2282639,34.0530881,4,55 mph,Santa Ana Freeway,US 101,North
+-118.228664,34.0531541,4,55 mph,Santa Ana Freeway,US 101,North
+-118.233677,34.0538157,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2347095,34.0539331,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2349851,34.0539371,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2353443,34.0539132,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2359257,34.0538685,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2362172,34.0538661,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2365294,34.0538848,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2369052,34.0539396,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2371695,34.0540056,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2374699,34.0541081,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2379655,34.0543233,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2383789,34.0545505,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2388992,34.0548669,4,55 mph,Santa Ana Freeway,US 101,North
+-118.239555,34.055281,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2400663,34.0555978,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2403186,34.055754,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2403186,34.055754,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2411624,34.05628,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2414143,34.0564387,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2475479,34.061356,3,55 mph,,US 101,North
+-118.2482308,34.0621342,3,55 mph,,US 101,North
+-118.2491183,34.0631604,3,55 mph,,US 101,North
+-118.2492408,34.0632994,3,55 mph,,US 101,North
+-118.2493384,34.0634114,3,55 mph,,US 101,North
+-118.2495024,34.0635722,3,55 mph,,US 101,North
+-118.2496236,34.0636848,3,55 mph,,US 101,North
+-118.2497472,34.0637913,3,55 mph,,US 101,North
+-118.2498958,34.0639126,3,55 mph,,US 101,North
+-118.2500406,34.0640227,3,55 mph,,US 101,North
+-118.2502086,34.0641443,3,55 mph,,US 101,North
+-118.2503768,34.0642644,3,55 mph,,US 101,North
+-118.2514017,34.0650089,3,55 mph,,US 101,North
+-118.252124,34.0655568,3,55 mph,,US 101,North
+-118.4664427,34.1593232,6,65 mph,Ventura Freeway,US 101,North
+-118.465887,34.1593178,6,65 mph,Ventura Freeway,US 101,North
+-118.4657944,34.1593162,6,65 mph,Ventura Freeway,US 101,North
+-118.4648053,34.1593365,6,65 mph,Ventura Freeway,US 101,North
+-118.4612734,34.159339,6,65 mph,Ventura Freeway,US 101,North
+-118.463712,34.1595148,4,65 mph,Ventura Freeway,US 101,North
+-118.4643046,34.1594997,4,65 mph,Ventura Freeway,US 101,North
+-118.4647916,34.1595011,4,65 mph,Ventura Freeway,US 101,North
+-118.4651242,34.1595188,4,65 mph,Ventura Freeway,US 101,North
+-118.4654783,34.1595443,4,65 mph,Ventura Freeway,US 101,North
+-118.4657264,34.1595865,4,65 mph,Ventura Freeway,US 101,North
+-118.4659803,34.159632,4,65 mph,Ventura Freeway,US 101,North
+-118.4663727,34.1597081,4,65 mph,Ventura Freeway,US 101,North
+-118.4666039,34.1597716,4,65 mph,Ventura Freeway,US 101,North
+-118.4668416,34.1598315,4,65 mph,Ventura Freeway,US 101,North
+-118.467348,34.1599806,4,65 mph,Ventura Freeway,US 101,North
+-118.4678802,34.1601682,4,65 mph,Ventura Freeway,US 101,North
+-118.4684969,34.1604436,4,65 mph,Ventura Freeway,US 101,North
+-118.4691076,34.1607621,4,65 mph,Ventura Freeway,US 101,North
+-118.4694938,34.1609962,4,65 mph,Ventura Freeway,US 101,North
+-118.4699315,34.1613229,4,65 mph,Ventura Freeway,US 101,North
+-118.470292,34.1616141,4,65 mph,Ventura Freeway,US 101,North
+-118.4706353,34.1619337,4,65 mph,Ventura Freeway,US 101,North
+-118.4711006,34.1624203,4,65 mph,Ventura Freeway,US 101,North
+-118.4718278,34.1633081,4,65 mph,Ventura Freeway,US 101,North
+-118.4721351,34.1636798,4,65 mph,Ventura Freeway,US 101,North
+-118.4734373,34.1647007,4,65 mph,Ventura Freeway,US 101,North
+-118.4735953,34.1647766,4,65 mph,Ventura Freeway,US 101,North
+-118.4737455,34.1648365,4,65 mph,Ventura Freeway,US 101,North
+-118.4740328,34.1649345,4,65 mph,Ventura Freeway,US 101,North
+-118.5325961,34.1722899,5,65 mph,Ventura Freeway,US 101,North
+-118.5329202,34.1724167,5,65 mph,Ventura Freeway,US 101,North
+-118.5330781,34.1724801,5,65 mph,Ventura Freeway,US 101,North
+-118.533533,34.1726718,5,65 mph,Ventura Freeway,US 101,North
+-118.5339364,34.1728352,5,65 mph,Ventura Freeway,US 101,North
+-118.5343312,34.1729772,5,65 mph,Ventura Freeway,US 101,North
+-118.5346831,34.1730837,5,65 mph,Ventura Freeway,US 101,North
+-118.5350694,34.1731831,5,65 mph,Ventura Freeway,US 101,North
+-118.5354728,34.1732612,5,65 mph,Ventura Freeway,US 101,North
+-118.5358247,34.173318,5,65 mph,Ventura Freeway,US 101,North
+-118.5362109,34.1733535,5,65 mph,Ventura Freeway,US 101,North
+-118.5367173,34.1733748,5,65 mph,Ventura Freeway,US 101,North
+-118.5374898,34.173389,5,65 mph,Ventura Freeway,US 101,North
+-118.5389893,34.1734224,5,65 mph,Ventura Freeway,US 101,North
+-118.539434,34.1734286,5,65 mph,Ventura Freeway,US 101,North
+-118.539434,34.1734286,5,65 mph,Ventura Freeway,US 101,North
+-118.5445711,34.1735215,5,65 mph,Ventura Freeway,US 101,North
+-118.5448992,34.1735262,5,65 mph,Ventura Freeway,US 101,North
+-118.5506344,34.1736166,5,65 mph,Ventura Freeway,US 101,North
+-118.392385,34.1545344,5,65 mph,Ventura Freeway,US 101,North
+-118.3962971,34.1545072,5,65 mph,Ventura Freeway,US 101,North
+-118.3966869,34.1545085,5,65 mph,Ventura Freeway,US 101,North
+-118.3971811,34.1545215,5,65 mph,Ventura Freeway,US 101,North
+-118.3976704,34.1545641,5,65 mph,Ventura Freeway,US 101,North
+-118.3981596,34.1546351,5,65 mph,Ventura Freeway,US 101,North
+-118.3986085,34.1547286,5,65 mph,Ventura Freeway,US 101,North
+-118.398975,34.1548269,5,65 mph,Ventura Freeway,US 101,North
+-118.3993269,34.1549334,5,65 mph,Ventura Freeway,US 101,North
+-118.3995646,34.1550207,5,65 mph,Ventura Freeway,US 101,North
+-118.3998897,34.1551589,5,65 mph,Ventura Freeway,US 101,North
+-118.3998897,34.1551589,5,65 mph,Ventura Freeway,US 101,North
+-118.401871,34.1561206,5,65 mph,Ventura Freeway,US 101,North
+-118.4023713,34.1563232,5,65 mph,Ventura Freeway,US 101,North
+-118.4028174,34.1564736,5,65 mph,Ventura Freeway,US 101,North
+-118.4031832,34.1565672,5,65 mph,Ventura Freeway,US 101,North
+-118.4033612,34.1566064,5,65 mph,Ventura Freeway,US 101,North
+-118.4036896,34.1566777,5,65 mph,Ventura Freeway,US 101,North
+-118.403989,34.1567239,5,65 mph,Ventura Freeway,US 101,North
+-118.4042407,34.1567526,5,65 mph,Ventura Freeway,US 101,North
+-118.4045111,34.1567766,5,65 mph,Ventura Freeway,US 101,North
+-118.4050854,34.1568034,5,65 mph,Ventura Freeway,US 101,North
+-118.4054811,34.1568099,5,65 mph,Ventura Freeway,US 101,North
+-118.41039,34.1568096,5,65 mph,Ventura Freeway,US 101,North
+-118.4721351,34.1636798,5,65 mph,Ventura Freeway,US 101,North
+-118.472312,34.1638703,5,65 mph,Ventura Freeway,US 101,North
+-118.4725069,34.1640609,5,65 mph,Ventura Freeway,US 101,North
+-118.4727492,34.1642562,5,65 mph,Ventura Freeway,US 101,North
+-118.4730054,34.1644376,5,65 mph,Ventura Freeway,US 101,North
+-118.473264,34.1646018,5,65 mph,Ventura Freeway,US 101,North
+-118.4734373,34.1647007,5,65 mph,Ventura Freeway,US 101,North
+-118.4345069,34.1557309,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4389342,34.1557492,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4392811,34.1557361,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4397104,34.1556964,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4400229,34.1556613,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4403961,34.1556013,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4416303,34.1553931,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4420674,34.1553307,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.442089,34.1553286,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4423877,34.1553001,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.44278,34.1552817,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4430685,34.1552804,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.443385,34.155293,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.443729,34.1553214,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4440733,34.1553633,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4444528,34.1554291,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4446809,34.1554781,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4448954,34.1555279,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.445442,34.1556995,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.4459709,34.1559,"['5', '6']",65 mph,Ventura Freeway,US 101,North
+-118.5218629,34.1712849,5,65 mph,Ventura Freeway,US 101,North
+-118.5271295,34.1712709,5,65 mph,Ventura Freeway,US 101,North
+-118.5274608,34.1712704,5,65 mph,Ventura Freeway,US 101,North
+-118.5284696,34.1712741,5,65 mph,Ventura Freeway,US 101,North
+-118.5288974,34.1712894,5,65 mph,Ventura Freeway,US 101,North
+-118.5293037,34.1713202,5,65 mph,Ventura Freeway,US 101,North
+-118.5296477,34.1713628,5,65 mph,Ventura Freeway,US 101,North
+-118.5301485,34.1714472,5,65 mph,Ventura Freeway,US 101,North
+-118.530589,34.1715427,5,65 mph,Ventura Freeway,US 101,North
+-118.5309409,34.171635,5,65 mph,Ventura Freeway,US 101,North
+-118.5312928,34.1717487,5,65 mph,Ventura Freeway,US 101,North
+-118.5315589,34.171841,5,65 mph,Ventura Freeway,US 101,North
+-118.5320141,34.1720409,5,65 mph,Ventura Freeway,US 101,North
+-118.532323,34.1721782,5,65 mph,Ventura Freeway,US 101,North
+-118.5325961,34.1722899,5,65 mph,Ventura Freeway,US 101,North
+-118.5216197,34.1711031,5,65 mph,Ventura Freeway,US 101,North
+-118.5187465,34.1711071,5,65 mph,Ventura Freeway,US 101,North
+-118.5183514,34.1711053,5,65 mph,Ventura Freeway,US 101,North
+-118.5158343,34.1711061,5,65 mph,Ventura Freeway,US 101,North
+-118.4890027,34.165301,5,65 mph,Ventura Freeway,US 101,North
+-118.4903574,34.1652862,5,65 mph,Ventura Freeway,US 101,North
+-118.4906784,34.1652856,5,65 mph,Ventura Freeway,US 101,North
+-118.4909954,34.1653005,5,65 mph,Ventura Freeway,US 101,North
+-118.4912688,34.1653257,5,65 mph,Ventura Freeway,US 101,North
+-118.4916174,34.1653745,5,65 mph,Ventura Freeway,US 101,North
+-118.4918423,34.1654112,5,65 mph,Ventura Freeway,US 101,North
+-118.4921912,34.1654805,5,65 mph,Ventura Freeway,US 101,North
+-118.4925594,34.1655769,5,65 mph,Ventura Freeway,US 101,North
+-118.4929012,34.1656871,5,65 mph,Ventura Freeway,US 101,North
+-118.493176,34.1657877,5,65 mph,Ventura Freeway,US 101,North
+-118.4934188,34.1658824,5,65 mph,Ventura Freeway,US 101,North
+-118.4936867,34.1660036,5,65 mph,Ventura Freeway,US 101,North
+-118.4939845,34.166157,5,65 mph,Ventura Freeway,US 101,North
+-118.4942784,34.1663278,5,65 mph,Ventura Freeway,US 101,North
+-118.4955092,34.1671136,5,65 mph,Ventura Freeway,US 101,North
+-118.4970971,34.1681557,5,65 mph,Ventura Freeway,US 101,North
+-118.2061153,34.0256473,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2062881,34.0256549,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2069382,34.0258687,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2072696,34.0259858,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2077202,34.0261621,2,55 mph,Santa Ana Freeway,US 101,North
+-118.208569,34.0265445,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2094015,34.0269144,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2098736,34.0271136,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2111782,34.0276969,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2130665,34.0285505,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2134785,34.0287283,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2154011,34.0296033,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2154011,34.0296033,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2163452,34.03003,2,55 mph,Santa Ana Freeway,US 101,North
+-118.21668,34.0301937,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2169632,34.030343,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2172722,34.0305137,2,55 mph,Santa Ana Freeway,US 101,North
+-118.217461,34.0306276,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2176842,34.0307627,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2180018,34.0309619,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2183451,34.0311895,2,55 mph,Santa Ana Freeway,US 101,North
+-118.218594,34.0313673,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2189716,34.0316589,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2192635,34.0319079,2,55 mph,Santa Ana Freeway,US 101,North
+-118.219421,34.0320566,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2197371,34.0323891,2,55 mph,Santa Ana Freeway,US 101,North
+-118.2197371,34.0323891,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2203403,34.0330133,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2206017,34.0333107,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2208427,34.033615,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2209972,34.0338355,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2211947,34.0341627,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2213663,34.0346179,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214779,34.034938,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215466,34.0351727,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215895,34.035379,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2216324,34.0356422,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2216581,34.0358911,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2216581,34.0361187,3,55 mph,Santa Ana Freeway,US 101,North
+-118.221646,34.0362998,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2216117,34.0365061,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215688,34.0367337,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214915,34.0371035,3,55 mph,Santa Ana Freeway,US 101,North
+-118.22144,34.0374165,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214143,34.0377223,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214152,34.0380689,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214152,34.0380689,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215001,34.0388674,3,55 mph,Santa Ana Freeway,US 101,North
+-118.221543,34.0392586,3,55 mph,Santa Ana Freeway,US 101,North
+-118.221543,34.039472,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215524,34.0396383,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215505,34.0397958,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2215272,34.0401177,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2213584,34.0409126,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2949994,34.0818155,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2954615,34.0820284,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2966563,34.0825869,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2969315,34.0827174,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2972121,34.0828509,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2974957,34.0829943,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2977539,34.0831326,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2980306,34.083286,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2981555,34.0833611,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2985854,34.0836139,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2988513,34.0837879,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2991207,34.0839642,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3001953,34.0847002,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3007481,34.0850817,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.301907,34.0858804,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3022823,34.0861339,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.3026531,34.0863852,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.289096,34.0789689,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2896006,34.0791435,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2899044,34.0792736,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2901867,34.0794025,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2904607,34.0795389,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2907481,34.0796895,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2919941,34.0803604,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2922708,34.0805068,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2925354,34.0806439,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2928071,34.0807804,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2930995,34.0809251,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2933965,34.0810686,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2937034,34.0812148,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2945467,34.0816054,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2841549,34.0778398,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.284704,34.0779647,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2850149,34.0780305,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.285309,34.0780923,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2855952,34.0781488,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2859004,34.0782056,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.286522,34.078316,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2868073,34.0783672,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2870962,34.07842,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2874358,34.0784925,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2877483,34.0785595,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2880495,34.0786333,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.288313,34.078705,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2883648,34.0787191,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.289096,34.0789689,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.41039,34.1568096,5,65 mph,Ventura Freeway,US 101,North
+-118.4136372,34.1568356,5,65 mph,Ventura Freeway,US 101,North
+-118.4139525,34.1568353,5,65 mph,Ventura Freeway,US 101,North
+-118.4169883,34.1568506,5,65 mph,Ventura Freeway,US 101,North
+-118.3781987,34.1545595,5,65 mph,Ventura Freeway,US 101,North
+-118.3784858,34.1545915,5,65 mph,Ventura Freeway,US 101,North
+-118.3787096,34.1546,5,65 mph,Ventura Freeway,US 101,North
+-118.3791536,34.1545979,5,65 mph,Ventura Freeway,US 101,North
+-118.3831713,34.1545692,5,65 mph,Ventura Freeway,US 101,North
+-118.252124,34.0655568,4,55 mph,Hollywood Freeway,US 101,North
+-118.2522204,34.065628,4,55 mph,Hollywood Freeway,US 101,North
+-118.2534406,34.0664959,4,55 mph,Hollywood Freeway,US 101,North
+-118.2537549,34.0667191,4,55 mph,Hollywood Freeway,US 101,North
+-118.2540654,34.0669239,4,55 mph,Hollywood Freeway,US 101,North
+-118.2543834,34.0671169,4,55 mph,Hollywood Freeway,US 101,North
+-118.2546877,34.0672906,4,55 mph,Hollywood Freeway,US 101,North
+-118.2550196,34.0674664,4,55 mph,Hollywood Freeway,US 101,North
+-118.2553608,34.0676374,4,55 mph,Hollywood Freeway,US 101,North
+-118.2556924,34.067791,4,55 mph,Hollywood Freeway,US 101,North
+-118.2560431,34.0679363,4,55 mph,Hollywood Freeway,US 101,North
+-118.2564039,34.0680782,4,55 mph,Hollywood Freeway,US 101,North
+-118.2567502,34.0682047,4,55 mph,Hollywood Freeway,US 101,North
+-118.2581893,34.0687318,4,55 mph,Hollywood Freeway,US 101,North
+-118.4459709,34.1559,5,65 mph,Ventura Freeway,US 101,North
+-118.4465129,34.156147,5,65 mph,Ventura Freeway,US 101,North
+-118.4473838,34.1565446,5,65 mph,Ventura Freeway,US 101,North
+-118.447711,34.1566928,5,65 mph,Ventura Freeway,US 101,North
+-118.447994,34.1568171,5,65 mph,Ventura Freeway,US 101,North
+-118.4481334,34.1568742,5,65 mph,Ventura Freeway,US 101,North
+-118.4482776,34.1569314,5,65 mph,Ventura Freeway,US 101,North
+-118.4484229,34.1569867,5,65 mph,Ventura Freeway,US 101,North
+-118.4490053,34.1571797,5,65 mph,Ventura Freeway,US 101,North
+-118.4494683,34.1573224,5,65 mph,Ventura Freeway,US 101,North
+-118.4501691,34.1574962,5,65 mph,Ventura Freeway,US 101,North
+-118.4506625,34.1575853,5,65 mph,Ventura Freeway,US 101,North
+-118.451393,34.1576888,5,65 mph,Ventura Freeway,US 101,North
+-118.4523917,34.15778,5,65 mph,Ventura Freeway,US 101,North
+-118.4531347,34.1578338,5,65 mph,Ventura Freeway,US 101,North
+-118.3122188,34.0957177,4,55 mph,Hollywood Freeway,US 101,North
+-118.3124451,34.0958947,4,55 mph,Hollywood Freeway,US 101,North
+-118.3126828,34.096087,4,55 mph,Hollywood Freeway,US 101,North
+-118.3128951,34.0962756,4,55 mph,Hollywood Freeway,US 101,North
+-118.3131113,34.0964784,4,55 mph,Hollywood Freeway,US 101,North
+-118.3133126,34.0966814,4,55 mph,Hollywood Freeway,US 101,North
+-118.3135064,34.0968797,4,55 mph,Hollywood Freeway,US 101,North
+-118.3136784,34.0970718,4,55 mph,Hollywood Freeway,US 101,North
+-118.3138408,34.0972733,4,55 mph,Hollywood Freeway,US 101,North
+-118.3141297,34.0976985,4,55 mph,Hollywood Freeway,US 101,North
+-118.3721108,34.1482837,3,"['55 mph', '65 mph']",,US 101,North
+-118.3726863,34.1487641,3,"['55 mph', '65 mph']",,US 101,North
+-118.3731164,34.149175,3,"['55 mph', '65 mph']",,US 101,North
+-118.3733852,34.1494969,3,"['55 mph', '65 mph']",,US 101,North
+-118.3739315,34.1502523,3,"['55 mph', '65 mph']",,US 101,North
+-118.3741075,34.1504991,3,"['55 mph', '65 mph']",,US 101,North
+-118.3742922,34.1507696,3,"['55 mph', '65 mph']",,US 101,North
+-118.37445,34.1510065,3,"['55 mph', '65 mph']",,US 101,North
+-118.3745896,34.1512293,3,"['55 mph', '65 mph']",,US 101,North
+-118.3747126,34.1514305,3,"['55 mph', '65 mph']",,US 101,North
+-118.375185,34.1522767,3,"['55 mph', '65 mph']",,US 101,North
+-118.4740328,34.1649345,6,65 mph,Ventura Freeway,US 101,North
+-118.4744872,34.1651026,6,65 mph,Ventura Freeway,US 101,North
+-118.4748549,34.1652049,6,65 mph,Ventura Freeway,US 101,North
+-118.4752308,34.1652992,6,65 mph,Ventura Freeway,US 101,North
+-118.47561,34.1653759,6,65 mph,Ventura Freeway,US 101,North
+-118.2104175,34.0546,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2117697,34.0549714,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2120402,34.0550504,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2123038,34.0551189,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2125601,34.0551792,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2128191,34.0552316,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2130939,34.0552764,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2133613,34.0553118,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2136291,34.0553373,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2138942,34.055354,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2141929,34.055367,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2144866,34.0553727,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2184151,34.0553797,3,65 mph,San Bernardino Freeway,US 101,North
+-118.218655,34.0553754,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2188944,34.0553622,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2191239,34.0553387,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2193627,34.0553043,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2195892,34.0552647,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2198175,34.0552129,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2200412,34.0551554,3,65 mph,San Bernardino Freeway,US 101,North
+-118.220265,34.0550877,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2204879,34.055012,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2207003,34.0549261,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2209077,34.0548352,3,65 mph,San Bernardino Freeway,US 101,North
+-118.221306,34.0546284,3,65 mph,San Bernardino Freeway,US 101,North
+-118.2213584,34.0409126,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2210018,34.0427033,3,55 mph,Santa Ana Freeway,US 101,North
+-118.220977,34.0434498,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2210563,34.0450082,3,55 mph,Santa Ana Freeway,US 101,North
+-118.221071,34.0452973,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2222127,34.0492994,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2224335,34.0497328,3,55 mph,Santa Ana Freeway,US 101,North
+-118.264081,34.0708569,4,55 mph,Hollywood Freeway,US 101,North
+-118.2647922,34.0711728,4,55 mph,Hollywood Freeway,US 101,North
+-118.2667131,34.0720133,4,55 mph,Hollywood Freeway,US 101,North
+-118.2670472,34.072158,4,55 mph,Hollywood Freeway,US 101,North
+-118.2674351,34.0723358,4,55 mph,Hollywood Freeway,US 101,North
+-118.2678406,34.0725133,4,55 mph,Hollywood Freeway,US 101,North
+-118.2682398,34.0726816,4,55 mph,Hollywood Freeway,US 101,North
+-118.2686508,34.0728486,4,55 mph,Hollywood Freeway,US 101,North
+-118.2690736,34.0730193,4,55 mph,Hollywood Freeway,US 101,North
+-118.2695077,34.0731947,4,55 mph,Hollywood Freeway,US 101,North
+-118.26979,34.0733106,4,55 mph,Hollywood Freeway,US 101,North
+-118.2700723,34.0734309,4,55 mph,Hollywood Freeway,US 101,North
+-118.3147906,34.0987548,4,55 mph,Hollywood Freeway,US 101,North
+-118.3164671,34.1016051,4,55 mph,Hollywood Freeway,US 101,North
+-118.3166246,34.1018517,4,55 mph,Hollywood Freeway,US 101,North
+-118.3167854,34.1020757,4,55 mph,Hollywood Freeway,US 101,North
+-118.3169592,34.1022896,4,55 mph,Hollywood Freeway,US 101,North
+-118.3171433,34.1024926,4,55 mph,Hollywood Freeway,US 101,North
+-118.3173419,34.1026868,4,55 mph,Hollywood Freeway,US 101,North
+-118.3175582,34.1028803,4,55 mph,Hollywood Freeway,US 101,North
+-118.3177792,34.1030624,4,55 mph,Hollywood Freeway,US 101,North
+-118.318015,34.1032372,4,55 mph,Hollywood Freeway,US 101,North
+-118.3182474,34.1033882,4,55 mph,Hollywood Freeway,US 101,North
+-118.318499,34.1035352,4,55 mph,Hollywood Freeway,US 101,North
+-118.221071,34.0452973,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2211031,34.0459276,3,55 mph,Santa Ana Freeway,US 101,North
+-118.221213,34.0467063,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2213395,34.047139,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2214494,34.0475306,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2216967,34.048191,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2222127,34.0492994,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2224335,34.0497328,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2225479,34.049988,3,55 mph,Santa Ana Freeway,US 101,North
+-118.2308451,34.0534877,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2315571,34.0535562,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2318617,34.0535912,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2335163,34.0537958,5,55 mph,Santa Ana Freeway,US 101,North
+-118.2414143,34.0564387,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2421453,34.0568794,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2433383,34.0576047,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2442803,34.0582743,4,55 mph,Santa Ana Freeway,US 101,North
+-118.2442803,34.0582743,5,55 mph,Santa Ana Freeway,US 101,North
+-118.244475,34.0584076,5,55 mph,Santa Ana Freeway,US 101,North
+-118.3283787,34.1065986,5,55 mph,Hollywood Freeway,US 101,North
+-118.328499,34.1066715,5,55 mph,Hollywood Freeway,US 101,North
+-118.5152281,34.1712696,5,65 mph,Ventura Freeway,US 101,North
+-118.5183729,34.1713058,5,65 mph,Ventura Freeway,US 101,North
+-118.5187436,34.1713054,5,65 mph,Ventura Freeway,US 101,North
+-118.5218629,34.1712849,5,65 mph,Ventura Freeway,US 101,North
+-118.4970971,34.1681557,5,65 mph,Ventura Freeway,US 101,North
+-118.4994473,34.1696638,5,65 mph,Ventura Freeway,US 101,North
+-118.5000499,34.1700364,5,65 mph,Ventura Freeway,US 101,North
+-118.5005723,34.1703153,5,65 mph,Ventura Freeway,US 101,North
+-118.5009299,34.1704803,5,65 mph,Ventura Freeway,US 101,North
+-118.5012837,34.1706232,5,65 mph,Ventura Freeway,US 101,North
+-118.5020192,34.1708681,5,65 mph,Ventura Freeway,US 101,North
+-118.5024384,34.1709831,5,65 mph,Ventura Freeway,US 101,North
+-118.5028633,34.1710778,5,65 mph,Ventura Freeway,US 101,North
+-118.5033892,34.1711684,5,65 mph,Ventura Freeway,US 101,North
+-118.5042376,34.1712596,5,65 mph,Ventura Freeway,US 101,North
+-118.50502,34.1712818,5,65 mph,Ventura Freeway,US 101,North
+-118.5678592,34.1728402,5,65 mph,Ventura Freeway,US 101,North
+-118.5671726,34.172935,5,65 mph,Ventura Freeway,US 101,North
+-118.5623632,34.1733403,5,65 mph,Ventura Freeway,US 101,North
+-118.5620523,34.1733663,5,65 mph,Ventura Freeway,US 101,North
+-118.5603476,34.1735155,5,65 mph,Ventura Freeway,US 101,North
+-118.5598562,34.1735421,5,65 mph,Ventura Freeway,US 101,North
+-118.5592801,34.173559,5,65 mph,Ventura Freeway,US 101,North
+-118.55886,34.1735659,5,65 mph,Ventura Freeway,US 101,North
+-118.5567405,34.173516,5,65 mph,Ventura Freeway,US 101,North
+-118.5506344,34.1736166,5,65 mph,Ventura Freeway,US 101,North
+-118.5532984,34.173649,5,65 mph,Ventura Freeway,US 101,North
+-118.5536656,34.1736534,5,65 mph,Ventura Freeway,US 101,North
+-118.5570328,34.173709,5,65 mph,Ventura Freeway,US 101,North
+-118.375185,34.1522767,3,65 mph,,US 101,North
+-118.3754911,34.1528175,3,65 mph,,US 101,North
+-118.3756179,34.1530255,3,65 mph,,US 101,North
+-118.3757579,34.153209,3,65 mph,,US 101,North
+-118.375896,34.1533726,3,65 mph,,US 101,North
+-118.3760466,34.153523,3,65 mph,,US 101,North
+-118.3762128,34.1536681,3,65 mph,,US 101,North
+-118.3763867,34.1538008,3,65 mph,,US 101,North
+-118.3765535,34.1539145,3,65 mph,,US 101,North
+-118.3767345,34.1540224,3,65 mph,,US 101,North
+-118.3769133,34.1541171,3,65 mph,,US 101,North
+-118.3771064,34.1542074,3,65 mph,,US 101,North
+-118.3772596,34.1542689,3,65 mph,,US 101,North
+-118.3774679,34.1543421,3,65 mph,,US 101,North
+-118.3777261,34.1544194,3,65 mph,,US 101,North
+-118.3779352,34.1544712,3,65 mph,,US 101,North
+-118.3781987,34.1545595,3,65 mph,,US 101,North
+-118.3403641,34.1221507,5,55 mph,Hollywood Freeway,US 101,North
+-118.3428721,34.1242945,5,55 mph,Hollywood Freeway,US 101,North
+-118.3430944,34.124486,5,55 mph,Hollywood Freeway,US 101,North
+-118.3433021,34.1246748,5,55 mph,Hollywood Freeway,US 101,North
+-118.3434908,34.1248587,5,55 mph,Hollywood Freeway,US 101,North
+-118.3436685,34.1250557,5,55 mph,Hollywood Freeway,US 101,North
+-118.3438454,34.1252726,5,55 mph,Hollywood Freeway,US 101,North
+-118.3441592,34.1256992,5,55 mph,Hollywood Freeway,US 101,North
+-118.3443075,34.1259153,5,55 mph,Hollywood Freeway,US 101,North
+-118.3446252,34.1263918,5,55 mph,Hollywood Freeway,US 101,North
+-118.3447797,34.1266117,5,55 mph,Hollywood Freeway,US 101,North
+-118.3449472,34.1268311,5,55 mph,Hollywood Freeway,US 101,North
+-118.3451307,34.1270488,5,55 mph,Hollywood Freeway,US 101,North
+-118.3453289,34.1272625,5,55 mph,Hollywood Freeway,US 101,North
+-118.345534,34.1274739,5,55 mph,Hollywood Freeway,US 101,North
+-118.3457618,34.1277015,5,55 mph,Hollywood Freeway,US 101,North
+-118.3474619,34.1293872,5,55 mph,Hollywood Freeway,US 101,North
+-118.3548645,34.1339453,5,55 mph,Hollywood Freeway,US 101,North
+-118.3555775,34.1341313,5,55 mph,Hollywood Freeway,US 101,North
+-118.3566357,34.1344653,5,55 mph,Hollywood Freeway,US 101,North
+-118.3327278,34.1092133,4,55 mph,Hollywood Freeway,US 101,North
+-118.332969,34.1093664,4,55 mph,Hollywood Freeway,US 101,North
+-118.3332081,34.1095235,4,55 mph,Hollywood Freeway,US 101,North
+-118.3334518,34.1096911,4,55 mph,Hollywood Freeway,US 101,North
+-118.3336871,34.1098634,4,55 mph,Hollywood Freeway,US 101,North
+-118.3339192,34.1100439,4,55 mph,Hollywood Freeway,US 101,North
+-118.3341298,34.1102196,4,55 mph,Hollywood Freeway,US 101,North
+-118.3343406,34.1104133,4,55 mph,Hollywood Freeway,US 101,North
+-118.3345392,34.1106214,4,55 mph,Hollywood Freeway,US 101,North
+-118.3347019,34.1108104,4,55 mph,Hollywood Freeway,US 101,North
+-118.3348676,34.1110222,4,55 mph,Hollywood Freeway,US 101,North
+-118.335021,34.1112374,4,55 mph,Hollywood Freeway,US 101,North
+-118.3351682,34.1114709,4,55 mph,Hollywood Freeway,US 101,North
+-118.3352886,34.1116887,4,55 mph,Hollywood Freeway,US 101,North
+-118.3354096,34.1119278,4,55 mph,Hollywood Freeway,US 101,North
+-118.3355183,34.112173,4,55 mph,Hollywood Freeway,US 101,North
+-118.3356062,34.1124096,4,55 mph,Hollywood Freeway,US 101,North
+-118.3356876,34.1126454,4,55 mph,Hollywood Freeway,US 101,North
+-118.3364941,34.1151156,4,55 mph,Hollywood Freeway,US 101,North
+-118.3365778,34.1153727,4,55 mph,Hollywood Freeway,US 101,North
+-118.3366522,34.1156184,4,55 mph,Hollywood Freeway,US 101,North
+-118.3367224,34.1158543,4,55 mph,Hollywood Freeway,US 101,North
+-118.3369994,34.1168915,4,55 mph,Hollywood Freeway,US 101,North
+-118.3370745,34.1171428,4,55 mph,Hollywood Freeway,US 101,North
+-118.337153,34.1174089,4,55 mph,Hollywood Freeway,US 101,North
+-118.3375348,34.1184012,5,55 mph,Hollywood Freeway,US 101,North
+-118.3376548,34.1186554,5,55 mph,Hollywood Freeway,US 101,North
+-118.337776,34.118897,5,55 mph,Hollywood Freeway,US 101,North
+-118.3379009,34.119135,5,55 mph,Hollywood Freeway,US 101,North
+-118.3380375,34.1193767,5,55 mph,Hollywood Freeway,US 101,North
+-118.3381772,34.1196096,5,55 mph,Hollywood Freeway,US 101,North
+-118.3383286,34.1198452,5,55 mph,Hollywood Freeway,US 101,North
+-118.3384842,34.1200755,5,55 mph,Hollywood Freeway,US 101,North
+-118.3386506,34.120305,5,55 mph,Hollywood Freeway,US 101,North
+-118.3388242,34.1205351,5,55 mph,Hollywood Freeway,US 101,North
+-118.3389922,34.1207537,5,55 mph,Hollywood Freeway,US 101,North
+-118.3391696,34.120965,5,55 mph,Hollywood Freeway,US 101,North
+-118.3394671,34.1212833,5,55 mph,Hollywood Freeway,US 101,North
+-118.3403641,34.1221507,5,55 mph,Hollywood Freeway,US 101,North
+-118.3566357,34.1344653,6,55 mph,Hollywood Freeway,US 101,North
+-118.3581523,34.134952,6,55 mph,Hollywood Freeway,US 101,North
+-118.3588069,34.1351933,6,55 mph,Hollywood Freeway,US 101,North
+-118.3591672,34.1353475,6,55 mph,Hollywood Freeway,US 101,North
+-118.3597016,34.1356423,6,55 mph,Hollywood Freeway,US 101,North
+-118.3605002,34.1362036,6,55 mph,Hollywood Freeway,US 101,North
+-118.3605002,34.1362036,5,55 mph,Hollywood Freeway,US 101,North
+-118.3607892,34.1364075,5,55 mph,Hollywood Freeway,US 101,North
+-118.3623798,34.1375318,5,55 mph,Hollywood Freeway,US 101,North
+-118.3474619,34.1293872,5,55 mph,Hollywood Freeway,US 101,North
+-118.3486047,34.1304758,5,55 mph,Hollywood Freeway,US 101,North
+-118.3488372,34.1306997,5,55 mph,Hollywood Freeway,US 101,North
+-118.349612,34.1314462,5,55 mph,Hollywood Freeway,US 101,North
+-118.3498239,34.1316501,5,55 mph,Hollywood Freeway,US 101,North
+-118.3500355,34.1318572,5,55 mph,Hollywood Freeway,US 101,North
+-118.3502545,34.1320545,5,55 mph,Hollywood Freeway,US 101,North
+-118.3504834,34.132246,5,55 mph,Hollywood Freeway,US 101,North
+-118.350723,34.1324269,5,55 mph,Hollywood Freeway,US 101,North
+-118.3509562,34.1325898,5,55 mph,Hollywood Freeway,US 101,North
+-118.3512118,34.1327527,5,55 mph,Hollywood Freeway,US 101,North
+-118.3514761,34.1329038,5,55 mph,Hollywood Freeway,US 101,North
+-118.3517516,34.1330437,5,55 mph,Hollywood Freeway,US 101,North
+-118.3520153,34.133164,5,55 mph,Hollywood Freeway,US 101,North
+-118.3522361,34.1332553,5,55 mph,Hollywood Freeway,US 101,North
+-118.3526627,34.1334139,5,55 mph,Hollywood Freeway,US 101,North
+-118.3529022,34.1334894,5,55 mph,Hollywood Freeway,US 101,North
+-118.3531436,34.1335559,5,55 mph,Hollywood Freeway,US 101,North
+-118.3535047,34.1336392,5,55 mph,Hollywood Freeway,US 101,North
+-118.3539667,34.1337382,5,55 mph,Hollywood Freeway,US 101,North
+-118.3548645,34.1339453,5,55 mph,Hollywood Freeway,US 101,North
+-118.337153,34.1174089,5,55 mph,Hollywood Freeway,US 101,North
+-118.3372336,34.1176544,5,55 mph,Hollywood Freeway,US 101,North
+-118.3373308,34.11791,5,55 mph,Hollywood Freeway,US 101,North
+-118.3374277,34.1181541,5,55 mph,Hollywood Freeway,US 101,North
+-118.3375348,34.1184012,5,55 mph,Hollywood Freeway,US 101,North
+-118.2700723,34.0734309,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2703581,34.0735573,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2706271,34.0736884,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2708902,34.0738225,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2715009,34.074151,4,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2945467,34.0816054,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2949994,34.0818155,5,55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2743477,34.0752908,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2751621,34.0755024,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.2782446,34.0763978,"['5', '4']",55 mph,Hollywood Freeway,US 101;CA 2,North
+-118.318499,34.1035352,5,55 mph,Hollywood Freeway,US 101,North
+-118.318762,34.1036727,5,55 mph,Hollywood Freeway,US 101,North
+-118.3190305,34.1037999,5,55 mph,Hollywood Freeway,US 101,North
+-118.3195605,34.104022,5,55 mph,Hollywood Freeway,US 101,North
+-118.3623798,34.1375318,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3627024,34.1377613,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3629993,34.1379724,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3638537,34.1385759,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3640825,34.1387382,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3643194,34.1389102,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3645581,34.139085,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3647866,34.1392643,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3649973,34.1394337,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3651854,34.1396018,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3653788,34.1397945,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3655679,34.1400106,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3657286,34.1402082,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3658862,34.1404187,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3660408,34.1406432,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3661917,34.1408827,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3663258,34.1411131,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3664418,34.1413466,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3672523,34.1431862,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.392787,34.1543473,5,65 mph,Ventura Freeway,US 101,North
+-118.3923112,34.1543596,5,65 mph,Ventura Freeway,US 101,North
+-118.3919335,34.1543581,5,65 mph,Ventura Freeway,US 101,North
+-118.3879095,34.1543826,5,65 mph,Ventura Freeway,US 101,North
+-118.3875837,34.1543826,5,65 mph,Ventura Freeway,US 101,North
+-118.384375,34.1544015,5,65 mph,Ventura Freeway,US 101,North
+-118.3672523,34.1431862,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3673697,34.1434333,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3675374,34.1437848,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3677526,34.1442785,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3678903,34.1445672,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.3680003,34.1447716,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.36814,34.1450243,"['5', '4']",55 mph,Hollywood Freeway,US 101,North
+-118.328499,34.1066715,5,55 mph,Hollywood Freeway,US 101,North
+-118.3306498,34.1079741,5,55 mph,Hollywood Freeway,US 101,North
+-118.3310334,34.1081967,5,55 mph,Hollywood Freeway,US 101,North
+-118.3316416,34.1085435,5,55 mph,Hollywood Freeway,US 101,North
+-118.3320628,34.1087982,5,55 mph,Hollywood Freeway,US 101,North
+-118.3327278,34.1092133,5,55 mph,Hollywood Freeway,US 101,North
+-118.2335163,34.0537958,5,55 mph,Santa Ana Freeway,US 101,North
+-118.233677,34.0538157,5,55 mph,Santa Ana Freeway,US 101,North

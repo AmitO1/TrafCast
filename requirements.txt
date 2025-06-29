@@ -6,3 +6,5 @@ folium
 shapely
 scikit-learn
 geopy
+streamlit
+streamlit-folium
