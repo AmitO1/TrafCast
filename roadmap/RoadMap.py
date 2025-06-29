@@ -12,6 +12,7 @@ from utils import get_coordinates_from_network, sort_gps_by_greedy_path
 from mock_predictor import MockTrafficPredictor
 from geopy.distance import geodesic
 import re
+import math
 
 DIST_THRESHOLD_METERS_MAX = 1200 #2000
 DIST_THRESHOLD_METERS_MIN = 10 #10
@@ -124,13 +125,13 @@ class RoadMapManager:
 
     def draw_map(self):
 
-        def get_color(speed,max_speed):
+        def get_color(speed, max_speed):
             if speed >= 0.85 * max_speed:
-                return 'green'
+                return '#00FF00'  # Bright neon green
             elif speed >= 0.55 * max_speed:
-                return 'orange'
+                return '#FFA500'  # Bright orange
             else:
-                return 'red'
+                return '#FF0000'  # Bright red
             
         center_lon = (self.bbox[0] + self.bbox[2]) / 2
         center_lat = (self.bbox[1] + self.bbox[3]) / 2
@@ -138,7 +139,7 @@ class RoadMapManager:
         m = folium.Map(
         location=[center_lat, center_lon],
         zoom_start=13,
-        tiles='CartoDB positron'
+        tiles='CartoDB dark_matter'
         )
 
         for (road_name, direction), df in self.roads.items():
@@ -169,3 +170,79 @@ class RoadMapManager:
         output_path = os.path.join(self.visualizations_path, "sorted_path.html")
         m.save(output_path)
         print("Saved map with distance filtering to 'sorted_path.html'")
+
+
+
+
+    def draw_map_offset(self):
+
+        def get_color(speed, max_speed):
+            if speed >= 0.85 * max_speed:
+                return '#00FF00'  # Neon green
+            elif speed >= 0.55 * max_speed:
+                return '#FFA500'  # Bright orange
+            else:
+                return '#FF0000'  # Bright red
+
+        def get_maxspeed(raw_speed):
+            match = re.search(r'\d+', str(raw_speed))
+            return float(match.group()) if match else 60
+
+        def apply_offset(lat, lon, bearing, direction):
+            """Offset lat/lon a little perpendicular to bearing, based on direction."""
+            offset_meters = -600 if direction.lower() in ["north", "east"] else 600
+
+            # Convert bearing to radians and rotate 90°
+            angle_rad = math.radians((bearing + 90) % 360)
+            delta_lat = offset_meters * math.cos(angle_rad) / 111111
+            delta_lon = offset_meters * math.sin(angle_rad) / (111111 * math.cos(math.radians(lat)))
+
+            return lat + delta_lat, lon + delta_lon
+
+        # Create dark base map
+        center_lon = (self.bbox[0] + self.bbox[2]) / 2
+        center_lat = (self.bbox[1] + self.bbox[3]) / 2
+
+        m = folium.Map(
+            location=[center_lat, center_lon],
+            zoom_start=13,
+            tiles='CartoDB dark_matter'
+        )
+
+        # Group by road name
+        road_groups = {}
+        for (road_name, direction), df in self.roads.items():
+            road_groups.setdefault(road_name, {})[direction] = df
+
+        for road_name, direction_map in road_groups.items():
+            for direction, df in direction_map.items():
+                for i in range(len(df) - 1):
+                    lat1, lon1, speed1 = df.loc[i, ['Latitude', 'Longitude', 'speed']]
+                    lat2, lon2, speed2 = df.loc[i + 1, ['Latitude', 'Longitude', 'speed']]
+                    raw_speed = df.loc[i, 'maxspeed']
+                    max_speed = get_maxspeed(raw_speed)
+                    bearing = df.loc[i, 'bearing'] if 'bearing' in df.columns else 0
+
+                    dist = geodesic((lat1, lon1), (lat2, lon2)).meters
+                    if dist > DIST_THRESHOLD_METERS_MAX or dist < DIST_THRESHOLD_METERS_MIN:
+                        continue
+
+                    avg_speed = (speed1 + speed2) / 2
+                    color = get_color(avg_speed, max_speed)
+
+                    # Apply visual offset if road has both directions
+                    has_opposite = len(direction_map) > 1
+                    if has_opposite:
+                        lat1, lon1 = apply_offset(lat1, lon1, bearing, direction)
+                        lat2, lon2 = apply_offset(lat2, lon2, bearing, direction)
+
+                    folium.PolyLine(
+                        locations=[(lat1, lon1), (lat2, lon2)],
+                        color=color,
+                        weight=6,
+                        opacity=0.95
+                    ).add_to(m)
+
+        output_path = os.path.join(self.visualizations_path, "direction_offset_map.html")
+        m.save(output_path)
+        print("✅ Saved map with directional offsets to 'direction_offset_map.html'")
