@@ -1,0 +1,1829 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-117.3061573,34.1456033,3,65 mph,Foothill Freeway,CA 210,South
+-117.3026295,34.1456084,3,65 mph,Foothill Freeway,CA 210,South
+-117.2959972,34.1455082,3,65 mph,Foothill Freeway,CA 210,South
+-117.2008484,34.0776654,4,65 mph,Foothill Freeway,CA 210,South
+-117.2008526,34.0771023,4,65 mph,Foothill Freeway,CA 210,South
+-117.2008611,34.0733036,4,65 mph,Foothill Freeway,CA 210,South
+-117.2008611,34.0733036,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2008637,34.0723981,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2008866,34.0720314,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2009266,34.0716313,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2010962,34.0704789,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2012006,34.0699213,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2013611,34.0691126,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2014161,34.0687693,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2014388,34.0684914,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2014387,34.0682244,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2014339,34.0679625,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2014069,34.0676374,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2013748,34.0674303,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2013306,34.0672121,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2012308,34.0668465,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2011406,34.0666068,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.20104,34.066359,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2008643,34.065995,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2007374,34.065764,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2005994,34.0655512,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2004484,34.0653402,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2002923,34.0651404,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2000347,34.0648431,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1997863,34.0645902,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1995013,34.0643373,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1991861,34.0640868,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1989736,34.0639395,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1986555,34.0637338,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1982907,34.063533,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1979446,34.063368,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1976183,34.0632289,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1971143,34.0630448,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1960911,34.0626859,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.195445,34.0624701,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1948533,34.0622927,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1947389,34.0622581,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1945981,34.0622224,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.194025,34.0620762,"['1', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.200828,34.0817874,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2008223,34.0815356,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2008215,34.0810778,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2008336,34.0795448,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2008484,34.0776654,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2008307,34.1172637,2,65 mph,Foothill Freeway,CA 210,South
+-117.2007136,34.116567,2,65 mph,Foothill Freeway,CA 210,South
+-117.2005079,34.1156232,2,65 mph,Foothill Freeway,CA 210,South
+-117.2002791,34.114713,2,65 mph,Foothill Freeway,CA 210,South
+-117.1998742,34.1130672,2,65 mph,Foothill Freeway,CA 210,South
+-117.1995482,34.1116209,2,65 mph,Foothill Freeway,CA 210,South
+-117.1994576,34.1111165,2,65 mph,Foothill Freeway,CA 210,South
+-117.2410888,34.1377893,2,65 mph,Foothill Freeway,CA 210,South
+-117.2403673,34.1375144,2,65 mph,Foothill Freeway,CA 210,South
+-117.2391138,34.1369876,2,65 mph,Foothill Freeway,CA 210,South
+-117.2370738,34.1361632,2,65 mph,Foothill Freeway,CA 210,South
+-117.2345184,34.1351132,2,65 mph,Foothill Freeway,CA 210,South
+-117.2327881,34.1344087,2,65 mph,Foothill Freeway,CA 210,South
+-117.2301878,34.1332819,2,65 mph,Foothill Freeway,CA 210,South
+-117.2726931,34.1447449,3,65 mph,Foothill Freeway,CA 210,South
+-117.2691947,34.1445875,3,65 mph,Foothill Freeway,CA 210,South
+-117.2688353,34.1445708,3,65 mph,Foothill Freeway,CA 210,South
+-117.2678173,34.1445316,3,65 mph,Foothill Freeway,CA 210,South
+-117.2654252,34.1443457,3,65 mph,Foothill Freeway,CA 210,South
+-117.2627344,34.1440386,3,65 mph,Foothill Freeway,CA 210,South
+-117.2613629,34.1438654,3,65 mph,Foothill Freeway,CA 210,South
+-117.2608463,34.1438025,3,65 mph,Foothill Freeway,CA 210,South
+-117.2601336,34.1437208,3,65 mph,Foothill Freeway,CA 210,South
+-117.2588979,34.1435819,3,65 mph,Foothill Freeway,CA 210,South
+-117.2575663,34.1434129,3,65 mph,Foothill Freeway,CA 210,South
+-117.2829569,34.1452136,3,65 mph,Foothill Freeway,CA 210,South
+-117.2807517,34.1451233,3,65 mph,Foothill Freeway,CA 210,South
+-117.2780802,34.1450043,3,65 mph,Foothill Freeway,CA 210,South
+-117.2761124,34.1449101,3,65 mph,Foothill Freeway,CA 210,South
+-117.274767,34.1448493,3,65 mph,Foothill Freeway,CA 210,South
+-117.2726931,34.1447449,3,65 mph,Foothill Freeway,CA 210,South
+-117.2575663,34.1434129,3,65 mph,Foothill Freeway,CA 210,South
+-117.2559696,34.1431911,3,65 mph,Foothill Freeway,CA 210,South
+-117.2547388,34.143009,3,65 mph,Foothill Freeway,CA 210,South
+-117.2540158,34.1428524,3,65 mph,Foothill Freeway,CA 210,South
+-117.2533004,34.1426717,3,65 mph,Foothill Freeway,CA 210,South
+-117.2526953,34.142489,3,65 mph,Foothill Freeway,CA 210,South
+-117.2521318,34.1423041,3,65 mph,Foothill Freeway,CA 210,South
+-117.2515849,34.1421012,3,65 mph,Foothill Freeway,CA 210,South
+-117.2501567,34.1415588,3,65 mph,Foothill Freeway,CA 210,South
+-117.2490053,34.1410555,3,65 mph,Foothill Freeway,CA 210,South
+-117.2483243,34.1407719,3,65 mph,Foothill Freeway,CA 210,South
+-117.1994429,34.1047789,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1994593,34.1046077,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1995222,34.1040292,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1996682,34.1027819,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1997207,34.1023708,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.1999105,34.1009097,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2000992,34.0994407,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2003252,34.0975959,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2004651,34.0962686,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2005825,34.0949046,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2007348,34.092399,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2007736,34.0904132,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2007977,34.0872021,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2008106,34.08465,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2007961,34.0839497,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.200799,34.0837594,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2008017,34.083587,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.200828,34.0817874,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2959972,34.1455082,3,65 mph,Foothill Freeway,CA 210,South
+-117.29104,34.1453873,3,65 mph,Foothill Freeway,CA 210,South
+-117.2483243,34.1407719,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2479134,34.1406036,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2476236,34.1404846,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2460443,34.1398619,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2439307,34.1389672,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2434149,34.1387534,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2425709,34.1384013,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2410888,34.1377893,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.2301878,34.1332819,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2289927,34.1328044,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2281953,34.1325275,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2277089,34.1323808,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2272179,34.1322508,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2265043,34.1320945,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2258791,34.1319763,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2247887,34.1318465,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2241774,34.1318081,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2235639,34.1317915,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2130647,34.1317787,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2120457,34.1317775,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2116327,34.1317733,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2112285,34.1317574,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2108124,34.1317292,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2104133,34.1316889,"['3', '2']",65 mph,Foothill Freeway,CA 210,South
+-117.2104133,34.1316889,2,65 mph,Foothill Freeway,CA 210,South
+-117.2099311,34.1316232,2,65 mph,Foothill Freeway,CA 210,South
+-117.2095549,34.1315613,2,65 mph,Foothill Freeway,CA 210,South
+-117.2091818,34.1314858,2,65 mph,Foothill Freeway,CA 210,South
+-117.2084415,34.1313062,2,65 mph,Foothill Freeway,CA 210,South
+-117.2077732,34.1311063,2,65 mph,Foothill Freeway,CA 210,South
+-117.2071601,34.1308833,2,65 mph,Foothill Freeway,CA 210,South
+-117.2066419,34.1306621,2,65 mph,Foothill Freeway,CA 210,South
+-117.2061114,34.1304057,2,65 mph,Foothill Freeway,CA 210,South
+-117.2056142,34.1301276,2,65 mph,Foothill Freeway,CA 210,South
+-117.2051563,34.1298451,2,65 mph,Foothill Freeway,CA 210,South
+-117.2045747,34.1294409,2,65 mph,Foothill Freeway,CA 210,South
+-117.2039513,34.1289374,2,65 mph,Foothill Freeway,CA 210,South
+-117.2036555,34.1286667,2,65 mph,Foothill Freeway,CA 210,South
+-117.2033707,34.1283824,2,65 mph,Foothill Freeway,CA 210,South
+-117.2031077,34.1280939,2,65 mph,Foothill Freeway,CA 210,South
+-117.20285,34.1278053,2,65 mph,Foothill Freeway,CA 210,South
+-117.2026034,34.1275104,2,65 mph,Foothill Freeway,CA 210,South
+-117.2023979,34.1272304,2,65 mph,Foothill Freeway,CA 210,South
+-117.2021241,34.1267986,2,65 mph,Foothill Freeway,CA 210,South
+-117.2018664,34.1263667,2,65 mph,Foothill Freeway,CA 210,South
+-117.47991,34.1362439,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.4794102,34.1362405,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.478641,34.1362422,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.3145464,34.1458635,3,65 mph,Foothill Freeway,CA 210,South
+-117.3155888,34.1457483,3,65 mph,Foothill Freeway,CA 210,South
+-117.3164153,34.1456228,3,65 mph,Foothill Freeway,CA 210,South
+-117.3171784,34.1454606,3,65 mph,Foothill Freeway,CA 210,South
+-117.3177714,34.1452752,3,65 mph,Foothill Freeway,CA 210,South
+-117.3183863,34.1450638,3,65 mph,Foothill Freeway,CA 210,South
+-117.3188815,34.1448532,3,65 mph,Foothill Freeway,CA 210,South
+-117.319339,34.1446527,3,65 mph,Foothill Freeway,CA 210,South
+-117.3198871,34.1443542,3,65 mph,Foothill Freeway,CA 210,South
+-117.3202646,34.1441273,3,65 mph,Foothill Freeway,CA 210,South
+-117.3208502,34.1437493,3,65 mph,Foothill Freeway,CA 210,South
+-117.3213163,34.1434213,3,65 mph,Foothill Freeway,CA 210,South
+-117.322046,34.1428465,3,65 mph,Foothill Freeway,CA 210,South
+-117.322046,34.1428465,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3226103,34.1423206,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3229281,34.1420266,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3240652,34.1407932,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3244439,34.1403761,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3248177,34.1399733,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3254649,34.1392759,"['3', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.302829,34.1337545,2,,,CA 259,South
+-117.3028754,34.1319916,2,,,CA 259,South
+-117.3029177,34.1308976,2,,,CA 259,South
+-117.3029904,34.1302326,2,,,CA 259,South
+-117.303068,34.1296411,2,,,CA 259,South
+-117.3030923,34.1294018,2,,,CA 259,South
+-117.3031368,34.1286801,2,,,CA 259,South
+-117.3031373,34.1283487,2,,,CA 259,South
+-117.3031206,34.1280404,2,,,CA 259,South
+-117.3030917,34.12765,2,,,CA 259,South
+-117.3030425,34.1272484,2,,,CA 259,South
+-117.3029391,34.1266447,2,,,CA 259,South
+-117.30285,34.1262362,2,,,CA 259,South
+-117.3026546,34.1397492,2,,,CA 259,South
+-117.302751,34.1362227,2,,,CA 259,South
+-117.3027581,34.1358313,2,,,CA 259,South
+-117.302829,34.1337545,2,,,CA 259,South
+-117.2990272,34.1451409,2,,,CA 259,South
+-117.2998934,34.1444006,2,,,CA 259,South
+-117.300669,34.1436841,2,,,CA 259,South
+-117.3010739,34.1433251,2,,,CA 259,South
+-117.3014196,34.1429535,2,,,CA 259,South
+-117.301845,34.1423923,2,,,CA 259,South
+-117.3020562,34.1420379,2,,,CA 259,South
+-117.3021855,34.1417833,2,,,CA 259,South
+-117.3023803,34.1413083,2,,,CA 259,South
+-117.3025238,34.1408381,2,,,CA 259,South
+-117.3025915,34.1404992,2,,,CA 259,South
+-117.3026546,34.1397492,2,,,CA 259,South
+-117.4580479,34.1362916,4,65 mph,Foothill Freeway,CA 210,South
+-117.4565244,34.1362473,4,65 mph,Foothill Freeway,CA 210,South
+-117.4552316,34.1362422,4,65 mph,Foothill Freeway,CA 210,South
+-117.453734,34.1362349,4,65 mph,Foothill Freeway,CA 210,South
+-117.4478921,34.1362066,4,65 mph,Foothill Freeway,CA 210,South
+-117.4121011,34.1362084,4,65 mph,Foothill Freeway,CA 210,South
+-117.4090976,34.1361356,4,65 mph,Foothill Freeway,CA 210,South
+-117.4001712,34.1359296,4,65 mph,Foothill Freeway,CA 210,South
+-117.3984465,34.1358882,4,65 mph,Foothill Freeway,CA 210,South
+-117.3655489,34.1359825,4,65 mph,Foothill Freeway,CA 210,South
+-117.3645104,34.1360832,4,65 mph,Foothill Freeway,CA 210,South
+-117.3637298,34.1361352,4,65 mph,Foothill Freeway,CA 210,South
+-117.3626369,34.1361194,4,65 mph,Foothill Freeway,CA 210,South
+-117.3618301,34.1360512,4,65 mph,Foothill Freeway,CA 210,South
+-117.361398,34.1360147,4,65 mph,Foothill Freeway,CA 210,South
+-117.3601231,34.1358652,4,65 mph,Foothill Freeway,CA 210,South
+-117.3592782,34.1356795,4,65 mph,Foothill Freeway,CA 210,South
+-117.3584222,34.1354449,4,65 mph,Foothill Freeway,CA 210,South
+-117.3578112,34.1352837,4,65 mph,Foothill Freeway,CA 210,South
+-117.36553,34.1362968,4,65 mph,Foothill Freeway,CA 210,South
+-117.3686907,34.136069,4,65 mph,Foothill Freeway,CA 210,South
+-117.3708085,34.1360362,4,65 mph,Foothill Freeway,CA 210,South
+-117.3723792,34.1360077,4,65 mph,Foothill Freeway,CA 210,South
+-117.3754986,34.1359863,4,65 mph,Foothill Freeway,CA 210,South
+-117.3754986,34.1359863,5,65 mph,Foothill Freeway,CA 210,South
+-117.38612,34.1359097,5,65 mph,Foothill Freeway,CA 210,South
+-117.4305921,34.1365411,4,65 mph,Foothill Freeway,CA 210,South
+-117.4376074,34.1364718,4,65 mph,Foothill Freeway,CA 210,South
+-117.4834891,34.1365578,4,65 mph,Foothill Freeway,CA 210,South
+-117.4882226,34.1365462,4,65 mph,Foothill Freeway,CA 210,South
+-117.4886606,34.1365462,4,65 mph,Foothill Freeway,CA 210,South
+-117.4912633,34.1365364,4,65 mph,Foothill Freeway,CA 210,South
+-117.4925539,34.136519,4,65 mph,Foothill Freeway,CA 210,South
+-117.3313,34.1354026,4,65 mph,Foothill Freeway,CA 210,South
+-117.3321806,34.1351475,4,65 mph,Foothill Freeway,CA 210,South
+-117.3327752,34.1350144,4,65 mph,Foothill Freeway,CA 210,South
+-117.333359,34.1349023,4,65 mph,Foothill Freeway,CA 210,South
+-117.3341057,34.1347857,4,65 mph,Foothill Freeway,CA 210,South
+-117.3351273,34.1347038,4,65 mph,Foothill Freeway,CA 210,South
+-117.335827,34.1346813,4,65 mph,Foothill Freeway,CA 210,South
+-117.3381301,34.1347814,4,65 mph,Foothill Freeway,CA 210,South
+-117.3410438,34.1349348,4,65 mph,Foothill Freeway,CA 210,South
+-117.4795095,34.136582,4,65 mph,Foothill Freeway,CA 210,South
+-117.4799254,34.1365804,4,65 mph,Foothill Freeway,CA 210,South
+-117.4834891,34.1365578,4,65 mph,Foothill Freeway,CA 210,South
+-117.3410438,34.1349348,4,65 mph,Foothill Freeway,CA 210,South
+-117.3416743,34.1349689,4,65 mph,Foothill Freeway,CA 210,South
+-117.3428594,34.1350052,4,65 mph,Foothill Freeway,CA 210,South
+-117.344179,34.1350146,4,65 mph,Foothill Freeway,CA 210,South
+-117.3448849,34.1350081,4,65 mph,Foothill Freeway,CA 210,South
+-117.3454986,34.1349884,4,65 mph,Foothill Freeway,CA 210,South
+-117.3459425,34.1349675,4,65 mph,Foothill Freeway,CA 210,South
+-117.3464283,34.1349421,4,65 mph,Foothill Freeway,CA 210,South
+-117.3469692,34.1349002,4,65 mph,Foothill Freeway,CA 210,South
+-117.3474498,34.1348479,4,65 mph,Foothill Freeway,CA 210,South
+-117.3479728,34.1347795,4,65 mph,Foothill Freeway,CA 210,South
+-117.348344,34.1347244,4,65 mph,Foothill Freeway,CA 210,South
+-117.3412072,34.1346714,4,65 mph,Foothill Freeway,CA 210,South
+-117.3381345,34.1345094,4,65 mph,Foothill Freeway,CA 210,South
+-117.336435,34.1344203,4,65 mph,Foothill Freeway,CA 210,South
+-117.3358339,34.1344168,4,65 mph,Foothill Freeway,CA 210,South
+-117.3351071,34.1344367,4,65 mph,Foothill Freeway,CA 210,South
+-117.3345801,34.1344656,4,65 mph,Foothill Freeway,CA 210,South
+-117.3332767,34.1345951,4,65 mph,Foothill Freeway,CA 210,South
+-117.4829366,34.1362631,4,65 mph,Foothill Freeway,CA 210,South
+-117.47991,34.1362439,4,65 mph,Foothill Freeway,CA 210,South
+-117.30285,34.1262362,2,,,CA 259,South
+-117.3028064,34.1259663,2,,,CA 259,South
+-117.3027724,34.1256881,2,,,CA 259,South
+-117.3027464,34.125136,2,,,CA 259,South
+-117.3027585,34.1240405,2,,,CA 259,South
+-117.3027724,34.1221082,2,,,CA 259,South
+-117.3027692,34.1201765,2,,,CA 259,South
+-117.3026621,34.1197033,2,,,CA 259,South
+-117.4625823,34.1363138,4,65 mph,Foothill Freeway,CA 210,South
+-117.4619387,34.1363252,4,65 mph,Foothill Freeway,CA 210,South
+-117.4595225,34.1363202,4,65 mph,Foothill Freeway,CA 210,South
+-117.4580479,34.1362916,4,65 mph,Foothill Freeway,CA 210,South
+-117.4418022,34.1362102,4,65 mph,Foothill Freeway,CA 210,South
+-117.4348204,34.1361892,4,65 mph,Foothill Freeway,CA 210,South
+-117.4248529,34.1365524,4,65 mph,Foothill Freeway,CA 210,South
+-117.4305921,34.1365411,4,65 mph,Foothill Freeway,CA 210,South
+-117.4238285,34.1362744,4,65 mph,Foothill Freeway,CA 210,South
+-117.419938,34.1362777,4,65 mph,Foothill Freeway,CA 210,South
+-117.4143762,34.1362564,4,65 mph,Foothill Freeway,CA 210,South
+-117.4121011,34.1362084,4,65 mph,Foothill Freeway,CA 210,South
+-117.3984465,34.1358882,4,65 mph,Foothill Freeway,CA 210,South
+-117.3942403,34.1358372,4,65 mph,Foothill Freeway,CA 210,South
+-117.3913564,34.1357378,4,65 mph,Foothill Freeway,CA 210,South
+-117.3861955,34.1356555,4,65 mph,Foothill Freeway,CA 210,South
+-117.2920743,34.1456722,2,,,CA 259,South
+-117.2924638,34.1457626,2,,,CA 259,South
+-117.2938235,34.1458411,2,,,CA 259,South
+-117.2951104,34.1459997,2,,,CA 259,South
+-117.2956872,34.1460722,2,,,CA 259,South
+-117.295985,34.1460985,2,,,CA 259,South
+-117.2963825,34.1461041,2,,,CA 259,South
+-117.2967089,34.1460947,2,,,CA 259,South
+-117.2972422,34.1460121,2,,,CA 259,South
+-117.2977957,34.1458411,2,,,CA 259,South
+-117.2981079,34.1457125,2,,,CA 259,South
+-117.2985465,34.1454605,2,,,CA 259,South
+-117.2990272,34.1451409,2,,,CA 259,South
+-117.4961367,34.1365162,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4963181,34.1365158,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4965931,34.136514,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4981326,34.1365012,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4986215,34.1364998,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5010738,34.1364695,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.503727,34.1364878,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4925539,34.136519,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4927818,34.1365175,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4932668,34.1365207,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4949734,34.1365124,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4961367,34.1365162,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.29104,34.1453873,4,65 mph,Foothill Freeway,CA 210,South
+-117.2866865,34.1453306,4,65 mph,Foothill Freeway,CA 210,South
+-117.2843336,34.1452752,4,65 mph,Foothill Freeway,CA 210,South
+-117.2829569,34.1452136,4,65 mph,Foothill Freeway,CA 210,South
+-117.4638498,34.1366565,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4646702,34.1366687,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.470614,34.1366975,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4713601,34.1366975,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.472531,34.1366851,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.4790916,34.136582,"['5', '6', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.3254649,34.1392759,5,65 mph,Foothill Freeway,CA 210,South
+-117.3265083,34.1381518,5,65 mph,Foothill Freeway,CA 210,South
+-117.3274703,34.1373318,5,65 mph,Foothill Freeway,CA 210,South
+-117.3283206,34.1367551,5,65 mph,Foothill Freeway,CA 210,South
+-117.3289579,34.1363837,5,65 mph,Foothill Freeway,CA 210,South
+-117.3298732,34.1359494,5,65 mph,Foothill Freeway,CA 210,South
+-117.3304505,34.1356966,5,65 mph,Foothill Freeway,CA 210,South
+-117.3308937,34.1355333,5,65 mph,Foothill Freeway,CA 210,South
+-117.3313,34.1354026,5,65 mph,Foothill Freeway,CA 210,South
+-117.1994576,34.1111165,2,65 mph,Foothill Freeway,CA 210,South
+-117.199335,34.1105419,2,65 mph,Foothill Freeway,CA 210,South
+-117.1992575,34.1098982,2,65 mph,Foothill Freeway,CA 210,South
+-117.1991956,34.1092721,2,65 mph,Foothill Freeway,CA 210,South
+-117.1991515,34.1082054,2,65 mph,Foothill Freeway,CA 210,South
+-117.1991501,34.1076604,2,65 mph,Foothill Freeway,CA 210,South
+-117.1991695,34.1070721,2,65 mph,Foothill Freeway,CA 210,South
+-117.1992359,34.1061889,2,65 mph,Foothill Freeway,CA 210,South
+-117.1994429,34.1047789,2,65 mph,Foothill Freeway,CA 210,South
+-117.2009808,34.1239403,2,65 mph,Foothill Freeway,CA 210,South
+-117.2009093,34.1235002,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008795,34.1232555,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008664,34.1229361,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008631,34.1227539,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008564,34.1224655,2,65 mph,Foothill Freeway,CA 210,South
+-117.2009093,34.119105,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008977,34.1184683,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008534,34.1177446,2,65 mph,Foothill Freeway,CA 210,South
+-117.2008307,34.1172637,2,65 mph,Foothill Freeway,CA 210,South
+-117.2018664,34.1263667,4,65 mph,Foothill Freeway,CA 210,South
+-117.2016688,34.1260142,4,65 mph,Foothill Freeway,CA 210,South
+-117.2014711,34.1255693,4,65 mph,Foothill Freeway,CA 210,South
+-117.2012761,34.125082,4,65 mph,Foothill Freeway,CA 210,South
+-117.2010606,34.1243545,4,65 mph,Foothill Freeway,CA 210,South
+-117.2009808,34.1239403,4,65 mph,Foothill Freeway,CA 210,South
+-117.3578112,34.1352837,4,65 mph,Foothill Freeway,CA 210,South
+-117.3551746,34.1346157,4,65 mph,Foothill Freeway,CA 210,South
+-117.3536613,34.1343815,4,65 mph,Foothill Freeway,CA 210,South
+-117.352928,34.1343241,4,65 mph,Foothill Freeway,CA 210,South
+-117.352072,34.1342532,4,65 mph,Foothill Freeway,CA 210,South
+-117.3508968,34.134274,4,65 mph,Foothill Freeway,CA 210,South
+-117.3498724,34.1343307,4,65 mph,Foothill Freeway,CA 210,South
+-117.3485995,34.1344581,4,65 mph,Foothill Freeway,CA 210,South
+-117.3482577,34.1345041,4,65 mph,Foothill Freeway,CA 210,South
+-117.6113489,33.5917384,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6112788,33.5915471,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6112086,33.5913558,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6111415,33.5911646,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6110809,33.590968,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6110186,33.5907754,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6109563,33.5905828,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6108972,33.5903876,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6108444,33.5901924,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6104803,33.58864,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6104465,33.5884958,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6104269,33.5884124,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6097311,33.5854451,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6096735,33.5851191,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6096487,33.5849549,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6096263,33.5847887,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6096067,33.5846256,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095896,33.5844605,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095752,33.5842964,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095633,33.5841323,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095466,33.5839153,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095367,33.5836984,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095354,33.5834829,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095341,33.5832673,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095341,33.5830511,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095386,33.5828349,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.60955,33.5826186,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.609566,33.5824024,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095754,33.5822891,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095847,33.5821757,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095976,33.5820631,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.609614,33.581949,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5998759,33.6346154,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5996165,33.6339731,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5994852,33.6335493,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5993168,33.6329337,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5992008,33.6322888,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5991512,33.6318603,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5991179,33.6312721,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5991169,33.6308124,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5991907,33.6299266,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5993273,33.6291568,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5995435,33.6283819,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5996857,33.628001,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5997891,33.6277375,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6000612,33.6271248,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6001658,33.6269067,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6002822,33.6266886,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6006156,33.6261135,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6011801,33.6253047,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6011801,33.6253047,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6018242,33.6245961,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6037318,33.6225813,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6074226,33.6188218,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6081864,33.618007,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6090313,33.6169818,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6095505,33.6162345,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6100318,33.6154911,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6106155,33.6143403,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6110423,33.6133021,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6112929,33.6125396,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6117321,33.6109015,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6117975,33.6106457,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6124141,33.6081049,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6133191,33.6043899,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.613568,33.6032604,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6137225,33.6021238,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6137569,33.6009728,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6136882,33.5997146,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6135251,33.5987923,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6133792,33.5980488,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6128262,33.5963416,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6113489,33.5917384,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.9553471,33.7660222,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9630864,33.7659514,5,65 mph,Garden Grove Freeway,CA 22,South
+-118.0127618,33.7744673,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.014015,33.7743831,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.029721,33.7744225,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.840554,33.7767704,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8422031,33.7766679,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8430871,33.7765356,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8439075,33.7763546,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8445745,33.7762105,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8466149,33.7756898,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8468847,33.775621,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8473214,33.7755381,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8477479,33.7754622,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8486087,33.7753646,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8490248,33.7753364,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.8497124,33.7753249,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0126104,33.7742661,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0112304,33.7744186,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.010482,33.7745011,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0097594,33.7745348,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0091151,33.7745221,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0085357,33.7744633,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0077299,33.7743101,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0070836,33.774136,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0067266,33.7740174,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0063532,33.7738633,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0055298,33.7734506,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0041146,33.7727008,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0033961,33.7723713,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0027177,33.7721042,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0020859,33.7719183,4,65 mph,Garden Grove Freeway,CA 22,South
+-118.0008867,33.7716099,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.7184385,33.7084336,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7178831,33.7078933,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7170627,33.7072191,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7165647,33.7068675,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7159462,33.7064942,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7154659,33.7062413,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7148454,33.7059616,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7137698,33.7054877,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7126979,33.7050431,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7079505,33.7027818,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7050385,33.7013979,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7027734,33.7003008,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7000695,33.6990157,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6968905,33.6974758,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7677805,33.741288,2,,,CA 261 Toll,South
+-117.767825,33.7412166,2,,,CA 261 Toll,South
+-117.7678503,33.7411727,2,,,CA 261 Toll,South
+-117.7684678,33.7396413,2,,,CA 261 Toll,South
+-117.7685722,33.7394263,2,,,CA 261 Toll,South
+-117.7687625,33.7391095,2,,,CA 261 Toll,South
+-117.7691064,33.738657,2,,,CA 261 Toll,South
+-117.7694361,33.7382523,2,,,CA 261 Toll,South
+-117.7699049,33.7377052,2,,,CA 261 Toll,South
+-117.7704459,33.7370921,2,,,CA 261 Toll,South
+-117.7709869,33.7364791,2,,,CA 261 Toll,South
+-117.7712213,33.7362012,2,,,CA 261 Toll,South
+-117.7720808,33.7351821,2,,,CA 261 Toll,South
+-117.7726495,33.7343435,2,,,CA 261 Toll,South
+-117.7730721,33.7337077,2,,,CA 261 Toll,South
+-117.7737291,33.7327419,2,,,CA 261 Toll,South
+-117.6018703,33.63844,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6005881,33.636029,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6003421,33.6355584,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6000998,33.6350871,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.5998759,33.6346154,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6195247,33.6529585,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6185462,33.6527013,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6178916,33.6525429,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6172038,33.6523884,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6153276,33.652044,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6139965,33.6518094,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6129285,33.6516185,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6125238,33.6515252,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6120022,33.6513944,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6117349,33.6513244,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6114697,33.6512423,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6107013,33.6509437,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6097743,33.6504864,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6085829,33.6496871,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6083194,33.6494701,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6078759,33.649056,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6073113,33.6484447,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6070388,33.648114,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6067997,33.6477832,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6066491,33.6475626,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6064867,33.6473024,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6062201,33.6468168,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6053136,33.6450424,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6045568,33.6435736,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.629474,33.6561969,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6270767,33.6554009,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6258676,33.6550233,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6227433,33.6540087,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6195247,33.6529585,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6648494,33.6732616,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6645964,33.6731594,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6630749,33.6725524,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6609922,33.6717382,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6604831,33.6715355,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6590525,33.6709611,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.658857,33.67088,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6553871,33.6694858,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6684958,33.6748458,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6679992,33.6745957,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6674836,33.6743455,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6662639,33.6738296,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6657336,33.6736197,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6648494,33.6732616,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7174133,33.859996,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174081,33.8596186,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7173973,33.8588433,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7173403,33.8547499,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7172957,33.8509324,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717273,33.8489892,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7172748,33.8463449,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7172828,33.8460848,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7173232,33.8454841,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7173984,33.844833,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717507,33.8442214,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7179578,33.8418805,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7181577,33.8405652,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7182325,33.8400049,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7182707,33.8396247,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7183057,33.8390058,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7183024,33.8383767,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7182858,33.8377544,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7182554,33.8372814,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7181995,33.8367142,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.718091,33.8360185,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7179993,33.8353047,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7178569,33.8344609,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7177581,33.8338158,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7176285,33.8330535,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174073,33.8317532,4,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174073,33.8317532,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.717337,33.8306913,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7172141,33.8293331,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7170957,33.8278674,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7170959,33.8267259,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7171464,33.8256134,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7171768,33.8248929,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.717198,33.8245401,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7172301,33.8237777,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7173031,33.8220436,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.717424,33.8209232,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7175654,33.8200614,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.717762,33.81904,1,"['10 mph', '40 mph']",,CA 241 Toll,South
+-117.7174073,33.8317532,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717234,33.8307264,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7169597,33.8289788,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7168052,33.827567,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7167279,33.8258344,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7167444,33.8248679,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7168996,33.8228254,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7171657,33.821278,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717762,33.81904,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717762,33.81904,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.717802,33.8189046,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7179258,33.8184887,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7181529,33.8177907,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7186334,33.8165432,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7188565,33.8160797,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7191741,33.8153879,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7195432,33.814632,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.72035,33.8132914,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7229678,33.8093191,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7237304,33.8080891,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.724144,33.8072786,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7245042,33.8064451,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7247674,33.8057151,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7250074,33.804876,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7255342,33.8029718,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7260749,33.8010033,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7265041,33.7999477,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7268731,33.7992487,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7274224,33.7984071,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7282121,33.7975868,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7290737,33.7968593,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7299313,33.7962769,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7334357,33.7940822,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.738795,33.7907607,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7415416,33.7890629,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7429728,33.7881866,"['3', '4']",65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.9161439,33.7693548,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9192485,33.7682928,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9201289,33.7679884,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9206449,33.7678067,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9221119,33.7672718,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9011151,33.7764854,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9044965,33.7747066,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.905424,33.7742153,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9087339,33.7725469,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9099334,33.7719477,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.869107,33.7781719,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8673658,33.7781552,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8664229,33.778154,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.6764689,33.6839537,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6757684,33.6832312,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6750509,33.6822857,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6747885,33.68191,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6738424,33.6803846,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6728749,33.6788253,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6723646,33.6781078,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6719329,33.677578,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6714351,33.6770325,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6708741,33.6765313,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6702848,33.6760263,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.669667,33.6755754,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6684958,33.6748458,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.720334,33.7205916,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.720384,33.7196651,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7203991,33.7194772,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7208819,33.7157361,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7209358,33.715312,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7209594,33.7147373,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7209165,33.7140162,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7208478,33.7133237,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7207604,33.7128239,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7206418,33.7123241,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7205388,33.7120457,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7202228,33.7111997,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7198007,33.7103536,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7193095,33.7095713,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7184385,33.7084336,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.745803,33.7861601,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7463139,33.7855752,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7466571,33.7851253,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7471549,33.784362,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7476956,33.7832634,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7480132,33.7824002,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7481739,33.7818105,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7482442,33.7813335,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7483027,33.7807884,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7483129,33.7802671,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7482106,33.7793112,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7479703,33.7781911,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.747718,33.7774919,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7474097,33.7767811,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.745803,33.7861601,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7462078,33.7857822,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7466112,33.7853827,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7469202,33.7850332,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7471262,33.7847122,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7475296,33.7842199,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7478385,33.7838846,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7481046,33.7835922,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7487054,33.7830215,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7491689,33.7827076,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7498298,33.7822795,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7506366,33.7818301,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7516237,33.7813807,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7527051,33.7809027,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.75322,33.7807165,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7429728,33.7881866,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7440393,33.7875435,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7450349,33.7868373,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.745803,33.7861601,3,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.75322,33.7807165,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7540699,33.780282,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7545076,33.7800109,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7549797,33.7797113,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.755225,33.7795216,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7559149,33.7789736,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7565761,33.7783344,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7568937,33.7779777,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7573743,33.7773,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7577777,33.776665,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7580266,33.7760657,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7582241,33.7756234,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7584558,33.7748743,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.758533,33.7744819,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.758636,33.7737327,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7586901,33.7715564,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7587133,33.7703009,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7587734,33.7674541,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7588678,33.76592,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7589279,33.7653777,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7590652,33.7644929,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7591939,33.7639221,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7593656,33.7633156,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7595532,33.7627949,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7599928,33.7617973,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7607217,33.7604899,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7616916,33.7590128,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.76261,33.75755,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7629705,33.7568792,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7633567,33.75608,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7637086,33.7551808,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7639404,33.7543459,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7641464,33.7533111,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.764361,33.7521194,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7647729,33.749907,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.765039,33.7484226,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7653551,33.7467486,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7737291,33.7327419,3,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7742785,33.7320821,3,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7764325,33.7295041,3,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7764325,33.7295041,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7779041,33.7277474,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7788361,33.7267551,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7794157,33.7262461,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7802375,33.7255878,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7803426,33.7255036,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7815528,33.7246756,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7824245,33.7242136,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7832866,33.7237832,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.784732,33.7230912,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7955046,33.7172617,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7960652,33.7169332,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7974744,33.7159802,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7981868,33.7153877,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.798694,33.7148931,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7991681,33.7143985,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7994946,33.7140376,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7998164,33.7136296,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.8002135,33.7131145,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.8007703,33.7122677,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.8010646,33.7117255,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.8013527,33.7111593,"['3', '2']",65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.6869169,33.6915436,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6821553,33.6882314,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6797757,33.686553,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6783478,33.6855444,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6774208,33.6848394,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6764689,33.6839537,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6968905,33.6974758,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.694369,33.6962869,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6935047,33.6958684,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.692392,33.69527,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6907384,33.6942017,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6869169,33.6915436,3,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6553871,33.6694858,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6515649,33.6679588,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6504153,33.6674896,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6443098,33.6650296,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6443098,33.6650296,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6415746,33.6639319,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6401954,33.6633668,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6394937,33.6630294,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6389562,33.6627368,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6383871,33.6624034,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6378277,33.6620439,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6374927,33.6618088,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6374204,33.6617543,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6368456,33.6612958,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6338648,33.6588269,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.633502,33.6585443,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6330867,33.6582232,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.632514,33.6578169,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6322105,33.6576177,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6318976,33.6574211,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6315193,33.6571969,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6311005,33.6569804,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6306678,33.656764,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6302256,33.6565476,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6297984,33.6563528,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.629474,33.6561969,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.8571598,33.7771193,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8563729,33.7768155,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8555176,33.7764477,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8546211,33.7760715,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8540049,33.77581,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8534816,33.7756367,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.852828,33.77545,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8522055,33.7753184,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8518028,33.775248,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.851148,33.7751582,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8503874,33.7750908,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.849516,33.7750717,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8485116,33.775126,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8365065,33.7771952,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8378489,33.7769159,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8387488,33.7768074,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.840554,33.7767704,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8405031,33.7765412,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8387311,33.7766172,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8379691,33.776645,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8373395,33.7765999,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.83679,33.7765222,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8956573,33.778792,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8960913,33.77868,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8964477,33.7785819,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8968483,33.7784562,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8973744,33.7782674,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8978068,33.778103,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.8982142,33.7779489,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.9001719,33.7769636,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.9011151,33.7764854,6,65 mph,Garden Grove Freeway,CA 22,South
+-118.0398362,33.7749302,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0405171,33.7749916,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0410348,33.7750451,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0417268,33.7750953,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0422471,33.7751153,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0431698,33.7751287,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0438994,33.7750997,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.044806,33.7750295,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0454398,33.774957,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0477493,33.7747413,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0489691,33.7746206,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-118.0492788,33.774511,"['3', '4', '2']",65 mph,Garden Grove Freeway,CA 22,South
+-117.7474097,33.7767811,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7468116,33.7758082,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7464877,33.7753879,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7461078,33.7749521,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7455499,33.774417,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7447602,33.773782,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7439534,33.7732755,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7425887,33.7724479,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7414333,33.7717429,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7396482,33.7706529,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7364414,33.7686952,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7356118,33.7681473,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7350384,33.7677224,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7346173,33.7673811,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7343774,33.7671386,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7340314,33.7667471,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7334495,33.7659846,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7332018,33.7655926,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7327439,33.7647064,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7323577,33.7634791,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.732229,33.7624444,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7322358,33.7618594,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7322711,33.7614564,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7323978,33.7606863,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7329046,33.7580231,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7329576,33.7575965,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7329313,33.7568659,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7329182,33.7566591,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7328479,33.7562041,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7327506,33.7558016,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7325639,33.755129,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.732408,33.7547475,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7321904,33.7542488,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7319461,33.7538063,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7317642,33.7534562,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7312909,33.7528185,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7306497,33.7521116,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7300918,33.7515621,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7293107,33.7509555,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7283237,33.7503631,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7249419,33.7486646,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7242172,33.7483345,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7235696,33.7479814,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7229574,33.7475989,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7223241,33.7470946,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7216304,33.7465779,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7212447,33.7462248,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7209508,33.7459384,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7206148,33.7455363,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7202185,33.7450685,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7199566,33.7447683,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7197624,33.7444865,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7192454,33.7437414,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7189729,33.7433294,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7187839,33.7430264,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7186328,33.742739,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7185235,33.7424955,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7184084,33.7422179,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7182761,33.7418746,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7181513,33.7415076,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7179669,33.7409285,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7179062,33.7406715,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7178533,33.7403921,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177057,33.7395154,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7176752,33.7391412,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7176649,33.7386038,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7176694,33.7380794,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7176821,33.7376982,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177087,33.7373958,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177157,33.7372488,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177251,33.7371691,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177758,33.736743,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7177856,33.7366619,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7178458,33.7361629,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7181531,33.73372,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7184547,33.7311669,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7184875,33.7308853,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7185762,33.7304199,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7186614,33.7297623,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.718781,33.7290448,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.718866,33.7282302,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7190401,33.7270933,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7193873,33.7245082,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.719497,33.7238785,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7197095,33.7229812,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.719955,33.7221662,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.7201746,33.7214219,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.720334,33.7205916,"['3', '2']",65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.9763795,33.7671359,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9759682,33.7668777,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9754807,33.7665873,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9743117,33.7661094,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9737956,33.7659631,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9733846,33.7658654,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9730477,33.7657965,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.972743,33.7657454,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9724199,33.7657063,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9721155,33.7656806,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9715568,33.7656531,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9705931,33.7656657,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9674128,33.7656995,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8878312,33.7790676,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8885825,33.7790635,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8891767,33.779074,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8917609,33.7790723,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8932653,33.7790759,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8937565,33.7790511,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8941731,33.7790087,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8946993,33.7789525,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8956573,33.778792,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.884179,33.7789007,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8832326,33.7788943,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8802379,33.7788779,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8780597,33.7788805,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.876561,33.7788739,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.884179,33.7789007,2,65 mph,Garden Grove Freeway,CA 22,South
+-117.8834581,33.7788069,2,65 mph,Garden Grove Freeway,CA 22,South
+-117.8810563,33.7787548,2,65 mph,Garden Grove Freeway,CA 22,South
+-117.99136,33.7709844,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.9863168,33.7706502,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.997757,33.7713282,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.9926741,33.7710392,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.9919021,33.7710162,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.99136,33.7709844,"['5', '4']",65 mph,Garden Grove Freeway,CA 22,South
+-117.6045568,33.6435736,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6044399,33.6433964,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6043839,33.6432809,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6042597,33.6430365,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6040196,33.6425815,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6028918,33.6404473,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-117.6018703,33.63844,2,65 mph,Foothill Transportation Corridor,CA 241 Toll,South
+-118.0008867,33.7716099,5,65 mph,Garden Grove Freeway,CA 22,South
+-118.000323,33.7715252,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9996898,33.771446,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9990528,33.7714025,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9982897,33.7713588,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.997757,33.7713282,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9863168,33.7706502,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9830241,33.7704621,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9822753,33.7703836,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.981414,33.77019,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9809143,33.7700409,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9800173,33.7696752,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9791905,33.7692421,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9786852,33.7689097,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9770117,33.7676063,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9765692,33.7672687,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9763795,33.7671359,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8845634,33.7790889,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8851519,33.7790745,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8861561,33.7790722,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8867286,33.77907,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8871055,33.7790688,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8878312,33.7790676,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8810563,33.7787548,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8797866,33.7787585,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8790889,33.7787506,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8790889,33.7787506,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8786948,33.7787495,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8778668,33.7787534,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8766852,33.7787478,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8760889,33.778746,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8757732,33.7787158,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8754153,33.7786586,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8752042,33.7786127,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8749915,33.7785678,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8748156,33.7785218,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8746556,33.7784736,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8744008,33.7783892,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8741722,33.7783035,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8735866,33.778096,"['1', '2']","['30 mph', '65 mph']",I5 North CA 57 North,CA 22,South
+-117.8861943,33.7789127,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8852549,33.7789041,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8845334,33.7789018,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.884179,33.7789007,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.876561,33.7788739,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8761941,33.7788727,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8758007,33.7788664,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8755794,33.7788569,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.875135,33.7788124,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8746454,33.7787377,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8741612,33.7786371,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8733629,33.7784587,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8725046,33.7782875,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8717857,33.7781999,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.8710704,33.7781835,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.869107,33.7781719,3,65 mph,Garden Grove Freeway,CA 22,South
+-117.9630864,33.7659514,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.9654952,33.7659323,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.96577,33.7659369,6,65 mph,Garden Grove Freeway,CA 22,South
+-117.9390403,33.7661561,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9419347,33.7661059,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9422136,33.7661038,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9545976,33.7660158,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9553471,33.7660222,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9309689,33.7662149,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9369358,33.7661419,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.93746,33.7661434,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.938074,33.766147,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9390403,33.7661561,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.7300121,33.8687923,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.729603,33.8685456,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7287697,33.8681936,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7278984,33.8678369,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7274943,33.8676671,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7270199,33.867494,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7267211,33.8673927,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7265244,33.8673288,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.726165,33.8672249,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.725921,33.8671643,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7255217,33.867071,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7250106,33.8669678,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7244451,33.8668819,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7239482,33.866818,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7232472,33.8667492,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7223657,33.8666559,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7219185,33.8666214,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7216212,33.8665916,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.721429,33.8665631,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7211854,33.8665176,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7209941,33.8664759,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7208629,33.8664407,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7207324,33.8664035,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7205852,33.8663583,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7204471,33.8663105,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7203068,33.8662582,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7201775,33.8662086,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7199536,33.8661089,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7197889,33.8660263,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7196538,33.8659552,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7195338,33.8658867,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7194175,33.8658129,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7192059,33.8656724,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7189786,33.8655026,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7188422,33.8653912,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7187305,33.8652865,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7186078,33.8651713,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7184549,33.8650098,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7183616,33.8649019,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7182484,33.8647648,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7180942,33.864546,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7179587,33.864335,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7178923,33.8642097,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7178209,33.8640702,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7177642,33.8639457,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7177125,33.8638193,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7176362,33.8636061,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7175624,33.8633544,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7175309,33.8631938,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174933,33.8629619,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174715,33.8626999,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174558,33.8613789,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174544,33.8608499,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174375,33.860477,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.7174133,33.859996,2,65 mph,Eastern Transportation Corridor,CA 241 Toll,South
+-117.784732,33.7230912,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7862735,33.7223269,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7894867,33.7207174,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7909737,33.719918,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7926187,33.7189617,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7940094,33.7181346,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7943907,33.7179166,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7955046,33.7172617,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7653551,33.7467486,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7655626,33.7455108,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7658287,33.7442618,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7661634,33.74302,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7666011,33.7419423,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7670107,33.7411522,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7672366,33.740746,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7674591,33.7403831,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7678642,33.7398005,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7686868,33.7387376,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7692628,33.7380568,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7697254,33.7375099,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7707296,33.736323,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7720342,33.7347405,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.7737291,33.7327419,2,65 mph,Eastern Transportation Corridor,CA 261 Toll,South
+-117.8664229,33.778154,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8618256,33.7781488,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8613978,33.7781439,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8610222,33.7781185,4,65 mph,Garden Grove Freeway,CA 22,South
+-117.8610222,33.7781185,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8608911,33.7781096,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8603442,33.7780474,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.859856,33.7779668,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8593782,33.7778749,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8589706,33.777771,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8586218,33.7776655,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8582127,33.7775271,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8575979,33.7772918,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.8571598,33.7771193,5,65 mph,Garden Grove Freeway,CA 22,South
+-118.0388414,33.7744938,3,,Garden Grove Freeway,CA 22,South
+-118.0382204,33.7744297,3,,Garden Grove Freeway,CA 22,South
+-117.9221119,33.7672718,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9222222,33.7672342,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9234902,33.766802,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9240582,33.7666397,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9244934,33.7665264,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9099334,33.7719477,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9110841,33.7713608,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9124733,33.7707074,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9136765,33.7702248,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9161439,33.7693548,5,65 mph,Garden Grove Freeway,CA 22,South
+-118.0382204,33.7744297,4,,Garden Grove Freeway,CA 22,South
+-118.037505,33.7743417,4,,Garden Grove Freeway,CA 22,South
+-118.0370799,33.7743027,4,,Garden Grove Freeway,CA 22,South
+-118.0365689,33.7742625,4,,Garden Grove Freeway,CA 22,South
+-118.0360164,33.7742391,4,,Garden Grove Freeway,CA 22,South
+-118.0356154,33.774228,4,,Garden Grove Freeway,CA 22,South
+-118.0331379,33.7742421,4,,Garden Grove Freeway,CA 22,South
+-117.9244934,33.7665264,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9249549,33.7664065,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9258578,33.7663034,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9262027,33.7662693,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9266211,33.7662452,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9268836,33.7662428,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9282427,33.7662331,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9293097,33.7662196,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.9309689,33.7662149,5,65 mph,Garden Grove Freeway,CA 22,South
+-117.5311832,34.1362934,"['5', '6', '7', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5216798,34.1362309,"['5', '6', '7', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5165573,34.1361972,"['5', '6', '7', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5127794,34.1361723,"['5', '6', '7', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.510738,34.1361671,"['5', '6', '7', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7901155,34.1197751,4,,Foothill Freeway,CA 210,South
+-117.7892467,34.1198059,4,,Foothill Freeway,CA 210,South
+-117.7879911,34.1198903,4,,Foothill Freeway,CA 210,South
+-117.787061,34.1199393,4,,Foothill Freeway,CA 210,South
+-117.7864941,34.1199577,4,,Foothill Freeway,CA 210,South
+-117.7856413,34.119968,4,,Foothill Freeway,CA 210,South
+-117.7840781,34.1199416,4,,Foothill Freeway,CA 210,South
+-117.7830569,34.119883,4,,Foothill Freeway,CA 210,South
+-117.7780999,34.1194982,4,,Foothill Freeway,CA 210,South
+-117.8324762,34.1209942,5,65 mph,Foothill Freeway,CA 210,South
+-117.8318284,34.1210137,5,65 mph,Foothill Freeway,CA 210,South
+-117.8313787,34.1210197,5,65 mph,Foothill Freeway,CA 210,South
+-117.8304763,34.1209787,5,65 mph,Foothill Freeway,CA 210,South
+-117.8292133,34.1208845,5,65 mph,Foothill Freeway,CA 210,South
+-117.8286399,34.1208325,5,65 mph,Foothill Freeway,CA 210,South
+-117.8243149,34.1204568,5,65 mph,Foothill Freeway,CA 210,South
+-117.6304121,34.1350062,4,65 mph,Foothill Freeway,CA 210,South
+-117.6353378,34.1350095,4,65 mph,Foothill Freeway,CA 210,South
+-117.6360093,34.1350098,4,65 mph,Foothill Freeway,CA 210,South
+-117.640885,34.1349661,4,65 mph,Foothill Freeway,CA 210,South
+-117.640885,34.1349661,4,65 mph,Foothill Freeway,CA 210,South
+-117.6462478,34.1348639,4,65 mph,Foothill Freeway,CA 210,South
+-117.6540747,34.1348402,4,65 mph,Foothill Freeway,CA 210,South
+-117.6629058,34.1348093,4,65 mph,Foothill Freeway,CA 210,South
+-117.665505,34.134805,4,65 mph,Foothill Freeway,CA 210,South
+-117.6752727,34.1344858,4,65 mph,Foothill Freeway,CA 210,South
+-117.675596,34.1344283,4,65 mph,Foothill Freeway,CA 210,South
+-117.6761802,34.1343154,4,65 mph,Foothill Freeway,CA 210,South
+-117.6778148,34.1338532,4,65 mph,Foothill Freeway,CA 210,South
+-117.6787005,34.1335453,4,65 mph,Foothill Freeway,CA 210,South
+-117.680587,34.1327103,4,65 mph,Foothill Freeway,CA 210,South
+-117.6819319,34.1319617,4,65 mph,Foothill Freeway,CA 210,South
+-117.6842262,34.1303751,4,65 mph,Foothill Freeway,CA 210,South
+-117.6864433,34.1288592,4,65 mph,Foothill Freeway,CA 210,South
+-117.6881342,34.1276573,4,65 mph,Foothill Freeway,CA 210,South
+-117.6897779,34.1264853,4,65 mph,Foothill Freeway,CA 210,South
+-117.6914051,34.1253207,4,65 mph,Foothill Freeway,CA 210,South
+-117.6922714,34.1247028,4,65 mph,Foothill Freeway,CA 210,South
+-117.7831232,34.1201339,4,65 mph,Foothill Freeway,CA 210,South
+-117.7840723,34.1201843,4,65 mph,Foothill Freeway,CA 210,South
+-117.785653,34.1202115,4,65 mph,Foothill Freeway,CA 210,South
+-117.7868294,34.1201771,4,65 mph,Foothill Freeway,CA 210,South
+-117.7873095,34.1201567,4,65 mph,Foothill Freeway,CA 210,South
+-117.7880572,34.1201328,4,65 mph,Foothill Freeway,CA 210,South
+-117.791117,34.1199304,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7921982,34.1198999,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7928577,34.1199036,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7937605,34.1199026,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.794276,34.1198992,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7987385,34.1199145,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.7995789,34.1199174,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8025812,34.1199127,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8029176,34.1199165,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8030772,34.1199163,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8175695,34.1198639,6,,Foothill Freeway,CA 210,South
+-117.8167872,34.1197954,6,,Foothill Freeway,CA 210,South
+-117.8157237,34.1197235,6,,Foothill Freeway,CA 210,South
+-117.8146035,34.1196801,6,,Foothill Freeway,CA 210,South
+-117.813472,34.1196598,6,,Foothill Freeway,CA 210,South
+-117.8122124,34.1196566,6,,Foothill Freeway,CA 210,South
+-117.8330288,34.1211576,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8337122,34.1210778,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8344651,34.1209895,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8345252,34.1209792,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.835089,34.1208832,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8357223,34.1207516,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8364682,34.1205716,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8374047,34.1203062,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8382101,34.1200238,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.8243149,34.1204568,5,65 mph,Foothill Freeway,CA 210,South
+-117.823303,34.1203723,5,65 mph,Foothill Freeway,CA 210,South
+-117.8228184,34.1203293,5,65 mph,Foothill Freeway,CA 210,South
+-117.8204074,34.120114,5,65 mph,Foothill Freeway,CA 210,South
+-117.8199795,34.1200753,5,65 mph,Foothill Freeway,CA 210,South
+-117.8175695,34.1198639,5,65 mph,Foothill Freeway,CA 210,South
+-117.8122124,34.1196566,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.8083247,34.119688,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.80739,34.1196956,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.806821,34.1196959,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.8044697,34.1196748,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.8029266,34.1196526,"['5', '4']",,Foothill Freeway,CA 210,South
+-117.8030772,34.1199163,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.804487,34.1199145,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.8068271,34.1198918,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.8073821,34.1198855,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.8091955,34.1198817,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.8117254,34.1198763,"['5', '6']",65 mph,Foothill Freeway,CA 210,South
+-117.7661957,34.1195607,4,65 mph,Foothill Freeway,CA 210,South
+-117.7643583,34.119533,4,65 mph,Foothill Freeway,CA 210,South
+-117.7620383,34.1195147,4,65 mph,Foothill Freeway,CA 210,South
+-117.7590929,34.1194605,4,65 mph,Foothill Freeway,CA 210,South
+-117.7580135,34.1194239,4,65 mph,Foothill Freeway,CA 210,South
+-117.7400631,34.1203792,5,65 mph,Foothill Freeway,CA 210,South
+-117.7395525,34.1203449,5,65 mph,Foothill Freeway,CA 210,South
+-117.7393767,34.1203379,5,65 mph,Foothill Freeway,CA 210,South
+-117.737901,34.1202942,5,65 mph,Foothill Freeway,CA 210,South
+-117.7358451,34.1202473,5,65 mph,Foothill Freeway,CA 210,South
+-117.7327351,34.1201513,5,65 mph,Foothill Freeway,CA 210,South
+-117.7399307,34.1206787,4,65 mph,Foothill Freeway,CA 210,South
+-117.7420334,34.1208269,4,65 mph,Foothill Freeway,CA 210,South
+-117.7428179,34.1208549,4,65 mph,Foothill Freeway,CA 210,South
+-117.7436165,34.1208517,4,65 mph,Foothill Freeway,CA 210,South
+-117.7444025,34.1208131,4,65 mph,Foothill Freeway,CA 210,South
+-117.7452219,34.1207425,4,65 mph,Foothill Freeway,CA 210,South
+-117.745395,34.1207251,4,65 mph,Foothill Freeway,CA 210,South
+-117.7461472,34.1206179,4,65 mph,Foothill Freeway,CA 210,South
+-117.7467722,34.1205135,4,65 mph,Foothill Freeway,CA 210,South
+-117.7474763,34.1203634,4,65 mph,Foothill Freeway,CA 210,South
+-117.7479826,34.120234,4,65 mph,Foothill Freeway,CA 210,South
+-117.7487839,34.1200564,4,65 mph,Foothill Freeway,CA 210,South
+-117.7489894,34.1200109,4,65 mph,Foothill Freeway,CA 210,South
+-117.7499928,34.1198285,4,65 mph,Foothill Freeway,CA 210,South
+-117.7507874,34.1197208,4,65 mph,Foothill Freeway,CA 210,South
+-117.7515995,34.1196501,4,65 mph,Foothill Freeway,CA 210,South
+-117.752494,34.1196072,4,65 mph,Foothill Freeway,CA 210,South
+-117.7534886,34.1196031,4,65 mph,Foothill Freeway,CA 210,South
+-117.7553466,34.1196569,4,65 mph,Foothill Freeway,CA 210,South
+-117.7578875,34.1197165,4,65 mph,Foothill Freeway,CA 210,South
+-117.6922714,34.1247028,4,65 mph,Foothill Freeway,CA 210,South
+-117.6933705,34.1239157,4,65 mph,Foothill Freeway,CA 210,South
+-117.6948152,34.1229004,4,65 mph,Foothill Freeway,CA 210,South
+-117.6957301,34.1222617,4,65 mph,Foothill Freeway,CA 210,South
+-117.6957301,34.1222617,4,65 mph,Foothill Freeway,CA 210,South
+-117.696344,34.1218289,4,65 mph,Foothill Freeway,CA 210,South
+-117.6967352,34.1215894,4,65 mph,Foothill Freeway,CA 210,South
+-117.6970788,34.1214156,4,65 mph,Foothill Freeway,CA 210,South
+-117.697638,34.1211516,4,65 mph,Foothill Freeway,CA 210,South
+-117.6982082,34.1209156,4,65 mph,Foothill Freeway,CA 210,South
+-117.69916,34.1206142,4,65 mph,Foothill Freeway,CA 210,South
+-117.6999668,34.120434,4,65 mph,Foothill Freeway,CA 210,South
+-117.7007564,34.1203107,4,65 mph,Foothill Freeway,CA 210,South
+-117.7014703,34.1202481,4,65 mph,Foothill Freeway,CA 210,South
+-117.7021873,34.1202121,4,65 mph,Foothill Freeway,CA 210,South
+-117.7041068,34.1201167,4,65 mph,Foothill Freeway,CA 210,South
+-117.7060439,34.1200942,4,65 mph,Foothill Freeway,CA 210,South
+-117.7088626,34.1201339,4,65 mph,Foothill Freeway,CA 210,South
+-117.7187731,34.1202383,4,65 mph,Foothill Freeway,CA 210,South
+-117.721132,34.1202816,4,65 mph,Foothill Freeway,CA 210,South
+-117.7278756,34.1203801,4,65 mph,Foothill Freeway,CA 210,South
+-117.7316559,34.120472,4,65 mph,Foothill Freeway,CA 210,South
+-117.5430493,34.1367054,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5449987,34.1367109,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5456065,34.1367156,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5467271,34.1367537,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5507985,34.1367158,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.553897,34.136687,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.5426672,34.1363996,4,65 mph,Foothill Freeway,CA 210,South
+-117.537266,34.1363492,4,65 mph,Foothill Freeway,CA 210,South
+-117.5362928,34.1363465,4,65 mph,Foothill Freeway,CA 210,South
+-117.5311832,34.1362934,4,65 mph,Foothill Freeway,CA 210,South
+-117.5714261,34.1365006,4,65 mph,Foothill Freeway,CA 210,South
+-117.5718111,34.1364589,4,65 mph,Foothill Freeway,CA 210,South
+-117.5732224,34.1363526,4,65 mph,Foothill Freeway,CA 210,South
+-117.5746341,34.1362619,4,65 mph,Foothill Freeway,CA 210,South
+-117.5801888,34.1359308,4,65 mph,Foothill Freeway,CA 210,South
+-117.5814295,34.1358629,4,65 mph,Foothill Freeway,CA 210,South
+-117.5814295,34.1358629,5,65 mph,Foothill Freeway,CA 210,South
+-117.5831467,34.1358048,5,65 mph,Foothill Freeway,CA 210,South
+-117.586176,34.1356987,5,65 mph,Foothill Freeway,CA 210,South
+-117.587864,34.1355986,5,65 mph,Foothill Freeway,CA 210,South
+-117.587864,34.1355986,4,65 mph,Foothill Freeway,CA 210,South
+-117.5929641,34.1352334,4,65 mph,Foothill Freeway,CA 210,South
+-117.5945434,34.1351907,4,65 mph,Foothill Freeway,CA 210,South
+-117.5997217,34.1351881,4,65 mph,Foothill Freeway,CA 210,South
+-117.5997217,34.1351881,4,65 mph,Foothill Freeway,CA 210,South
+-117.6088741,34.1351153,4,65 mph,Foothill Freeway,CA 210,South
+-117.564117,34.1365329,4,65 mph,Foothill Freeway,CA 210,South
+-117.5606416,34.1364343,4,65 mph,Foothill Freeway,CA 210,South
+-117.558978,34.1363812,4,65 mph,Foothill Freeway,CA 210,South
+-117.5574258,34.1363622,4,65 mph,Foothill Freeway,CA 210,South
+-117.5557721,34.1363747,4,65 mph,Foothill Freeway,CA 210,South
+-117.553663,34.1363805,4,65 mph,Foothill Freeway,CA 210,South
+-117.5632639,34.1368149,4,65 mph,Foothill Freeway,CA 210,South
+-117.5642951,34.1368286,4,65 mph,Foothill Freeway,CA 210,South
+-117.5656778,34.1368141,4,65 mph,Foothill Freeway,CA 210,South
+-117.5665983,34.1367904,4,65 mph,Foothill Freeway,CA 210,South
+-117.5676069,34.1367554,4,65 mph,Foothill Freeway,CA 210,South
+-117.5684517,34.136713,4,65 mph,Foothill Freeway,CA 210,South
+-117.5693191,34.1366575,4,65 mph,Foothill Freeway,CA 210,South
+-117.5714261,34.1365006,4,65 mph,Foothill Freeway,CA 210,South
+-117.6088741,34.1351153,4,65 mph,Foothill Freeway,CA 210,South
+-117.6189764,34.1350595,4,65 mph,Foothill Freeway,CA 210,South
+-117.6222169,34.1350275,4,65 mph,Foothill Freeway,CA 210,South
+-117.6222169,34.1350275,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.6281234,34.1350096,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.6282674,34.1350085,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.6295192,34.1350072,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.6304121,34.1350062,"['5', '4']",65 mph,Foothill Freeway,CA 210,South
+-117.665505,34.134805,4,65 mph,Foothill Freeway,CA 210,South
+-117.6718664,34.1348252,4,65 mph,Foothill Freeway,CA 210,South
+-117.6729214,34.1347817,4,65 mph,Foothill Freeway,CA 210,South
+-117.6738201,34.1347,4,65 mph,Foothill Freeway,CA 210,South
+-117.6752727,34.1344858,4,65 mph,Foothill Freeway,CA 210,South
+-117.7880572,34.1201328,4,65 mph,Foothill Freeway,CA 210,South
+-117.7892781,34.1200483,4,65 mph,Foothill Freeway,CA 210,South
+-117.7904834,34.1199595,4,65 mph,Foothill Freeway,CA 210,South
+-117.791117,34.1199304,4,65 mph,Foothill Freeway,CA 210,South
+-118.0721572,33.7741678,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0714182,33.7741673,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0667708,33.7741303,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0523151,33.7740966,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0491623,33.7740927,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0486495,33.7740965,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0482344,33.7741101,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0476214,33.7741371,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.102865,33.7741815,2,55 mph,,CA 22,South
+-118.1021596,33.7741806,2,55 mph,,CA 22,South
+-118.1011097,33.774181,2,55 mph,,CA 22,South
+-118.0823121,33.7749062,"['3', '2']",65 mph,,CA 22,South
+-118.0829234,33.7749228,"['3', '2']",65 mph,,CA 22,South
+-118.0835042,33.7749447,"['3', '2']",65 mph,,CA 22,South
+-118.0842084,33.7749534,"['3', '2']",65 mph,,CA 22,South
+-118.0845295,33.7749548,"['3', '2']",65 mph,,CA 22,South
+-118.0849613,33.774937,"['3', '2']",65 mph,,CA 22,South
+-118.085243,33.7749158,"['3', '2']",65 mph,,CA 22,South
+-118.085589,33.7748768,"['3', '2']",65 mph,,CA 22,South
+-118.0858773,33.77483,"['3', '2']",65 mph,,CA 22,South
+-118.0870425,33.7746083,"['3', '2']",65 mph,,CA 22,South
+-118.0873747,33.7745601,"['3', '2']",65 mph,,CA 22,South
+-118.0877554,33.7745272,"['3', '2']",65 mph,,CA 22,South
+-118.0882025,33.7744987,"['3', '2']",65 mph,,CA 22,South
+-118.0886225,33.7744966,"['3', '2']",65 mph,,CA 22,South
+-118.089005,33.774514,"['3', '2']",65 mph,,CA 22,South
+-118.0893139,33.7745354,"['3', '2']",65 mph,,CA 22,South
+-118.0899355,33.7745825,"['3', '2']",65 mph,,CA 22,South
+-118.0901505,33.7745967,"['3', '2']",65 mph,,CA 22,South
+-118.0903901,33.7746126,"['3', '2']",65 mph,,CA 22,South
+-118.0907884,33.7746293,"['3', '2']",65 mph,,CA 22,South
+-118.0913973,33.7746326,"['3', '2']",65 mph,,CA 22,South
+-118.0919146,33.774621,"['3', '2']",65 mph,,CA 22,South
+-118.0922494,33.7746139,"['3', '2']",65 mph,,CA 22,South
+-118.0925412,33.7745853,"['3', '2']",65 mph,,CA 22,South
+-118.0935454,33.7744712,"['3', '2']",65 mph,,CA 22,South
+-118.0940604,33.7744212,"['3', '2']",65 mph,,CA 22,South
+-118.0944729,33.7743901,"['3', '2']",65 mph,,CA 22,South
+-118.0954616,33.7743834,"['3', '2']",65 mph,,CA 22,South
+-118.1087011,33.7741469,3,40 mph,East 7th Street,CA 22,South
+-118.1071982,33.7741317,3,40 mph,East 7th Street,CA 22,South
+-118.1029793,33.7744079,3,45 mph,,CA 22,South
+-118.1033203,33.7744106,3,45 mph,,CA 22,South
+-118.1033853,33.7744111,3,45 mph,,CA 22,South
+-118.1040057,33.7744123,3,45 mph,,CA 22,South
+-118.1046222,33.7743991,3,45 mph,,CA 22,South
+-118.1048214,33.7743909,3,45 mph,,CA 22,South
+-118.1050679,33.7743694,3,45 mph,,CA 22,South
+-118.105928,33.7742772,3,45 mph,,CA 22,South
+-118.1062079,33.7742604,3,45 mph,,CA 22,South
+-118.1064733,33.7742559,3,45 mph,,CA 22,South
+-118.1085333,33.7742641,3,45 mph,,CA 22,South
+-118.1086964,33.7742679,3,45 mph,,CA 22,South
+-118.0772234,33.7742406,8,65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0721572,33.7741678,8,65 mph,San Diego Freeway,I 405;CA 22,South
+-118.1071982,33.7741317,3,40 mph,East 7th Street,CA 22,South
+-118.1068044,33.7741303,3,40 mph,East 7th Street,CA 22,South
+-118.2257043,34.1603618,5,65 mph,Glendale Freeway,CA 2,South
+-118.2254693,34.1592696,5,65 mph,Glendale Freeway,CA 2,South
+-118.2251173,34.1582185,5,65 mph,Glendale Freeway,CA 2,South
+-118.2248427,34.1574159,5,65 mph,Glendale Freeway,CA 2,South
+-118.2246368,34.1567107,5,65 mph,Glendale Freeway,CA 2,South
+-118.22447,34.1559498,5,65 mph,Glendale Freeway,CA 2,South
+-118.2305441,34.1207252,4,65 mph,Glendale Freeway,CA 2,South
+-118.2308434,34.1204534,4,65 mph,Glendale Freeway,CA 2,South
+-118.2316587,34.1198016,4,65 mph,Glendale Freeway,CA 2,South
+-118.2320192,34.11956,4,65 mph,Glendale Freeway,CA 2,South
+-118.2326801,34.1192048,4,65 mph,Glendale Freeway,CA 2,South
+-118.2395934,34.1156756,4,65 mph,Glendale Freeway,CA 2,South
+-118.2402671,34.1153599,4,65 mph,Glendale Freeway,CA 2,South
+-118.2413267,34.1149404,4,65 mph,Glendale Freeway,CA 2,South
+-118.2951966,34.0811293,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.294432,34.0807807,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2111105,34.2068845,5,65 mph,Foothill Freeway,I 210;CA 2,South
+-118.2066312,34.206846,5,65 mph,Foothill Freeway,I 210;CA 2,South
+-118.2059351,34.2068423,5,65 mph,Foothill Freeway,I 210;CA 2,South
+-118.2242674,34.1668555,4,65 mph,Glendale Freeway,CA 2,South
+-118.2243362,34.1666301,4,65 mph,Glendale Freeway,CA 2,South
+-118.2252118,34.163815,4,65 mph,Glendale Freeway,CA 2,South
+-118.2254718,34.163014,4,65 mph,Glendale Freeway,CA 2,South
+-118.2256562,34.1622111,4,65 mph,Glendale Freeway,CA 2,South
+-118.2257267,34.1614571,4,65 mph,Glendale Freeway,CA 2,South
+-118.2257182,34.1609244,4,65 mph,Glendale Freeway,CA 2,South
+-118.2257043,34.1603618,4,65 mph,Glendale Freeway,CA 2,South
+-118.2521268,34.0988304,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2522512,34.098645,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2533262,34.0970437,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2543699,34.09554,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2551858,34.0945249,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2558081,34.0939146,"['3', '5', '6']",65 mph,Glendale Freeway,CA 2,South
+-118.2154686,34.2114641,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2155219,34.2113347,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.215571,34.2110082,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2156178,34.2107905,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2156971,34.210546,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2158065,34.2103049,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.215929,34.2101026,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2167766,34.208945,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2172882,34.2082381,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.21759,34.2078111,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2178038,34.207489,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2179686,34.2072176,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2181838,34.2068334,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.218411,34.2063474,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2184994,34.2061359,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2187007,34.2055545,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2187319,34.2054352,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2187981,34.2051877,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2188839,34.204776,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2189612,34.2043572,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2189702,34.2042923,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2190212,34.2039242,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2190556,34.203555,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2190727,34.2030865,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2190922,34.2029124,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2191308,34.2025433,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2192155,34.2017251,"['1', '2']",,Glendale Freeway,CA 2,South
+-118.2499408,34.1034175,4,65 mph,Glendale Freeway,CA 2,South
+-118.2500118,34.1029539,4,65 mph,Glendale Freeway,CA 2,South
+-118.2500748,34.1026419,4,65 mph,Glendale Freeway,CA 2,South
+-118.2501651,34.1022991,4,65 mph,Glendale Freeway,CA 2,South
+-118.2503124,34.101823,4,65 mph,Glendale Freeway,CA 2,South
+-118.2503829,34.101611,4,65 mph,Glendale Freeway,CA 2,South
+-118.2504724,34.1013919,4,65 mph,Glendale Freeway,CA 2,South
+-118.2506898,34.1009476,4,65 mph,Glendale Freeway,CA 2,South
+-118.2509821,34.1004544,4,65 mph,Glendale Freeway,CA 2,South
+-118.2513739,34.0998653,4,65 mph,Glendale Freeway,CA 2,South
+-118.2521268,34.0988304,4,65 mph,Glendale Freeway,CA 2,South
+-118.2192155,34.2017251,3,65 mph,Glendale Freeway,CA 2,South
+-118.2192874,34.2013018,3,65 mph,Glendale Freeway,CA 2,South
+-118.2193739,34.2009459,3,65 mph,Glendale Freeway,CA 2,South
+-118.2196494,34.1996981,3,65 mph,Glendale Freeway,CA 2,South
+-118.219794,34.1992114,3,65 mph,Glendale Freeway,CA 2,South
+-118.2195535,34.201658,"['3', '1', '2']",,,CA 2,South
+-118.2195721,34.2014382,"['3', '1', '2']",,,CA 2,South
+-118.219605,34.2010418,"['3', '1', '2']",,,CA 2,South
+-118.2196747,34.2002779,"['3', '1', '2']",,,CA 2,South
+-118.2197661,34.1997274,"['3', '1', '2']",,,CA 2,South
+-118.219794,34.1992114,"['3', '1', '2']",,,CA 2,South
+-118.2496405,34.1088653,3,65 mph,Glendale Freeway,CA 2,South
+-118.2496717,34.1086999,3,65 mph,Glendale Freeway,CA 2,South
+-118.249733,34.1084012,3,65 mph,Glendale Freeway,CA 2,South
+-118.2497637,34.1082025,3,65 mph,Glendale Freeway,CA 2,South
+-118.2497875,34.1079925,3,65 mph,Glendale Freeway,CA 2,South
+-118.2498551,34.1053279,3,65 mph,Glendale Freeway,CA 2,South
+-118.2498596,34.1051777,3,65 mph,Glendale Freeway,CA 2,South
+-118.2498895,34.1042342,3,65 mph,Glendale Freeway,CA 2,South
+-118.2499026,34.1037343,3,65 mph,Glendale Freeway,CA 2,South
+-118.2499408,34.1034175,3,65 mph,Glendale Freeway,CA 2,South
+-118.2059351,34.2068423,"['3', '2']",,,CA 2,South
+-118.2044802,34.2067623,"['3', '2']",,,CA 2,South
+-118.203523,34.2066767,"['3', '2']",,,CA 2,South
+-118.2030766,34.2066341,"['3', '2']",,,CA 2,South
+-118.2027718,34.2065757,"['3', '2']",,,CA 2,South
+-118.202493,34.206478,"['3', '2']",,,CA 2,South
+-118.2022476,34.2063586,"['3', '2']",,,CA 2,South
+-118.2015883,34.2059612,"['3', '2']",,,CA 2,South
+-118.2014463,34.2058847,"['3', '2']",,,CA 2,South
+-118.2012622,34.2058281,"['3', '2']",,,CA 2,South
+-118.2011178,34.2058004,"['3', '2']",,,CA 2,South
+-118.2009347,34.2057849,"['3', '2']",,,CA 2,South
+-118.2008073,34.2057784,"['3', '2']",,,CA 2,South
+-118.2004357,34.2058135,"['3', '2']",,,CA 2,South
+-118.2002331,34.2058422,"['3', '2']",,,CA 2,South
+-118.22447,34.1559498,4,65 mph,Glendale Freeway,CA 2,South
+-118.224379,34.1555613,4,65 mph,Glendale Freeway,CA 2,South
+-118.2242991,34.1551881,4,65 mph,Glendale Freeway,CA 2,South
+-118.2242881,34.1549056,4,65 mph,Glendale Freeway,CA 2,South
+-118.2242941,34.1546493,4,65 mph,Glendale Freeway,CA 2,South
+-118.2243168,34.1542997,4,65 mph,Glendale Freeway,CA 2,South
+-118.224331,34.1541597,4,65 mph,Glendale Freeway,CA 2,South
+-118.2243652,34.1538934,4,65 mph,Glendale Freeway,CA 2,South
+-118.2244202,34.1535727,4,65 mph,Glendale Freeway,CA 2,South
+-118.224631,34.1527849,4,65 mph,Glendale Freeway,CA 2,South
+-118.2262948,34.147043,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2265404,34.1462087,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2267839,34.1454239,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2269013,34.1449493,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2270508,34.1444177,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2274342,34.1431582,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2276402,34.1424691,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2278312,34.1418063,"['3', '4']",65 mph,Glendale Freeway,CA 2,South
+-118.2278312,34.1418063,4,65 mph,Glendale Freeway,CA 2,South
+-118.2281308,34.1407684,4,65 mph,Glendale Freeway,CA 2,South
+-118.2282649,34.1403487,4,65 mph,Glendale Freeway,CA 2,South
+-118.2290409,34.1377134,5,65 mph,Glendale Freeway,CA 2,South
+-118.2293883,34.1364379,5,65 mph,Glendale Freeway,CA 2,South
+-118.2295493,34.1357896,5,65 mph,Glendale Freeway,CA 2,South
+-118.2296423,34.1352065,5,65 mph,Glendale Freeway,CA 2,South
+-118.2296834,34.1347351,5,65 mph,Glendale Freeway,CA 2,South
+-118.2297042,34.1343531,5,65 mph,Glendale Freeway,CA 2,South
+-118.2297057,34.1340076,5,65 mph,Glendale Freeway,CA 2,South
+-118.2296938,34.1335914,5,65 mph,Glendale Freeway,CA 2,South
+-118.2296545,34.1330795,5,65 mph,Glendale Freeway,CA 2,South
+-118.2296021,34.1326504,5,65 mph,Glendale Freeway,CA 2,South
+-118.2295385,34.1323033,5,65 mph,Glendale Freeway,CA 2,South
+-118.2294704,34.1319336,5,65 mph,Glendale Freeway,CA 2,South
+-118.2289622,34.1292429,5,65 mph,Glendale Freeway,CA 2,South
+-118.2282649,34.1403487,5,65 mph,Glendale Freeway,CA 2,South
+-118.2290409,34.1377134,5,65 mph,Glendale Freeway,CA 2,South
+-118.2472427,34.1114867,4,65 mph,Glendale Freeway,CA 2,South
+-118.2478742,34.1110815,4,65 mph,Glendale Freeway,CA 2,South
+-118.2482444,34.1108066,4,65 mph,Glendale Freeway,CA 2,South
+-118.2484947,34.1105931,4,65 mph,Glendale Freeway,CA 2,South
+-118.2487146,34.1103884,4,65 mph,Glendale Freeway,CA 2,South
+-118.2489422,34.1101301,4,65 mph,Glendale Freeway,CA 2,South
+-118.2491299,34.1098745,4,65 mph,Glendale Freeway,CA 2,South
+-118.2493732,34.1094788,4,65 mph,Glendale Freeway,CA 2,South
+-118.2495475,34.1091209,4,65 mph,Glendale Freeway,CA 2,South
+-118.2496405,34.1088653,4,65 mph,Glendale Freeway,CA 2,South
+-118.224631,34.1527849,4,65 mph,Glendale Freeway,CA 2,South
+-118.2247211,34.1524886,4,65 mph,Glendale Freeway,CA 2,South
+-118.2248846,34.1519313,4,65 mph,Glendale Freeway,CA 2,South
+-118.2253928,34.150177,4,65 mph,Glendale Freeway,CA 2,South
+-118.225457,34.1499551,4,65 mph,Glendale Freeway,CA 2,South
+-118.2259849,34.1481328,4,65 mph,Glendale Freeway,CA 2,South
+-118.2262948,34.147043,4,65 mph,Glendale Freeway,CA 2,South
+-118.2289622,34.1292429,4,65 mph,Glendale Freeway,CA 2,South
+-118.2289189,34.1290676,4,65 mph,Glendale Freeway,CA 2,South
+-118.2284285,34.1264726,4,65 mph,Glendale Freeway,CA 2,South
+-118.2283811,34.1260762,4,65 mph,Glendale Freeway,CA 2,South
+-118.2283585,34.1257239,4,65 mph,Glendale Freeway,CA 2,South
+-118.228375,34.1254425,4,65 mph,Glendale Freeway,CA 2,South
+-118.2283999,34.1250803,4,65 mph,Glendale Freeway,CA 2,South
+-118.2072815,34.207097,2,,,CA 2,South
+-118.2078926,34.2071673,2,,,CA 2,South
+-118.2085556,34.2071907,2,,,CA 2,South
+-118.2094525,34.207258,2,,,CA 2,South
+-118.2108482,34.2073711,2,,,CA 2,South
+-118.214627,34.207667,2,,,CA 2,South
+-118.2148763,34.2076767,2,,,CA 2,South
+-118.2151435,34.2076782,2,,,CA 2,South
+-118.2154164,34.2076629,2,,,CA 2,South
+-118.2157267,34.207629,2,,,CA 2,South
+-118.2160543,34.2075703,2,,,CA 2,South
+-118.2163225,34.2075079,2,,,CA 2,South
+-118.2165222,34.2074532,2,,,CA 2,South
+-118.2167938,34.2073611,2,,,CA 2,South
+-118.217188,34.2071845,2,,,CA 2,South
+-118.2174527,34.207048,2,,,CA 2,South
+-118.2175591,34.2069835,2,,,CA 2,South
+-118.2176862,34.2069072,2,,,CA 2,South
+-118.2178635,34.2067854,2,,,CA 2,South
+-118.2181037,34.2065938,2,,,CA 2,South
+-118.218361,34.2063601,2,,,CA 2,South
+-118.2185867,34.2060999,2,,,CA 2,South
+-118.2188009,34.2057937,2,,,CA 2,South
+-118.2189245,34.2056077,2,,,CA 2,South
+-118.219001,34.2054918,2,,,CA 2,South
+-118.2190716,34.205345,2,,,CA 2,South
+-118.2191538,34.2051422,2,,,CA 2,South
+-118.2192094,34.2049605,2,,,CA 2,South
+-118.2192533,34.204824,2,,,CA 2,South
+-118.2193004,34.2045776,2,,,CA 2,South
+-118.2193313,34.2042927,2,,,CA 2,South
+-118.2193644,34.2033702,2,,,CA 2,South
+-118.2194105,34.2028026,2,,,CA 2,South
+-118.2194475,34.2024007,2,,,CA 2,South
+-118.2194889,34.2019882,2,,,CA 2,South
+-118.2195535,34.201658,2,,,CA 2,South
+-118.2558081,34.0939146,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2565367,34.0932469,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2569633,34.0928568,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2573606,34.0924935,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2576315,34.0922398,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2580559,34.0918425,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2581503,34.0917542,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2583134,34.0916121,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2587683,34.0912211,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2589142,34.0910932,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2590257,34.0909724,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2591287,34.0908302,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2592232,34.0906738,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2592832,34.0905103,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2593176,34.0903753,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2593262,34.0902047,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2593176,34.0900625,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2592984,34.0898471,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2592905,34.0897588,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.2592693,34.0895209,2,"['65 mph', '35 mph']",Glendale Freeway,CA 2,South
+-118.3033303,34.0866759,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3027808,34.0862575,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3024107,34.0860095,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3020332,34.0857543,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3007491,34.0848723,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3001947,34.0844897,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2991652,34.0837866,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.298572,34.0833606,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2982498,34.0831377,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2979547,34.0829217,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2976752,34.0827113,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.297363,34.0824776,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2971441,34.0823043,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2969103,34.0821328,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2966872,34.0819751,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2964373,34.0818074,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2961848,34.0816498,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2959398,34.0815073,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2956878,34.0813704,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2954467,34.0812463,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2951966,34.0811293,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2774218,34.0759819,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2744639,34.0751284,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2741576,34.0750335,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.273886,34.0749442,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2735926,34.0748428,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2733137,34.074743,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2730197,34.0746303,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2726858,34.0744953,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2723802,34.0743685,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2721896,34.0742825,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.271986,34.0741908,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2717544,34.0740768,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2715108,34.0739555,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2712572,34.073828,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.294432,34.0807807,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2940197,34.0805888,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2937377,34.0804601,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2932035,34.0801992,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2926758,34.0799129,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2924251,34.0797725,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2913861,34.0791735,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.291122,34.0790329,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2908624,34.078909,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.290578,34.0787836,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.290299,34.0786761,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.290013,34.078579,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2897063,34.0784916,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2894605,34.0784265,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2891356,34.078352,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2887933,34.0783018,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.288483,34.0782633,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2881779,34.0782322,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2870934,34.0781446,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2868108,34.0781197,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2865196,34.0780929,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2862283,34.0780596,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2860257,34.0780343,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2413267,34.1149404,4,65 mph,Glendale Freeway,CA 2,South
+-118.2420092,34.1146435,4,65 mph,Glendale Freeway,CA 2,South
+-118.2426087,34.1143352,4,65 mph,Glendale Freeway,CA 2,South
+-118.2428718,34.1141924,4,65 mph,Glendale Freeway,CA 2,South
+-118.2431152,34.1140529,4,65 mph,Glendale Freeway,CA 2,South
+-118.2437727,34.1136521,4,65 mph,Glendale Freeway,CA 2,South
+-118.2438819,34.113586,4,65 mph,Glendale Freeway,CA 2,South
+-118.2447864,34.1130141,4,65 mph,Glendale Freeway,CA 2,South
+-118.2449672,34.1128952,4,65 mph,Glendale Freeway,CA 2,South
+-118.2459026,34.1123079,4,65 mph,Glendale Freeway,CA 2,South
+-118.2467975,34.1117789,4,65 mph,Glendale Freeway,CA 2,South
+-118.2283999,34.1250803,4,65 mph,Glendale Freeway,CA 2,South
+-118.2284038,34.1250241,4,65 mph,Glendale Freeway,CA 2,South
+-118.2285056,34.1243231,4,65 mph,Glendale Freeway,CA 2,South
+-118.2286189,34.1238434,4,65 mph,Glendale Freeway,CA 2,South
+-118.2287406,34.1234467,4,65 mph,Glendale Freeway,CA 2,South
+-118.2289077,34.1230244,4,65 mph,Glendale Freeway,CA 2,South
+-118.2290569,34.1227143,4,65 mph,Glendale Freeway,CA 2,South
+-118.2292289,34.1223844,4,65 mph,Glendale Freeway,CA 2,South
+-118.229415,34.1220777,4,65 mph,Glendale Freeway,CA 2,South
+-118.2297613,34.1215876,4,65 mph,Glendale Freeway,CA 2,South
+-118.2300673,34.1212188,4,65 mph,Glendale Freeway,CA 2,South
+-118.2304613,34.1208022,4,65 mph,Glendale Freeway,CA 2,South
+-118.2305441,34.1207252,4,65 mph,Glendale Freeway,CA 2,South
+-118.2467975,34.1117789,5,65 mph,Glendale Freeway,CA 2,South
+-118.2471355,34.1115512,5,65 mph,Glendale Freeway,CA 2,South
+-118.2472427,34.1114867,5,65 mph,Glendale Freeway,CA 2,South
+-118.219794,34.1992114,4,65 mph,Glendale Freeway,CA 2,South
+-118.2202186,34.1971305,4,65 mph,Glendale Freeway,CA 2,South
+-118.2203474,34.1965803,4,65 mph,Glendale Freeway,CA 2,South
+-118.2204118,34.1961987,4,65 mph,Glendale Freeway,CA 2,South
+-118.2204493,34.1958926,4,65 mph,Glendale Freeway,CA 2,South
+-118.2204761,34.1955642,4,65 mph,Glendale Freeway,CA 2,South
+-118.2204815,34.1951028,4,65 mph,Glendale Freeway,CA 2,South
+-118.2204303,34.1944405,4,65 mph,Glendale Freeway,CA 2,South
+-118.2203712,34.1938726,4,65 mph,Glendale Freeway,CA 2,South
+-118.2203015,34.1934644,4,65 mph,Glendale Freeway,CA 2,South
+-118.2202318,34.1931405,4,65 mph,Glendale Freeway,CA 2,South
+-118.2201006,34.1926712,4,65 mph,Glendale Freeway,CA 2,South
+-118.219886,34.1920278,4,65 mph,Glendale Freeway,CA 2,South
+-118.2197036,34.1915841,4,65 mph,Glendale Freeway,CA 2,South
+-118.2185342,34.1890992,4,65 mph,Glendale Freeway,CA 2,South
+-118.218046,34.1879765,4,65 mph,Glendale Freeway,CA 2,South
+-118.2179066,34.187586,4,65 mph,Glendale Freeway,CA 2,South
+-118.2177939,34.1871955,4,65 mph,Glendale Freeway,CA 2,South
+-118.2177027,34.1867829,4,65 mph,Glendale Freeway,CA 2,South
+-118.2176383,34.1863924,4,65 mph,Glendale Freeway,CA 2,South
+-118.2176223,34.1860595,4,65 mph,Glendale Freeway,CA 2,South
+-118.217633,34.1855004,4,65 mph,Glendale Freeway,CA 2,South
+-118.2176652,34.1851232,4,65 mph,Glendale Freeway,CA 2,South
+-118.2177564,34.1845774,4,65 mph,Glendale Freeway,CA 2,South
+-118.21785,34.1842213,4,65 mph,Glendale Freeway,CA 2,South
+-118.2180031,34.1837786,4,65 mph,Glendale Freeway,CA 2,South
+-118.2181533,34.1834103,4,65 mph,Glendale Freeway,CA 2,South
+-118.2183679,34.1829443,4,65 mph,Glendale Freeway,CA 2,South
+-118.2188668,34.1820302,4,65 mph,Glendale Freeway,CA 2,South
+-118.219945,34.180011,4,65 mph,Glendale Freeway,CA 2,South
+-118.2201489,34.1795672,4,65 mph,Glendale Freeway,CA 2,South
+-118.2203742,34.1789991,4,65 mph,Glendale Freeway,CA 2,South
+-118.2205405,34.1785287,4,65 mph,Glendale Freeway,CA 2,South
+-118.2207604,34.1778896,4,65 mph,Glendale Freeway,CA 2,South
+-118.2216294,34.1751544,4,65 mph,Glendale Freeway,CA 2,South
+-118.2219726,34.174106,4,65 mph,Glendale Freeway,CA 2,South
+-118.2221634,34.1734822,4,65 mph,Glendale Freeway,CA 2,South
+-118.2225505,34.1722468,4,65 mph,Glendale Freeway,CA 2,South
+-118.2227401,34.1716471,4,65 mph,Glendale Freeway,CA 2,South
+-118.223675,34.1686701,4,65 mph,Glendale Freeway,CA 2,South
+-118.2242674,34.1668555,4,65 mph,Glendale Freeway,CA 2,South
+-118.2002329,34.2075243,"['1', '2']",,,CA 2,South
+-118.2003156,34.2074166,"['1', '2']",,,CA 2,South
+-118.200348,34.2073957,"['1', '2']",,,CA 2,South
+-118.2003812,34.2073748,"['1', '2']",,,CA 2,South
+-118.2004598,34.2073257,"['1', '2']",,,CA 2,South
+-118.200557,34.2072991,"['1', '2']",,,CA 2,South
+-118.2006323,34.2072849,"['1', '2']",,,CA 2,South
+-118.2007172,34.2072814,"['1', '2']",,,CA 2,South
+-118.2026159,34.2072653,"['1', '2']",,,CA 2,South
+-118.2034745,34.2072002,"['1', '2']",,,CA 2,South
+-118.2044745,34.2071705,"['1', '2']",,,CA 2,South
+-118.2049698,34.2071481,"['1', '2']",,,CA 2,South
+-118.2058085,34.2070822,"['1', '2']",,,CA 2,South
+-118.2712572,34.073828,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2709907,34.0736888,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2707251,34.0735535,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2704455,34.0734196,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2701606,34.0732914,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2698757,34.07317,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2692379,34.0729117,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2790154,34.0764419,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2774218,34.0759819,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3052659,34.0886282,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3051023,34.0884038,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3049207,34.088173,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3047533,34.0879729,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3045613,34.0877554,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3043502,34.0875375,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3041416,34.0873337,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.3033303,34.0866759,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2858,34.0780028,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2856225,34.077975,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2853164,34.0779252,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2850123,34.0778668,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2847012,34.0778003,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.284153,34.0776753,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2823376,34.077261,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2813645,34.0770408,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2810855,34.0769719,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2807331,34.076891,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2803818,34.0768093,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.280063,34.0767308,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.279744,34.0766492,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2794394,34.0765685,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2790154,34.0764419,4,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2860257,34.0780343,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2859128,34.0780184,5,55 mph,Hollywood Freeway,US 101;CA 2,South
+-118.2858,34.0780028,5,55 mph,Hollywood Freeway,US 101;CA 2,South

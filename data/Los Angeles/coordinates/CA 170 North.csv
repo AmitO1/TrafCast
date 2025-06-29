@@ -1,0 +1,166 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.3912764,34.1738401,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3915913,34.1740859,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3921,34.1745322,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3924731,34.1749142,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3955037,34.1801381,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3956867,34.1804109,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3959966,34.1808372,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3962377,34.1811222,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3968017,34.1817244,6,65 mph,Hollywood Freeway,CA 170,North
+-118.3971541,34.1820637,6,65 mph,Hollywood Freeway,CA 170,North
+-118.4102733,34.2282841,3,65 mph,Hollywood Freeway,CA 170,North
+-118.410092,34.2287947,3,65 mph,Hollywood Freeway,CA 170,North
+-118.3808849,34.1610399,6,65 mph,Hollywood Freeway,CA 170,North
+-118.381423,34.1622336,6,65 mph,Hollywood Freeway,CA 170,North
+-118.384607,34.168887,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3850999,34.1694199,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3853534,34.1696796,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3857404,34.1700321,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3860458,34.1702973,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3863582,34.1705209,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3874897,34.1713039,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3880682,34.1716784,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3884506,34.1719264,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3891361,34.172388,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3907665,34.1734826,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3912764,34.1738401,5,65 mph,Hollywood Freeway,CA 170,North
+-118.38365,34.1673228,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.3840167,34.1680549,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.3840948,34.1681783,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.3842217,34.1683788,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.3844782,34.168725,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.384607,34.168887,"['5', '6']",65 mph,Hollywood Freeway,CA 170,North
+-118.4086835,34.2166339,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.4092129,34.2186295,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.4099995,34.2214602,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.410113,34.2218883,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.4106742,34.2239308,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.4108194,34.224538,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.4108641,34.2248565,"['5', '4']",65 mph,Hollywood Freeway,CA 170,North
+-118.405062,34.2043839,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4052846,34.2048534,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4055795,34.2055652,5,65 mph,Hollywood Freeway,CA 170,North
+-118.405757,34.2060226,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4059501,34.2066172,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4060868,34.2070701,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4083934,34.2155479,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4085175,34.2159809,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4086835,34.2166339,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4025929,34.1958918,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4026809,34.1965287,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4027254,34.1969027,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4030275,34.1991356,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4030823,34.1995102,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4031379,34.199873,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4032145,34.2002265,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4033198,34.2006005,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4034267,34.2009602,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4036,34.2014222,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4038421,34.2019655,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4017865,34.1897166,5,65 mph,Hollywood Freeway,CA 170,North
+-118.402322,34.1937447,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4023767,34.1941575,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4025929,34.1958918,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3971541,34.1820637,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3994103,34.1839316,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3997075,34.1842119,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3999875,34.1845128,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4002426,34.1848224,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4004816,34.1851457,5,65 mph,Hollywood Freeway,CA 170,North
+-118.400696,34.1854792,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4008895,34.1858081,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4010565,34.1861491,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4011894,34.186467,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3924731,34.1749142,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3932296,34.175869,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3935188,34.1763089,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3937127,34.1766493,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3939043,34.1770126,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3949533,34.1791955,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3952141,34.1796568,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3955037,34.1801381,5,65 mph,Hollywood Freeway,CA 170,North
+-118.381423,34.1622336,5,65 mph,Hollywood Freeway,CA 170,North
+-118.382491,34.1646844,5,65 mph,Hollywood Freeway,CA 170,North
+-118.382681,34.1651215,5,65 mph,Hollywood Freeway,CA 170,North
+-118.38365,34.1673228,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3721108,34.1482837,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3727824,34.1487474,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3730576,34.1490007,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3733507,34.149324,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3735257,34.1495184,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3740998,34.1502538,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3742969,34.1505017,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3747082,34.1510377,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.377227,34.1541418,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3778611,34.1549575,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3782179,34.1554656,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3784924,34.1559064,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3788932,34.1565993,"['4', '2']","['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.4038421,34.2019655,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4044141,34.2030484,5,65 mph,Hollywood Freeway,CA 170,North
+-118.405062,34.2043839,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4108641,34.2248565,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4108782,34.2251598,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4108989,34.2255028,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4108992,34.225843,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4108525,34.2263927,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4107773,34.2268155,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4106406,34.2273337,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4104524,34.2278539,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4103142,34.228186,4,65 mph,Hollywood Freeway,CA 170,North
+-118.4102733,34.2282841,4,65 mph,Hollywood Freeway,CA 170,North
+-118.410092,34.2287947,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4094866,34.2300745,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4093742,34.2304138,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4092999,34.2307081,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4092411,34.2310645,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4092281,34.2316041,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4092483,34.2318936,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4093419,34.2324102,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4094521,34.2327566,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4095771,34.2330608,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4096944,34.2333142,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4099036,34.2336628,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4100778,34.2339096,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4103308,34.2342019,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4105777,34.2344803,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4139314,34.237251,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4146699,34.2378624,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4152485,34.2383413,3,65 mph,Hollywood Freeway,CA 170,North
+-118.4155667,34.2385042,3,65 mph,Hollywood Freeway,CA 170,North
+-118.410092,34.2287947,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4100317,34.2291457,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4098106,34.2298199,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4096899,34.2302546,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4096209,34.2307571,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4096192,34.2314441,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4096705,34.2318195,1,65 mph,Hollywood Freeway,CA 170,North
+-118.409722,34.2320677,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4097649,34.2322195,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4098897,34.2326105,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4100235,34.2329184,1,65 mph,Hollywood Freeway,CA 170,North
+-118.410236,34.2333094,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4103298,34.2334494,1,65 mph,Hollywood Freeway,CA 170,North
+-118.410478,34.2336752,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4106976,34.233953,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4109472,34.2342287,1,65 mph,Hollywood Freeway,CA 170,North
+-118.411629,34.2348161,1,65 mph,Hollywood Freeway,CA 170,North
+-118.412606,34.2356317,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4131549,34.2360899,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4134378,34.2363606,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4141795,34.237003,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4143016,34.2372497,1,65 mph,Hollywood Freeway,CA 170,North
+-118.4011894,34.186467,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4013397,34.1869112,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4014303,34.1872341,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4015008,34.187597,5,65 mph,Hollywood Freeway,CA 170,North
+-118.4017865,34.1897166,5,65 mph,Hollywood Freeway,CA 170,North
+-118.3788932,34.1565993,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3790179,34.1568288,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3795243,34.1579014,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3796507,34.1582361,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.380107,34.1592918,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3805752,34.1603464,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3807256,34.1607001,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North
+-118.3808849,34.1610399,5,"['55 mph', '65 mph']",Hollywood Freeway,CA 170,North

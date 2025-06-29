@@ -1,0 +1,2164 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-117.7848054,33.6612349,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.784676,33.6611803,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7843849,33.6610541,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7840443,33.6609012,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7837922,33.6607806,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7835079,33.6606378,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.783253,33.660506,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7829795,33.6603576,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7818566,33.6597196,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.7795967,33.6584112,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7792592,33.6583171,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7788194,33.6580905,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7783822,33.6578471,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7761023,33.6565466,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7747518,33.6557697,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7735542,33.655082,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7727978,33.6546444,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7723123,33.6543732,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7719194,33.6541744,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7715854,33.6540081,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7712891,33.6538708,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7710088,33.6537458,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7707164,33.6536219,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7704683,33.6535214,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7701357,33.653393,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7697468,33.6532568,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7693391,33.6531251,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7689515,33.6530001,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7685961,33.6528951,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7682649,33.652808,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7679618,33.6527355,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7675849,33.6526484,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7670458,33.6525412,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7665938,33.6524597,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7660909,33.6523872,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7650422,33.6522331,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.764086,33.6520836,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7638729,33.6519691,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7795967,33.6584112,4,65 mph,San Diego Freeway,I 405,South
+-117.7776918,33.657317,4,65 mph,San Diego Freeway,I 405,South
+-117.7773807,33.6571456,4,65 mph,San Diego Freeway,I 405,South
+-117.7694102,33.6530268,4,65 mph,San Diego Freeway,I 405,South
+-117.7686432,33.6528024,4,65 mph,San Diego Freeway,I 405,South
+-117.7682709,33.6527025,4,65 mph,San Diego Freeway,I 405,South
+-117.7679618,33.6526266,4,65 mph,San Diego Freeway,I 405,South
+-117.7675038,33.6525228,4,65 mph,San Diego Freeway,I 405,South
+-117.7671652,33.652457,4,65 mph,San Diego Freeway,I 405,South
+-117.7668272,33.6523939,4,65 mph,San Diego Freeway,I 405,South
+-117.7664229,33.6523291,4,65 mph,San Diego Freeway,I 405,South
+-117.7638729,33.6519691,4,65 mph,San Diego Freeway,I 405,South
+-117.7360988,33.644376,3,65 mph,San Diego Freeway,I 405,South
+-117.7357753,33.6441793,3,65 mph,San Diego Freeway,I 405,South
+-117.7354252,33.6439449,3,65 mph,San Diego Freeway,I 405,South
+-117.7350497,33.6436747,3,65 mph,San Diego Freeway,I 405,South
+-117.7347614,33.6434391,3,65 mph,San Diego Freeway,I 405,South
+-117.7344717,33.6431812,3,65 mph,San Diego Freeway,I 405,South
+-117.7343041,33.6430294,3,65 mph,San Diego Freeway,I 405,South
+-117.7330451,33.6416618,3,65 mph,San Diego Freeway,I 405,South
+-118.0014147,33.7415323,5,65 mph,San Diego Freeway,I 405,South
+-118.000109,33.7405296,5,65 mph,San Diego Freeway,I 405,South
+-117.9984766,33.7391573,5,65 mph,San Diego Freeway,I 405,South
+-117.9980699,33.7388124,5,65 mph,San Diego Freeway,I 405,South
+-117.9979024,33.7386521,5,65 mph,San Diego Freeway,I 405,South
+-117.9967078,33.7376456,5,65 mph,San Diego Freeway,I 405,South
+-117.9957204,33.7368786,5,65 mph,San Diego Freeway,I 405,South
+-117.9935393,33.7353136,5,65 mph,San Diego Freeway,I 405,South
+-117.80031,33.6640252,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.7984244,33.6637259,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.797525,33.6636025,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0120005,33.7504288,5,65 mph,San Diego Freeway,I 405,South
+-118.0109073,33.7495126,5,65 mph,San Diego Freeway,I 405,South
+-117.868263,33.6869426,6,65 mph,San Diego Freeway,I 405,South
+-117.8678687,33.6868544,6,65 mph,San Diego Freeway,I 405,South
+-117.8674033,33.6867417,6,65 mph,San Diego Freeway,I 405,South
+-117.8670184,33.686648,6,65 mph,San Diego Freeway,I 405,South
+-117.8665759,33.6865364,6,65 mph,San Diego Freeway,I 405,South
+-117.8661977,33.6864315,6,65 mph,San Diego Freeway,I 405,South
+-117.864707,33.6859398,6,65 mph,San Diego Freeway,I 405,South
+-117.7818566,33.6597196,6,65 mph,San Diego Freeway,I 405,South
+-117.7800174,33.6586654,6,65 mph,San Diego Freeway,I 405,South
+-117.7795967,33.6584112,6,65 mph,San Diego Freeway,I 405,South
+-117.7550455,33.6502131,5,65 mph,San Diego Freeway,I 405,South
+-117.7515217,33.6491869,5,65 mph,San Diego Freeway,I 405,South
+-117.7509714,33.6490186,5,65 mph,San Diego Freeway,I 405,South
+-117.7509714,33.6490186,4,65 mph,San Diego Freeway,I 405,South
+-117.747969,33.648185,4,65 mph,San Diego Freeway,I 405,South
+-117.7452966,33.6473871,4,65 mph,San Diego Freeway,I 405,South
+-117.7452966,33.6473871,5,65 mph,San Diego Freeway,I 405,South
+-117.7434148,33.6468416,5,65 mph,San Diego Freeway,I 405,South
+-117.7434148,33.6468416,5,65 mph,San Diego Freeway,I 405,South
+-117.7403063,33.6459327,5,65 mph,San Diego Freeway,I 405,South
+-117.7394265,33.6456739,5,65 mph,San Diego Freeway,I 405,South
+-117.7394265,33.6456739,4,65 mph,San Diego Freeway,I 405,South
+-117.7382959,33.6453399,4,65 mph,San Diego Freeway,I 405,South
+-117.7379043,33.6452149,4,65 mph,San Diego Freeway,I 405,South
+-117.7375475,33.6450826,4,65 mph,San Diego Freeway,I 405,South
+-117.7372635,33.6449647,4,65 mph,San Diego Freeway,I 405,South
+-117.7370071,33.6448542,4,65 mph,San Diego Freeway,I 405,South
+-117.7366161,33.6446622,4,65 mph,San Diego Freeway,I 405,South
+-117.7364036,33.6445472,4,65 mph,San Diego Freeway,I 405,South
+-117.7360988,33.644376,4,65 mph,San Diego Freeway,I 405,South
+-118.0386215,33.7726871,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0382509,33.7723877,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0378823,33.7720795,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0363491,33.7707941,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0357808,33.7703227,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0352602,33.7698791,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0347025,33.7694037,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0340657,33.7688697,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0336093,33.7684912,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0330403,33.7680139,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.032409,33.767505,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0304887,33.7659148,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0295083,33.7650974,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0268928,33.7629397,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9935393,33.7353136,5,65 mph,San Diego Freeway,I 405,South
+-117.9932804,33.7351374,5,65 mph,San Diego Freeway,I 405,South
+-117.9927333,33.7347478,5,65 mph,San Diego Freeway,I 405,South
+-117.9918747,33.7341653,5,65 mph,San Diego Freeway,I 405,South
+-117.9911273,33.7337054,5,65 mph,San Diego Freeway,I 405,South
+-117.9905879,33.7333403,5,65 mph,San Diego Freeway,I 405,South
+-117.9897874,33.732785,5,65 mph,San Diego Freeway,I 405,South
+-117.9897391,33.7327552,5,65 mph,San Diego Freeway,I 405,South
+-117.989088,33.7323055,5,65 mph,San Diego Freeway,I 405,South
+-117.9890166,33.7322524,5,65 mph,San Diego Freeway,I 405,South
+-117.9873634,33.7311179,5,65 mph,San Diego Freeway,I 405,South
+-117.986768,33.7307028,5,65 mph,San Diego Freeway,I 405,South
+-117.9516103,33.7028348,5,65 mph,San Diego Freeway,I 405,South
+-117.951156,33.7025248,5,65 mph,San Diego Freeway,I 405,South
+-117.9506896,33.7022332,5,65 mph,San Diego Freeway,I 405,South
+-117.9502811,33.7019853,5,65 mph,San Diego Freeway,I 405,South
+-117.9499869,33.7018141,5,65 mph,San Diego Freeway,I 405,South
+-117.9495664,33.7015854,5,65 mph,San Diego Freeway,I 405,South
+-117.949145,33.7013508,5,65 mph,San Diego Freeway,I 405,South
+-117.9489138,33.7012235,5,65 mph,San Diego Freeway,I 405,South
+-117.9486129,33.7010677,5,65 mph,San Diego Freeway,I 405,South
+-117.9572241,33.7074617,5,65 mph,San Diego Freeway,I 405,South
+-117.9566961,33.7070223,5,65 mph,San Diego Freeway,I 405,South
+-117.9550523,33.705665,5,65 mph,San Diego Freeway,I 405,South
+-117.9537031,33.7045232,5,65 mph,San Diego Freeway,I 405,South
+-117.9527531,33.7037314,5,65 mph,San Diego Freeway,I 405,South
+-117.9523933,33.7034542,5,65 mph,San Diego Freeway,I 405,South
+-117.952063,33.7032006,5,65 mph,San Diego Freeway,I 405,South
+-117.9516103,33.7028348,5,65 mph,San Diego Freeway,I 405,South
+-117.9650418,33.713989,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9644684,33.7135042,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9624588,33.7118423,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9614383,33.7109779,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.960953,33.7105785,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9605529,33.7102308,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9595068,33.709369,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9588674,33.7088304,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9572241,33.7074617,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9687112,33.7170639,5,65 mph,San Diego Freeway,I 405,South
+-117.9678928,33.7163649,5,65 mph,San Diego Freeway,I 405,South
+-117.9670613,33.7156777,5,65 mph,San Diego Freeway,I 405,South
+-117.9667822,33.7154431,5,65 mph,San Diego Freeway,I 405,South
+-117.9707639,33.7187535,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9699585,33.7181175,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9687112,33.7170639,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.986768,33.7307028,5,65 mph,San Diego Freeway,I 405,South
+-117.985683,33.7299285,5,65 mph,San Diego Freeway,I 405,South
+-117.9841424,33.7288168,5,65 mph,San Diego Freeway,I 405,South
+-117.878648,33.6872212,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8765973,33.6872318,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8753413,33.687235,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8737682,33.687235,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8715487,33.6872249,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8709787,33.6872205,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8705227,33.6872048,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8700708,33.6871769,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8696229,33.6871379,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8691535,33.6870877,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.868676,33.6870207,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.868263,33.6869426,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.8839879,33.6872553,8,65 mph,San Diego Freeway,I 405,South
+-117.8830245,33.6872528,8,65 mph,San Diego Freeway,I 405,South
+-117.8821224,33.687241,8,65 mph,San Diego Freeway,I 405,South
+-117.8821224,33.687241,7,65 mph,San Diego Freeway,I 405,South
+-117.880804,33.6872303,7,65 mph,San Diego Freeway,I 405,South
+-117.8794384,33.6872262,7,65 mph,San Diego Freeway,I 405,South
+-117.878648,33.6872212,7,65 mph,San Diego Freeway,I 405,South
+-117.8899767,33.6873174,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8870022,33.6872941,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8844642,33.6872608,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8839879,33.6872553,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8969619,33.6874893,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8961311,33.6874731,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.895757,33.6874637,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8949067,33.6874325,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8942844,33.6874135,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8930841,33.6873912,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.892486,33.6873745,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8913895,33.6873501,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8899767,33.6873174,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8189113,33.6680811,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.818669,33.6679988,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8146036,33.6666349,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8136657,33.6663237,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8130738,33.6661362,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8126769,33.6660213,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8122424,33.6659041,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8117153,33.6657623,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8112258,33.665644,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.810802,33.6655491,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8103367,33.6654487,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8098632,33.6653571,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8095441,33.6653002,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8092852,33.6652567,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8089888,33.6652098,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8074841,33.665029,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8056602,33.6647756,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8046544,33.6646271,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8039208,33.6645189,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.803147,33.6644117,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8023195,33.6642979,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8012259,33.6641433,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.80031,33.6640252,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.8222356,33.6691839,6,65 mph,San Diego Freeway,I 405,South
+-117.8217757,33.669042,6,65 mph,San Diego Freeway,I 405,South
+-117.8189113,33.6680811,6,65 mph,San Diego Freeway,I 405,South
+-117.8284591,33.6712705,6,65 mph,San Diego Freeway,I 405,South
+-117.8222356,33.6691839,6,65 mph,San Diego Freeway,I 405,South
+-117.9144896,33.6878653,9,65 mph,San Diego Freeway,I 405,South
+-117.9141259,33.6878378,9,65 mph,San Diego Freeway,I 405,South
+-117.9137709,33.6878126,9,65 mph,San Diego Freeway,I 405,South
+-117.9134594,33.6877886,9,65 mph,San Diego Freeway,I 405,South
+-117.9127379,33.6877731,9,65 mph,San Diego Freeway,I 405,South
+-117.9116455,33.6877289,9,65 mph,San Diego Freeway,I 405,South
+-117.9167583,33.6881565,8,65 mph,San Diego Freeway,I 405,South
+-117.9163619,33.6880872,8,65 mph,San Diego Freeway,I 405,South
+-117.9158447,33.6880149,8,65 mph,San Diego Freeway,I 405,South
+-117.9144896,33.6878653,8,65 mph,San Diego Freeway,I 405,South
+-117.9233004,33.69065,7,65 mph,San Diego Freeway,I 405,South
+-117.9230521,33.6905408,7,65 mph,San Diego Freeway,I 405,South
+-117.9197897,33.6890339,7,65 mph,San Diego Freeway,I 405,South
+-117.919036,33.6887604,7,65 mph,San Diego Freeway,I 405,South
+-117.9188581,33.6887046,7,65 mph,San Diego Freeway,I 405,South
+-117.9183568,33.6885448,7,65 mph,San Diego Freeway,I 405,South
+-117.9167583,33.6881565,7,65 mph,San Diego Freeway,I 405,South
+-117.7908531,33.6626537,5,65 mph,San Diego Freeway,I 405,South
+-117.7897871,33.6625088,5,65 mph,San Diego Freeway,I 405,South
+-117.7896059,33.6624851,5,65 mph,San Diego Freeway,I 405,South
+-117.7890949,33.6624081,5,65 mph,San Diego Freeway,I 405,South
+-117.7886657,33.6623411,5,65 mph,San Diego Freeway,I 405,South
+-117.7883533,33.6622853,5,65 mph,San Diego Freeway,I 405,South
+-117.7880301,33.6622217,5,65 mph,San Diego Freeway,I 405,South
+-117.7876827,33.6621447,5,65 mph,San Diego Freeway,I 405,South
+-117.7873085,33.6620576,5,65 mph,San Diego Freeway,I 405,South
+-117.7869089,33.6619505,5,65 mph,San Diego Freeway,I 405,South
+-117.7864556,33.6618199,5,65 mph,San Diego Freeway,I 405,South
+-117.7859849,33.6616725,5,65 mph,San Diego Freeway,I 405,South
+-117.7855651,33.6615285,5,65 mph,San Diego Freeway,I 405,South
+-117.7851051,33.6613555,5,65 mph,San Diego Freeway,I 405,South
+-117.7848054,33.6612349,5,65 mph,San Diego Freeway,I 405,South
+-117.7951746,33.6632585,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-117.7944665,33.6631663,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-117.7908531,33.6626537,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-117.8637153,33.6855544,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8629281,33.6852196,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8614515,33.6845679,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.860899,33.6843213,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8604268,33.6841195,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8598784,33.683885,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.859375,33.6836624,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.858757,33.6833772,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8530453,33.6808509,8,65 mph,San Diego Freeway,I 405,South
+-117.8512175,33.680046,8,65 mph,San Diego Freeway,I 405,South
+-117.8490119,33.6790689,8,65 mph,San Diego Freeway,I 405,South
+-117.8481138,33.6786259,8,65 mph,San Diego Freeway,I 405,South
+-117.858757,33.6833772,6,65 mph,San Diego Freeway,I 405,South
+-117.8574134,33.6827913,6,65 mph,San Diego Freeway,I 405,South
+-117.8566074,33.6824342,6,65 mph,San Diego Freeway,I 405,South
+-117.8556423,33.6820068,6,65 mph,San Diego Freeway,I 405,South
+-117.8530453,33.6808509,6,65 mph,San Diego Freeway,I 405,South
+-117.8437095,33.6766835,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8433104,33.6765183,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8420042,33.6759647,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8415093,33.6757538,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8401233,33.6752269,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8401233,33.6752269,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8397565,33.6750786,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8390725,33.6748409,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.838532,33.6746567,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8373317,33.674256,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8364121,33.6739485,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.835467,33.6736308,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8315462,33.672314,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8307689,33.6720502,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8293172,33.6715666,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8284591,33.6712705,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.8481138,33.6786259,7,65 mph,San Diego Freeway,I 405,South
+-117.8437095,33.6766835,7,65 mph,San Diego Freeway,I 405,South
+-118.0268928,33.7629397,5,65 mph,San Diego Freeway,I 405,South
+-118.0249898,33.7613226,5,65 mph,San Diego Freeway,I 405,South
+-118.0244189,33.7608648,5,65 mph,San Diego Freeway,I 405,South
+-118.0237419,33.7602613,5,65 mph,San Diego Freeway,I 405,South
+-118.0233953,33.7599633,5,65 mph,San Diego Freeway,I 405,South
+-118.0226036,33.7592936,5,65 mph,San Diego Freeway,I 405,South
+-118.0219877,33.7587897,5,65 mph,San Diego Freeway,I 405,South
+-118.020915,33.7578811,5,65 mph,San Diego Freeway,I 405,South
+-118.0204297,33.7574888,5,65 mph,San Diego Freeway,I 405,South
+-118.0199398,33.7570967,5,65 mph,San Diego Freeway,I 405,South
+-118.0199398,33.7570967,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0193579,33.7565844,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0176862,33.7552069,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0149847,33.7529683,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0134816,33.7516774,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0128023,33.7511181,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0123897,33.7507654,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0120005,33.7504288,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-117.9745352,33.7219034,5,65 mph,San Diego Freeway,I 405,South
+-117.9741873,33.721615,5,65 mph,San Diego Freeway,I 405,South
+-117.9722086,33.7199522,5,65 mph,San Diego Freeway,I 405,South
+-117.9713257,33.7192465,5,65 mph,San Diego Freeway,I 405,South
+-117.9396337,33.6973659,7,65 mph,San Diego Freeway,I 405,South
+-117.9376278,33.6965077,7,65 mph,San Diego Freeway,I 405,South
+-117.9355342,33.6956582,7,65 mph,San Diego Freeway,I 405,South
+-117.9343023,33.6951483,7,65 mph,San Diego Freeway,I 405,South
+-117.9116455,33.6877289,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9082544,33.6876426,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9060789,33.6875756,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9049474,33.6875163,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.0452672,33.774365,5,65 mph,San Diego Freeway,I 405,South
+-118.044129,33.7744073,5,65 mph,San Diego Freeway,I 405,South
+-118.0437425,33.7744113,5,65 mph,San Diego Freeway,I 405,South
+-118.0434059,33.7743986,5,65 mph,San Diego Freeway,I 405,South
+-118.0430786,33.7743818,5,65 mph,San Diego Freeway,I 405,South
+-118.0428178,33.7743495,5,65 mph,San Diego Freeway,I 405,South
+-118.0426019,33.77432,5,65 mph,San Diego Freeway,I 405,South
+-118.0422365,33.7742675,5,65 mph,San Diego Freeway,I 405,South
+-118.0418843,33.7741828,5,65 mph,San Diego Freeway,I 405,South
+-118.0416866,33.7741355,5,65 mph,San Diego Freeway,I 405,South
+-118.041474,33.7740702,5,65 mph,San Diego Freeway,I 405,South
+-118.0412091,33.7739878,5,65 mph,San Diego Freeway,I 405,South
+-118.0409859,33.7739125,5,65 mph,San Diego Freeway,I 405,South
+-118.0404789,33.7737146,5,65 mph,San Diego Freeway,I 405,South
+-118.0401994,33.7735806,5,65 mph,San Diego Freeway,I 405,South
+-118.0397956,33.773381,5,65 mph,San Diego Freeway,I 405,South
+-118.0394952,33.7732167,5,65 mph,San Diego Freeway,I 405,South
+-118.0392265,33.7730654,5,65 mph,San Diego Freeway,I 405,South
+-118.0389432,33.7728716,5,65 mph,San Diego Freeway,I 405,South
+-118.0386215,33.7726871,5,65 mph,San Diego Freeway,I 405,South
+-117.8839834,33.6875497,6,65 mph,San Diego Freeway,I 405,South
+-117.8852078,33.6875084,6,65 mph,San Diego Freeway,I 405,South
+-117.8880495,33.6875169,6,65 mph,San Diego Freeway,I 405,South
+-117.9841424,33.7288168,6,65 mph,San Diego Freeway,I 405,South
+-117.9832559,33.7282107,6,65 mph,San Diego Freeway,I 405,South
+-117.9819703,33.7273218,6,65 mph,San Diego Freeway,I 405,South
+-117.9809697,33.7266444,6,65 mph,San Diego Freeway,I 405,South
+-117.9804993,33.726319,6,65 mph,San Diego Freeway,I 405,South
+-117.9799611,33.7259331,6,65 mph,San Diego Freeway,I 405,South
+-117.9786038,33.7249885,6,65 mph,San Diego Freeway,I 405,South
+-117.9780927,33.7246449,6,65 mph,San Diego Freeway,I 405,South
+-117.9773116,33.7240764,6,65 mph,San Diego Freeway,I 405,South
+-117.9768357,33.723726,6,65 mph,San Diego Freeway,I 405,South
+-117.9763052,33.7233591,6,65 mph,San Diego Freeway,I 405,South
+-117.9758381,33.7230003,6,65 mph,San Diego Freeway,I 405,South
+-117.975337,33.7226123,6,65 mph,San Diego Freeway,I 405,South
+-117.9745352,33.7219034,6,65 mph,San Diego Freeway,I 405,South
+-117.9343023,33.6951483,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9342228,33.6951188,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9317947,33.6941377,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9288399,33.6929438,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9273713,33.6923427,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9248227,33.6912884,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9233004,33.69065,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-117.9486129,33.7010677,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9481623,33.7008733,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9477846,33.7007208,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9471736,33.700468,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9442454,33.6992369,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9427559,33.6986197,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9420781,33.6983331,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.9396337,33.6973659,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-117.797525,33.6636025,4,65 mph,San Diego Freeway,I 405,South
+-117.7951746,33.6632585,4,65 mph,San Diego Freeway,I 405,South
+-117.797525,33.6636025,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7971858,33.6636214,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7957696,33.6634406,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7930002,33.6630667,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7918589,33.6629071,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7896689,33.6626012,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7890721,33.662513,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.78871,33.6624583,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7883439,33.6623947,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7878772,33.6622987,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7874614,33.6622061,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7869773,33.6620833,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7865039,33.661946,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7860653,33.6618165,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.785659,33.6616803,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7852218,33.6615185,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7848054,33.6612349,1,65 mph,San Diego Freeway,I 405 HOV,South
+-117.7638729,33.6519691,6,65 mph,San Diego Freeway,I 405,South
+-117.7636854,33.6519484,6,65 mph,San Diego Freeway,I 405,South
+-117.763237,33.6518774,6,65 mph,San Diego Freeway,I 405,South
+-117.7598931,33.6513689,6,65 mph,San Diego Freeway,I 405,South
+-117.7590315,33.6512367,6,65 mph,San Diego Freeway,I 405,South
+-117.7586116,33.6511648,6,65 mph,San Diego Freeway,I 405,South
+-117.7581355,33.6510676,6,65 mph,San Diego Freeway,I 405,South
+-117.7581355,33.6510676,4,65 mph,San Diego Freeway,I 405,South
+-117.7577747,33.6509873,4,65 mph,San Diego Freeway,I 405,South
+-117.7574502,33.6509069,4,65 mph,San Diego Freeway,I 405,South
+-117.7571645,33.650831,4,65 mph,San Diego Freeway,I 405,South
+-117.7568105,33.6507338,4,65 mph,San Diego Freeway,I 405,South
+-117.7561102,33.6505247,4,65 mph,San Diego Freeway,I 405,South
+-117.7557252,33.6504112,4,65 mph,San Diego Freeway,I 405,South
+-117.7550455,33.6502131,4,65 mph,San Diego Freeway,I 405,South
+-117.7581355,33.6510676,1,65 mph,,I 405 HOV,South
+-117.7572826,33.6509727,1,65 mph,,I 405 HOV,South
+-117.7565798,33.6507751,1,65 mph,,I 405 HOV,South
+-117.7561868,33.6506579,1,65 mph,,I 405 HOV,South
+-117.7558045,33.6505489,1,65 mph,,I 405 HOV,South
+-117.7548632,33.6502795,1,65 mph,,I 405 HOV,South
+-117.7531305,33.6497659,1,65 mph,,I 405 HOV,South
+-117.7517921,33.649373,1,65 mph,,I 405 HOV,South
+-117.7502525,33.6489219,1,65 mph,,I 405 HOV,South
+-117.7490884,33.6485826,1,65 mph,,I 405 HOV,South
+-117.747931,33.648245,1,65 mph,,I 405 HOV,South
+-117.7464444,33.6478189,1,65 mph,,I 405 HOV,South
+-117.7421072,33.6465802,1,65 mph,,I 405 HOV,South
+-117.7414168,33.6463828,1,65 mph,,I 405 HOV,South
+-117.7406477,33.6461548,1,65 mph,,I 405 HOV,South
+-117.7394499,33.6458096,1,65 mph,,I 405 HOV,South
+-117.7379694,33.6453778,1,65 mph,,I 405 HOV,South
+-117.7374471,33.6452242,1,65 mph,,I 405 HOV,South
+-117.736728,33.6450146,1,65 mph,,I 405 HOV,South
+-117.7364166,33.6449193,1,65 mph,,I 405 HOV,South
+-117.7362614,33.6448665,1,65 mph,,I 405 HOV,South
+-117.7360663,33.6447923,1,65 mph,,I 405 HOV,South
+-117.7358819,33.6447102,1,65 mph,,I 405 HOV,South
+-117.7356928,33.6446243,1,65 mph,,I 405 HOV,South
+-117.7354715,33.6445093,1,65 mph,,I 405 HOV,South
+-117.7352388,33.6443686,1,65 mph,,I 405 HOV,South
+-117.7350564,33.6442419,1,65 mph,,I 405 HOV,South
+-117.7348995,33.6441319,1,65 mph,,I 405 HOV,South
+-117.7346977,33.6439706,1,65 mph,,I 405 HOV,South
+-117.7344663,33.643764,1,65 mph,,I 405 HOV,South
+-117.7342608,33.6435371,1,65 mph,,I 405 HOV,South
+-117.7340359,33.6432571,1,65 mph,,I 405 HOV,South
+-117.7335893,33.6426972,1,65 mph,,I 405 HOV,South
+-117.7331346,33.6421278,1,65 mph,,I 405 HOV,South
+-117.7327705,33.6416717,1,65 mph,,I 405 HOV,South
+-117.7325284,33.6413602,1,65 mph,,I 405 HOV,South
+-117.7320242,33.6407305,1,65 mph,,I 405 HOV,South
+-117.7314093,33.6399494,1,65 mph,,I 405 HOV,South
+-117.7308806,33.6392927,1,65 mph,,I 405 HOV,South
+-117.7304163,33.6387031,1,65 mph,,I 405 HOV,South
+-117.7271758,33.6344028,1,65 mph,,I 405 HOV,South
+-117.7773807,33.6571456,5,65 mph,San Diego Freeway,I 405,South
+-117.7746432,33.6555855,5,65 mph,San Diego Freeway,I 405,South
+-117.7728749,33.654564,5,65 mph,San Diego Freeway,I 405,South
+-117.772543,33.6543754,5,65 mph,San Diego Freeway,I 405,South
+-117.7721125,33.654151,5,65 mph,San Diego Freeway,I 405,South
+-117.7718832,33.6540332,5,65 mph,San Diego Freeway,I 405,South
+-117.7713159,33.6537659,5,65 mph,San Diego Freeway,I 405,South
+-117.7708639,33.653566,5,65 mph,San Diego Freeway,I 405,South
+-117.770479,33.6534137,5,65 mph,San Diego Freeway,I 405,South
+-117.7700371,33.6532473,5,65 mph,San Diego Freeway,I 405,South
+-117.7695724,33.6530882,5,65 mph,San Diego Freeway,I 405,South
+-117.7694102,33.6530268,5,65 mph,San Diego Freeway,I 405,South
+-117.864707,33.6859398,7,65 mph,San Diego Freeway,I 405,South
+-117.8645602,33.6858892,7,65 mph,San Diego Freeway,I 405,South
+-117.8640559,33.6856917,7,65 mph,San Diego Freeway,I 405,South
+-117.8637153,33.6855544,7,65 mph,San Diego Freeway,I 405,South
+-118.0849976,33.774481,2,65 mph,,I 405 Express,South
+-118.084766,33.7744435,2,65 mph,,I 405 Express,South
+-118.0844307,33.774401,2,65 mph,,I 405 Express,South
+-118.0841608,33.7743766,2,65 mph,,I 405 Express,South
+-118.0838849,33.7743642,2,65 mph,,I 405 Express,South
+-118.0836153,33.7743597,2,65 mph,,I 405 Express,South
+-118.0834652,33.774359,2,65 mph,,I 405 Express,South
+-118.0833766,33.7743586,2,65 mph,,I 405 Express,South
+-118.0826068,33.7743564,2,65 mph,,I 405 Express,South
+-118.0772913,33.7743463,2,65 mph,,I 405 Express,South
+-118.0726286,33.7743314,2,65 mph,,I 405 Express,South
+-118.0701206,33.7743118,2,65 mph,,I 405 Express,South
+-118.0674242,33.7742839,2,65 mph,,I 405 Express,South
+-118.0656506,33.7742679,2,65 mph,,I 405 Express,South
+-118.0632237,33.7742592,2,65 mph,,I 405 Express,South
+-118.0624247,33.7742586,2,65 mph,,I 405 Express,South
+-118.0618342,33.7742569,2,65 mph,,I 405 Express,South
+-118.0612254,33.7742569,2,65 mph,,I 405 Express,South
+-118.060643,33.7742552,2,65 mph,,I 405 Express,South
+-118.0600555,33.7742543,2,65 mph,,I 405 Express,South
+-118.059463,33.774251,2,65 mph,,I 405 Express,South
+-118.0588949,33.7742493,2,65 mph,,I 405 Express,South
+-118.0583033,33.7742476,2,65 mph,,I 405 Express,South
+-118.0577128,33.7742442,2,65 mph,,I 405 Express,South
+-118.0571325,33.7742425,2,65 mph,,I 405 Express,South
+-118.0565389,33.7742383,2,65 mph,,I 405 Express,South
+-118.0559474,33.7742374,2,65 mph,,I 405 Express,South
+-118.0553518,33.7742332,2,65 mph,,I 405 Express,South
+-118.0547593,33.7742332,2,65 mph,,I 405 Express,South
+-118.0541626,33.7742307,2,65 mph,,I 405 Express,South
+-118.0536036,33.774229,2,65 mph,,I 405 Express,South
+-118.052386,33.7742265,2,65 mph,,I 405 Express,South
+-118.0518321,33.7742239,2,65 mph,,I 405 Express,South
+-118.0511766,33.7742209,2,65 mph,,I 405 Express,South
+-118.0506077,33.7742163,2,65 mph,,I 405 Express,South
+-118.0503512,33.7742139,2,65 mph,,I 405 Express,South
+-117.8652084,33.694993,1,65 mph,,I 405 S HOV,South
+-117.8654351,33.6946844,1,65 mph,,I 405 S HOV,South
+-117.8656358,33.6944534,1,65 mph,,I 405 S HOV,South
+-117.8658598,33.6941681,1,65 mph,,I 405 S HOV,South
+-117.8659967,33.6940066,1,65 mph,,I 405 S HOV,South
+-117.8665047,33.693402,1,65 mph,,I 405 S HOV,South
+-117.866971,33.6929208,1,65 mph,,I 405 S HOV,South
+-117.867419,33.6924322,1,65 mph,,I 405 S HOV,South
+-117.8674634,33.6923842,1,65 mph,,I 405 S HOV,South
+-117.8689184,33.6908587,1,65 mph,,I 405 S HOV,South
+-117.8690797,33.6906769,1,65 mph,,I 405 S HOV,South
+-117.8692058,33.6904989,1,65 mph,,I 405 S HOV,South
+-117.8692836,33.6903751,1,65 mph,,I 405 S HOV,South
+-117.869419,33.6900972,1,65 mph,,I 405 S HOV,South
+-117.869478,33.6899231,1,65 mph,,I 405 S HOV,South
+-117.8695142,33.6897892,1,65 mph,,I 405 S HOV,South
+-117.8695357,33.6896888,1,65 mph,,I 405 S HOV,South
+-117.8695531,33.6895817,1,65 mph,,I 405 S HOV,South
+-117.8695652,33.6894801,1,65 mph,,I 405 S HOV,South
+-117.8695719,33.6893652,1,65 mph,,I 405 S HOV,South
+-117.8695759,33.6892112,1,65 mph,,I 405 S HOV,South
+-117.8695558,33.6890382,1,65 mph,,I 405 S HOV,South
+-117.8695183,33.6888352,1,65 mph,,I 405 S HOV,South
+-117.8694606,33.6886243,1,65 mph,,I 405 S HOV,South
+-117.8693949,33.6884379,1,65 mph,,I 405 S HOV,South
+-117.8693064,33.6882627,1,65 mph,,I 405 S HOV,South
+-117.8692111,33.6880964,1,65 mph,,I 405 S HOV,South
+-117.8690851,33.6879268,1,65 mph,,I 405 S HOV,South
+-117.8689161,33.6877327,1,65 mph,,I 405 S HOV,South
+-117.8686827,33.6875173,1,65 mph,,I 405 S HOV,South
+-117.8685191,33.6873923,1,65 mph,,I 405 S HOV,South
+-117.8683032,33.6872484,1,65 mph,,I 405 S HOV,South
+-117.8679532,33.6870743,1,65 mph,,I 405 S HOV,South
+-117.8676823,33.6869683,1,65 mph,,I 405 S HOV,South
+-117.8673336,33.686869,1,65 mph,,I 405 S HOV,South
+-117.8667931,33.6867339,1,65 mph,,I 405 S HOV,South
+-117.8662406,33.6865944,1,65 mph,,I 405 S HOV,South
+-117.8656988,33.686436,1,65 mph,,I 405 S HOV,South
+-117.8651865,33.6862664,1,65 mph,,I 405 S HOV,South
+-117.864854,33.6861403,1,65 mph,,I 405 S HOV,South
+-117.8637153,33.6855544,1,65 mph,,I 405 S HOV,South
+-117.9018251,33.6879016,1,65 mph,,I 405 Express,South
+-117.9018606,33.6878487,1,65 mph,,I 405 Express,South
+-117.9046957,33.6879194,1,65 mph,,I 405 Express,South
+-117.9051463,33.6879205,1,65 mph,,I 405 Express,South
+-117.9077473,33.6878973,1,65 mph,,I 405 Express,South
+-117.9077838,33.6877673,1,65 mph,,I 405 Express,South
+-117.9067107,33.6877101,1,65 mph,,I 405 Express,South
+-117.9059778,33.68768,1,65 mph,,I 405 Express,South
+-117.9052207,33.6876588,1,65 mph,,I 405 Express,South
+-117.9046945,33.6876539,1,65 mph,,I 405 Express,South
+-117.9032454,33.6875225,1,65 mph,,I 405 Express,South
+-117.9663777,33.7152843,2,65 mph,,I 405 Express,South
+-117.9659574,33.7149326,2,65 mph,,I 405 Express,South
+-117.9655424,33.7145829,2,65 mph,,I 405 Express,South
+-117.9651273,33.7142349,2,65 mph,,I 405 Express,South
+-117.9647124,33.7138843,2,65 mph,,I 405 Express,South
+-117.9642958,33.7135316,2,65 mph,,I 405 Express,South
+-117.9608826,33.7106639,2,65 mph,,I 405 Express,South
+-117.9559244,33.7065138,2,65 mph,,I 405 Express,South
+-117.9528808,33.7039448,2,65 mph,,I 405 Express,South
+-117.9523023,33.7034752,2,65 mph,,I 405 Express,South
+-117.9520143,33.7032536,2,65 mph,,I 405 Express,South
+-117.9517192,33.703038,2,65 mph,,I 405 Express,South
+-117.9512732,33.7027229,2,65 mph,,I 405 Express,South
+-117.9510202,33.702558,2,65 mph,,I 405 Express,South
+-117.9507813,33.702399,2,65 mph,,I 405 Express,South
+-117.9503991,33.7021664,2,65 mph,,I 405 Express,South
+-117.9500097,33.7019412,2,65 mph,,I 405 Express,South
+-117.9494364,33.7016291,2,65 mph,,I 405 Express,South
+-117.9490542,33.7014259,2,65 mph,,I 405 Express,South
+-117.9486578,33.7012331,2,65 mph,,I 405 Express,South
+-117.9482402,33.7010402,2,65 mph,,I 405 Express,South
+-117.9476792,33.7007973,2,65 mph,,I 405 Express,South
+-117.9469749,33.7005058,2,65 mph,,I 405 Express,South
+-117.9462494,33.7002055,2,65 mph,,I 405 Express,South
+-117.9437188,33.6991572,2,65 mph,,I 405 Express,South
+-117.9431933,33.6989335,2,65 mph,,I 405 Express,South
+-117.9426411,33.6987082,2,65 mph,,I 405 Express,South
+-117.9420908,33.6984785,2,65 mph,,I 405 Express,South
+-117.9415918,33.6982695,2,65 mph,,I 405 Express,South
+-117.9410662,33.6980516,2,65 mph,,I 405 Express,South
+-117.9406171,33.697868,2,65 mph,,I 405 Express,South
+-117.9400039,33.6976117,2,65 mph,,I 405 Express,South
+-117.939474,33.6973912,2,65 mph,,I 405 Express,South
+-117.9384193,33.696954,2,65 mph,,I 405 Express,South
+-117.9369421,33.6963414,2,65 mph,,I 405 Express,South
+-117.9361989,33.6960351,2,65 mph,,I 405 Express,South
+-117.9354649,33.695739,2,65 mph,,I 405 Express,South
+-117.9341652,33.6952162,2,65 mph,,I 405 Express,South
+-117.9329555,33.6947322,2,65 mph,,I 405 Express,South
+-117.9293832,33.6932858,2,65 mph,,I 405 Express,South
+-117.9278436,33.6926483,2,65 mph,,I 405 Express,South
+-117.9263678,33.6920328,2,65 mph,,I 405 Express,South
+-117.9256069,33.6917119,2,65 mph,,I 405 Express,South
+-117.924853,33.6913879,2,65 mph,,I 405 Express,South
+-117.9242956,33.6911465,2,65 mph,,I 405 Express,South
+-117.9237382,33.6909006,2,65 mph,,I 405 Express,South
+-117.923294,33.6907077,2,65 mph,,I 405 Express,South
+-117.9223195,33.6902785,2,65 mph,,I 405 Express,South
+-117.9216102,33.6899671,2,65 mph,,I 405 Express,South
+-117.9205659,33.6895098,2,65 mph,,I 405 Express,South
+-117.9201375,33.6893269,2,65 mph,,I 405 Express,South
+-117.9197233,33.6891586,2,65 mph,,I 405 Express,South
+-117.9191104,33.6889309,2,65 mph,,I 405 Express,South
+-117.9184555,33.6887175,2,65 mph,,I 405 Express,South
+-117.9179351,33.6885694,2,65 mph,,I 405 Express,South
+-117.9174113,33.6884361,2,65 mph,,I 405 Express,South
+-117.916875,33.688316,2,65 mph,,I 405 Express,South
+-117.9163317,33.6882107,2,65 mph,,I 405 Express,South
+-117.9157963,33.6881215,2,65 mph,,I 405 Express,South
+-117.9152574,33.68805,2,65 mph,,I 405 Express,South
+-117.9147256,33.6879962,2,65 mph,,I 405 Express,South
+-117.9141831,33.6879571,2,65 mph,,I 405 Express,South
+-117.9135462,33.687926,2,65 mph,,I 405 Express,South
+-117.9128261,33.6879082,2,65 mph,,I 405 Express,South
+-117.9117787,33.6878734,2,65 mph,,I 405 Express,South
+-117.9107398,33.6878494,2,65 mph,,I 405 Express,South
+-117.9098359,33.6878232,2,65 mph,,I 405 Express,South
+-117.9077838,33.6877673,2,65 mph,,I 405 Express,South
+-118.0059375,33.745528,2,65 mph,,I 405 Express,South
+-118.005477,33.7451501,2,65 mph,,I 405 Express,South
+-118.0050395,33.7447915,2,65 mph,,I 405 Express,South
+-118.0043565,33.7442236,2,65 mph,,I 405 Express,South
+-118.0039561,33.7438935,2,65 mph,,I 405 Express,South
+-118.0035521,33.7435537,2,65 mph,,I 405 Express,South
+-118.0031575,33.7432275,2,65 mph,,I 405 Express,South
+-118.0027581,33.7428915,2,65 mph,,I 405 Express,South
+-118.0023401,33.742541,2,65 mph,,I 405 Express,South
+-118.0019286,33.7421978,2,65 mph,,I 405 Express,South
+-118.0015159,33.7418537,2,65 mph,,I 405 Express,South
+-118.0011214,33.7415235,2,65 mph,,I 405 Express,South
+-118.0007036,33.741167,2,65 mph,,I 405 Express,South
+-118.0002866,33.7408108,2,65 mph,,I 405 Express,South
+-117.999914,33.7404936,2,65 mph,,I 405 Express,South
+-117.999433,33.7400877,2,65 mph,,I 405 Express,South
+-117.9984883,33.7392948,2,65 mph,,I 405 Express,South
+-117.9980714,33.7389454,2,65 mph,,I 405 Express,South
+-117.9968933,33.7379733,2,65 mph,,I 405 Express,South
+-117.9962256,33.7374561,2,65 mph,,I 405 Express,South
+-117.9955446,33.7369456,2,65 mph,,I 405 Express,South
+-117.9948499,33.7364518,2,65 mph,,I 405 Express,South
+-117.9937735,33.7357031,2,65 mph,,I 405 Express,South
+-117.992893,33.7350722,2,65 mph,,I 405 Express,South
+-117.9920058,33.7344479,2,65 mph,,I 405 Express,South
+-117.9902287,33.7331995,2,65 mph,,I 405 Express,South
+-117.9896893,33.7328237,2,65 mph,,I 405 Express,South
+-117.9890153,33.7323549,2,65 mph,,I 405 Express,South
+-117.9772772,33.7242016,2,65 mph,,I 405 Express,South
+-117.9767719,33.7238339,2,65 mph,,I 405 Express,South
+-117.9760107,33.7232714,2,65 mph,,I 405 Express,South
+-117.9749583,33.7224315,2,65 mph,,I 405 Express,South
+-117.9739362,33.7215876,2,65 mph,,I 405 Express,South
+-117.9735083,33.7212385,2,65 mph,,I 405 Express,South
+-117.9730885,33.7208911,2,65 mph,,I 405 Express,South
+-117.9726728,33.7205428,2,65 mph,,I 405 Express,South
+-117.97225,33.7201912,2,65 mph,,I 405 Express,South
+-117.9716797,33.7197204,2,65 mph,,I 405 Express,South
+-118.0117004,33.7503257,2,65 mph,,I 405 Express,South
+-118.0112795,33.749969,2,65 mph,,I 405 Express,South
+-118.0108659,33.7496217,2,65 mph,,I 405 Express,South
+-118.01044,33.7492668,2,65 mph,,I 405 Express,South
+-118.0100131,33.7489118,2,65 mph,,I 405 Express,South
+-118.0095974,33.7485628,2,65 mph,,I 405 Express,South
+-118.0091899,33.7482223,2,65 mph,,I 405 Express,South
+-118.0089744,33.7480414,2,65 mph,,I 405 Express,South
+-118.0087681,33.7478724,2,65 mph,,I 405 Express,South
+-118.0083687,33.7475394,2,65 mph,,I 405 Express,South
+-118.0079753,33.7472064,2,65 mph,,I 405 Express,South
+-118.007581,33.7468794,2,65 mph,,I 405 Express,South
+-118.0067801,33.7462202,2,65 mph,,I 405 Express,South
+-118.0063634,33.7458796,2,65 mph,,I 405 Express,South
+-118.0059375,33.745528,2,65 mph,,I 405 Express,South
+-118.0503512,33.7742139,2,65 mph,,I 405 Express,South
+-118.0500115,33.7742106,2,65 mph,,I 405 Express,South
+-118.0493342,33.7742056,2,65 mph,,I 405 Express,South
+-118.0489891,33.7741993,2,65 mph,,I 405 Express,South
+-118.0486441,33.7742004,2,65 mph,,I 405 Express,South
+-118.0484122,33.7742012,2,65 mph,,I 405 Express,South
+-118.048176,33.7742056,2,65 mph,,I 405 Express,South
+-118.0478473,33.7742216,2,65 mph,,I 405 Express,South
+-118.0475522,33.7742419,2,65 mph,,I 405 Express,South
+-118.0470381,33.7742852,2,65 mph,,I 405 Express,South
+-118.0458696,33.7743881,2,65 mph,,I 405 Express,South
+-118.0448628,33.7744777,2,65 mph,,I 405 Express,South
+-118.0446795,33.7744931,2,65 mph,,I 405 Express,South
+-118.0442828,33.7745232,2,65 mph,,I 405 Express,South
+-118.044061,33.7745312,2,65 mph,,I 405 Express,South
+-118.0438392,33.7745341,2,65 mph,,I 405 Express,South
+-118.0436076,33.7745305,2,65 mph,,I 405 Express,South
+-118.0433729,33.7745219,2,65 mph,,I 405 Express,South
+-118.0430888,33.7745012,2,65 mph,,I 405 Express,South
+-118.0427986,33.7744704,2,65 mph,,I 405 Express,South
+-118.0425063,33.7744272,2,65 mph,,I 405 Express,South
+-118.04222,33.7743756,2,65 mph,,I 405 Express,South
+-118.0418174,33.7742877,2,65 mph,,I 405 Express,South
+-118.0416246,33.7742381,2,65 mph,,I 405 Express,South
+-118.0414378,33.7741851,2,65 mph,,I 405 Express,South
+-118.0411789,33.7741035,2,65 mph,,I 405 Express,South
+-118.0409271,33.774015,2,65 mph,,I 405 Express,South
+-118.0406777,33.7739218,2,65 mph,,I 405 Express,South
+-118.0404283,33.7738218,2,65 mph,,I 405 Express,South
+-118.040191,33.7737178,2,65 mph,,I 405 Express,South
+-118.0399558,33.7736071,2,65 mph,,I 405 Express,South
+-118.0397255,33.7734895,2,65 mph,,I 405 Express,South
+-118.0395054,33.7733702,2,65 mph,,I 405 Express,South
+-118.0392599,33.7732279,2,65 mph,,I 405 Express,South
+-118.0390226,33.7730796,2,65 mph,,I 405 Express,South
+-118.0387937,33.7729246,2,65 mph,,I 405 Express,South
+-118.0385608,33.7727636,2,65 mph,,I 405 Express,South
+-118.0383416,33.7725929,2,65 mph,,I 405 Express,South
+-118.0381306,33.7724222,2,65 mph,,I 405 Express,South
+-118.0367494,33.7712695,2,65 mph,,I 405 Express,South
+-118.0336442,33.7686738,2,65 mph,,I 405 Express,South
+-118.0306123,33.7661449,2,65 mph,,I 405 Express,South
+-118.0297407,33.7654153,2,65 mph,,I 405 Express,South
+-118.0259211,33.7622281,2,65 mph,,I 405 Express,South
+-118.0255098,33.7618765,2,65 mph,,I 405 Express,South
+-118.0250829,33.7615176,2,65 mph,,I 405 Express,South
+-118.0243373,33.7608911,2,65 mph,,I 405 Express,South
+-118.0239091,33.7605373,2,65 mph,,I 405 Express,South
+-118.0234936,33.7601905,2,65 mph,,I 405 Express,South
+-118.0217782,33.7587414,2,65 mph,,I 405 Express,South
+-118.0214078,33.7584332,2,65 mph,,I 405 Express,South
+-118.0210529,33.758142,2,65 mph,,I 405 Express,South
+-118.0206167,33.7577788,2,65 mph,,I 405 Express,South
+-118.0197371,33.7570627,2,65 mph,,I 405 Express,South
+-118.0183916,33.7559418,2,65 mph,,I 405 Express,South
+-118.0176521,33.7553202,2,65 mph,,I 405 Express,South
+-118.017267,33.7549941,2,65 mph,,I 405 Express,South
+-118.0168503,33.7546478,2,65 mph,,I 405 Express,South
+-118.0165316,33.7543822,2,65 mph,,I 405 Express,South
+-118.0160719,33.7539968,2,65 mph,,I 405 Express,South
+-118.015727,33.7537099,2,65 mph,,I 405 Express,South
+-118.0156195,33.7536186,2,65 mph,,I 405 Express,South
+-118.0148007,33.7529349,2,65 mph,,I 405 Express,South
+-118.0136478,33.7519624,2,65 mph,,I 405 Express,South
+-118.0127161,33.751179,2,65 mph,,I 405 Express,South
+-118.0123168,33.750847,2,65 mph,,I 405 Express,South
+-118.0121207,33.7506791,2,65 mph,,I 405 Express,South
+-118.0117004,33.7503257,2,65 mph,,I 405 Express,South
+-118.0067202,33.7460034,5,65 mph,San Diego Freeway,I 405,South
+-118.0056536,33.7450997,5,65 mph,San Diego Freeway,I 405,South
+-118.0048421,33.7444334,5,65 mph,San Diego Freeway,I 405,South
+-118.0040119,33.7437181,5,65 mph,San Diego Freeway,I 405,South
+-118.0035824,33.7433804,5,65 mph,San Diego Freeway,I 405,South
+-118.0026789,33.7426385,5,65 mph,San Diego Freeway,I 405,South
+-118.001845,33.7419473,5,65 mph,San Diego Freeway,I 405,South
+-118.0014147,33.7415323,5,65 mph,San Diego Freeway,I 405,South
+-118.0109073,33.7495126,5,65 mph,San Diego Freeway,I 405,South
+-118.0067202,33.7460034,5,65 mph,San Diego Freeway,I 405,South
+-117.9667822,33.7154431,5,65 mph,San Diego Freeway,I 405,South
+-117.9659719,33.7147622,5,65 mph,San Diego Freeway,I 405,South
+-117.9650418,33.713989,5,65 mph,San Diego Freeway,I 405,South
+-117.9716797,33.7197204,2,65 mph,,I 405 Express,South
+-117.9714671,33.7195448,2,65 mph,,I 405 Express,South
+-117.9710835,33.719227,2,65 mph,,I 405 Express,South
+-117.9707045,33.7189131,2,65 mph,,I 405 Express,South
+-117.9703287,33.7186017,2,65 mph,,I 405 Express,South
+-117.9699435,33.7182827,2,65 mph,,I 405 Express,South
+-117.96908,33.7175613,2,65 mph,,I 405 Express,South
+-117.968628,33.7171865,2,65 mph,,I 405 Express,South
+-117.9681721,33.7168039,2,65 mph,,I 405 Express,South
+-117.9677132,33.7164189,2,65 mph,,I 405 Express,South
+-117.9667868,33.7156335,2,65 mph,,I 405 Express,South
+-117.9663777,33.7152843,2,65 mph,,I 405 Express,South
+-117.9713257,33.7192465,5,65 mph,San Diego Freeway,I 405,South
+-117.9707639,33.7187535,5,65 mph,San Diego Freeway,I 405,South
+-117.9032454,33.6875225,6,65 mph,San Diego Freeway,I 405,South
+-117.8991432,33.6875376,6,65 mph,San Diego Freeway,I 405,South
+-117.8969619,33.6874893,6,65 mph,San Diego Freeway,I 405,South
+-117.8818558,33.6875514,5,65 mph,San Diego Freeway,I 405,South
+-117.8839834,33.6875497,5,65 mph,San Diego Freeway,I 405,South
+-118.0937659,33.7862564,5,65 mph,San Diego Freeway,I 405,South
+-118.0933743,33.7859641,5,65 mph,San Diego Freeway,I 405,South
+-118.0931494,33.7857801,5,65 mph,San Diego Freeway,I 405,South
+-118.0929624,33.7856169,5,65 mph,San Diego Freeway,I 405,South
+-118.0928269,33.7854942,5,65 mph,San Diego Freeway,I 405,South
+-118.0926697,33.7853438,5,65 mph,San Diego Freeway,I 405,South
+-118.0924702,33.7851348,5,65 mph,San Diego Freeway,I 405,South
+-118.092324,33.7849676,5,65 mph,San Diego Freeway,I 405,South
+-118.0921724,33.7847781,5,65 mph,San Diego Freeway,I 405,South
+-118.0920316,33.7845947,5,65 mph,San Diego Freeway,I 405,South
+-118.0918935,33.784403,5,65 mph,San Diego Freeway,I 405,South
+-118.0916682,33.7840341,5,65 mph,San Diego Freeway,I 405,South
+-118.0913906,33.7834912,5,65 mph,San Diego Freeway,I 405,South
+-118.0913302,33.7833508,5,65 mph,San Diego Freeway,I 405,South
+-118.0912001,33.7830303,5,65 mph,San Diego Freeway,I 405,South
+-118.0911277,33.7828224,5,65 mph,San Diego Freeway,I 405,South
+-118.0910191,33.7824412,5,65 mph,San Diego Freeway,I 405,South
+-118.0909373,33.782099,5,65 mph,San Diego Freeway,I 405,South
+-118.0907723,33.7814168,5,65 mph,San Diego Freeway,I 405,South
+-118.0906583,33.7809609,5,65 mph,San Diego Freeway,I 405,South
+-118.0905779,33.780631,5,65 mph,San Diego Freeway,I 405,South
+-118.0904692,33.7801695,5,65 mph,San Diego Freeway,I 405,South
+-118.0903378,33.7796244,5,65 mph,San Diego Freeway,I 405,South
+-118.0902413,33.7792354,5,65 mph,San Diego Freeway,I 405,South
+-118.0901782,33.7789746,5,65 mph,San Diego Freeway,I 405,South
+-118.0901206,33.7787215,5,65 mph,San Diego Freeway,I 405,South
+-118.0900374,33.7784217,5,65 mph,San Diego Freeway,I 405,South
+-118.0899301,33.7781084,5,65 mph,San Diego Freeway,I 405,South
+-118.089855,33.7779312,5,65 mph,San Diego Freeway,I 405,South
+-118.089729,33.7776703,5,65 mph,San Diego Freeway,I 405,South
+-118.0895975,33.7774262,5,65 mph,San Diego Freeway,I 405,South
+-118.0894533,33.7771926,5,65 mph,San Diego Freeway,I 405,South
+-118.0892944,33.7769602,5,65 mph,San Diego Freeway,I 405,South
+-118.089125,33.7767435,5,65 mph,San Diego Freeway,I 405,South
+-118.0889042,33.7764776,5,65 mph,San Diego Freeway,I 405,South
+-118.4074881,33.9980881,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4069441,33.9974007,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4048844,33.9947358,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4040729,33.993734,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.40284,33.9922031,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3917168,33.9786439,6,65 mph,San Diego Freeway,I 405,South
+-118.3914399,33.9784575,6,65 mph,San Diego Freeway,I 405,South
+-118.3911221,33.9782807,6,65 mph,San Diego Freeway,I 405,South
+-118.3907658,33.9781094,6,65 mph,San Diego Freeway,I 405,South
+-118.3899258,33.977718,6,65 mph,San Diego Freeway,I 405,South
+-118.3874766,33.9765806,6,65 mph,San Diego Freeway,I 405,South
+-118.40284,33.9922031,5,65 mph,San Diego Freeway,I 405,South
+-118.4026649,33.9919849,5,65 mph,San Diego Freeway,I 405,South
+-118.4025508,33.9918426,5,65 mph,San Diego Freeway,I 405,South
+-118.402205,33.9914159,5,65 mph,San Diego Freeway,I 405,South
+-118.4015772,33.9906384,5,65 mph,San Diego Freeway,I 405,South
+-118.4009442,33.9898607,5,65 mph,San Diego Freeway,I 405,South
+-118.0721572,33.7741678,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0714182,33.7741673,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0667708,33.7741303,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0523151,33.7740966,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0491623,33.7740927,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0486495,33.7740965,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0482344,33.7741101,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0476214,33.7741371,"['7', '9', '8']",65 mph,San Diego Freeway,I 405;CA 22,South
+-118.1784949,33.8142279,6,65 mph,San Diego Freeway,I 405,South
+-118.1765648,33.8142273,6,65 mph,San Diego Freeway,I 405,South
+-118.1762049,33.8142272,6,65 mph,San Diego Freeway,I 405,South
+-118.1184204,33.802599,5,65 mph,San Diego Freeway,I 405,South
+-118.117537,33.8025626,5,65 mph,San Diego Freeway,I 405,South
+-118.116773,33.8024639,5,65 mph,San Diego Freeway,I 405,South
+-118.1165618,33.8024221,5,65 mph,San Diego Freeway,I 405,South
+-118.1163666,33.8023786,5,65 mph,San Diego Freeway,I 405,South
+-118.1161279,33.802319,5,65 mph,San Diego Freeway,I 405,South
+-118.1158295,33.8022309,5,65 mph,San Diego Freeway,I 405,South
+-118.1155177,33.802124,5,65 mph,San Diego Freeway,I 405,South
+-118.1152307,33.8020081,5,65 mph,San Diego Freeway,I 405,South
+-118.1150222,33.8019211,5,65 mph,San Diego Freeway,I 405,South
+-118.1148673,33.8018493,5,65 mph,San Diego Freeway,I 405,South
+-118.1146259,33.8017211,5,65 mph,San Diego Freeway,I 405,South
+-118.114412,33.8016035,5,65 mph,San Diego Freeway,I 405,South
+-118.1142303,33.8014921,5,65 mph,San Diego Freeway,I 405,South
+-118.1140666,33.8013857,5,65 mph,San Diego Freeway,I 405,South
+-118.1139084,33.8012748,5,65 mph,San Diego Freeway,I 405,South
+-118.1122704,33.8000617,5,65 mph,San Diego Freeway,I 405,South
+-118.4009442,33.9898607,5,65 mph,San Diego Freeway,I 405,South
+-118.400796,33.9896696,5,65 mph,San Diego Freeway,I 405,South
+-118.4005374,33.9893432,5,65 mph,San Diego Freeway,I 405,South
+-118.4003152,33.9890668,5,65 mph,San Diego Freeway,I 405,South
+-118.3994194,33.9879413,5,65 mph,San Diego Freeway,I 405,South
+-118.3990309,33.9874443,5,65 mph,San Diego Freeway,I 405,South
+-118.3980449,33.9862074,5,65 mph,San Diego Freeway,I 405,South
+-118.3976601,33.9857248,5,65 mph,San Diego Freeway,I 405,South
+-118.3874766,33.9765806,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.386808,33.9762752,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3856598,33.9757467,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.383743,33.9748552,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3830526,33.9745317,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3825725,33.9742926,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3821715,33.9740879,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3817545,33.9738666,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3814768,33.9736986,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2538071,33.8294106,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2535525,33.8291542,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2523222,33.8278908,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2522004,33.8277694,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2520596,33.8276312,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2519496,33.8275298,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2517981,33.8273961,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2516123,33.8272513,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2514212,33.8271104,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2511476,33.8269177,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2508969,33.8267656,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2506474,33.8266297,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.250343,33.8264748,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2500815,33.82636,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2497455,33.8262275,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2493882,33.8261073,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2491172,33.8260269,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.248859,33.8259629,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2485184,33.8258927,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2482374,33.8258459,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2480282,33.8258186,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2477667,33.8257907,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2474717,33.8257685,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2471981,33.8257601,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.246319,33.8257608,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2457787,33.8257619,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3685496,33.9468829,7,65 mph,San Diego Freeway,I 405,South
+-118.3685543,33.9458504,7,65 mph,San Diego Freeway,I 405,South
+-118.3685615,33.9444417,7,65 mph,San Diego Freeway,I 405,South
+-118.3685629,33.9429554,7,65 mph,San Diego Freeway,I 405,South
+-118.3685623,33.9414893,7,65 mph,San Diego Freeway,I 405,South
+-118.3685603,33.9408579,7,65 mph,San Diego Freeway,I 405,South
+-118.3685583,33.9402249,7,65 mph,San Diego Freeway,I 405,South
+-118.368542,33.9389958,7,65 mph,San Diego Freeway,I 405,South
+-118.3685416,33.938657,7,65 mph,San Diego Freeway,I 405,South
+-118.3685416,33.938657,5,65 mph,San Diego Freeway,I 405,South
+-118.3685326,33.9366227,5,65 mph,San Diego Freeway,I 405,South
+-118.3685293,33.9329084,5,65 mph,San Diego Freeway,I 405,South
+-118.3685333,33.9317042,5,65 mph,San Diego Freeway,I 405,South
+-118.3814768,33.9736986,5,65 mph,San Diego Freeway,I 405,South
+-118.380705,33.9732677,5,65 mph,San Diego Freeway,I 405,South
+-118.3796543,33.9726466,5,65 mph,San Diego Freeway,I 405,South
+-118.3790508,33.9722962,5,65 mph,San Diego Freeway,I 405,South
+-118.3786672,33.9720849,5,65 mph,San Diego Freeway,I 405,South
+-118.3782528,33.971858,5,65 mph,San Diego Freeway,I 405,South
+-118.3773749,33.9714076,5,65 mph,San Diego Freeway,I 405,South
+-118.3770462,33.9712447,5,65 mph,San Diego Freeway,I 405,South
+-118.375943,33.9706864,5,65 mph,San Diego Freeway,I 405,South
+-118.1872454,33.8160837,6,65 mph,San Diego Freeway,I 405,South
+-118.1863931,33.8157387,6,65 mph,San Diego Freeway,I 405,South
+-118.185972,33.8155839,6,65 mph,San Diego Freeway,I 405,South
+-118.1853846,33.8153822,6,65 mph,San Diego Freeway,I 405,South
+-118.1843677,33.8150217,6,65 mph,San Diego Freeway,I 405,South
+-118.1841951,33.8149588,6,65 mph,San Diego Freeway,I 405,South
+-118.1840928,33.8149193,6,65 mph,San Diego Freeway,I 405,South
+-118.1840928,33.8149193,5,65 mph,San Diego Freeway,I 405,South
+-118.1827135,33.8144884,5,65 mph,San Diego Freeway,I 405,South
+-118.1824469,33.8144289,5,65 mph,San Diego Freeway,I 405,South
+-118.1822069,33.8143819,5,65 mph,San Diego Freeway,I 405,South
+-118.1819171,33.8143326,5,65 mph,San Diego Freeway,I 405,South
+-118.1816628,33.8142959,5,65 mph,San Diego Freeway,I 405,South
+-118.181433,33.8142718,5,65 mph,San Diego Freeway,I 405,South
+-118.1811913,33.814251,5,65 mph,San Diego Freeway,I 405,South
+-118.1809636,33.8142367,5,65 mph,San Diego Freeway,I 405,South
+-118.1808094,33.8142289,5,65 mph,San Diego Freeway,I 405,South
+-118.1805418,33.814225,5,65 mph,San Diego Freeway,I 405,South
+-118.1804232,33.8142239,5,65 mph,San Diego Freeway,I 405,South
+-118.1784949,33.8142279,5,65 mph,San Diego Freeway,I 405,South
+-118.205698,33.8262804,5,65 mph,San Diego Freeway,I 405,South
+-118.2060007,33.8263389,5,65 mph,San Diego Freeway,I 405,South
+-118.20629,33.8263891,5,65 mph,San Diego Freeway,I 405,South
+-118.2065915,33.826438,5,65 mph,San Diego Freeway,I 405,South
+-118.2069275,33.8264814,5,65 mph,San Diego Freeway,I 405,South
+-118.2071802,33.8265105,5,65 mph,San Diego Freeway,I 405,South
+-118.2075098,33.8265457,5,65 mph,San Diego Freeway,I 405,South
+-118.2077837,33.826565,5,65 mph,San Diego Freeway,I 405,South
+-118.2080458,33.8265808,5,65 mph,San Diego Freeway,I 405,South
+-118.208351,33.8265918,5,65 mph,San Diego Freeway,I 405,South
+-118.2086433,33.8265951,5,65 mph,San Diego Freeway,I 405,South
+-118.2089706,33.8265985,5,65 mph,San Diego Freeway,I 405,South
+-118.2093112,33.826594,5,65 mph,San Diego Freeway,I 405,South
+-118.2095875,33.8265818,5,65 mph,San Diego Freeway,I 405,South
+-118.2099402,33.8265628,5,65 mph,San Diego Freeway,I 405,South
+-118.2102171,33.8265428,5,65 mph,San Diego Freeway,I 405,South
+-118.2107147,33.8264921,5,65 mph,San Diego Freeway,I 405,South
+-118.2110728,33.8264486,5,65 mph,San Diego Freeway,I 405,South
+-118.2114302,33.8263957,5,65 mph,San Diego Freeway,I 405,South
+-118.2117876,33.8263316,5,65 mph,San Diego Freeway,I 405,South
+-118.212029,33.8262837,5,65 mph,San Diego Freeway,I 405,South
+-118.2123549,33.8262119,5,65 mph,San Diego Freeway,I 405,South
+-118.2126365,33.8261445,5,65 mph,San Diego Freeway,I 405,South
+-118.2134137,33.8259567,5,65 mph,San Diego Freeway,I 405,South
+-118.2139378,33.8258289,5,65 mph,San Diego Freeway,I 405,South
+-118.2142787,33.8257523,5,65 mph,San Diego Freeway,I 405,South
+-118.2145768,33.8256834,5,65 mph,San Diego Freeway,I 405,South
+-118.2149177,33.8256192,5,65 mph,San Diego Freeway,I 405,South
+-118.2152601,33.8255567,5,65 mph,San Diego Freeway,I 405,South
+-118.2154917,33.8255195,5,65 mph,San Diego Freeway,I 405,South
+-118.2158645,33.8254736,5,65 mph,San Diego Freeway,I 405,South
+-118.2161403,33.825441,5,65 mph,San Diego Freeway,I 405,South
+-118.2164197,33.8254147,5,65 mph,San Diego Freeway,I 405,South
+-118.2166758,33.8253939,5,65 mph,San Diego Freeway,I 405,South
+-118.2171467,33.8253669,5,65 mph,San Diego Freeway,I 405,South
+-118.2173652,33.8253601,5,65 mph,San Diego Freeway,I 405,South
+-118.2175502,33.8253604,5,65 mph,San Diego Freeway,I 405,South
+-118.2180099,33.8253611,5,65 mph,San Diego Freeway,I 405,South
+-118.2183296,33.8253616,5,65 mph,San Diego Freeway,I 405,South
+-118.203146,33.8253291,5,65 mph,San Diego Freeway,I 405,South
+-118.2028053,33.8251847,5,65 mph,San Diego Freeway,I 405,South
+-118.2021423,33.8248841,5,65 mph,San Diego Freeway,I 405,South
+-118.2015009,33.8245454,5,65 mph,San Diego Freeway,I 405,South
+-118.1995005,33.823521,5,65 mph,San Diego Freeway,I 405,South
+-118.1988685,33.8232031,5,65 mph,San Diego Freeway,I 405,South
+-118.2065633,33.8262598,5,65 mph,San Diego Freeway,I 405,South
+-118.2063066,33.8262212,5,65 mph,San Diego Freeway,I 405,South
+-118.2059611,33.8261562,5,65 mph,San Diego Freeway,I 405,South
+-118.2057399,33.8261149,5,65 mph,San Diego Freeway,I 405,South
+-118.2054033,33.8260418,5,65 mph,San Diego Freeway,I 405,South
+-118.205013,33.8259467,5,65 mph,San Diego Freeway,I 405,South
+-118.2047828,33.8258824,5,65 mph,San Diego Freeway,I 405,South
+-118.2043599,33.8257596,5,65 mph,San Diego Freeway,I 405,South
+-118.2040702,33.8256682,5,65 mph,San Diego Freeway,I 405,South
+-118.2038999,33.8256114,5,65 mph,San Diego Freeway,I 405,South
+-118.2037202,33.8255456,5,65 mph,San Diego Freeway,I 405,South
+-118.2034881,33.8254599,5,65 mph,San Diego Freeway,I 405,South
+-118.203146,33.8253291,5,65 mph,San Diego Freeway,I 405,South
+-118.1045211,33.7942739,6,65 mph,San Diego Freeway,I 405,South
+-118.1039482,33.7938496,6,65 mph,San Diego Freeway,I 405,South
+-118.1031838,33.7932831,6,65 mph,San Diego Freeway,I 405,South
+-118.1023646,33.7926602,6,65 mph,San Diego Freeway,I 405,South
+-118.150518,33.8068685,5,65 mph,San Diego Freeway,I 405,South
+-118.1501842,33.8068214,5,65 mph,San Diego Freeway,I 405,South
+-118.1453472,33.8061402,5,65 mph,San Diego Freeway,I 405,South
+-118.1445198,33.8060221,5,65 mph,San Diego Freeway,I 405,South
+-118.1439964,33.8059486,5,65 mph,San Diego Freeway,I 405,South
+-118.1437131,33.805909,5,65 mph,San Diego Freeway,I 405,South
+-118.1433731,33.8058516,5,65 mph,San Diego Freeway,I 405,South
+-118.1431124,33.8057996,5,65 mph,San Diego Freeway,I 405,South
+-118.1429024,33.8057546,5,65 mph,San Diego Freeway,I 405,South
+-118.1425926,33.8056755,5,65 mph,San Diego Freeway,I 405,South
+-118.1422141,33.805567,5,65 mph,San Diego Freeway,I 405,South
+-118.1419643,33.8054816,5,65 mph,San Diego Freeway,I 405,South
+-118.1417477,33.8054019,5,65 mph,San Diego Freeway,I 405,South
+-118.1415848,33.8053362,5,65 mph,San Diego Freeway,I 405,South
+-118.1413682,33.805247,5,65 mph,San Diego Freeway,I 405,South
+-118.1411073,33.8051256,5,65 mph,San Diego Freeway,I 405,South
+-118.1409035,33.8050247,5,65 mph,San Diego Freeway,I 405,South
+-118.1406359,33.8048826,5,65 mph,San Diego Freeway,I 405,South
+-118.1403577,33.8047194,5,65 mph,San Diego Freeway,I 405,South
+-118.1397971,33.804365,5,65 mph,San Diego Freeway,I 405,South
+-118.1393143,33.8040647,5,65 mph,San Diego Freeway,I 405,South
+-118.1681472,33.8135898,6,65 mph,San Diego Freeway,I 405,South
+-118.1654151,33.8127594,6,65 mph,San Diego Freeway,I 405,South
+-118.1654151,33.8127594,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.16529,33.8127206,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1637033,33.8122358,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1633502,33.812128,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.163019,33.8120271,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1627185,33.811926,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1625228,33.81186,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1621693,33.8117298,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1617557,33.8115552,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1613962,33.8113948,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1612154,33.811308,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1609812,33.8111942,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1606828,33.8110343,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1597815,33.810524,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1593236,33.810266,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.1725163,33.8142315,5,65 mph,San Diego Freeway,I 405,South
+-118.1721123,33.8142324,5,65 mph,San Diego Freeway,I 405,South
+-118.1717953,33.8142311,5,65 mph,San Diego Freeway,I 405,South
+-118.1715363,33.8142306,5,65 mph,San Diego Freeway,I 405,South
+-118.1712567,33.8142184,5,65 mph,San Diego Freeway,I 405,South
+-118.1709389,33.8141972,5,65 mph,San Diego Freeway,I 405,South
+-118.1706217,33.8141638,5,65 mph,San Diego Freeway,I 405,South
+-118.1703984,33.8141348,5,65 mph,San Diego Freeway,I 405,South
+-118.1701697,33.814103,5,65 mph,San Diego Freeway,I 405,South
+-118.1698908,33.8140551,5,65 mph,San Diego Freeway,I 405,South
+-118.1696286,33.8140033,5,65 mph,San Diego Freeway,I 405,South
+-118.1693114,33.8139298,5,65 mph,San Diego Freeway,I 405,South
+-118.1690104,33.8138484,5,65 mph,San Diego Freeway,I 405,South
+-118.1681472,33.8135898,5,65 mph,San Diego Freeway,I 405,South
+-118.095922,33.7878572,5,65 mph,San Diego Freeway,I 405,South
+-118.0944967,33.7867999,5,65 mph,San Diego Freeway,I 405,South
+-118.0937659,33.7862564,5,65 mph,San Diego Freeway,I 405,South
+-118.13198,33.8027287,5,65 mph,San Diego Freeway,I 405,South
+-118.1281959,33.8026862,5,65 mph,San Diego Freeway,I 405,South
+-118.1257463,33.8026601,5,65 mph,San Diego Freeway,I 405,South
+-118.1237255,33.8026423,5,65 mph,San Diego Freeway,I 405,South
+-118.120813,33.8026135,5,65 mph,San Diego Freeway,I 405,South
+-118.120813,33.8026135,6,65 mph,San Diego Freeway,I 405,South
+-118.1188853,33.8025986,6,65 mph,San Diego Freeway,I 405,South
+-118.1188012,33.8025981,6,65 mph,San Diego Freeway,I 405,South
+-118.1184204,33.802599,6,65 mph,San Diego Freeway,I 405,South
+-118.1122704,33.8000617,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1119121,33.7997947,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1107515,33.7989283,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1086901,33.7973866,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1082162,33.797043,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1075947,33.7965734,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1063538,33.7956466,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1058102,33.7952393,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1045211,33.7942739,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.1023646,33.7926602,6,65 mph,San Diego Freeway,I 405,South
+-118.0997265,33.7906991,6,65 mph,San Diego Freeway,I 405,South
+-118.0988843,33.7900727,6,65 mph,San Diego Freeway,I 405,South
+-118.0973958,33.7889602,6,65 mph,San Diego Freeway,I 405,South
+-118.0966973,33.788439,6,65 mph,San Diego Freeway,I 405,South
+-118.095922,33.7878572,6,65 mph,San Diego Freeway,I 405,South
+-118.0772234,33.7742406,8,65 mph,San Diego Freeway,I 405;CA 22,South
+-118.0721572,33.7741678,8,65 mph,San Diego Freeway,I 405;CA 22,South
+-118.283468,33.855856,6,65 mph,San Diego Freeway,I 405,South
+-118.2831624,33.8555773,6,65 mph,San Diego Freeway,I 405,South
+-118.2829811,33.8554158,6,65 mph,San Diego Freeway,I 405,South
+-118.2822955,33.8548048,6,65 mph,San Diego Freeway,I 405,South
+-118.2817449,33.8543104,6,65 mph,San Diego Freeway,I 405,South
+-118.2808444,33.853504,6,65 mph,San Diego Freeway,I 405,South
+-118.2804818,33.8532054,6,65 mph,San Diego Freeway,I 405,South
+-118.280327,33.8530779,6,65 mph,San Diego Freeway,I 405,South
+-118.2781977,33.8515867,7,65 mph,San Diego Freeway,I 405,South
+-118.2764053,33.8503453,7,65 mph,San Diego Freeway,I 405,South
+-118.2754577,33.8496868,7,65 mph,San Diego Freeway,I 405,South
+-118.274679,33.8491456,7,65 mph,San Diego Freeway,I 405,South
+-118.2382583,33.8257747,6,65 mph,San Diego Freeway,I 405,South
+-118.2352767,33.8257752,6,65 mph,San Diego Freeway,I 405,South
+-118.2346098,33.8257718,6,65 mph,San Diego Freeway,I 405,South
+-118.2342102,33.8257662,6,65 mph,San Diego Freeway,I 405,South
+-118.2338856,33.8257596,6,65 mph,San Diego Freeway,I 405,South
+-118.233549,33.8257484,6,65 mph,San Diego Freeway,I 405,South
+-118.2331695,33.8257328,6,65 mph,San Diego Freeway,I 405,South
+-118.2327256,33.8257105,6,65 mph,San Diego Freeway,I 405,South
+-118.2322924,33.8256849,6,65 mph,San Diego Freeway,I 405,South
+-118.2302634,33.8255656,6,65 mph,San Diego Freeway,I 405,South
+-118.2285436,33.8254669,6,65 mph,San Diego Freeway,I 405,South
+-118.2285436,33.8254669,6,65 mph,San Diego Freeway,I 405,South
+-118.22752,33.8254032,6,65 mph,San Diego Freeway,I 405,South
+-118.2273974,33.8253964,6,65 mph,San Diego Freeway,I 405,South
+-118.2246508,33.8252337,6,65 mph,San Diego Freeway,I 405,South
+-118.2242404,33.8252136,6,65 mph,San Diego Freeway,I 405,South
+-118.2237898,33.825198,6,65 mph,San Diego Freeway,I 405,South
+-118.2231301,33.8251804,6,65 mph,San Diego Freeway,I 405,South
+-118.223052,33.8251784,6,65 mph,San Diego Freeway,I 405,South
+-118.3955191,33.9830195,6,65 mph,San Diego Freeway,I 405,South
+-118.3950012,33.9823585,6,65 mph,San Diego Freeway,I 405,South
+-118.3944016,33.9816061,6,65 mph,San Diego Freeway,I 405,South
+-118.3938436,33.9808992,6,65 mph,San Diego Freeway,I 405,South
+-118.392895,33.9797024,6,65 mph,San Diego Freeway,I 405,South
+-118.3927797,33.9795719,6,65 mph,San Diego Freeway,I 405,South
+-118.3926214,33.9793973,6,65 mph,San Diego Freeway,I 405,South
+-118.392325,33.9791181,6,65 mph,San Diego Freeway,I 405,South
+-118.3919965,33.9788457,6,65 mph,San Diego Freeway,I 405,South
+-118.3917168,33.9786439,6,65 mph,San Diego Freeway,I 405,South
+-118.368583,33.9263958,6,65 mph,San Diego Freeway,I 405,South
+-118.3685571,33.9258192,6,65 mph,San Diego Freeway,I 405,South
+-118.3685744,33.9254291,6,65 mph,San Diego Freeway,I 405,South
+-118.3685984,33.9250318,6,65 mph,San Diego Freeway,I 405,South
+-118.368631,33.9246466,6,65 mph,San Diego Freeway,I 405,South
+-118.3686605,33.9243897,6,65 mph,San Diego Freeway,I 405,South
+-118.3687044,33.9240805,6,65 mph,San Diego Freeway,I 405,South
+-118.3687419,33.923829,6,65 mph,San Diego Freeway,I 405,South
+-118.3687865,33.9235804,6,65 mph,San Diego Freeway,I 405,South
+-118.3688619,33.9232243,6,65 mph,San Diego Freeway,I 405,South
+-118.3690088,33.9225506,6,65 mph,San Diego Freeway,I 405,South
+-118.3690886,33.9221024,6,65 mph,San Diego Freeway,I 405,South
+-118.3526665,33.8845982,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3520968,33.8841871,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3519263,33.8840701,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.351188,33.8835374,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3507374,33.8832134,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3502921,33.8828705,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3499059,33.882561,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3495264,33.8822347,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3492742,33.8820075,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3490288,33.8817794,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3487526,33.8815066,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3485138,33.8812561,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3482389,33.8809644,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3479613,33.8806437,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3477763,33.8804318,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3474058,33.8799265,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3473925,33.8799088,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.355223,33.8864288,5,65 mph,San Diego Freeway,I 405,South
+-118.3530047,33.8848399,5,65 mph,San Diego Freeway,I 405,South
+-118.3526665,33.8845982,5,65 mph,San Diego Freeway,I 405,South
+-118.3473925,33.8799088,5,65 mph,San Diego Freeway,I 405,South
+-118.3453454,33.8770755,5,65 mph,San Diego Freeway,I 405,South
+-118.3450663,33.8766805,5,65 mph,San Diego Freeway,I 405,South
+-118.3445156,33.8759119,5,65 mph,San Diego Freeway,I 405,South
+-118.3439802,33.875159,5,65 mph,San Diego Freeway,I 405,South
+-118.342501,33.873075,5,65 mph,San Diego Freeway,I 405,South
+-118.2412412,33.8259382,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2420915,33.8259371,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2428227,33.825936,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2449316,33.8259328,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.280327,33.8530779,6,65 mph,San Diego Freeway,I 405,South
+-118.2801798,33.8529691,6,65 mph,San Diego Freeway,I 405,South
+-118.2799874,33.8528268,6,65 mph,San Diego Freeway,I 405,South
+-118.2797849,33.8526787,6,65 mph,San Diego Freeway,I 405,South
+-118.2792512,33.85231,6,65 mph,San Diego Freeway,I 405,South
+-118.2781977,33.8515867,6,65 mph,San Diego Freeway,I 405,South
+-118.37056,33.9015574,5,65 mph,San Diego Freeway,I 405,South
+-118.3705604,33.901166,5,65 mph,San Diego Freeway,I 405,South
+-118.3705616,33.8999254,5,65 mph,San Diego Freeway,I 405,South
+-118.3705513,33.8996911,5,65 mph,San Diego Freeway,I 405,South
+-118.3705334,33.8994579,5,65 mph,San Diego Freeway,I 405,South
+-118.3705092,33.8992733,5,65 mph,San Diego Freeway,I 405,South
+-118.3704867,33.8991354,5,65 mph,San Diego Freeway,I 405,South
+-118.3704296,33.8988755,5,65 mph,San Diego Freeway,I 405,South
+-118.2637362,33.8395437,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2631877,33.838986,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2626168,33.8384059,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2622111,33.8379926,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2610091,33.8367773,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3304184,33.8656602,5,65 mph,San Diego Freeway,I 405,South
+-118.3294749,33.8653806,5,65 mph,San Diego Freeway,I 405,South
+-118.3289773,33.865232,5,65 mph,San Diego Freeway,I 405,South
+-118.327881,33.8649057,5,65 mph,San Diego Freeway,I 405,South
+-118.326822,33.8645908,5,65 mph,San Diego Freeway,I 405,South
+-118.342501,33.873075,5,65 mph,San Diego Freeway,I 405,South
+-118.3421472,33.8725824,5,65 mph,San Diego Freeway,I 405,South
+-118.3415683,33.8717662,5,65 mph,San Diego Freeway,I 405,South
+-118.3409534,33.8708721,5,65 mph,San Diego Freeway,I 405,South
+-118.3406192,33.8703916,5,65 mph,San Diego Freeway,I 405,South
+-118.3616244,33.8910143,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3610118,33.8905789,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3585772,33.8888308,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.175472,33.8144062,5,65 mph,San Diego Freeway,I 405,South
+-118.180433,33.8143954,5,65 mph,San Diego Freeway,I 405,South
+-118.3705624,33.9132123,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705637,33.9124506,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705624,33.9119217,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705619,33.9105963,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705611,33.9097117,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705638,33.9092439,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705643,33.9074677,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705622,33.9057652,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.3705594,33.9051659,"['6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.1988685,33.8232031,6,65 mph,San Diego Freeway,I 405,South
+-118.1976463,33.8225727,6,65 mph,San Diego Freeway,I 405,South
+-118.1967809,33.8221302,6,65 mph,San Diego Freeway,I 405,South
+-118.1943228,33.8208787,6,65 mph,San Diego Freeway,I 405,South
+-118.1935665,33.8204867,6,65 mph,San Diego Freeway,I 405,South
+-118.1933829,33.820395,6,65 mph,San Diego Freeway,I 405,South
+-118.1932428,33.8203226,6,65 mph,San Diego Freeway,I 405,South
+-118.1931277,33.8202563,6,65 mph,San Diego Freeway,I 405,South
+-118.19306,33.8202167,6,65 mph,San Diego Freeway,I 405,South
+-118.413872,34.0060965,6,65 mph,San Diego Freeway,I 405,South
+-118.4138321,34.0060411,6,65 mph,San Diego Freeway,I 405,South
+-118.4135975,34.005748,6,65 mph,San Diego Freeway,I 405,South
+-118.4115758,34.003232,6,65 mph,San Diego Freeway,I 405,South
+-118.4112504,34.0028226,6,65 mph,San Diego Freeway,I 405,South
+-118.4104572,34.0018323,6,65 mph,San Diego Freeway,I 405,South
+-118.4101794,34.0014836,6,65 mph,San Diego Freeway,I 405,South
+-118.4097793,34.0009854,6,65 mph,San Diego Freeway,I 405,South
+-118.4091014,34.0001233,6,65 mph,San Diego Freeway,I 405,South
+-118.4089671,33.9999557,6,65 mph,San Diego Freeway,I 405,South
+-118.4074881,33.9980881,6,65 mph,San Diego Freeway,I 405,South
+-118.4182963,34.0116901,6,65 mph,San Diego Freeway,I 405,South
+-118.4160695,34.0088453,6,65 mph,San Diego Freeway,I 405,South
+-118.4160695,34.0088453,7,65 mph,San Diego Freeway,I 405,South
+-118.4154133,34.0080949,7,65 mph,San Diego Freeway,I 405,South
+-118.415231,34.0078632,7,65 mph,San Diego Freeway,I 405,South
+-118.4143809,34.0067702,7,65 mph,San Diego Freeway,I 405,South
+-118.4142654,34.0066219,7,65 mph,San Diego Freeway,I 405,South
+-118.4142224,34.0065659,7,65 mph,San Diego Freeway,I 405,South
+-118.4141556,34.0064802,7,65 mph,San Diego Freeway,I 405,South
+-118.413872,34.0060965,7,65 mph,San Diego Freeway,I 405,South
+-118.3685578,33.9287239,6,65 mph,San Diego Freeway,I 405,South
+-118.368583,33.9263958,6,65 mph,San Diego Freeway,I 405,South
+-118.3705594,33.9051659,5,65 mph,San Diego Freeway,I 405,South
+-118.3705614,33.902133,5,65 mph,San Diego Freeway,I 405,South
+-118.37056,33.9015574,5,65 mph,San Diego Freeway,I 405,South
+-118.3705421,33.9147088,7,65 mph,San Diego Freeway,I 405,South
+-118.3705589,33.9142458,7,65 mph,San Diego Freeway,I 405,South
+-118.3705624,33.9132123,7,65 mph,San Diego Freeway,I 405,South
+-118.3690886,33.9221024,5,65 mph,San Diego Freeway,I 405,South
+-118.3699232,33.9183647,5,65 mph,San Diego Freeway,I 405,South
+-118.3701258,33.9174416,5,65 mph,San Diego Freeway,I 405,South
+-118.3701258,33.9174416,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3703091,33.9166221,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3703859,33.916174,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3704255,33.9159163,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.370446,33.9157615,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3704634,33.9156282,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3704845,33.9154461,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.370512,33.9151456,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3705421,33.9147088,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3685333,33.9317042,6,65 mph,San Diego Freeway,I 405,South
+-118.3685391,33.9311636,6,65 mph,San Diego Freeway,I 405,South
+-118.3685448,33.9306076,6,65 mph,San Diego Freeway,I 405,South
+-118.3685578,33.9287239,6,65 mph,San Diego Freeway,I 405,South
+-118.3693693,33.9524609,5,65 mph,San Diego Freeway,I 405,South
+-118.3693197,33.9521771,5,65 mph,San Diego Freeway,I 405,South
+-118.3692694,33.9519263,5,65 mph,San Diego Freeway,I 405,South
+-118.3692104,33.9516571,5,65 mph,San Diego Freeway,I 405,South
+-118.3691736,33.9515102,5,65 mph,San Diego Freeway,I 405,South
+-118.369136,33.95135,5,65 mph,San Diego Freeway,I 405,South
+-118.3690459,33.9510073,5,65 mph,San Diego Freeway,I 405,South
+-118.368849,33.9502264,5,65 mph,San Diego Freeway,I 405,South
+-118.3687618,33.9498426,5,65 mph,San Diego Freeway,I 405,South
+-118.3687074,33.9495623,5,65 mph,San Diego Freeway,I 405,South
+-118.3686546,33.9492552,5,65 mph,San Diego Freeway,I 405,South
+-118.3686104,33.9489054,5,65 mph,San Diego Freeway,I 405,South
+-118.3685761,33.94854,5,65 mph,San Diego Freeway,I 405,South
+-118.3685588,33.9482702,5,65 mph,San Diego Freeway,I 405,South
+-118.3685481,33.9479887,5,65 mph,San Diego Freeway,I 405,South
+-118.3685486,33.9475764,5,65 mph,San Diego Freeway,I 405,South
+-118.3685496,33.9468829,5,65 mph,San Diego Freeway,I 405,South
+-118.3976601,33.9857248,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3974629,33.9854756,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3955191,33.9830195,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.372338,33.9685285,5,65 mph,San Diego Freeway,I 405,South
+-118.3719887,33.9681759,5,65 mph,San Diego Freeway,I 405,South
+-118.3718182,33.9679686,5,65 mph,San Diego Freeway,I 405,South
+-118.3716707,33.9677817,5,65 mph,San Diego Freeway,I 405,South
+-118.3715124,33.9675537,5,65 mph,San Diego Freeway,I 405,South
+-118.3713663,33.9673202,5,65 mph,San Diego Freeway,I 405,South
+-118.3712402,33.9670933,5,65 mph,San Diego Freeway,I 405,South
+-118.3711275,33.9668608,5,65 mph,San Diego Freeway,I 405,South
+-118.371031,33.9666506,5,65 mph,San Diego Freeway,I 405,South
+-118.3709398,33.9664125,5,65 mph,San Diego Freeway,I 405,South
+-118.3708647,33.9661868,5,65 mph,San Diego Freeway,I 405,South
+-118.3702821,33.9642987,5,65 mph,San Diego Freeway,I 405,South
+-118.3702821,33.9642987,6,65 mph,San Diego Freeway,I 405,South
+-118.3698735,33.962979,6,65 mph,San Diego Freeway,I 405,South
+-118.369763,33.9625979,6,65 mph,San Diego Freeway,I 405,South
+-118.3696631,33.9622059,6,65 mph,San Diego Freeway,I 405,South
+-118.3696074,33.9619383,6,65 mph,San Diego Freeway,I 405,South
+-118.3695699,33.9617287,6,65 mph,San Diego Freeway,I 405,South
+-118.3695216,33.9614233,6,65 mph,San Diego Freeway,I 405,South
+-118.369472,33.9609795,6,65 mph,San Diego Freeway,I 405,South
+-118.3694565,33.9607448,6,65 mph,San Diego Freeway,I 405,South
+-118.3694435,33.9605144,6,65 mph,San Diego Freeway,I 405,South
+-118.3694391,33.9602326,6,65 mph,San Diego Freeway,I 405,South
+-118.3694772,33.9574615,6,65 mph,San Diego Freeway,I 405,South
+-118.3695129,33.955042,6,65 mph,San Diego Freeway,I 405,South
+-118.3695209,33.9544838,6,65 mph,San Diego Freeway,I 405,South
+-118.3695209,33.9541667,6,65 mph,San Diego Freeway,I 405,South
+-118.3695102,33.9538308,6,65 mph,San Diego Freeway,I 405,South
+-118.3694927,33.9534765,6,65 mph,San Diego Freeway,I 405,South
+-118.3694679,33.9531917,6,65 mph,San Diego Freeway,I 405,South
+-118.36942,33.952805,6,65 mph,San Diego Freeway,I 405,South
+-118.3693693,33.9524609,6,65 mph,San Diego Freeway,I 405,South
+-118.3642901,33.8929228,5,65 mph,San Diego Freeway,I 405,South
+-118.3616244,33.8910143,5,65 mph,San Diego Freeway,I 405,South
+-118.3585772,33.8888308,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.358264,33.8886071,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3569419,33.8876631,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3561776,33.887116,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.355412,33.8865689,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.355223,33.8864288,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2368264,33.8259487,5,65 mph,San Diego Freeway,I 405,South
+-118.2389429,33.8259445,5,65 mph,San Diego Freeway,I 405,South
+-118.2412412,33.8259382,5,65 mph,San Diego Freeway,I 405,South
+-118.265958,33.8418154,5,65 mph,San Diego Freeway,I 405,South
+-118.2657943,33.841648,5,65 mph,San Diego Freeway,I 405,South
+-118.2653498,33.8411935,5,65 mph,San Diego Freeway,I 405,South
+-118.2650638,33.8409011,5,65 mph,San Diego Freeway,I 405,South
+-118.2637362,33.8395437,5,65 mph,San Diego Freeway,I 405,South
+-118.19306,33.8202167,6,65 mph,San Diego Freeway,I 405,South
+-118.1922846,33.8197176,6,65 mph,San Diego Freeway,I 405,South
+-118.1919868,33.8194981,6,65 mph,San Diego Freeway,I 405,South
+-118.1917481,33.8193081,6,65 mph,San Diego Freeway,I 405,South
+-118.1915208,33.8191259,6,65 mph,San Diego Freeway,I 405,South
+-118.1910487,33.8187471,6,65 mph,San Diego Freeway,I 405,South
+-118.1903332,33.8181755,6,65 mph,San Diego Freeway,I 405,South
+-118.189893,33.8178184,6,65 mph,San Diego Freeway,I 405,South
+-118.1896285,33.8176034,6,65 mph,San Diego Freeway,I 405,South
+-118.1892999,33.8173427,6,65 mph,San Diego Freeway,I 405,South
+-118.1361271,33.8028149,6,65 mph,San Diego Freeway,I 405,South
+-118.1357127,33.8027793,6,65 mph,San Diego Freeway,I 405,South
+-118.1354646,33.802757,6,65 mph,San Diego Freeway,I 405,South
+-118.135234,33.8027592,6,65 mph,San Diego Freeway,I 405,South
+-118.1342833,33.802746,6,65 mph,San Diego Freeway,I 405,South
+-118.1336967,33.802742,6,65 mph,San Diego Freeway,I 405,South
+-118.1332906,33.8027427,6,65 mph,San Diego Freeway,I 405,South
+-118.13198,33.8027287,6,65 mph,San Diego Freeway,I 405,South
+-118.3133269,33.8605285,5,65 mph,San Diego Freeway,I 405,South
+-118.3128134,33.8603812,5,65 mph,San Diego Freeway,I 405,South
+-118.3125005,33.8603014,5,65 mph,San Diego Freeway,I 405,South
+-118.3122545,33.8602417,5,65 mph,San Diego Freeway,I 405,South
+-118.3119164,33.8601661,5,65 mph,San Diego Freeway,I 405,South
+-118.3116059,33.8601047,5,65 mph,San Diego Freeway,I 405,South
+-118.3112539,33.8600358,5,65 mph,San Diego Freeway,I 405,South
+-118.3109264,33.8599805,5,65 mph,San Diego Freeway,I 405,South
+-118.3105753,33.85993,5,65 mph,San Diego Freeway,I 405,South
+-118.3103662,33.8598995,5,65 mph,San Diego Freeway,I 405,South
+-118.30966,33.8598214,5,65 mph,San Diego Freeway,I 405,South
+-118.326822,33.8645908,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3267812,33.8645787,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3261557,33.8643858,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3249463,33.8640227,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3234676,33.8635777,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3232697,33.8635182,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3230241,33.8634443,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.0889042,33.7764776,6,65 mph,San Diego Freeway,I 405,South
+-118.0886494,33.7762184,6,65 mph,San Diego Freeway,I 405,South
+-118.0885347,33.7761086,6,65 mph,San Diego Freeway,I 405,South
+-118.0883376,33.7759302,6,65 mph,San Diego Freeway,I 405,South
+-118.0880901,33.7757301,6,65 mph,San Diego Freeway,I 405,South
+-118.0879352,33.7756159,6,65 mph,San Diego Freeway,I 405,South
+-118.087659,33.7754252,6,65 mph,San Diego Freeway,I 405,South
+-118.0874578,33.7753009,6,65 mph,San Diego Freeway,I 405,South
+-118.0872753,33.775194,6,65 mph,San Diego Freeway,I 405,South
+-118.0870749,33.7750852,6,65 mph,San Diego Freeway,I 405,South
+-118.0868571,33.7749753,6,65 mph,San Diego Freeway,I 405,South
+-118.0866431,33.7748801,6,65 mph,San Diego Freeway,I 405,South
+-118.0864298,33.7747865,6,65 mph,San Diego Freeway,I 405,South
+-118.086175,33.7746862,6,65 mph,San Diego Freeway,I 405,South
+-118.0857817,33.7745559,6,65 mph,San Diego Freeway,I 405,South
+-118.3406192,33.8703916,5,65 mph,San Diego Freeway,I 405,South
+-118.3405168,33.8702657,5,65 mph,San Diego Freeway,I 405,South
+-118.3403573,33.8700715,5,65 mph,San Diego Freeway,I 405,South
+-118.3401427,33.8698588,5,65 mph,San Diego Freeway,I 405,South
+-118.3399248,33.8696411,5,65 mph,San Diego Freeway,I 405,South
+-118.3397202,33.8694702,5,65 mph,San Diego Freeway,I 405,South
+-118.3395539,33.8693237,5,65 mph,San Diego Freeway,I 405,South
+-118.3393514,33.8691545,5,65 mph,San Diego Freeway,I 405,South
+-118.3391549,33.8689986,5,65 mph,San Diego Freeway,I 405,South
+-118.3388686,33.8687826,5,65 mph,San Diego Freeway,I 405,South
+-118.3386011,33.8685921,5,65 mph,San Diego Freeway,I 405,South
+-118.3383778,33.8684496,5,65 mph,San Diego Freeway,I 405,South
+-118.3380914,33.868272,5,65 mph,San Diego Freeway,I 405,South
+-118.3378728,33.8681484,5,65 mph,San Diego Freeway,I 405,South
+-118.3375221,33.8679608,5,65 mph,San Diego Freeway,I 405,South
+-118.337213,33.8678071,5,65 mph,San Diego Freeway,I 405,South
+-118.3368288,33.8676406,5,65 mph,San Diego Freeway,I 405,South
+-118.3365465,33.8675259,5,65 mph,San Diego Freeway,I 405,South
+-118.3362005,33.867394,5,65 mph,San Diego Freeway,I 405,South
+-118.3359913,33.8673271,5,65 mph,San Diego Freeway,I 405,South
+-118.3357123,33.8672414,5,65 mph,San Diego Freeway,I 405,South
+-118.3353167,33.8671178,5,65 mph,San Diego Freeway,I 405,South
+-118.3348413,33.8669769,5,65 mph,San Diego Freeway,I 405,South
+-118.3335773,33.866595,5,65 mph,San Diego Freeway,I 405,South
+-118.3316381,33.8660341,5,65 mph,San Diego Freeway,I 405,South
+-118.3309465,33.8658263,5,65 mph,San Diego Freeway,I 405,South
+-118.3304184,33.8656602,5,65 mph,San Diego Freeway,I 405,South
+-118.3704296,33.8988755,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3703705,33.8986603,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3703142,33.8984727,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3702424,33.8982707,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.37017,33.8980976,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3700868,33.8979223,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3699541,33.8976657,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3698642,33.8975037,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3696798,33.8972138,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3695672,33.8970574,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3694438,33.8968993,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3693238,33.8967512,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3692044,33.8966129,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3690368,33.8964351,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3689106,33.8963164,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3687411,33.8961557,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3685846,33.896021,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3684266,33.8958963,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3682803,33.8957858,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3680598,33.8956286,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3678482,33.895476,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3670189,33.894882,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3663344,33.8943913,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3642901,33.8929228,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.375943,33.9706864,6,65 mph,San Diego Freeway,I 405,South
+-118.3741391,33.9697741,6,65 mph,San Diego Freeway,I 405,South
+-118.3737601,33.9695769,6,65 mph,San Diego Freeway,I 405,South
+-118.3734691,33.9694089,6,65 mph,San Diego Freeway,I 405,South
+-118.3731741,33.9692176,6,65 mph,San Diego Freeway,I 405,South
+-118.3729997,33.9690931,6,65 mph,San Diego Freeway,I 405,South
+-118.3728039,33.9689412,6,65 mph,San Diego Freeway,I 405,South
+-118.3724948,33.9686821,6,65 mph,San Diego Freeway,I 405,South
+-118.372338,33.9685285,6,65 mph,San Diego Freeway,I 405,South
+-118.3004963,33.8599239,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3024348,33.8599111,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.3047017,33.8599124,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2610091,33.8367773,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2604401,33.8361829,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2598759,33.8356061,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2594654,33.835186,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2563354,33.8319902,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2561589,33.8318009,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.2561589,33.8318009,5,65 mph,San Diego Freeway,I 405,South
+-118.255792,33.8314372,5,65 mph,San Diego Freeway,I 405,South
+-118.2538071,33.8294106,5,65 mph,San Diego Freeway,I 405,South
+-118.2935822,33.8599178,7,65 mph,San Diego Freeway,I 405,South
+-118.2943897,33.8599155,7,65 mph,San Diego Freeway,I 405,South
+-118.2954893,33.859913,7,65 mph,San Diego Freeway,I 405,South
+-118.2714567,33.8468212,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2711555,33.8466113,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2707801,33.8463546,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2703368,33.8459926,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2700405,33.8457453,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2695644,33.8453388,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2692028,33.8450188,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2688536,33.8446894,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2685317,33.8443875,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2682917,33.8441503,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2679953,33.8438551,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.267597,33.8434597,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2670605,33.8429183,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.2666176,33.8424752,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.265958,33.8418154,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.274679,33.8491456,6,65 mph,San Diego Freeway,I 405,South
+-118.2740456,33.8487062,6,65 mph,San Diego Freeway,I 405,South
+-118.2724826,33.8476276,6,65 mph,San Diego Freeway,I 405,South
+-118.2721124,33.8473325,6,65 mph,San Diego Freeway,I 405,South
+-118.2717839,33.8470763,6,65 mph,San Diego Freeway,I 405,South
+-118.2714567,33.8468212,6,65 mph,San Diego Freeway,I 405,South
+-118.289617,33.8590402,4,65 mph,San Diego Freeway,I 405,South
+-118.287271,33.8580763,4,65 mph,San Diego Freeway,I 405,South
+-118.2868016,33.857877,4,65 mph,San Diego Freeway,I 405,South
+-118.2863677,33.8576904,4,65 mph,San Diego Freeway,I 405,South
+-118.2861887,33.8576147,4,65 mph,San Diego Freeway,I 405,South
+-118.2858894,33.857467,4,65 mph,San Diego Freeway,I 405,South
+-118.2856026,33.8573173,4,65 mph,San Diego Freeway,I 405,South
+-118.2853935,33.8572048,4,65 mph,San Diego Freeway,I 405,South
+-118.2851119,33.8570431,4,65 mph,San Diego Freeway,I 405,South
+-118.2847443,33.8568139,4,65 mph,San Diego Freeway,I 405,South
+-118.2843552,33.8565504,4,65 mph,San Diego Freeway,I 405,South
+-118.2841317,33.8563885,4,65 mph,San Diego Freeway,I 405,South
+-118.2838659,33.8561836,4,65 mph,San Diego Freeway,I 405,South
+-118.283468,33.855856,4,65 mph,San Diego Freeway,I 405,South
+-118.2947048,33.859751,5,65 mph,San Diego Freeway,I 405,South
+-118.293503,33.8597471,5,65 mph,San Diego Freeway,I 405,South
+-118.2932208,33.859739,5,65 mph,San Diego Freeway,I 405,South
+-118.2929532,33.8597279,5,65 mph,San Diego Freeway,I 405,South
+-118.2926575,33.8597056,5,65 mph,San Diego Freeway,I 405,South
+-118.2924476,33.8596889,5,65 mph,San Diego Freeway,I 405,South
+-118.2921566,33.8596577,5,65 mph,San Diego Freeway,I 405,South
+-118.2918723,33.8596182,5,65 mph,San Diego Freeway,I 405,South
+-118.2917087,33.8595915,5,65 mph,San Diego Freeway,I 405,South
+-118.2916626,33.8595835,5,65 mph,San Diego Freeway,I 405,South
+-118.2915176,33.8595586,5,65 mph,San Diego Freeway,I 405,South
+-118.2912755,33.8595102,5,65 mph,San Diego Freeway,I 405,South
+-118.2908791,33.8594233,5,65 mph,San Diego Freeway,I 405,South
+-118.2906935,33.8593754,5,65 mph,San Diego Freeway,I 405,South
+-118.2904422,33.8593084,5,65 mph,San Diego Freeway,I 405,South
+-118.2902294,33.8592451,5,65 mph,San Diego Freeway,I 405,South
+-118.2900661,33.8591927,5,65 mph,San Diego Freeway,I 405,South
+-118.2898392,33.859117,5,65 mph,San Diego Freeway,I 405,South
+-118.289617,33.8590402,5,65 mph,San Diego Freeway,I 405,South
+-118.30966,33.8598214,5,65 mph,San Diego Freeway,I 405,South
+-118.3094841,33.8598052,5,65 mph,San Diego Freeway,I 405,South
+-118.3088718,33.8597602,5,65 mph,San Diego Freeway,I 405,South
+-118.3084045,33.85974,5,65 mph,San Diego Freeway,I 405,South
+-118.3079542,33.85973,5,65 mph,San Diego Freeway,I 405,South
+-118.3075057,33.8597328,5,65 mph,San Diego Freeway,I 405,South
+-118.306288,33.8597333,5,65 mph,San Diego Freeway,I 405,South
+-118.30505,33.8597362,5,65 mph,San Diego Freeway,I 405,South
+-118.3041032,33.8597362,5,65 mph,San Diego Freeway,I 405,South
+-118.3035183,33.8597347,5,65 mph,San Diego Freeway,I 405,South
+-118.1393143,33.8040647,6,65 mph,San Diego Freeway,I 405,South
+-118.1391545,33.8039671,6,65 mph,San Diego Freeway,I 405,South
+-118.1388992,33.8038095,6,65 mph,San Diego Freeway,I 405,South
+-118.1387007,33.8036969,6,65 mph,San Diego Freeway,I 405,South
+-118.1384996,33.8035838,6,65 mph,San Diego Freeway,I 405,South
+-118.1382816,33.8034791,6,65 mph,San Diego Freeway,I 405,South
+-118.1380771,33.8033855,6,65 mph,San Diego Freeway,I 405,South
+-118.1378873,33.8033058,6,65 mph,San Diego Freeway,I 405,South
+-118.137725,33.8032296,6,65 mph,San Diego Freeway,I 405,South
+-118.1375407,33.8031614,6,65 mph,San Diego Freeway,I 405,South
+-118.1373261,33.8030801,6,65 mph,San Diego Freeway,I 405,South
+-118.1371022,33.8030133,6,65 mph,San Diego Freeway,I 405,South
+-118.1368339,33.8029431,6,65 mph,San Diego Freeway,I 405,South
+-118.1361271,33.8028149,6,65 mph,San Diego Freeway,I 405,South
+-118.1593236,33.810266,6,65 mph,San Diego Freeway,I 405,South
+-118.159107,33.810139,6,65 mph,San Diego Freeway,I 405,South
+-118.1569015,33.808857,6,65 mph,San Diego Freeway,I 405,South
+-118.1565341,33.8086413,6,65 mph,San Diego Freeway,I 405,South
+-118.1561337,33.8084096,6,65 mph,San Diego Freeway,I 405,South
+-118.1558709,33.8082692,6,65 mph,San Diego Freeway,I 405,South
+-118.1556134,33.8081416,6,65 mph,San Diego Freeway,I 405,South
+-118.1554518,33.8080647,6,65 mph,San Diego Freeway,I 405,South
+-118.155252,33.8079766,6,65 mph,San Diego Freeway,I 405,South
+-118.1550324,33.8078796,6,65 mph,San Diego Freeway,I 405,South
+-118.1547363,33.8077616,6,65 mph,San Diego Freeway,I 405,South
+-118.1544922,33.8076719,6,65 mph,San Diego Freeway,I 405,South
+-118.1542736,33.8075967,6,65 mph,San Diego Freeway,I 405,South
+-118.1540195,33.8075131,6,65 mph,San Diego Freeway,I 405,South
+-118.1536842,33.8074156,6,65 mph,San Diego Freeway,I 405,South
+-118.1533751,33.8073392,6,65 mph,San Diego Freeway,I 405,South
+-118.1531022,33.8072757,6,65 mph,San Diego Freeway,I 405,South
+-118.1528279,33.8072206,6,65 mph,San Diego Freeway,I 405,South
+-118.1525651,33.8071726,6,65 mph,San Diego Freeway,I 405,South
+-118.1523465,33.8071348,6,65 mph,San Diego Freeway,I 405,South
+-118.1521118,33.8071013,6,65 mph,San Diego Freeway,I 405,South
+-118.1516338,33.8070318,6,65 mph,San Diego Freeway,I 405,South
+-118.1511007,33.8069537,6,65 mph,San Diego Freeway,I 405,South
+-118.150518,33.8068685,6,65 mph,San Diego Freeway,I 405,South
+-118.1892999,33.8173427,7,65 mph,San Diego Freeway,I 405,South
+-118.1890263,33.8171382,7,65 mph,San Diego Freeway,I 405,South
+-118.1887186,33.8169193,7,65 mph,San Diego Freeway,I 405,South
+-118.188502,33.8167744,7,65 mph,San Diego Freeway,I 405,South
+-118.1883055,33.8166496,7,65 mph,San Diego Freeway,I 405,South
+-118.1880574,33.8165037,7,65 mph,San Diego Freeway,I 405,South
+-118.1877536,33.8163365,7,65 mph,San Diego Freeway,I 405,South
+-118.1873057,33.8161126,7,65 mph,San Diego Freeway,I 405,South
+-118.1872454,33.8160837,7,65 mph,San Diego Freeway,I 405,South
+-118.0857817,33.7745559,1,65 mph,,I 405 Express,South
+-118.0849976,33.774481,1,65 mph,,I 405 Express,South
+-118.0857817,33.7745559,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0854313,33.7744624,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0851734,33.7744091,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0849075,33.7743691,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0843652,33.7743116,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0840809,33.7742932,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.0839193,33.7742872,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.082404,33.774226,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.3230241,33.8634443,5,65 mph,San Diego Freeway,I 405,South
+-118.3191662,33.8622834,5,65 mph,San Diego Freeway,I 405,South
+-118.3180882,33.861959,5,65 mph,San Diego Freeway,I 405,South
+-118.3175701,33.8618,5,65 mph,San Diego Freeway,I 405,South
+-118.315292,33.8611194,5,65 mph,San Diego Freeway,I 405,South
+-118.3133269,33.8605285,5,65 mph,San Diego Freeway,I 405,South
+-118.4292368,34.0256136,6,65 mph,San Diego Freeway,I 405,South
+-118.4281402,34.0241452,6,65 mph,San Diego Freeway,I 405,South
+-118.4698964,34.2932543,3,65 mph,San Diego Freeway,I 405,South
+-118.4692588,34.2923868,3,65 mph,San Diego Freeway,I 405,South
+-118.4689008,34.2919802,3,65 mph,San Diego Freeway,I 405,South
+-118.4687077,34.291753,3,65 mph,San Diego Freeway,I 405,South
+-118.46854,34.2915292,3,65 mph,San Diego Freeway,I 405,South
+-118.468363,34.2912622,3,65 mph,San Diego Freeway,I 405,South
+-118.4682235,34.2910195,3,65 mph,San Diego Freeway,I 405,South
+-118.4680948,34.2907691,3,65 mph,San Diego Freeway,I 405,South
+-118.4680009,34.2905653,3,65 mph,San Diego Freeway,I 405,South
+-118.4679325,34.2903824,3,65 mph,San Diego Freeway,I 405,South
+-118.4678493,34.2901475,3,65 mph,San Diego Freeway,I 405,South
+-118.4677783,34.2899148,3,65 mph,San Diego Freeway,I 405,South
+-118.4677112,34.2896124,3,65 mph,San Diego Freeway,I 405,South
+-118.467667,34.2893187,3,65 mph,San Diego Freeway,I 405,South
+-118.4676388,34.2890329,3,65 mph,San Diego Freeway,I 405,South
+-118.4676334,34.2887448,3,65 mph,San Diego Freeway,I 405,South
+-118.4676401,34.2884689,3,65 mph,San Diego Freeway,I 405,South
+-118.4676629,34.2882473,3,65 mph,San Diego Freeway,I 405,South
+-118.4676978,34.2880146,3,65 mph,San Diego Freeway,I 405,South
+-118.4677528,34.2877431,3,65 mph,San Diego Freeway,I 405,South
+-118.4681032,34.2861602,3,65 mph,San Diego Freeway,I 405,South
+-118.4736287,34.2009431,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4736879,34.2006374,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4738143,34.2000046,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4741705,34.1983625,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4697303,34.1651755,4,65 mph,San Diego Freeway,I 405,South
+-118.4697202,34.1646223,4,65 mph,San Diego Freeway,I 405,South
+-118.469686,34.1630676,4,65 mph,San Diego Freeway,I 405,South
+-118.4696799,34.1628429,4,65 mph,San Diego Freeway,I 405,South
+-118.4696445,34.1615129,4,65 mph,San Diego Freeway,I 405,South
+-118.4695978,34.1593345,4,65 mph,San Diego Freeway,I 405,South
+-118.4721714,34.2717322,6,65 mph,San Diego Freeway,I 405,South
+-118.4721899,34.2715428,6,65 mph,San Diego Freeway,I 405,South
+-118.4722032,34.2713701,6,65 mph,San Diego Freeway,I 405,South
+-118.4722168,34.2711922,6,65 mph,San Diego Freeway,I 405,South
+-118.4722227,34.2709507,6,65 mph,San Diego Freeway,I 405,South
+-118.472255,34.2690061,6,65 mph,San Diego Freeway,I 405,South
+-118.4724203,34.2565131,7,65 mph,San Diego Freeway,I 405,South
+-118.4723785,34.25451,7,65 mph,San Diego Freeway,I 405,South
+-118.4555832,34.0597648,6,65 mph,San Diego Freeway,I 405,South
+-118.4545282,34.058476,6,65 mph,San Diego Freeway,I 405,South
+-118.4530208,34.0565728,6,65 mph,San Diego Freeway,I 405,South
+-118.4523891,34.0558303,6,65 mph,San Diego Freeway,I 405,South
+-118.4521159,34.0555134,6,65 mph,San Diego Freeway,I 405,South
+-118.4516158,34.0549302,6,65 mph,San Diego Freeway,I 405,South
+-118.4704433,34.2933753,1,,,I 405 Truck,South
+-118.4700343,34.2923497,1,,,I 405 Truck,South
+-118.4697299,34.2917171,1,,,I 405 Truck,South
+-118.4694966,34.291316,1,,,I 405 Truck,South
+-118.4692267,34.2909034,1,,,I 405 Truck,South
+-118.4689678,34.290496,1,,,I 405 Truck,South
+-118.4686862,34.2900644,1,,,I 405 Truck,South
+-118.4685692,34.2898648,1,,,I 405 Truck,South
+-118.4684595,34.2896578,1,,,I 405 Truck,South
+-118.4683415,34.2894129,1,,,I 405 Truck,South
+-118.4682436,34.2891725,1,,,I 405 Truck,South
+-118.4681779,34.2889741,1,,,I 405 Truck,South
+-118.4681176,34.2887559,1,,,I 405 Truck,South
+-118.4680666,34.2885265,1,,,I 405 Truck,South
+-118.4680277,34.2883149,1,,,I 405 Truck,South
+-118.4680036,34.2880356,1,,,I 405 Truck,South
+-118.4679902,34.2878074,1,,,I 405 Truck,South
+-118.4679942,34.2875392,1,,,I 405 Truck,South
+-118.4680116,34.2872844,1,,,I 405 Truck,South
+-118.4680787,34.28685,1,,,I 405 Truck,South
+-118.4681032,34.2861602,1,,,I 405 Truck,South
+-118.4681032,34.2861602,4,65 mph,San Diego Freeway,I 405,South
+-118.4683007,34.2853125,4,65 mph,San Diego Freeway,I 405,South
+-118.4685038,34.2844189,4,65 mph,San Diego Freeway,I 405,South
+-118.468762,34.2833249,4,65 mph,San Diego Freeway,I 405,South
+-118.4683846,34.1548041,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4682851,34.1544188,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4682014,34.1539333,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4681552,34.1535889,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4681417,34.1532308,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4681481,34.1528277,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4681728,34.1524343,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4682257,34.1520098,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4683151,34.1515518,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4684442,34.151037,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4686009,34.1505937,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4686924,34.1557178,6,65 mph,San Diego Freeway,I 405,South
+-118.4685616,34.1553741,6,65 mph,San Diego Freeway,I 405,South
+-118.4683846,34.1548041,6,65 mph,San Diego Freeway,I 405,South
+-118.4723277,34.2599154,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4723364,34.259072,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724203,34.2565131,"['7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.472255,34.2690061,5,65 mph,San Diego Freeway,I 405,South
+-118.4722769,34.2663978,5,65 mph,San Diego Freeway,I 405,South
+-118.4722903,34.2654811,5,65 mph,San Diego Freeway,I 405,South
+-118.4722902,34.265004,5,65 mph,San Diego Freeway,I 405,South
+-118.4723785,34.25451,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4723807,34.2541371,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4723954,34.2525741,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724196,34.250281,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724231,34.2497864,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724282,34.2493658,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724373,34.2490942,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724574,34.2488472,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4724877,34.2485787,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4725191,34.2483672,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4725834,34.2480491,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4726585,34.2477196,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4729279,34.246527,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4729844,34.246241,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730234,34.2459628,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730434,34.2457565,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730622,34.2455015,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730729,34.2452477,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730783,34.244618,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.473085,34.2442111,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.473096,34.2430345,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4730998,34.242623,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4731471,34.2388772,"['5', '6', '7', '8']",65 mph,San Diego Freeway,I 405,South
+-118.4731967,34.232474,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4731997,34.2320797,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4732333,34.2286066,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4732432,34.2280353,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4732833,34.2246026,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4655489,34.071328,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4650102,34.0706968,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4636022,34.0690998,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4633424,34.068815,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4618048,34.0670824,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4616763,34.0669359,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4599286,34.064965,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4592844,34.0642242,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.458982,34.0638756,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4587082,34.0635588,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4582712,34.0630505,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4576556,34.0623335,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4570305,34.0615899,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4565439,34.0610073,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4562651,34.0606709,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4561007,34.0604429,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.455986,34.0602948,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4556713,34.0598845,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.455594,34.0597805,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4555832,34.0597648,"['5', '6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4670144,34.0731478,5,65 mph,San Diego Freeway,I 405,South
+-118.4666826,34.0727197,5,65 mph,San Diego Freeway,I 405,South
+-118.4663352,34.0722876,5,65 mph,San Diego Freeway,I 405,South
+-118.4655489,34.071328,5,65 mph,San Diego Freeway,I 405,South
+-118.4683504,34.0748806,5,65 mph,San Diego Freeway,I 405,South
+-118.4670144,34.0731478,5,65 mph,San Diego Freeway,I 405,South
+-118.478579,34.1228339,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4792609,34.1219886,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4793505,34.1218773,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4799099,34.1211833,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4806743,34.1202407,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4809171,34.1199376,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4810458,34.1197743,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4811531,34.1196278,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4812953,34.119408,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4814334,34.1191693,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4815648,34.1189106,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4816828,34.1186241,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.481774,34.1183732,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4818438,34.1181312,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4818907,34.1179047,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4819296,34.1176682,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4819504,34.1174955,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4819819,34.1170997,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4820288,34.1164602,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4820597,34.1159483,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4821205,34.1151705,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4781079,34.1001757,5,65 mph,San Diego Freeway,I 405,South
+-118.4781517,34.0998929,5,65 mph,San Diego Freeway,I 405,South
+-118.4781718,34.0996486,5,65 mph,San Diego Freeway,I 405,South
+-118.4781709,34.0993733,5,65 mph,San Diego Freeway,I 405,South
+-118.4781624,34.0991544,5,65 mph,San Diego Freeway,I 405,South
+-118.478143,34.0989336,5,65 mph,San Diego Freeway,I 405,South
+-118.4781043,34.0986818,5,65 mph,San Diego Freeway,I 405,South
+-118.4780615,34.0984746,5,65 mph,San Diego Freeway,I 405,South
+-118.477994,34.0982293,5,65 mph,San Diego Freeway,I 405,South
+-118.4779099,34.0979662,5,65 mph,San Diego Freeway,I 405,South
+-118.4778124,34.0977238,5,65 mph,San Diego Freeway,I 405,South
+-118.4776955,34.0974746,5,65 mph,San Diego Freeway,I 405,South
+-118.477567,34.0972407,5,65 mph,San Diego Freeway,I 405,South
+-118.4774118,34.0969893,5,65 mph,San Diego Freeway,I 405,South
+-118.4769618,34.0962379,5,65 mph,San Diego Freeway,I 405,South
+-118.4768718,34.0960672,5,65 mph,San Diego Freeway,I 405,South
+-118.4767596,34.0958372,5,65 mph,San Diego Freeway,I 405,South
+-118.4766948,34.0956898,5,65 mph,San Diego Freeway,I 405,South
+-118.476617,34.0954764,5,65 mph,San Diego Freeway,I 405,South
+-118.4765603,34.0952955,5,65 mph,San Diego Freeway,I 405,South
+-118.4765063,34.0950641,5,65 mph,San Diego Freeway,I 405,South
+-118.4764584,34.0947774,5,65 mph,San Diego Freeway,I 405,South
+-118.4763818,34.0943174,5,65 mph,San Diego Freeway,I 405,South
+-118.4761669,34.0929526,5,65 mph,San Diego Freeway,I 405,South
+-118.474366,34.1916091,5,65 mph,San Diego Freeway,I 405,South
+-118.4743644,34.1914687,5,65 mph,San Diego Freeway,I 405,South
+-118.4743115,34.1879299,5,65 mph,San Diego Freeway,I 405,South
+-118.4743105,34.1878664,5,65 mph,San Diego Freeway,I 405,South
+-118.4743105,34.1878664,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4743038,34.1875417,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742947,34.1871766,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742782,34.1868802,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742504,34.1866201,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742242,34.1864149,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4741807,34.1861837,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4741262,34.1859142,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4740808,34.1857483,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4740277,34.1855653,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4739701,34.1853883,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4684334,34.1687554,6,65 mph,San Diego Freeway,I 405,South
+-118.4690865,34.1676445,6,65 mph,San Diego Freeway,I 405,South
+-118.4692065,34.1674203,6,65 mph,San Diego Freeway,I 405,South
+-118.4693252,34.1671623,6,65 mph,San Diego Freeway,I 405,South
+-118.4694312,34.1668988,6,65 mph,San Diego Freeway,I 405,South
+-118.4695204,34.166638,6,65 mph,San Diego Freeway,I 405,South
+-118.4695661,34.1664752,6,65 mph,San Diego Freeway,I 405,South
+-118.4695941,34.1663756,6,65 mph,San Diego Freeway,I 405,South
+-118.4696424,34.1661387,6,65 mph,San Diego Freeway,I 405,South
+-118.4696853,34.1658563,6,65 mph,San Diego Freeway,I 405,South
+-118.4697148,34.1655994,6,65 mph,San Diego Freeway,I 405,South
+-118.4697303,34.1651755,6,65 mph,San Diego Freeway,I 405,South
+-118.4686009,34.1505937,6,65 mph,San Diego Freeway,I 405,South
+-118.4687519,34.1501849,6,65 mph,San Diego Freeway,I 405,South
+-118.4688999,34.1498614,6,65 mph,San Diego Freeway,I 405,South
+-118.469578,34.1485707,6,65 mph,San Diego Freeway,I 405,South
+-118.4698365,34.148075,6,65 mph,San Diego Freeway,I 405,South
+-118.4700675,34.1476327,6,65 mph,San Diego Freeway,I 405,South
+-118.4702137,34.1473477,6,65 mph,San Diego Freeway,I 405,South
+-118.4703143,34.1471444,6,65 mph,San Diego Freeway,I 405,South
+-118.470433,34.1468757,6,65 mph,San Diego Freeway,I 405,South
+-118.4705772,34.1465384,6,65 mph,San Diego Freeway,I 405,South
+-118.4706823,34.1462846,6,65 mph,San Diego Freeway,I 405,South
+-118.4707874,34.1460214,6,65 mph,San Diego Freeway,I 405,South
+-118.4708917,34.1457685,6,65 mph,San Diego Freeway,I 405,South
+-118.4709944,34.1454945,6,65 mph,San Diego Freeway,I 405,South
+-118.471074,34.145271,6,65 mph,San Diego Freeway,I 405,South
+-118.4711653,34.1450008,6,65 mph,San Diego Freeway,I 405,South
+-118.4712458,34.1447175,6,65 mph,San Diego Freeway,I 405,South
+-118.4713223,34.1444194,6,65 mph,San Diego Freeway,I 405,South
+-118.4713838,34.1441363,6,65 mph,San Diego Freeway,I 405,South
+-118.4714374,34.1438757,6,65 mph,San Diego Freeway,I 405,South
+-118.4714842,34.1435631,6,65 mph,San Diego Freeway,I 405,South
+-118.4715213,34.143293,6,65 mph,San Diego Freeway,I 405,South
+-118.4715562,34.1429733,6,65 mph,San Diego Freeway,I 405,South
+-118.4715776,34.1425789,6,65 mph,San Diego Freeway,I 405,South
+-118.4325982,34.0298788,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.432071,34.0292262,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.430808,34.0276252,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4303856,34.0270728,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4302401,34.0268873,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4300726,34.0266757,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4299967,34.026577,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4292368,34.0256136,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4741705,34.1983625,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742048,34.1981476,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742719,34.1978324,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4743376,34.1974432,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4743701,34.1971924,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.474406,34.1969064,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744258,34.1965645,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744355,34.1962763,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744395,34.1960001,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744089,34.1941302,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744013,34.1936324,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.474366,34.1916091,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.473483,34.2045278,5,65 mph,San Diego Freeway,I 405,South
+-118.4734765,34.2041627,5,65 mph,San Diego Freeway,I 405,South
+-118.4734957,34.2023512,5,65 mph,San Diego Freeway,I 405,South
+-118.4735128,34.2020231,5,65 mph,San Diego Freeway,I 405,South
+-118.4735316,34.2017847,5,65 mph,San Diego Freeway,I 405,South
+-118.4735589,34.2015187,5,65 mph,San Diego Freeway,I 405,South
+-118.4736287,34.2009431,5,65 mph,San Diego Freeway,I 405,South
+-118.4732833,34.2246026,5,65 mph,San Diego Freeway,I 405,South
+-118.4733034,34.2217383,5,65 mph,San Diego Freeway,I 405,South
+-118.473309,34.2210568,5,65 mph,San Diego Freeway,I 405,South
+-118.4733319,34.218748,5,65 mph,San Diego Freeway,I 405,South
+-118.4733319,34.218748,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4733425,34.2177209,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4733505,34.2167889,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4733611,34.2162583,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4733653,34.215712,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734089,34.2135145,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.473431,34.2111739,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734543,34.2086504,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734608,34.2082465,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734719,34.2070803,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734699,34.2056423,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.473483,34.2045278,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4739701,34.1853883,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4738845,34.1851648,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4737961,34.1849534,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4736925,34.184726,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4735708,34.1844835,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4735016,34.1843617,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4734136,34.1842068,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4732292,34.1839193,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4721132,34.1823914,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4707877,34.1805956,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.470026,34.179566,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4694565,34.1787856,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.469291,34.1785586,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4691498,34.1783466,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4689879,34.178086,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4688504,34.1778497,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4686916,34.1775512,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4685574,34.1772694,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.46833,34.1767373,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4695978,34.1593345,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4695767,34.1590416,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4695546,34.1587947,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4695287,34.1585883,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.469451,34.1581804,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.469366,34.1577912,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4692785,34.1574728,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4691913,34.1572012,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4691042,34.1569519,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4687257,34.1559473,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4686924,34.1557178,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4722902,34.265004,5,65 mph,San Diego Freeway,I 405,South
+-118.4722834,34.2642426,5,65 mph,San Diego Freeway,I 405,South
+-118.4723213,34.2605894,5,65 mph,San Diego Freeway,I 405,South
+-118.4723277,34.2599154,5,65 mph,San Diego Freeway,I 405,South
+-118.4281402,34.0241452,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.427527,34.0234427,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4267096,34.0224012,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4210951,34.0152931,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4188514,34.0123983,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4187634,34.0122905,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.418471,34.0119141,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4182963,34.0116901,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4706912,34.2766218,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4711659,34.2752944,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4713778,34.2747082,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4717482,34.273673,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4718469,34.2733575,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4719451,34.2730059,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.471996,34.2727776,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4720579,34.2724859,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4721383,34.2720497,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4721714,34.2717322,"['5', '4']",65 mph,San Diego Freeway,I 405,South
+-118.468762,34.2833249,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4691237,34.2817027,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4695485,34.2801318,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.469769,34.2793558,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4699372,34.2788146,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4703117,34.2776808,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4706912,34.2766218,"['3', '4']",65 mph,San Diego Freeway,I 405,South
+-118.4731471,34.2388772,5,65 mph,San Diego Freeway,I 405,South
+-118.4731518,34.2371667,5,65 mph,San Diego Freeway,I 405,South
+-118.4731665,34.2357958,5,65 mph,San Diego Freeway,I 405,South
+-118.4731695,34.2353512,5,65 mph,San Diego Freeway,I 405,South
+-118.4731868,34.2336198,5,65 mph,San Diego Freeway,I 405,South
+-118.4731967,34.232474,5,65 mph,San Diego Freeway,I 405,South
+-118.4715776,34.1425789,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715821,34.1423145,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715803,34.1419766,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715669,34.141739,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715468,34.1414438,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715173,34.1411652,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715102,34.1411096,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.471465,34.1407389,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713765,34.1400441,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713502,34.1398201,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713262,34.1395818,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713107,34.1393459,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713032,34.1391155,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713055,34.1388898,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.471311,34.1386648,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713243,34.1384211,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713496,34.1381526,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4713778,34.1379118,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.471414,34.1376809,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.471465,34.1374056,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715267,34.1371503,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4715883,34.1369016,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4716199,34.1367994,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4716675,34.1366452,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4726082,34.1337496,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4733653,34.1314168,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.473529,34.1309145,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4737623,34.130199,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4739648,34.1295729,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4740828,34.1292121,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4741726,34.128956,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4742662,34.1286947,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4743674,34.1284544,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4744865,34.1282041,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4746018,34.1279721,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4746997,34.1277878,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4748258,34.1275813,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4749679,34.1273493,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4751248,34.1271217,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4752724,34.1269185,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.47544,34.126701,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4756063,34.1264945,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.478579,34.1228339,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4386682,34.0366807,5,65 mph,San Diego Freeway,I 405,South
+-118.4382373,34.0357423,5,65 mph,San Diego Freeway,I 405,South
+-118.4381613,34.0355957,5,65 mph,San Diego Freeway,I 405,South
+-118.4380252,34.035345,5,65 mph,San Diego Freeway,I 405,South
+-118.4378895,34.0351126,5,65 mph,San Diego Freeway,I 405,South
+-118.4377472,34.0348862,5,65 mph,San Diego Freeway,I 405,South
+-118.4375738,34.0346456,5,65 mph,San Diego Freeway,I 405,South
+-118.4374068,34.0344325,5,65 mph,San Diego Freeway,I 405,South
+-118.4372185,34.0342103,5,65 mph,San Diego Freeway,I 405,South
+-118.4370227,34.0339964,5,65 mph,San Diego Freeway,I 405,South
+-118.4368591,34.0338302,5,65 mph,San Diego Freeway,I 405,South
+-118.4366606,34.0336441,5,65 mph,San Diego Freeway,I 405,South
+-118.4365272,34.0335285,5,65 mph,San Diego Freeway,I 405,South
+-118.4363046,34.0333407,5,65 mph,San Diego Freeway,I 405,South
+-118.4360524,34.0331484,5,65 mph,San Diego Freeway,I 405,South
+-118.4358174,34.0329836,5,65 mph,San Diego Freeway,I 405,South
+-118.4355656,34.0328061,5,65 mph,San Diego Freeway,I 405,South
+-118.4352062,34.0325566,5,65 mph,San Diego Freeway,I 405,South
+-118.4348682,34.0323204,5,65 mph,San Diego Freeway,I 405,South
+-118.4346704,34.0321776,5,65 mph,San Diego Freeway,I 405,South
+-118.4344887,34.032032,5,65 mph,San Diego Freeway,I 405,South
+-118.4343077,34.0318781,5,65 mph,San Diego Freeway,I 405,South
+-118.4341521,34.031743,5,65 mph,San Diego Freeway,I 405,South
+-118.4339603,34.0315474,5,65 mph,San Diego Freeway,I 405,South
+-118.4338497,34.031433,5,65 mph,San Diego Freeway,I 405,South
+-118.4335539,34.0310779,5,65 mph,San Diego Freeway,I 405,South
+-118.4325982,34.0298788,5,65 mph,San Diego Freeway,I 405,South
+-118.4406504,34.0397124,6,65 mph,San Diego Freeway,I 405,South
+-118.4400865,34.0391113,6,65 mph,San Diego Freeway,I 405,South
+-118.4398767,34.0388357,6,65 mph,San Diego Freeway,I 405,South
+-118.439613,34.0384926,6,65 mph,San Diego Freeway,I 405,South
+-118.4394592,34.038259,6,65 mph,San Diego Freeway,I 405,South
+-118.4393467,34.0380656,6,65 mph,San Diego Freeway,I 405,South
+-118.4391738,34.0377567,6,65 mph,San Diego Freeway,I 405,South
+-118.4390706,34.0375533,6,65 mph,San Diego Freeway,I 405,South
+-118.4388182,34.0370097,6,65 mph,San Diego Freeway,I 405,South
+-118.4386682,34.0366807,6,65 mph,San Diego Freeway,I 405,South
+-118.4445649,34.0442667,7,65 mph,San Diego Freeway,I 405,South
+-118.4437725,34.0433965,7,65 mph,San Diego Freeway,I 405,South
+-118.4433071,34.0428586,7,65 mph,San Diego Freeway,I 405,South
+-118.442857,34.042334,7,65 mph,San Diego Freeway,I 405,South
+-118.441903,34.0412328,7,65 mph,San Diego Freeway,I 405,South
+-118.4412133,34.0403726,7,65 mph,San Diego Freeway,I 405,South
+-118.4410393,34.0401794,7,65 mph,San Diego Freeway,I 405,South
+-118.4406504,34.0397124,7,65 mph,San Diego Freeway,I 405,South
+-118.448701,34.0494188,6,65 mph,San Diego Freeway,I 405,South
+-118.4486477,34.0493145,6,65 mph,San Diego Freeway,I 405,South
+-118.4485596,34.0491554,6,65 mph,San Diego Freeway,I 405,South
+-118.4484447,34.0489685,6,65 mph,San Diego Freeway,I 405,South
+-118.4482886,34.0487332,6,65 mph,San Diego Freeway,I 405,South
+-118.4481576,34.0485352,6,65 mph,San Diego Freeway,I 405,South
+-118.447997,34.048317,6,65 mph,San Diego Freeway,I 405,South
+-118.4478253,34.0481003,6,65 mph,San Diego Freeway,I 405,South
+-118.4476376,34.0478725,6,65 mph,San Diego Freeway,I 405,South
+-118.4469965,34.0471325,6,65 mph,San Diego Freeway,I 405,South
+-118.4469388,34.0470648,6,65 mph,San Diego Freeway,I 405,South
+-118.4467167,34.0468116,6,65 mph,San Diego Freeway,I 405,South
+-118.4450897,34.0449261,6,65 mph,San Diego Freeway,I 405,South
+-118.4445649,34.0442667,6,65 mph,San Diego Freeway,I 405,South
+-118.4496423,34.0518243,7,65 mph,San Diego Freeway,I 405,South
+-118.4495935,34.0516824,7,65 mph,San Diego Freeway,I 405,South
+-118.4494934,34.0513758,7,65 mph,San Diego Freeway,I 405,South
+-118.4493839,34.0510487,7,65 mph,San Diego Freeway,I 405,South
+-118.4492469,34.0507249,7,65 mph,San Diego Freeway,I 405,South
+-118.4491879,34.0505427,7,65 mph,San Diego Freeway,I 405,South
+-118.449098,34.0502927,7,65 mph,San Diego Freeway,I 405,South
+-118.4490041,34.0500482,7,65 mph,San Diego Freeway,I 405,South
+-118.4488928,34.0498015,7,65 mph,San Diego Freeway,I 405,South
+-118.448701,34.0494188,7,65 mph,San Diego Freeway,I 405,South
+-118.4761669,34.0929526,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4760261,34.0921189,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4758383,34.0910294,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4756921,34.0901398,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4755003,34.0888958,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4754849,34.0887681,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4754317,34.088438,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4752737,34.0872354,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4751315,34.0861902,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4750549,34.0856698,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4749532,34.0849607,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4748904,34.0845403,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4748258,34.0841654,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4747754,34.0839006,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4747128,34.0836418,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.474631,34.0833329,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4745777,34.0831566,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.474512,34.0829697,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4744455,34.0827819,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4743416,34.0825215,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4742169,34.0822405,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4740305,34.0818539,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.473879,34.0815552,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4737079,34.081254,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.473521,34.0809589,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4733213,34.0806727,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4731092,34.0803827,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4728922,34.0801139,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4726564,34.0798413,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4724189,34.0795848,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4722004,34.0793607,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4720296,34.0791814,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.471126,34.0782787,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4708372,34.0779793,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4705588,34.077675,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4702884,34.0773572,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4700319,34.0770401,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4693209,34.0761325,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4690369,34.07577,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4687496,34.0753994,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4686285,34.0752412,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4683504,34.0748806,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4516158,34.0549302,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4512062,34.0544617,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4508763,34.0540639,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4507543,34.053905,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4506242,34.0537272,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4504727,34.0535017,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4503707,34.0533461,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4502571,34.0531289,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4501417,34.0529048,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4500199,34.0526667,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4499024,34.052425,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4497879,34.0521794,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4496423,34.0518243,"['6', '7']",65 mph,San Diego Freeway,I 405,South
+-118.4821205,34.1151705,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4821697,34.1144683,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822099,34.1138498,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822729,34.1128838,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822863,34.1126085,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.482285,34.1124208,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822783,34.1122309,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822541,34.1119989,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4822314,34.1118412,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4821871,34.1115947,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4821388,34.1113993,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4820758,34.1111872,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4820335,34.1110651,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.481932,34.1107998,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4819169,34.1107591,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4818344,34.1105765,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.481711,34.1103355,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4816823,34.1102839,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4814608,34.1099329,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.481298,34.1097063,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4789389,34.1065135,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4783408,34.1056968,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4781729,34.1054577,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4780235,34.1052302,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4778979,34.1050034,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4777845,34.1047671,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4776864,34.1045269,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.477618,34.1043082,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4775428,34.1040439,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774959,34.1038207,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774597,34.1035608,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774396,34.1033698,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774289,34.10314,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774315,34.1029501,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774517,34.1027191,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4774771,34.1025014,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4775147,34.1022849,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4775496,34.1021183,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4776206,34.101864,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4777132,34.1015664,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4779707,34.1007224,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4780565,34.1004159,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.4781079,34.1001757,"['5', '6']",65 mph,San Diego Freeway,I 405,South
+-118.46833,34.1767373,5,65 mph,San Diego Freeway,I 405,South
+-118.4682086,34.1763738,5,65 mph,San Diego Freeway,I 405,South
+-118.4680854,34.1759812,5,65 mph,San Diego Freeway,I 405,South
+-118.4680186,34.1757163,5,65 mph,San Diego Freeway,I 405,South
+-118.467954,34.1754165,5,65 mph,San Diego Freeway,I 405,South
+-118.4678978,34.1750751,5,65 mph,San Diego Freeway,I 405,South
+-118.4678547,34.1747375,5,65 mph,San Diego Freeway,I 405,South
+-118.4678292,34.174411,5,65 mph,San Diego Freeway,I 405,South
+-118.4677538,34.1713483,5,65 mph,San Diego Freeway,I 405,South
+-118.4677514,34.1710903,5,65 mph,San Diego Freeway,I 405,South
+-118.4677569,34.1708649,5,65 mph,San Diego Freeway,I 405,South
+-118.4677783,34.1706232,5,65 mph,San Diego Freeway,I 405,South
+-118.467815,34.170372,5,65 mph,San Diego Freeway,I 405,South
+-118.4678875,34.1700272,5,65 mph,San Diego Freeway,I 405,South
+-118.4679637,34.1697759,5,65 mph,San Diego Freeway,I 405,South
+-118.4680425,34.1695436,5,65 mph,San Diego Freeway,I 405,South
+-118.468145,34.1692929,5,65 mph,San Diego Freeway,I 405,South
+-118.4684334,34.1687554,5,65 mph,San Diego Freeway,I 405,South
