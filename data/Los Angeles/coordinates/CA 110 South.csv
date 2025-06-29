@@ -1,0 +1,420 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.192463,34.1032108,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1927195,34.1031086,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.192983,34.1030159,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1932265,34.1029597,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1934743,34.1029184,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1936604,34.1028987,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1938913,34.102886,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1940536,34.1028865,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1952092,34.1029606,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2060777,34.0946238,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2061468,34.0944822,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2061736,34.0944205,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2062326,34.0942668,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2062768,34.0941057,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.206307,34.0939136,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063419,34.0936459,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2193243,34.0848833,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2198015,34.0846316,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2204393,34.0842289,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2210709,34.083806,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2219971,34.083226,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2225707,34.0828059,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2229241,34.0825458,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2231181,34.0824291,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2233928,34.082294,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2235452,34.0822232,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2236793,34.082161,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2239078,34.0820452,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2240774,34.0819429,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2249607,34.081291,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.197831,34.1027498,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1983704,34.1025392,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1995371,34.1020775,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1997888,34.1019666,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1999864,34.1018677,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2001799,34.1017577,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2003774,34.1016275,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2005547,34.101494,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2007304,34.1013454,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2026834,34.0995285,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2028296,34.0993886,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2029583,34.0992554,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2030723,34.0991143,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2031876,34.0989644,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2033258,34.0987601,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2060777,34.0946238,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1525607,34.1191823,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1529767,34.1191763,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1532814,34.1191719,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1536943,34.1191659,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1569554,34.1191187,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1572366,34.1191147,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1575514,34.1191101,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1580904,34.1190999,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1584251,34.1190999,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2311816,34.0764317,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2316456,34.0759459,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2322719,34.0753121,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.232529,34.0750779,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2328006,34.0748063,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2333433,34.0742788,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1918556,34.1035387,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1920652,34.1033986,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1922327,34.1033024,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.192463,34.1032108,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1867412,34.1072667,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1869628,34.1070712,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1871403,34.1069269,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063419,34.0936459,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063473,34.0931861,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063486,34.0929351,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063526,34.0927174,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2063687,34.0925242,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2064023,34.0923487,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2064465,34.0921655,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2065082,34.0919778,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2065793,34.0918112,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2066557,34.0916612,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2067577,34.0915024,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2070962,34.0909567,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2076172,34.090113,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2077514,34.0899353,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2078775,34.0897687,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2080049,34.0896099,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2081122,34.0894844,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2082423,34.0893356,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2083804,34.0891945,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2085212,34.0890512,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2086607,34.088918,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2088028,34.0887913,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2103687,34.0875024,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2105294,34.0873705,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.210849,34.0871339,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2111712,34.0869432,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2115414,34.0867821,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2117519,34.0867088,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2121838,34.0866033,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2125727,34.08655,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2138764,34.0864316,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2143138,34.0863722,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2153966,34.0861136,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2157219,34.0860244,"['3', '4']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2333433,34.0742788,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2342686,34.0733365,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2344894,34.0730786,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2347063,34.0727957,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2347522,34.0727257,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.257319,34.0547952,4,55 mph,Harbor Freeway,CA 110,South
+-118.2579857,34.0539774,4,55 mph,Harbor Freeway,CA 110,South
+-118.2586758,34.0531606,4,55 mph,Harbor Freeway,CA 110,South
+-118.2595878,34.0523281,4,55 mph,Harbor Freeway,CA 110,South
+-118.2603871,34.0517813,4,55 mph,Harbor Freeway,CA 110,South
+-118.253661,34.0585904,3,55 mph,Harbor Freeway,CA 110,South
+-118.2545269,34.0576762,3,55 mph,Harbor Freeway,CA 110,South
+-118.254774,34.0574273,3,55 mph,Harbor Freeway,CA 110,South
+-118.2555773,34.0566647,3,55 mph,Harbor Freeway,CA 110,South
+-118.256276,34.0559534,3,55 mph,Harbor Freeway,CA 110,South
+-118.257319,34.0547952,3,55 mph,Harbor Freeway,CA 110,South
+-118.2518222,34.0601832,7,55 mph,Harbor Freeway,CA 110,South
+-118.2522731,34.0598179,7,55 mph,Harbor Freeway,CA 110,South
+-118.252946,34.0592744,7,55 mph,Harbor Freeway,CA 110,South
+-118.2535813,34.0586695,7,55 mph,Harbor Freeway,CA 110,South
+-118.253661,34.0585904,7,55 mph,Harbor Freeway,CA 110,South
+-118.2455323,34.0648514,3,55 mph,Harbor Freeway,CA 110,South
+-118.2457312,34.0647939,3,55 mph,Harbor Freeway,CA 110,South
+-118.2459553,34.0647249,3,55 mph,Harbor Freeway,CA 110,South
+-118.2462408,34.0646183,3,55 mph,Harbor Freeway,CA 110,South
+-118.2464942,34.0645073,3,55 mph,Harbor Freeway,CA 110,South
+-118.2467021,34.0643962,3,55 mph,Harbor Freeway,CA 110,South
+-118.2469234,34.0642761,3,55 mph,Harbor Freeway,CA 110,South
+-118.2471205,34.064154,3,55 mph,Harbor Freeway,CA 110,South
+-118.2473163,34.064014,3,55 mph,Harbor Freeway,CA 110,South
+-118.2475041,34.0638695,3,55 mph,Harbor Freeway,CA 110,South
+-118.2477479,34.063659,3,55 mph,Harbor Freeway,CA 110,South
+-118.248389,34.0631009,3,55 mph,Harbor Freeway,CA 110,South
+-118.2493291,34.0622678,3,55 mph,Harbor Freeway,CA 110,South
+-118.2499912,34.0616793,3,55 mph,Harbor Freeway,CA 110,South
+-118.2502018,34.061491,3,55 mph,Harbor Freeway,CA 110,South
+-118.2508907,34.0608784,3,55 mph,Harbor Freeway,CA 110,South
+-118.2511508,34.0606537,3,55 mph,Harbor Freeway,CA 110,South
+-118.2518222,34.0601832,3,55 mph,Harbor Freeway,CA 110,South
+-118.2347522,34.0727257,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2350649,34.0720124,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2352857,34.071568,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2355033,34.0711546,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2359448,34.070206,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.236163,34.0698062,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2249607,34.081291,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2251669,34.0811262,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2275231,34.0792376,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2295387,34.0777801,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2427339,34.0656471,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2428868,34.0655749,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.24308,34.0654867,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2433061,34.0653925,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2435403,34.0653095,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2437929,34.0652355,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2440446,34.0651703,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2443046,34.0651112,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2451139,34.0649471,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2453274,34.0649009,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2455323,34.0648514,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2603871,34.0517813,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2624627,34.0505147,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.26312,34.0501191,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2641194,34.0495098,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2642348,34.0494377,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.1472182,34.1265389,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1471746,34.1264294,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.147131,34.1262953,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1470998,34.1262072,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1470636,34.1261151,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1469932,34.1259563,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1468826,34.125703,4,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1468826,34.125703,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1467713,34.1254543,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1466872,34.1252652,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1466386,34.1251555,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1465845,34.1250256,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1465392,34.1249123,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1464917,34.1247888,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1464498,34.1246764,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1464045,34.1245456,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1463559,34.1244021,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1463106,34.1242558,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1462675,34.1241104,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1462311,34.1239714,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461968,34.1238269,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461637,34.123677,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461427,34.1235627,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461232,34.1234532,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461045,34.1233389,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.146089,34.1232356,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460735,34.1231396,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460592,34.1230289,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.146047,34.1228973,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460371,34.1227729,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460327,34.1226495,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460282,34.1225315,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460249,34.1224145,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460257,34.1222974,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460293,34.1221807,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460366,34.1220685,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460494,34.121948,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460666,34.121841,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1460857,34.1217462,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461121,34.121643,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461412,34.1215383,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1461703,34.1214442,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1462095,34.1213433,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1462522,34.1212446,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1463013,34.1211422,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1463605,34.1210315,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1465297,34.1207619,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1466015,34.1206662,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.146677,34.1205729,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1467951,34.1204074,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1469324,34.1202795,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1471041,34.1201231,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1472672,34.1200095,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.147456,34.1198816,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1476791,34.1197537,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1479023,34.11964,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1481083,34.1195547,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1483143,34.1194836,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1485546,34.1194055,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1487743,34.1193557,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1490524,34.119306,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1494043,34.1192705,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1497466,34.1192578,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1501292,34.119247,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1504997,34.1192365,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1525607,34.1191823,"['3', '2']",55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1584251,34.1190999,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1586826,34.1190999,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.15888,34.119107,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1591118,34.1191213,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1596268,34.119171,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1601933,34.1192207,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1606396,34.1192563,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1609571,34.1192776,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1613005,34.1192847,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1615751,34.1192705,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1618155,34.119242,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1621502,34.1191923,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1624763,34.1191284,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1630497,34.1190038,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1633093,34.1189482,2,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.176489,34.1133901,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1767276,34.113299,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1769253,34.1132042,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2669183,34.0478191,6,55 mph,Harbor Freeway,CA 110,South
+-118.2670196,34.0477547,6,55 mph,Harbor Freeway,CA 110,South
+-118.2681366,34.0470504,6,55 mph,Harbor Freeway,CA 110,South
+-118.1822946,34.1115091,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1824836,34.1115558,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1826406,34.1115802,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1828552,34.1115913,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1830818,34.1115835,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1832924,34.1115569,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1835029,34.1115091,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1836853,34.1114525,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1838704,34.111377,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1840407,34.1112893,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1841788,34.1111993,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1843008,34.1111116,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1844216,34.1110039,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1845369,34.1108829,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1846455,34.1107396,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1847401,34.1105819,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1847977,34.1104454,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.184845,34.1102924,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1848912,34.1100656,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1850103,34.1093117,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1850532,34.1091684,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1851109,34.1090086,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1851967,34.1088342,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1852866,34.1086788,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1853939,34.1085277,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1855467,34.1083601,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1861522,34.1078032,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1867412,34.1072667,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1952092,34.1029606,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1962904,34.1030103,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1964899,34.1030182,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1966848,34.1030106,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1969166,34.1029906,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1971732,34.1029476,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1974609,34.1028705,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.197831,34.1027498,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2407955,34.0666406,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2427339,34.0656471,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1871403,34.1069269,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1877157,34.106465,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1894427,34.1052364,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1897994,34.104981,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1901615,34.1047234,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1909071,34.1041871,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1910703,34.1040711,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1913586,34.1038662,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1918556,34.1035387,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.236163,34.0698062,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.236469,34.0693423,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2366272,34.0691482,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2368208,34.0689285,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.237149,34.0685993,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2373572,34.0684362,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2375908,34.0682672,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2380547,34.0679968,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2407955,34.0666406,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1633093,34.1189482,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1653039,34.118532,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.165565,34.1184749,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1671935,34.1181216,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1685903,34.1178216,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1688913,34.1177514,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.169089,34.1176929,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1692819,34.117617,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1695031,34.1175112,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1697473,34.1173683,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.170062,34.1171418,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1735863,34.1144798,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1738379,34.1143249,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1740678,34.1142012,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1744052,34.1140589,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1747571,34.1139372,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1761915,34.1134902,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.176489,34.1133901,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2744736,34.0356496,3,,Harbor Freeway,CA 110,South
+-118.2745174,34.0353237,3,,Harbor Freeway,CA 110,South
+-118.2745965,34.0347412,3,,Harbor Freeway,CA 110,South
+-118.2746658,34.0341449,3,,Harbor Freeway,CA 110,South
+-118.274692,34.0336559,3,,Harbor Freeway,CA 110,South
+-118.2747063,34.0331605,3,,Harbor Freeway,CA 110,South
+-118.2747002,34.032689,3,,Harbor Freeway,CA 110,South
+-118.2746662,34.0321606,3,,Harbor Freeway,CA 110,South
+-118.2746045,34.0311617,3,,Harbor Freeway,CA 110,South
+-118.2295387,34.0777801,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2306196,34.0768838,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2311816,34.0764317,5,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2681366,34.0470504,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2685641,34.0468006,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2688727,34.046614,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2693444,34.0463256,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2697306,34.0460981,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2701873,34.0458316,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.270442,34.0456528,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2707095,34.0454509,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.270772,34.0454042,"['5', '6']",55 mph,Harbor Freeway,CA 110,South
+-118.2642348,34.0494377,5,55 mph,Harbor Freeway,CA 110,South
+-118.2644117,34.0493321,5,55 mph,Harbor Freeway,CA 110,South
+-118.2655583,34.0486413,5,55 mph,Harbor Freeway,CA 110,South
+-118.2663873,34.0481381,5,55 mph,Harbor Freeway,CA 110,South
+-118.2669183,34.0478191,5,55 mph,Harbor Freeway,CA 110,South
+-118.2157219,34.0860244,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2173731,34.0855602,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2180393,34.0853816,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2185874,34.0851963,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.2193243,34.0848833,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.270772,34.0454042,3,55 mph,Harbor Freeway,CA 110,South
+-118.2710524,34.0451237,3,55 mph,Harbor Freeway,CA 110,South
+-118.2716814,34.0445155,3,55 mph,Harbor Freeway,CA 110,South
+-118.2718819,34.0443062,3,55 mph,Harbor Freeway,CA 110,South
+-118.272085,34.0440758,3,55 mph,Harbor Freeway,CA 110,South
+-118.2723311,34.0437813,3,55 mph,Harbor Freeway,CA 110,South
+-118.272522,34.0435227,3,55 mph,Harbor Freeway,CA 110,South
+-118.2728863,34.0429687,3,55 mph,Harbor Freeway,CA 110,South
+-118.2730194,34.0427379,3,55 mph,Harbor Freeway,CA 110,South
+-118.2730999,34.0425896,3,55 mph,Harbor Freeway,CA 110,South
+-118.2731792,34.042434,3,55 mph,Harbor Freeway,CA 110,South
+-118.2732389,34.0423007,3,55 mph,Harbor Freeway,CA 110,South
+-118.2732974,34.0421623,3,55 mph,Harbor Freeway,CA 110,South
+-118.2733717,34.0419747,3,55 mph,Harbor Freeway,CA 110,South
+-118.273441,34.0417809,3,55 mph,Harbor Freeway,CA 110,South
+-118.2735043,34.0415919,3,55 mph,Harbor Freeway,CA 110,South
+-118.2735627,34.0414009,3,55 mph,Harbor Freeway,CA 110,South
+-118.2736211,34.0411909,3,55 mph,Harbor Freeway,CA 110,South
+-118.2736746,34.0409728,3,55 mph,Harbor Freeway,CA 110,South
+-118.2737022,34.0408559,3,55 mph,Harbor Freeway,CA 110,South
+-118.2737298,34.0407247,3,55 mph,Harbor Freeway,CA 110,South
+-118.273754,34.0406037,3,55 mph,Harbor Freeway,CA 110,South
+-118.2737756,34.0404697,3,55 mph,Harbor Freeway,CA 110,South
+-118.27385,34.0399669,3,55 mph,Harbor Freeway,CA 110,South
+-118.2738866,34.0396928,3,55 mph,Harbor Freeway,CA 110,South
+-118.2739324,34.0393595,3,55 mph,Harbor Freeway,CA 110,South
+-118.274084,34.0382902,3,55 mph,Harbor Freeway,CA 110,South
+-118.2741362,34.0378995,3,55 mph,Harbor Freeway,CA 110,South
+-118.2744736,34.0356496,3,55 mph,Harbor Freeway,CA 110,South
+-118.1769253,34.1132042,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1770799,34.1131181,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1772727,34.1129924,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1774525,34.1128578,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1776168,34.1127227,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1778904,34.112474,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1781074,34.112297,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.178326,34.1121362,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1785705,34.1119857,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1789203,34.1118085,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1798618,34.1113992,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1800576,34.1113337,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1802883,34.1112715,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1805379,34.1112282,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1807697,34.1112116,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1809494,34.1112094,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1811533,34.111226,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.181333,34.1112504,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1815462,34.1112937,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1817273,34.1113448,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1820921,34.1114469,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1822946,34.1115091,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1473459,34.1275365,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1473419,34.1274218,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1473329,34.127211,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1473229,34.1270973,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1473047,34.12697,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1472898,34.1268866,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1472811,34.1268375,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1472483,34.1266959,3,55 mph,Arroyo Seco Parkway,CA 110,South
+-118.1472182,34.1265389,3,55 mph,Arroyo Seco Parkway,CA 110,South

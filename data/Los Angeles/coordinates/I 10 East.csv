@@ -1,0 +1,2358 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-116.9881018,33.9320816,"['5', '4']",70 mph,,I 10,East
+-116.9879852,33.9320342,"['5', '4']",70 mph,,I 10,East
+-116.987894,33.931997,"['5', '4']",70 mph,,I 10,East
+-116.9875363,33.9318416,"['5', '4']",70 mph,,I 10,East
+-116.9873847,33.9317716,"['5', '4']",70 mph,,I 10,East
+-116.9872854,33.9317237,"['5', '4']",70 mph,,I 10,East
+-116.9871836,33.9316724,"['5', '4']",70 mph,,I 10,East
+-116.9870771,33.9316156,"['5', '4']",70 mph,,I 10,East
+-116.9869734,33.9315555,"['5', '4']",70 mph,,I 10,East
+-116.9868553,33.9314848,"['5', '4']",70 mph,,I 10,East
+-116.9866612,33.9313644,"['5', '4']",70 mph,,I 10,East
+-116.9865139,33.9312634,"['5', '4']",70 mph,,I 10,East
+-116.9863122,33.9311203,"['5', '4']",70 mph,,I 10,East
+-116.9861752,33.9310172,"['5', '4']",70 mph,,I 10,East
+-116.986093,33.9309508,"['5', '4']",70 mph,,I 10,East
+-116.986022,33.9308912,"['5', '4']",70 mph,,I 10,East
+-116.9859592,33.930835,"['5', '4']",70 mph,,I 10,East
+-116.9856987,33.9305968,"['5', '4']",70 mph,,I 10,East
+-116.9854403,33.9303612,"['5', '4']",70 mph,,I 10,East
+-116.9844764,33.9295161,"['5', '4']",70 mph,,I 10,East
+-116.9838635,33.9289543,"['5', '4']",70 mph,,I 10,East
+-116.983596,33.9287287,"['5', '4']",70 mph,,I 10,East
+-116.9833611,33.9285522,"['5', '4']",70 mph,,I 10,East
+-116.9830574,33.9283386,"['5', '4']",70 mph,,I 10,East
+-116.9827071,33.9281201,"['5', '4']",70 mph,,I 10,East
+-116.9823618,33.9279252,"['5', '4']",70 mph,,I 10,East
+-116.9819293,33.927726,"['5', '4']",70 mph,,I 10,East
+-116.9814964,33.9275571,"['5', '4']",70 mph,,I 10,East
+-116.9811412,33.9274337,"['5', '4']",70 mph,,I 10,East
+-116.9804955,33.9272323,"['5', '4']",70 mph,,I 10,East
+-117.0928154,34.0153546,3,"['65 mph', '70 mph']",,I 10,East
+-117.0925267,34.015312,3,"['65 mph', '70 mph']",,I 10,East
+-117.0913943,34.0151378,3,"['65 mph', '70 mph']",,I 10,East
+-117.0902014,34.0151061,3,"['65 mph', '70 mph']",,I 10,East
+-117.0887579,34.0151444,3,"['65 mph', '70 mph']",,I 10,East
+-117.0877709,34.0151303,3,"['65 mph', '70 mph']",,I 10,East
+-117.0868892,34.0150601,3,"['65 mph', '70 mph']",,I 10,East
+-117.0860147,34.0149193,3,"['65 mph', '70 mph']",,I 10,East
+-117.0816705,34.0139985,3,"['65 mph', '70 mph']",,I 10,East
+-117.0996822,34.0188957,3,65 mph,,I 10,East
+-117.098066,34.017914,3,65 mph,,I 10,East
+-117.0978,34.0177419,3,65 mph,,I 10,East
+-117.0974981,34.0175451,3,65 mph,,I 10,East
+-117.0959139,34.016544,3,65 mph,,I 10,East
+-117.094784,34.0160021,3,65 mph,,I 10,East
+-117.0939858,34.0157033,3,65 mph,,I 10,East
+-117.0928154,34.0153546,3,65 mph,,I 10,East
+-117.0332321,33.9667544,3,70 mph,,I 10,East
+-117.0316688,33.9660149,3,70 mph,,I 10,East
+-117.0309466,33.9656132,3,70 mph,,I 10,East
+-117.0303204,33.9651851,3,70 mph,,I 10,East
+-117.0297436,33.9647278,3,70 mph,,I 10,East
+-117.0287162,33.9637976,3,70 mph,,I 10,East
+-117.0277421,33.9629325,3,70 mph,,I 10,East
+-117.0269884,33.9623648,3,70 mph,,I 10,East
+-117.0240753,33.960412,3,70 mph,,I 10,East
+-117.0184354,33.956681,3,70 mph,,I 10,East
+-117.0167381,33.9555789,3,70 mph,,I 10,East
+-117.0153344,33.9545707,3,70 mph,,I 10,East
+-117.0143303,33.953809,3,70 mph,,I 10,East
+-117.0137353,33.9533799,3,70 mph,,I 10,East
+-117.0124478,33.9525041,3,70 mph,,I 10,East
+-117.0087069,33.9498138,3,70 mph,,I 10,East
+-117.0076433,33.9490524,3,70 mph,,I 10,East
+-117.0068466,33.9484626,3,70 mph,,I 10,East
+-117.0062332,33.9479962,3,70 mph,,I 10,East
+-117.0057726,33.9475853,3,70 mph,,I 10,East
+-117.0481311,33.9764323,3,70 mph,,I 10,East
+-117.0475404,33.9759424,3,70 mph,,I 10,East
+-117.0467694,33.9753893,3,70 mph,,I 10,East
+-117.0459891,33.9749004,3,70 mph,,I 10,East
+-117.0450533,33.9744045,3,70 mph,,I 10,East
+-117.0432994,33.9736274,3,70 mph,,I 10,East
+-117.0424658,33.9732323,3,70 mph,,I 10,East
+-117.0417885,33.9728322,3,70 mph,,I 10,East
+-117.0411091,33.9723673,3,70 mph,,I 10,East
+-117.0404794,33.9718734,3,70 mph,,I 10,East
+-117.038954,33.9705656,3,70 mph,,I 10,East
+-117.038954,33.9705656,3,70 mph,,I 10,East
+-117.0374579,33.9692678,3,70 mph,,I 10,East
+-117.0367916,33.9687583,3,70 mph,,I 10,East
+-117.0361842,33.9683337,3,70 mph,,I 10,East
+-117.0351194,33.9677091,3,70 mph,,I 10,East
+-117.0341615,33.9672368,3,70 mph,,I 10,East
+-117.0332321,33.9667544,3,70 mph,,I 10,East
+-117.0605128,33.9958522,3,70 mph,,I 10,East
+-117.060054,33.9951774,3,70 mph,,I 10,East
+-117.0583682,33.9927518,3,70 mph,,I 10,East
+-117.0580084,33.9922545,3,70 mph,,I 10,East
+-117.0564918,33.9899934,3,70 mph,,I 10,East
+-117.0564918,33.9899934,3,70 mph,,I 10,East
+-117.0553002,33.9882621,3,70 mph,,I 10,East
+-117.054401,33.9868349,3,70 mph,,I 10,East
+-117.053785,33.9857849,3,70 mph,,I 10,East
+-117.0529813,33.9842704,3,70 mph,,I 10,East
+-117.0524211,33.9831261,3,70 mph,,I 10,East
+-117.0520528,33.9824429,3,70 mph,,I 10,East
+-117.0509289,33.9801663,3,70 mph,,I 10,East
+-117.0503759,33.9790917,3,70 mph,,I 10,East
+-117.0497463,33.9781888,3,70 mph,,I 10,East
+-117.0493624,33.9776909,3,70 mph,,I 10,East
+-117.0489706,33.9772432,3,70 mph,,I 10,East
+-117.0481311,33.9764323,3,70 mph,,I 10,East
+-117.0632222,34.0003932,3,70 mph,,I 10,East
+-117.0629693,33.9999046,3,70 mph,,I 10,East
+-117.0626433,33.9993071,3,70 mph,,I 10,East
+-117.0620587,33.9982237,3,70 mph,,I 10,East
+-117.0615753,33.9974149,3,70 mph,,I 10,East
+-117.0605128,33.9958522,3,70 mph,,I 10,East
+-117.0667379,34.0068536,3,70 mph,,I 10,East
+-117.0660791,34.0056716,3,70 mph,,I 10,East
+-117.0652014,34.0040416,3,70 mph,,I 10,East
+-117.0650445,34.0037126,3,70 mph,,I 10,East
+-117.0648744,34.0034049,3,70 mph,,I 10,East
+-117.0632222,34.0003932,3,70 mph,,I 10,East
+-117.0057726,33.9475853,3,70 mph,,I 10,East
+-117.0053283,33.9471889,3,70 mph,,I 10,East
+-117.0050138,33.9468927,3,70 mph,,I 10,East
+-117.0047561,33.9466291,3,70 mph,,I 10,East
+-117.0043463,33.9462467,3,70 mph,,I 10,East
+-117.0032523,33.9450059,3,70 mph,,I 10,East
+-117.0017346,33.9432061,3,70 mph,,I 10,East
+-117.0012543,33.9426156,3,70 mph,,I 10,East
+-117.0009099,33.9421993,3,70 mph,,I 10,East
+-117.0009099,33.9421993,3,70 mph,,I 10,East
+-117.0006531,33.9418888,3,70 mph,,I 10,East
+-116.9987036,33.9395447,3,70 mph,,I 10,East
+-116.9978597,33.9385874,3,70 mph,,I 10,East
+-116.9974181,33.9381276,3,70 mph,,I 10,East
+-116.9971045,33.9378334,3,70 mph,,I 10,East
+-116.9969168,33.9376616,3,70 mph,,I 10,East
+-116.9967138,33.9374889,3,70 mph,,I 10,East
+-116.9965188,33.9373307,3,70 mph,,I 10,East
+-116.9962612,33.9371338,3,70 mph,,I 10,East
+-116.9960409,33.9369745,3,70 mph,,I 10,East
+-116.9946774,33.9360241,3,70 mph,,I 10,East
+-116.9946774,33.9360241,3,70 mph,,I 10,East
+-116.9936586,33.9352845,3,70 mph,,I 10,East
+-116.9924818,33.9344587,3,70 mph,,I 10,East
+-116.9918209,33.9340172,3,70 mph,,I 10,East
+-116.9912544,33.9336184,3,70 mph,,I 10,East
+-116.9907823,33.9333122,3,70 mph,,I 10,East
+-116.9903189,33.9330487,3,70 mph,,I 10,East
+-116.9898125,33.9327994,3,70 mph,,I 10,East
+-116.989148,33.932514,3,70 mph,,I 10,East
+-116.9881018,33.9320816,3,70 mph,,I 10,East
+-117.0816705,34.0139985,3,70 mph,,I 10,East
+-117.0734659,34.0122594,3,70 mph,,I 10,East
+-117.0725773,34.0119904,3,70 mph,,I 10,East
+-117.0725773,34.0119904,3,70 mph,,I 10,East
+-117.0724897,34.0119639,3,70 mph,,I 10,East
+-117.0716756,34.0116617,3,70 mph,,I 10,East
+-117.0708963,34.0112895,3,70 mph,,I 10,East
+-117.0702529,34.0109176,3,70 mph,,I 10,East
+-117.0695824,34.0104532,3,70 mph,,I 10,East
+-117.0689468,34.0099475,3,70 mph,,I 10,East
+-117.0683879,34.009393,3,70 mph,,I 10,East
+-117.0679136,34.0088382,3,70 mph,,I 10,East
+-117.0674973,34.0082396,3,70 mph,,I 10,East
+-117.0671828,34.0077394,3,70 mph,,I 10,East
+-117.0667379,34.0068536,3,70 mph,,I 10,East
+-117.2199723,34.0664964,6,65 mph,,I 10,East
+-117.2177895,34.0664705,6,65 mph,,I 10,East
+-117.2171304,34.0664713,6,65 mph,,I 10,East
+-117.2143315,34.0664826,6,65 mph,,I 10,East
+-117.2502304,34.0664912,4,65 mph,,I 10,East
+-117.2439359,34.066498,4,65 mph,,I 10,East
+-117.2434257,34.0664959,4,65 mph,,I 10,East
+-117.2379537,34.0664984,4,65 mph,,I 10,East
+-117.161334,34.0518826,4,65 mph,,I 10,East
+-117.1611746,34.0516976,4,65 mph,,I 10,East
+-117.1609153,34.0513693,4,65 mph,,I 10,East
+-117.1591909,34.0492089,4,65 mph,,I 10,East
+-117.158832,34.0486782,4,65 mph,,I 10,East
+-117.1586079,34.0482971,4,65 mph,,I 10,East
+-117.15817,34.0474702,4,65 mph,,I 10,East
+-117.157475,34.0458642,4,65 mph,,I 10,East
+-117.1568143,34.0442538,4,65 mph,,I 10,East
+-117.3895088,34.0681367,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3876679,34.068102,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3867323,34.0681234,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3792562,34.0683138,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3758816,34.0683892,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3747669,34.0684184,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.1705459,34.0582508,4,65 mph,,I 10,East
+-117.1671244,34.0565362,4,65 mph,,I 10,East
+-117.1665417,34.0562482,4,65 mph,,I 10,East
+-117.1656466,34.0557909,4,65 mph,,I 10,East
+-117.1649294,34.0553801,4,65 mph,,I 10,East
+-117.1643748,34.0550166,4,65 mph,,I 10,East
+-117.163847,34.0546116,4,65 mph,,I 10,East
+-117.1634527,34.0542937,4,65 mph,,I 10,East
+-117.1630713,34.0539411,4,65 mph,,I 10,East
+-117.162513,34.0533585,4,65 mph,,I 10,East
+-117.1620806,34.0528592,4,65 mph,,I 10,East
+-117.161334,34.0518826,4,65 mph,,I 10,East
+-117.3082849,34.0650402,5,65 mph,San Bernardino Freeway,I 10,East
+-117.3075973,34.0650678,5,65 mph,San Bernardino Freeway,I 10,East
+-117.3059882,34.0651005,5,65 mph,San Bernardino Freeway,I 10,East
+-117.3054068,34.0651125,5,65 mph,San Bernardino Freeway,I 10,East
+-117.3051719,34.0651133,5,65 mph,San Bernardino Freeway,I 10,East
+-117.2379537,34.0664984,"['5', '4']",65 mph,,I 10,East
+-117.2377545,34.0665013,"['5', '4']",65 mph,,I 10,East
+-117.2365362,34.0665037,"['5', '4']",65 mph,,I 10,East
+-117.2343675,34.0664892,"['5', '4']",65 mph,,I 10,East
+-117.4598667,34.0664337,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4589099,34.0664583,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4579012,34.0665073,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4567271,34.0665939,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4549586,34.0667594,4,65 mph,San Bernardino Freeway,I 10,East
+-117.454211,34.0668092,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4533382,34.0668348,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4524596,34.0668044,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4508519,34.0667282,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4495006,34.066705,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4478013,34.0667113,4,65 mph,San Bernardino Freeway,I 10,East
+-117.357831,34.0688052,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3545179,34.068855,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3527137,34.0688499,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3520288,34.0688479,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3495397,34.0688052,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3479549,34.0687157,4,65 mph,San Bernardino Freeway,I 10,East
+-117.2551517,34.0657154,5,65 mph,,I 10,East
+-117.2533544,34.0661126,5,65 mph,,I 10,East
+-117.2525306,34.0662794,5,65 mph,,I 10,East
+-117.2517777,34.0663815,5,65 mph,,I 10,East
+-117.2511512,34.0664464,5,65 mph,,I 10,East
+-117.2505227,34.0664833,5,65 mph,,I 10,East
+-117.2502304,34.0664912,5,65 mph,,I 10,East
+-117.2667952,34.0637349,4,65 mph,,I 10,East
+-117.2663177,34.063753,4,65 mph,,I 10,East
+-117.2652185,34.0638257,4,65 mph,,I 10,East
+-117.2643774,34.0639037,4,65 mph,,I 10,East
+-117.2635344,34.063996,4,65 mph,,I 10,East
+-117.2624929,34.0641379,4,65 mph,,I 10,East
+-117.2614617,34.064305,4,65 mph,,I 10,East
+-117.2609413,34.0644021,4,65 mph,,I 10,East
+-117.2602033,34.0645483,4,65 mph,,I 10,East
+-117.2551517,34.0657154,4,65 mph,,I 10,East
+-117.2143315,34.0664826,4,65 mph,,I 10,East
+-117.210156,34.0664997,4,65 mph,,I 10,East
+-117.2085524,34.0665004,4,65 mph,,I 10,East
+-117.1906003,34.0616551,"['5', '4']",65 mph,,I 10,East
+-117.1898599,34.0616664,"['5', '4']",65 mph,,I 10,East
+-117.187203,34.0616887,"['5', '4']",65 mph,,I 10,East
+-117.1867688,34.0617048,"['5', '4']",65 mph,,I 10,East
+-117.1862188,34.061707,"['5', '4']",65 mph,,I 10,East
+-117.1829317,34.0617246,"['5', '4']",65 mph,,I 10,East
+-117.1821801,34.0617229,"['5', '4']",65 mph,,I 10,East
+-117.1806124,34.0617273,"['5', '4']",65 mph,,I 10,East
+-117.180124,34.061699,"['5', '4']",65 mph,,I 10,East
+-117.1792593,34.0616234,"['5', '4']",65 mph,,I 10,East
+-117.1783181,34.0614916,"['5', '4']",65 mph,,I 10,East
+-117.1777437,34.0613882,"['5', '4']",65 mph,,I 10,East
+-117.1771714,34.0612445,"['5', '4']",65 mph,,I 10,East
+-117.1757687,34.0607822,"['5', '4']",65 mph,,I 10,East
+-117.4812264,34.0659556,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4805404,34.0659694,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4735009,34.066134,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4723484,34.066161,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.462151,34.0663898,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4609945,34.0664098,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4598667,34.0664337,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.1232309,34.0275147,4,65 mph,,I 10,East
+-117.1208085,34.0271176,4,65 mph,,I 10,East
+-117.119607,34.0267659,4,65 mph,,I 10,East
+-117.1186192,34.0263813,4,65 mph,,I 10,East
+-117.1172964,34.0257806,4,65 mph,,I 10,East
+-117.1169085,34.025628,4,65 mph,,I 10,East
+-117.1169085,34.0256275,4,65 mph,,I 10,East
+-117.1164737,34.0254798,4,65 mph,,I 10,East
+-117.1164737,34.0254798,4,65 mph,,I 10,East
+-117.1149387,34.0250415,4,65 mph,,I 10,East
+-117.108371,34.0236782,4,65 mph,,I 10,East
+-117.1073754,34.0233936,4,65 mph,,I 10,East
+-117.1064656,34.0230237,4,65 mph,,I 10,East
+-117.1055993,34.0225934,4,65 mph,,I 10,East
+-117.0996822,34.0188957,4,65 mph,,I 10,East
+-117.3653176,34.0686317,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3649709,34.0686345,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3649549,34.0686346,4,65 mph,San Bernardino Freeway,I 10,East
+-117.357831,34.0688052,4,65 mph,San Bernardino Freeway,I 10,East
+-117.2085524,34.0665004,4,65 mph,,I 10,East
+-117.2052866,34.0665023,4,65 mph,,I 10,East
+-117.3051719,34.0651133,4,65 mph,,I 10,East
+-117.3049519,34.0651143,4,65 mph,,I 10,East
+-117.3046008,34.0651129,4,65 mph,,I 10,East
+-117.3044269,34.0651045,4,65 mph,,I 10,East
+-117.3042719,34.0650971,4,65 mph,,I 10,East
+-117.3040738,34.0650846,4,65 mph,,I 10,East
+-117.3038486,34.0650693,4,65 mph,,I 10,East
+-117.3034703,34.0650374,4,65 mph,,I 10,East
+-117.3031212,34.0650046,4,65 mph,,I 10,East
+-117.3028492,34.0649726,4,65 mph,,I 10,East
+-117.3025703,34.0649368,4,65 mph,,I 10,East
+-117.3023446,34.0649067,4,65 mph,,I 10,East
+-117.3021516,34.0648799,4,65 mph,,I 10,East
+-117.3016394,34.0648077,4,65 mph,,I 10,East
+-117.3011065,34.06473,4,65 mph,,I 10,East
+-117.2998495,34.0645548,4,65 mph,,I 10,East
+-117.299022,34.0644397,4,65 mph,,I 10,East
+-117.2938004,34.0637048,4,65 mph,,I 10,East
+-117.2927893,34.0635629,4,65 mph,,I 10,East
+-117.2923724,34.0635029,4,65 mph,,I 10,East
+-117.2919478,34.0634445,4,65 mph,,I 10,East
+-117.2917507,34.0634211,4,65 mph,,I 10,East
+-117.2916058,34.063405,4,65 mph,,I 10,East
+-117.2914203,34.0633873,4,65 mph,,I 10,East
+-117.1568143,34.0442538,4,65 mph,,I 10,East
+-117.155882,34.0421686,4,65 mph,,I 10,East
+-117.1556221,34.0416325,4,65 mph,,I 10,East
+-117.1554152,34.0412733,4,65 mph,,I 10,East
+-117.1552065,34.0409467,4,65 mph,,I 10,East
+-117.1548054,34.0403938,4,65 mph,,I 10,East
+-117.1543484,34.039816,4,65 mph,,I 10,East
+-117.153812,34.0392816,4,65 mph,,I 10,East
+-117.1533349,34.0388487,4,65 mph,,I 10,East
+-117.1524768,34.0382255,4,65 mph,,I 10,East
+-117.1501105,34.0368588,4,65 mph,,I 10,East
+-117.2820234,34.0639082,4,65 mph,,I 10,East
+-117.2808023,34.0640081,4,65 mph,,I 10,East
+-117.2797064,34.0640989,4,65 mph,,I 10,East
+-117.2789955,34.0641494,4,65 mph,,I 10,East
+-117.2784528,34.0641627,4,65 mph,,I 10,East
+-117.277937,34.0641514,4,65 mph,,I 10,East
+-117.2775665,34.0641315,4,65 mph,,I 10,East
+-117.2771847,34.064092,4,65 mph,,I 10,East
+-117.2767082,34.0640316,4,65 mph,,I 10,East
+-117.2754466,34.063859,4,65 mph,,I 10,East
+-117.2746633,34.0637679,4,65 mph,,I 10,East
+-117.2739817,34.0637173,4,65 mph,,I 10,East
+-117.4478013,34.0667113,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4466956,34.0667403,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4404839,34.0668999,5,65 mph,San Bernardino Freeway,I 10,East
+-117.2878864,34.0634878,6,65 mph,,I 10,East
+-117.2877233,34.0634987,6,65 mph,,I 10,East
+-117.2872149,34.0635319,6,65 mph,,I 10,East
+-117.2867713,34.0635636,6,65 mph,,I 10,East
+-117.2863086,34.0635956,6,65 mph,,I 10,East
+-117.285727,34.0636357,6,65 mph,,I 10,East
+-117.1501105,34.0368588,4,65 mph,,I 10,East
+-117.14842,34.0360319,4,65 mph,,I 10,East
+-117.146403,34.0352709,4,65 mph,,I 10,East
+-117.1409826,34.0337427,4,65 mph,,I 10,East
+-117.1381846,34.0328536,4,65 mph,,I 10,East
+-117.1354343,34.0316216,4,65 mph,,I 10,East
+-117.2914203,34.0633873,4,65 mph,,I 10,East
+-117.2913122,34.0633796,4,65 mph,,I 10,East
+-117.291083,34.0633638,4,65 mph,,I 10,East
+-117.2909776,34.0633585,4,65 mph,,I 10,East
+-117.2908558,34.0633532,4,65 mph,,I 10,East
+-117.2906758,34.0633476,4,65 mph,,I 10,East
+-117.2905242,34.0633452,4,65 mph,,I 10,East
+-117.290364,34.0633444,4,65 mph,,I 10,East
+-117.290188,34.0633457,4,65 mph,,I 10,East
+-117.2900467,34.063349,4,65 mph,,I 10,East
+-117.2898878,34.0633549,4,65 mph,,I 10,East
+-117.289683,34.0633654,4,65 mph,,I 10,East
+-117.2894518,34.0633815,4,65 mph,,I 10,East
+-117.2891655,34.0634008,4,65 mph,,I 10,East
+-117.2878864,34.0634878,4,65 mph,,I 10,East
+-117.4040843,34.067735,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4027741,34.0678816,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4008649,34.0680281,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3977787,34.068294,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3956501,34.0683864,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3941383,34.0683702,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3906204,34.0681855,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3895088,34.0681367,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3747669,34.0684184,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3745443,34.06843,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3735967,34.0685077,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3726475,34.068614,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3718845,34.0686955,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3717612,34.0687067,4,65 mph,San Bernardino Freeway,I 10,East
+-117.370594,34.0687839,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3694267,34.0687839,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3670578,34.0686701,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3653176,34.0686317,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3177043,34.0651134,5,65 mph,San Bernardino Freeway,I 10,East
+-117.3154925,34.0648906,5,65 mph,San Bernardino Freeway,I 10,East
+-117.285727,34.0636357,5,65 mph,,I 10,East
+-117.2851817,34.0636727,5,65 mph,,I 10,East
+-117.2846634,34.0637089,5,65 mph,,I 10,East
+-117.2836539,34.0637781,5,65 mph,,I 10,East
+-117.283192,34.063813,5,65 mph,,I 10,East
+-117.2820234,34.0639082,5,65 mph,,I 10,East
+-117.194025,34.0620762,5,65 mph,,I 10,East
+-117.1938312,34.0620302,5,65 mph,,I 10,East
+-117.1933781,34.061938,5,65 mph,,I 10,East
+-117.1928797,34.0618383,5,65 mph,,I 10,East
+-117.1921728,34.0617503,5,65 mph,,I 10,East
+-117.1916756,34.0616933,5,65 mph,,I 10,East
+-117.1910978,34.0616633,5,65 mph,,I 10,East
+-117.1906003,34.0616551,5,65 mph,,I 10,East
+-117.2052866,34.0665023,4,65 mph,,I 10,East
+-117.204507,34.0664788,4,65 mph,,I 10,East
+-117.2037762,34.0664019,4,65 mph,,I 10,East
+-117.2031539,34.066307,4,65 mph,,I 10,East
+-117.2025553,34.0661722,4,65 mph,,I 10,East
+-117.2019594,34.0660079,4,65 mph,,I 10,East
+-117.2014527,34.0658379,4,65 mph,,I 10,East
+-117.2009716,34.065649,4,65 mph,,I 10,East
+-117.2000468,34.065212,4,65 mph,,I 10,East
+-117.1975394,34.0637201,4,65 mph,,I 10,East
+-117.2343675,34.0664892,"['5', '4']",65 mph,,I 10,East
+-117.2274841,34.0664968,"['5', '4']",65 mph,,I 10,East
+-117.2264749,34.0664979,"['5', '4']",65 mph,,I 10,East
+-117.225889,34.0664998,"['5', '4']",65 mph,,I 10,East
+-117.2199723,34.0664964,"['5', '4']",65 mph,,I 10,East
+-117.4404839,34.0668999,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4395261,34.0669526,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4385047,34.0670422,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4368747,34.0672027,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4360726,34.0672533,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4352599,34.0672727,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4344946,34.0672597,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4337257,34.0672242,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4316132,34.0671209,4,65 mph,San Bernardino Freeway,I 10,East
+-117.43036,34.067128,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4294219,34.0671497,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4294219,34.0671497,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4174264,34.0674268,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4051258,34.067711,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.4040843,34.067735,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3479549,34.0687157,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3472205,34.0686767,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3427849,34.0684345,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3411284,34.0683339,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3263777,34.0661067,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3246335,34.0658921,4,65 mph,San Bernardino Freeway,I 10,East
+-117.32444,34.0658636,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3231131,34.0656692,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3228439,34.0656323,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3213615,34.0654635,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3177043,34.0651134,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5128031,34.0668824,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5122183,34.0667708,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5112398,34.0665646,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5079788,34.0658605,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5062536,34.0656258,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5052928,34.065519,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5044294,34.0654542,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5037308,34.0654247,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5030128,34.065417,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5020908,34.0654338,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4994083,34.0655018,5,65 mph,San Bernardino Freeway,I 10,East
+-117.498217,34.065535,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4963017,34.0655836,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4952938,34.0656069,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4937444,34.0656427,5,65 mph,San Bernardino Freeway,I 10,East
+-117.4937444,34.0656427,4,65 mph,San Bernardino Freeway,I 10,East
+-117.492847,34.0656839,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4917257,34.0658035,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4904732,34.0659295,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4892672,34.0660304,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4885484,34.0660413,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4878107,34.066029,4,65 mph,San Bernardino Freeway,I 10,East
+-117.486262,34.0659617,4,65 mph,San Bernardino Freeway,I 10,East
+-117.484956,34.0659121,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4835177,34.065908,4,65 mph,San Bernardino Freeway,I 10,East
+-117.4812264,34.0659556,4,65 mph,San Bernardino Freeway,I 10,East
+-117.1975394,34.0637201,4,65 mph,,I 10,East
+-117.1965371,34.0631107,4,65 mph,,I 10,East
+-117.1959343,34.062807,4,65 mph,,I 10,East
+-117.195629,34.0626674,4,65 mph,,I 10,East
+-117.1953207,34.0625342,4,65 mph,,I 10,East
+-117.194025,34.0620762,4,65 mph,,I 10,East
+-117.1757687,34.0607822,4,65 mph,,I 10,East
+-117.1753008,34.0605955,4,65 mph,,I 10,East
+-117.1747215,34.0603373,4,65 mph,,I 10,East
+-117.174117,34.0600314,4,65 mph,,I 10,East
+-117.173525,34.0597383,4,65 mph,,I 10,East
+-117.1725861,34.0592777,4,65 mph,,I 10,East
+-117.1713867,34.0586705,4,65 mph,,I 10,East
+-117.1705459,34.0582508,4,65 mph,,I 10,East
+-117.2739817,34.0637173,5,65 mph,,I 10,East
+-117.2733919,34.063695,5,65 mph,,I 10,East
+-117.2722691,34.0636876,5,65 mph,,I 10,East
+-117.2702043,34.0636922,5,65 mph,,I 10,East
+-117.2679787,34.0637201,5,65 mph,,I 10,East
+-117.2667952,34.0637349,5,65 mph,,I 10,East
+-117.1354343,34.0316216,5,65 mph,,I 10,East
+-117.1337385,34.0308619,5,65 mph,,I 10,East
+-117.1309537,34.0298278,5,65 mph,,I 10,East
+-117.129383,34.0291022,5,65 mph,,I 10,East
+-117.1287061,34.0287624,5,65 mph,,I 10,East
+-117.1278809,34.0283482,5,65 mph,,I 10,East
+-117.1268338,34.0280566,5,65 mph,,I 10,East
+-117.1251987,34.0278231,5,65 mph,,I 10,East
+-117.1241498,34.0276531,5,65 mph,,I 10,East
+-117.1232309,34.0275147,5,65 mph,,I 10,East
+-117.3154925,34.0648906,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3145222,34.0648137,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3137709,34.0647772,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3131888,34.0647734,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3129337,34.0647758,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3126709,34.0647815,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3126573,34.0647821,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3123858,34.0647946,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3120832,34.0648117,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3113525,34.0648591,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3098578,34.0649538,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3090694,34.0650012,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3082849,34.0650402,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.3313094,34.066403,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3292923,34.0661176,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3287543,34.0660738,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3281732,34.0660632,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3277608,34.0660855,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3274297,34.0661034,4,65 mph,San Bernardino Freeway,I 10,East
+-117.326702,34.0661281,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3263777,34.0661067,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3411284,34.0683339,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3404344,34.0682987,4,65 mph,San Bernardino Freeway,I 10,East
+-117.339489,34.0682364,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3386478,34.0681298,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3377895,34.067952,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3366995,34.0676463,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3353605,34.067177,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3345623,34.0669353,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3336353,34.0667149,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3324938,34.0665656,4,65 mph,San Bernardino Freeway,I 10,East
+-117.3313094,34.066403,4,65 mph,San Bernardino Freeway,I 10,East
+-117.8720253,34.0716746,7,65 mph,San Bernardino Freeway,I 10,East
+-117.8702804,34.0716367,7,65 mph,San Bernardino Freeway,I 10,East
+-117.869548,34.0716144,7,65 mph,San Bernardino Freeway,I 10,East
+-117.869041,34.0715801,7,65 mph,San Bernardino Freeway,I 10,East
+-117.81727,34.0635255,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8140166,34.0636547,6,65 mph,San Bernardino Freeway,I 10,East
+-117.7837196,34.0727377,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7820454,34.0727395,5,65 mph,San Bernardino Freeway,I 10,East
+-117.780415,34.0727677,5,65 mph,San Bernardino Freeway,I 10,East
+-117.779113,34.0727877,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7777044,34.0727462,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5402188,34.0672767,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5373607,34.0672645,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5502477,34.0672702,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5425449,34.0672742,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5420617,34.0672745,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5418453,34.0672737,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5413386,34.0672701,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5402188,34.0672767,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5567668,34.0673255,6,65 mph,San Bernardino Freeway,I 10,East
+-117.55379,34.0672732,6,65 mph,San Bernardino Freeway,I 10,East
+-117.553572,34.0672694,6,65 mph,San Bernardino Freeway,I 10,East
+-117.5804726,34.0674207,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5800368,34.0674159,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6214864,34.0763819,5,65 mph,San Bernardino Freeway,I 10,East
+-117.617722,34.0742988,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6164458,34.0735481,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6134484,34.071785,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5646517,34.0673446,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5567668,34.0673255,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6858001,34.0867939,5,65 mph,San Bernardino Freeway,I 10,East
+-117.685554,34.0868694,5,65 mph,San Bernardino Freeway,I 10,East
+-117.684868,34.0870003,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6842922,34.0870816,5,65 mph,San Bernardino Freeway,I 10,East
+-117.683288,34.0871527,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6776918,34.0871456,5,65 mph,San Bernardino Freeway,I 10,East
+-117.674839,34.087175,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5749715,34.0673604,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5738282,34.0673572,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5710996,34.0673707,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5710996,34.0673707,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5673093,34.0673535,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5646517,34.0673446,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5874382,34.0674485,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5866511,34.0674684,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5844656,34.0674287,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5804726,34.0674207,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6944802,34.0831942,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6932596,34.0837324,5,65 mph,San Bernardino Freeway,I 10,East
+-117.553572,34.0672694,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5527641,34.0672741,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6932596,34.0837324,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6900705,34.0851443,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6889079,34.0856675,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6878457,34.0861444,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6870956,34.086422,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6858001,34.0867939,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6451508,34.0872031,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6439872,34.0871381,5,65 mph,San Bernardino Freeway,I 10,East
+-117.642676,34.0870109,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6412445,34.0867449,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6400845,34.0864459,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6392686,34.0861812,5,65 mph,San Bernardino Freeway,I 10,East
+-117.605833,34.0684785,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.6051165,34.0682854,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.6040215,34.0680605,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.6021935,34.0677839,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.6013153,34.067682,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.600995,34.0676528,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.600995,34.0676528,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5996389,34.067566,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5993144,34.067553,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5947522,34.0674929,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5936974,34.0675074,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0459261,34.0695067,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.045118,34.0692098,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0446565,34.0690915,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0442277,34.0689731,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.043856,34.0688902,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0423545,34.0686788,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.042087,34.0686457,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0396175,34.0683061,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0392995,34.0682698,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0391984,34.0682618,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0355257,34.0679012,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0337548,34.0678321,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0319684,34.0678222,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0307515,34.067838,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0305916,34.0678406,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0304307,34.0678451,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0295757,34.0678467,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0391984,34.0682618,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0361514,34.0679466,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0358219,34.0679195,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-118.0355257,34.0679012,"['5', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.9969093,34.0653526,7,65 mph,San Bernardino Freeway,I 10,East
+-117.9937845,34.0658152,7,65 mph,San Bernardino Freeway,I 10,East
+-118.0025185,34.0646736,5,65 mph,San Bernardino Freeway,I 10,East
+-118.002065,34.0647455,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0014092,34.0648366,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0008761,34.0649055,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0006391,34.0649495,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9989364,34.0651194,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9979572,34.0652154,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9969093,34.0653526,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7777044,34.0727462,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7768961,34.0727219,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7759176,34.0726437,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7747503,34.0725228,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7637761,34.0708225,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8098766,34.0641174,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8081724,34.0645289,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8069138,34.0649715,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8056941,34.0654937,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8027868,34.0667867,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.7848785,34.0727601,6,65 mph,San Bernardino Freeway,I 10,East
+-117.7837196,34.0727377,6,65 mph,San Bernardino Freeway,I 10,East
+-117.5373607,34.0672645,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.5367742,34.0672592,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.531513,34.0672352,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.5304099,34.067236,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.5304099,34.067236,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5281951,34.0672895,4,65 mph,San Bernardino Freeway,I 10,East
+-117.526601,34.0673258,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5264639,34.0673289,4,65 mph,San Bernardino Freeway,I 10,East
+-117.524389,34.0673751,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5236118,34.0674104,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5220939,34.0674471,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5178729,34.0675345,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5167592,34.0675082,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5154178,34.0673939,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5145866,34.0672686,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5137482,34.0670926,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5135658,34.0670552,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5134285,34.0670262,4,65 mph,San Bernardino Freeway,I 10,East
+-117.5128031,34.0668824,4,65 mph,San Bernardino Freeway,I 10,East
+-117.9751254,34.0683157,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9741392,34.0684665,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9738567,34.0685035,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.969852,34.0690257,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9692607,34.0690962,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9640901,34.0697832,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9629203,34.0699237,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9629203,34.0699237,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9624066,34.0699864,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9620542,34.0700268,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9584068,34.070442,5,65 mph,San Bernardino Freeway,I 10,East
+-117.948817,34.0714345,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9460728,34.0717687,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9458417,34.0717935,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.945611,34.0718182,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9430502,34.072088,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9423386,34.0721525,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9408901,34.0722858,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9408901,34.0722858,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9401348,34.0723498,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.936337,34.0723244,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9360945,34.0723228,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9358776,34.0723213,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.931085,34.0722557,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9305728,34.0722487,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9305728,34.0722487,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9268775,34.0722218,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9264891,34.072218,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9247196,34.0722005,5,65 mph,San Bernardino Freeway,I 10,East
+-117.921958,34.0721674,5,65 mph,San Bernardino Freeway,I 10,East
+-117.921958,34.0721674,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9167963,34.0721436,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9163171,34.0721388,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9126133,34.0720999,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9114079,34.0720874,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9114079,34.0720874,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9078868,34.0720547,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9073569,34.0720547,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9067683,34.0720508,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8940131,34.0719115,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8904753,34.0718899,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8899346,34.0718844,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8871486,34.0718578,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8871486,34.0718578,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8841685,34.0718031,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8835101,34.071791,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8835101,34.071791,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8782435,34.0717189,5,65 mph,San Bernardino Freeway,I 10,East
+-117.869041,34.0715801,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8678054,34.0713739,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8668441,34.0711251,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8659686,34.0708336,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8649546,34.0703988,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8643916,34.0701049,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8634202,34.0696073,"['5', '6']",65 mph,San Bernardino Freeway,I 10,East
+-117.8609732,34.0684447,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8603553,34.0682456,6,65 mph,San Bernardino Freeway,I 10,East
+-117.859557,34.0680607,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8585528,34.067947,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8576001,34.0679114,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8565873,34.0679754,6,65 mph,San Bernardino Freeway,I 10,East
+-117.853875,34.0682669,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8526133,34.0683238,6,65 mph,San Bernardino Freeway,I 10,East
+-117.851446,34.068317,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8505253,34.0682524,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8478557,34.0681322,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8468965,34.0681044,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8457984,34.0681816,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8430711,34.0685927,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8634202,34.0696073,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8624753,34.0691059,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8618126,34.0687824,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8609732,34.0684447,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8430711,34.0685927,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8423108,34.0686991,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8415554,34.0687723,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8409735,34.0687818,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8403531,34.0687492,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8397398,34.0686802,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8393697,34.0686219,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8388873,34.0685211,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8384615,34.0684085,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8380605,34.0682959,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8372561,34.0680576,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8356237,34.0675548,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8356237,34.0675548,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8342354,34.0671666,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8335547,34.0669652,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8329215,34.0667588,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8325076,34.0666044,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8321979,34.0664778,6,65 mph,San Bernardino Freeway,I 10,East
+-117.831915,34.066347,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8315426,34.0661654,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8310823,34.065925,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8306469,34.0656805,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8296613,34.065116,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8291963,34.0648782,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8288776,34.0647274,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8283533,34.0645137,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8278424,34.0643309,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8273076,34.0641707,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8268058,34.0640465,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8261505,34.0639168,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8254492,34.0638187,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8242469,34.0637289,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8226802,34.0636215,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8211599,34.0635208,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8198319,34.0634828,6,65 mph,San Bernardino Freeway,I 10,East
+-117.81727,34.0635255,6,65 mph,San Bernardino Freeway,I 10,East
+-117.7227498,34.0815861,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7194287,34.0816254,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7191302,34.0816272,5,65 mph,San Bernardino Freeway,I 10,East
+-117.715324,34.0817007,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7038201,34.081643,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7034533,34.0816262,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7029239,34.0816018,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7021626,34.0815804,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7014269,34.0815938,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7014269,34.0815938,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7003596,34.0816663,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6997155,34.0817361,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6990908,34.0818166,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6984357,34.0819177,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6979514,34.0820129,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6970108,34.0822787,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6963653,34.0824865,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6944802,34.0831942,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7014269,34.0815938,,,I-10 Express Lanes,I 10,East
+-117.7011064,34.0817284,,,I-10 Express Lanes,I 10,East
+-117.7005461,34.0817677,,,I-10 Express Lanes,I 10,East
+-117.6998294,34.0818397,,,I-10 Express Lanes,I 10,East
+-117.6992944,34.08191,,,I-10 Express Lanes,I 10,East
+-117.6987593,34.0819962,,,I-10 Express Lanes,I 10,East
+-117.698472,34.082053,,,I-10 Express Lanes,I 10,East
+-117.6980036,34.082142,,,I-10 Express Lanes,I 10,East
+-117.6976358,34.082227,,,I-10 Express Lanes,I 10,East
+-117.697034,34.082392,,,I-10 Express Lanes,I 10,East
+-117.6964418,34.0825808,,,I-10 Express Lanes,I 10,East
+-117.6957903,34.0828008,,,I-10 Express Lanes,I 10,East
+-117.6951317,34.0830422,,,I-10 Express Lanes,I 10,East
+-117.6939335,34.0835761,,,I-10 Express Lanes,I 10,East
+-117.6918037,34.0845135,,,I-10 Express Lanes,I 10,East
+-117.6900396,34.0852851,,,I-10 Express Lanes,I 10,East
+-117.6889377,34.0857737,,,I-10 Express Lanes,I 10,East
+-117.688494,34.0859718,,,I-10 Express Lanes,I 10,East
+-117.6871344,34.0865119,,,I-10 Express Lanes,I 10,East
+-117.6862293,34.0867915,,,I-10 Express Lanes,I 10,East
+-117.6854051,34.0869897,,,I-10 Express Lanes,I 10,East
+-117.6845769,34.0871272,,,I-10 Express Lanes,I 10,East
+-117.6840803,34.0871799,,,I-10 Express Lanes,I 10,East
+-117.6835958,34.0872201,,,I-10 Express Lanes,I 10,East
+-117.6766025,34.087249,,,I-10 Express Lanes,I 10,East
+-117.6739108,34.0872639,,,I-10 Express Lanes,I 10,East
+-117.6731765,34.0872617,,,I-10 Express Lanes,I 10,East
+-117.746141,34.0762162,6,65 mph,San Bernardino Freeway,I 10,East
+-117.74575,34.0763868,6,65 mph,San Bernardino Freeway,I 10,East
+-117.7386752,34.0793187,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7369082,34.0800809,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7364979,34.0802516,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7354803,34.0806333,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7343665,34.0809995,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7334166,34.0812242,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7324593,34.0813786,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7315948,34.0814348,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7279922,34.0814953,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7227498,34.0815861,5,65 mph,San Bernardino Freeway,I 10,East
+-117.74575,34.0763868,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7418205,34.0780342,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7413565,34.0782249,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7386752,34.0793187,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6269279,34.0794904,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6262637,34.0791299,5,65 mph,San Bernardino Freeway,I 10,East
+-117.624196,34.0779278,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6231024,34.077286,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6214864,34.0763819,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6134484,34.071785,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6129879,34.0715164,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6115898,34.0707556,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6099682,34.0699232,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6086367,34.0693896,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6072061,34.0689089,5,65 mph,San Bernardino Freeway,I 10,East
+-117.605833,34.0684785,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8764286,34.0717081,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8725101,34.0716828,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8722489,34.0716811,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8720253,34.0716746,6,65 mph,San Bernardino Freeway,I 10,East
+-117.6657808,34.0871545,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6645365,34.087165,5,65 mph,San Bernardino Freeway,I 10,East
+-117.661312,34.0871828,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6571279,34.0872202,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6550327,34.0872081,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0066781,34.0640365,5,65 mph,San Bernardino Freeway,I 10,East
+-118.006157,34.0641122,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0055231,34.0642067,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0036184,34.0644997,5,65 mph,San Bernardino Freeway,I 10,East
+-117.9937845,34.0658152,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9932634,34.0658874,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9883258,34.0665845,6,65 mph,San Bernardino Freeway,I 10,East
+-117.715324,34.0817007,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7150961,34.081697,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7147206,34.0817054,5,65 mph,San Bernardino Freeway,I 10,East
+-117.710361,34.0817569,5,65 mph,San Bernardino Freeway,I 10,East
+-117.70983,34.0817499,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7088256,34.0817309,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7047475,34.0816535,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7043934,34.0816468,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7038201,34.081643,5,65 mph,San Bernardino Freeway,I 10,East
+-117.674839,34.087175,5,65 mph,San Bernardino Freeway,I 10,East
+-117.674044,34.0871812,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6728828,34.0871786,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6550327,34.0872081,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6526357,34.0872074,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6507982,34.0872351,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6485204,34.0872595,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6451508,34.0872031,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8782435,34.0717189,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8764286,34.0717081,6,65 mph,San Bernardino Freeway,I 10,East
+-117.983711,34.0671547,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9814299,34.0675106,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9811949,34.0675426,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9787485,34.0678432,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9787485,34.0678432,6,65 mph,San Bernardino Freeway,I 10,East
+-117.977109,34.0680721,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9768093,34.0681112,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9751254,34.0683157,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9584068,34.070442,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9579704,34.0704941,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9493491,34.0713827,6,65 mph,San Bernardino Freeway,I 10,East
+-117.948817,34.0714345,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0295757,34.0678467,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0292353,34.0678574,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0288306,34.0678662,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0270332,34.0679379,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.026516,34.0679549,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0264132,34.0679588,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8000205,34.0680984,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7993865,34.0683917,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7986635,34.0686998,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7983665,34.0688323,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7934439,34.0711024,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7922968,34.0715739,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7920643,34.0716555,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7916337,34.0718027,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.7911678,34.0719449,"['6', '7']",65 mph,San Bernardino Freeway,I 10,East
+-117.8140166,34.0636547,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8135739,34.0636781,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8130082,34.063707,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8121467,34.0637851,6,65 mph,San Bernardino Freeway,I 10,East
+-117.811834,34.0638177,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8112584,34.0638869,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8107,34.063974,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8098766,34.0641174,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0264132,34.0679588,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0252205,34.0679917,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0242312,34.0680041,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0235866,34.0679784,4,65 mph,San Bernardino Freeway,I 10,East
+-118.023166,34.0679286,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0228313,34.067886,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0225625,34.0678171,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0223321,34.067776,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0220951,34.0677236,4,65 mph,San Bernardino Freeway,I 10,East
+-118.021836,34.0676623,4,65 mph,San Bernardino Freeway,I 10,East
+-118.021578,34.067598,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0212504,34.0675039,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0209372,34.0674029,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0206511,34.0673035,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0203334,34.0671842,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0201294,34.0670994,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0191144,34.0666468,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0180478,34.0661646,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0036184,34.0644997,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0034476,34.0645253,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7637761,34.0708225,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7624139,34.0707431,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7616228,34.0707568,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7609208,34.0708107,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7596154,34.0710489,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7590886,34.0711703,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7571242,34.0718046,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7552602,34.0725261,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7552062,34.0725467,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7551556,34.0725672,5,65 mph,San Bernardino Freeway,I 10,East
+-117.8027868,34.0667867,6,65 mph,San Bernardino Freeway,I 10,East
+-117.8000205,34.0680984,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9038111,34.0720261,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8991404,34.0719781,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8986575,34.0719731,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8946494,34.071918,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.8940131,34.0719115,"['6', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.9067683,34.0720508,4,65 mph,San Bernardino Freeway,I 10,East
+-117.905214,34.0720405,4,65 mph,San Bernardino Freeway,I 10,East
+-117.9038111,34.0720261,4,65 mph,San Bernardino Freeway,I 10,East
+-117.7911678,34.0719449,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7903478,34.0721901,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7896511,34.0723593,5,65 mph,San Bernardino Freeway,I 10,East
+-117.789182,34.0724554,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7887525,34.0725305,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7883689,34.0725872,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7879976,34.0726362,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7876272,34.0726779,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7872629,34.072712,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7869479,34.0727317,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7866421,34.072749,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7862647,34.0727612,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7858966,34.0727658,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7854435,34.0727672,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7848785,34.0727601,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7551556,34.0725672,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7548482,34.0726891,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7526494,34.0735933,5,65 mph,San Bernardino Freeway,I 10,East
+-117.7500366,34.0746353,5,65 mph,San Bernardino Freeway,I 10,East
+-117.746141,34.0762162,5,65 mph,San Bernardino Freeway,I 10,East
+-118.055425,34.0723748,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0544765,34.0723826,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0540776,34.0723744,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0537113,34.0723566,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.053583,34.072349,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0531509,34.0723052,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0526703,34.0722395,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0522682,34.0721645,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0518256,34.0720515,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0513923,34.0719153,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0509812,34.0717569,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0504089,34.0715136,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0499376,34.0713155,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0490104,34.070905,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0480046,34.0704736,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.046713,34.0699104,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0460195,34.0696098,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0456489,34.0694681,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0451045,34.0692841,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0446769,34.0691647,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0442767,34.0690656,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.043858,34.0689732,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0437099,34.0689471,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0430811,34.0688471,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.042426,34.0687693,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0423411,34.0687578,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0420722,34.0687213,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0404365,34.0685077,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0396411,34.0683981,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0393089,34.0683597,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.038038,34.0682219,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0373804,34.068152,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0367778,34.0680992,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0361642,34.0680472,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0358258,34.0680252,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0339695,34.0679398,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0335328,34.0679288,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.032039,34.0679061,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0316631,34.0679069,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0307812,34.0679209,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0305908,34.0679239,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0292363,34.0679643,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0287716,34.0679718,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0271293,34.0680139,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0266225,34.0680269,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0256161,34.0680573,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0245945,34.0680825,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0236605,34.0680429,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0231157,34.067991,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0224754,34.0678965,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0221286,34.0678295,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0218641,34.0677717,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0215492,34.0676934,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0212323,34.0676032,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.020887,34.067492,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0206078,34.0673946,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0203218,34.0672855,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0200984,34.0671943,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0188995,34.066656,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0181256,34.0663083,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0175209,34.0660371,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0173397,34.0659609,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0168983,34.0657843,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0166555,34.0656937,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-118.0164281,34.0656124,"['1', '2']",,I-10 Metro ExpressLanes,I 10,East
+-117.9883258,34.0665845,6,65 mph,San Bernardino Freeway,I 10,East
+-117.9856277,34.0669057,6,65 mph,San Bernardino Freeway,I 10,East
+-117.983711,34.0671547,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0034476,34.0645253,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0030874,34.0645816,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0025185,34.0646736,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0180478,34.0661646,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0175709,34.0659566,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0173833,34.0658737,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0170668,34.0657441,4,65 mph,San Bernardino Freeway,I 10,East
+-118.016798,34.0656404,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0165066,34.0655382,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0162197,34.0654437,4,65 mph,San Bernardino Freeway,I 10,East
+-118.016005,34.0653809,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0164281,34.0656124,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0159512,34.0654731,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0155545,34.065361,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0152765,34.0652873,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0150348,34.0652266,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0147138,34.065151,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0139326,34.0649814,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0116037,34.0644936,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0113117,34.064426,1,,I-10 Metro ExpressLanes,I 10,East
+-118.010903,34.0643302,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0105452,34.0642446,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0102943,34.0641898,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0099134,34.0641099,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0096114,34.0640534,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0094065,34.0640224,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0092179,34.0640005,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0089851,34.0639784,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0087131,34.0639627,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0084513,34.0639546,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0081596,34.0639606,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0079692,34.0639714,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0077613,34.0639884,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0075699,34.0640082,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0054965,34.0643165,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0037417,34.0645691,1,,I-10 Metro ExpressLanes,I 10,East
+-118.0034476,34.0645253,1,,I-10 Metro ExpressLanes,I 10,East
+-118.016005,34.0653809,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0155928,34.0652661,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0153235,34.065195,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0151139,34.0651405,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0147418,34.0650555,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0143956,34.0649877,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0141071,34.064932,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0131997,34.0647464,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0113318,34.0643447,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0109448,34.0642564,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0103601,34.0641202,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.009939,34.0640318,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0096281,34.0639728,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0094184,34.0639407,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0092307,34.0639183,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0090017,34.0638952,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0086971,34.0638761,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0083781,34.0638707,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0081551,34.0638747,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0079572,34.063887,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0077459,34.0639028,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0075568,34.0639234,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0066781,34.0640365,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.5936974,34.0675074,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5927859,34.0675199,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5874382,34.0674485,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0503734,34.0714109,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0490739,34.0708639,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0483983,34.0705388,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0462957,34.0696538,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0459261,34.0695067,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-117.6664509,34.0872754,,,I-10 Express Lanes,I 10,East
+-117.661047,34.0873016,,,I-10 Express Lanes,I 10,East
+-117.6453331,34.0873115,,,I-10 Express Lanes,I 10,East
+-117.6443657,34.0872787,,,I-10 Express Lanes,I 10,East
+-117.6426681,34.0871283,,,I-10 Express Lanes,I 10,East
+-117.6421288,34.0870415,,,I-10 Express Lanes,I 10,East
+-117.6408469,34.0867767,,,I-10 Express Lanes,I 10,East
+-117.639551,34.086401,,,I-10 Express Lanes,I 10,East
+-117.6668016,34.0871512,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6664811,34.0871579,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6657808,34.0871545,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6728828,34.0871786,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6704283,34.0871732,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6698837,34.0871747,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6668016,34.0871512,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6731765,34.0872617,,,I-10 Express Lanes,I 10,East
+-117.6704514,34.0872537,,,I-10 Express Lanes,I 10,East
+-117.6698489,34.0872563,,,I-10 Express Lanes,I 10,East
+-117.6673671,34.0872709,,,I-10 Express Lanes,I 10,East
+-117.6664509,34.0872754,,,I-10 Express Lanes,I 10,East
+-117.6332764,34.0832601,,,I-10 Express Lanes,I 10,East
+-117.6323992,34.082764,,,I-10 Express Lanes,I 10,East
+-117.6296577,34.0811887,,,I-10 Express Lanes,I 10,East
+-117.6280771,34.0802865,,,I-10 Express Lanes,I 10,East
+-117.6258596,34.0790124,,,I-10 Express Lanes,I 10,East
+-117.6246739,34.0783486,,,I-10 Express Lanes,I 10,East
+-117.6240797,34.0780078,,,I-10 Express Lanes,I 10,East
+-117.6232498,34.0775352,,,I-10 Express Lanes,I 10,East
+-117.6228604,34.0772962,,,I-10 Express Lanes,I 10,East
+-117.6213992,34.0764698,,,I-10 Express Lanes,I 10,East
+-117.616571,34.0736837,,,I-10 Express Lanes,I 10,East
+-117.6116918,34.0708835,,,I-10 Express Lanes,I 10,East
+-117.6105638,34.0703196,,,I-10 Express Lanes,I 10,East
+-117.609345,34.0697709,,,I-10 Express Lanes,I 10,East
+-117.6082492,34.0693541,,,I-10 Express Lanes,I 10,East
+-117.6069934,34.0689313,,,I-10 Express Lanes,I 10,East
+-117.6060715,34.0686619,,,I-10 Express Lanes,I 10,East
+-117.6052794,34.0684564,,,I-10 Express Lanes,I 10,East
+-117.6047643,34.0683423,,,I-10 Express Lanes,I 10,East
+-117.6042817,34.0682271,,,I-10 Express Lanes,I 10,East
+-117.6032067,34.0680593,,,I-10 Express Lanes,I 10,East
+-117.6012971,34.0678243,,,I-10 Express Lanes,I 10,East
+-117.6009565,34.0677874,,,I-10 Express Lanes,I 10,East
+-117.6003643,34.0677283,,,I-10 Express Lanes,I 10,East
+-117.5994725,34.0676556,,,I-10 Express Lanes,I 10,East
+-117.5991675,34.0676435,,,I-10 Express Lanes,I 10,East
+-117.596173,34.0676292,,,I-10 Express Lanes,I 10,East
+-117.5885547,34.0675606,,,I-10 Express Lanes,I 10,East
+-117.5804043,34.0675301,,,I-10 Express Lanes,I 10,East
+-117.6337631,34.0833787,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6287271,34.0805008,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6284682,34.0803645,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6269279,34.0794904,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6392686,34.0861812,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6390849,34.0861216,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6381027,34.0857238,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6370907,34.0852796,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6363006,34.0848591,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6348026,34.0839645,5,65 mph,San Bernardino Freeway,I 10,East
+-117.6337631,34.0833787,5,65 mph,San Bernardino Freeway,I 10,East
+-117.639551,34.086401,,,I-10 Express Lanes,I 10,East
+-117.6394029,34.0863581,,,I-10 Express Lanes,I 10,East
+-117.637977,34.0858299,,,I-10 Express Lanes,I 10,East
+-117.6375392,34.0856468,,,I-10 Express Lanes,I 10,East
+-117.6362778,34.0849957,,,I-10 Express Lanes,I 10,East
+-117.6354028,34.0844829,,,I-10 Express Lanes,I 10,East
+-117.6332764,34.0832601,,,I-10 Express Lanes,I 10,East
+-117.5800368,34.0674159,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5749715,34.0673604,5,65 mph,San Bernardino Freeway,I 10,East
+-117.5804043,34.0675301,,,I-10 Express Lanes,I 10,East
+-117.5782918,34.0675222,,,I-10 Express Lanes,I 10,East
+-117.5578383,34.0674137,,,I-10 Express Lanes,I 10,East
+-117.5532295,34.0673863,,,I-10 Express Lanes,I 10,East
+-117.5527641,34.0672741,,,I-10 Express Lanes,I 10,East
+-117.5527641,34.0672741,6,65 mph,San Bernardino Freeway,I 10,East
+-117.5502477,34.0672702,6,65 mph,San Bernardino Freeway,I 10,East
+-118.3526038,33.9333741,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3518989,33.9332684,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3499474,33.9327981,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3498792,33.9327807,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3496593,33.9327246,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3478491,33.9320687,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3465289,33.9314519,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3447546,33.9303876,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3415642,33.928079,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3597582,33.9322489,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.358806,33.9325228,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3568716,33.9330793,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3562478,33.9332577,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3555592,33.9333772,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3547457,33.9334642,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.354048,33.93348,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3534755,33.9334713,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3526038,33.9333741,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3349017,33.9248185,4,65 mph,Century Freeway,I 105,East
+-118.334318,33.9247259,4,65 mph,Century Freeway,I 105,East
+-118.3336915,33.9246761,4,65 mph,Century Freeway,I 105,East
+-118.3331507,33.924669,4,65 mph,Century Freeway,I 105,East
+-118.332404,33.9246903,4,65 mph,Century Freeway,I 105,East
+-118.3316401,33.9247259,4,65 mph,Century Freeway,I 105,East
+-118.3270568,33.9249895,4,65 mph,Century Freeway,I 105,East
+-118.3260096,33.9250536,4,65 mph,Century Freeway,I 105,East
+-118.3253955,33.9250908,4,65 mph,Century Freeway,I 105,East
+-118.3199843,33.9253242,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3178072,33.9252994,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3137444,33.925253,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3127488,33.925253,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3115643,33.9252672,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3105515,33.9253171,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3096846,33.9253883,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3086375,33.9255165,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3070418,33.9258046,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.3029709,33.9266967,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2979412,33.9278179,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2972195,33.9279825,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2968369,33.9280638,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.4015258,33.9313024,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.4009157,33.931313,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.4002092,33.9313117,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3998616,33.9312942,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3994787,33.93129,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3990524,33.9312746,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3983031,33.9312453,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3977334,33.9312283,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.396838,33.9312203,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3955892,33.9312203,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3947225,33.93123,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3942401,33.9312354,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3927293,33.9312823,"['1', '2']",65 mph,Century Freeway,I 105,East
+-118.3632139,33.931193,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3626872,33.9313536,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3623555,33.9314526,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3615659,33.9316954,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3611008,33.9318377,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3597582,33.9322489,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2370437,33.9280409,4,65 mph,Century Freeway,I 105,East
+-118.2348104,33.9278865,4,65 mph,Century Freeway,I 105,East
+-118.2341591,33.9278535,4,65 mph,Century Freeway,I 105,East
+-118.2335068,33.9278392,4,65 mph,Century Freeway,I 105,East
+-118.2328621,33.9278509,4,65 mph,Century Freeway,I 105,East
+-118.2320724,33.927915,4,65 mph,Century Freeway,I 105,East
+-118.2315231,33.9280005,4,65 mph,Century Freeway,I 105,East
+-118.2311909,33.9280507,4,65 mph,Century Freeway,I 105,East
+-118.2307714,33.9281347,4,65 mph,Century Freeway,I 105,East
+-118.2303536,33.9282275,4,65 mph,Century Freeway,I 105,East
+-118.2296109,33.9284132,4,65 mph,Century Freeway,I 105,East
+-118.2287036,33.928648,4,65 mph,Century Freeway,I 105,East
+-118.2281367,33.9287926,4,65 mph,Century Freeway,I 105,East
+-118.2271978,33.9290338,4,65 mph,Century Freeway,I 105,East
+-118.2264077,33.9292219,4,65 mph,Century Freeway,I 105,East
+-118.2258892,33.9293304,4,65 mph,Century Freeway,I 105,East
+-118.2253629,33.9294037,4,65 mph,Century Freeway,I 105,East
+-118.2247461,33.9294656,4,65 mph,Century Freeway,I 105,East
+-118.2242349,33.9294902,4,65 mph,Century Freeway,I 105,East
+-118.2236892,33.9295002,4,65 mph,Century Freeway,I 105,East
+-118.2232153,33.9294919,4,65 mph,Century Freeway,I 105,East
+-118.2227076,33.9294707,4,65 mph,Century Freeway,I 105,East
+-118.2222748,33.9294358,4,65 mph,Century Freeway,I 105,East
+-118.2217702,33.9293704,4,65 mph,Century Freeway,I 105,East
+-118.2213431,33.9293004,4,65 mph,Century Freeway,I 105,East
+-118.2209832,33.9292355,4,65 mph,Century Freeway,I 105,East
+-118.220534,33.9291391,4,65 mph,Century Freeway,I 105,East
+-118.2201827,33.9290514,4,65 mph,Century Freeway,I 105,East
+-118.2198489,33.928966,4,65 mph,Century Freeway,I 105,East
+-118.2197032,33.9289196,4,65 mph,Century Freeway,I 105,East
+-118.2189756,33.9286796,4,65 mph,Century Freeway,I 105,East
+-118.2184778,33.9284802,4,65 mph,Century Freeway,I 105,East
+-118.2179457,33.9282523,4,65 mph,Century Freeway,I 105,East
+-118.2174135,33.9280173,4,65 mph,Century Freeway,I 105,East
+-118.2168728,33.9277823,4,65 mph,Century Freeway,I 105,East
+-118.2137477,33.9263913,4,65 mph,Century Freeway,I 105,East
+-118.24472,33.92848,4,65 mph,Century Freeway,I 105,East
+-118.2394918,33.928184,4,65 mph,Century Freeway,I 105,East
+-118.2383209,33.9281215,4,65 mph,Century Freeway,I 105,East
+-118.2370437,33.9280409,4,65 mph,Century Freeway,I 105,East
+-118.2600777,33.9272944,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2594763,33.927313,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2588854,33.9273489,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2583727,33.9273931,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.257874,33.9274431,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.256865,33.9275685,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2559037,33.9276966,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2546506,33.9278676,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2534752,33.9280242,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2523765,33.9281707,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2515574,33.9282755,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2508164,33.9283732,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2504119,33.9284213,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2497966,33.9284912,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2497966,33.9284912,5,65 mph,Century Freeway,I 105,East
+-118.2495779,33.9285121,5,65 mph,Century Freeway,I 105,East
+-118.2492892,33.9285365,5,65 mph,Century Freeway,I 105,East
+-118.2490243,33.9285558,5,65 mph,Century Freeway,I 105,East
+-118.2486712,33.9285755,5,65 mph,Century Freeway,I 105,East
+-118.2483053,33.9285943,5,65 mph,Century Freeway,I 105,East
+-118.2479077,33.9286031,5,65 mph,Century Freeway,I 105,East
+-118.2475356,33.9286055,5,65 mph,Century Freeway,I 105,East
+-118.2471723,33.9286031,5,65 mph,Century Freeway,I 105,East
+-118.2468312,33.9285959,5,65 mph,Century Freeway,I 105,East
+-118.2464812,33.9285862,5,65 mph,Century Freeway,I 105,East
+-118.2462747,33.9285757,5,65 mph,Century Freeway,I 105,East
+-118.2460534,33.9285628,5,65 mph,Century Freeway,I 105,East
+-118.24472,33.92848,5,65 mph,Century Freeway,I 105,East
+-118.2137477,33.9263913,4,65 mph,Century Freeway,I 105,East
+-118.2118395,33.9255682,4,65 mph,Century Freeway,I 105,East
+-118.2108267,33.9251195,4,65 mph,Century Freeway,I 105,East
+-118.2089807,33.9243179,4,65 mph,Century Freeway,I 105,East
+-118.206258,33.923064,4,65 mph,Century Freeway,I 105,East
+-118.3927293,33.9312823,3,65 mph,Century Freeway,I 105,East
+-118.3918098,33.9312627,3,65 mph,Century Freeway,I 105,East
+-118.3911489,33.9312413,3,65 mph,Century Freeway,I 105,East
+-118.3901704,33.9311844,3,65 mph,Century Freeway,I 105,East
+-118.3863595,33.9309778,3,65 mph,Century Freeway,I 105,East
+-118.3863595,33.9309778,3,65 mph,Century Freeway,I 105,East
+-118.3854411,33.9309707,3,65 mph,Century Freeway,I 105,East
+-118.3847459,33.9309921,3,65 mph,Century Freeway,I 105,East
+-118.3840474,33.931017,3,65 mph,Century Freeway,I 105,East
+-118.3840474,33.931017,4,65 mph,Century Freeway,I 105,East
+-118.3829038,33.9310518,4,65 mph,Century Freeway,I 105,East
+-118.3823673,33.9310619,4,65 mph,Century Freeway,I 105,East
+-118.3818041,33.9310507,4,65 mph,Century Freeway,I 105,East
+-118.3813816,33.9310307,4,65 mph,Century Freeway,I 105,East
+-118.3809605,33.9309906,4,65 mph,Century Freeway,I 105,East
+-118.3805877,33.9309428,4,65 mph,Century Freeway,I 105,East
+-118.3802739,33.9308961,4,65 mph,Century Freeway,I 105,East
+-118.3798407,33.9308148,4,65 mph,Century Freeway,I 105,East
+-118.3794062,33.9307147,4,65 mph,Century Freeway,I 105,East
+-118.3780301,33.9303318,4,65 mph,Century Freeway,I 105,East
+-118.3780301,33.9303318,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3774763,33.9302173,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3768519,33.9300803,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3763919,33.9299871,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3759269,33.9299063,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3753815,33.9298416,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3745563,33.9297972,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3734766,33.9298032,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3709079,33.9298229,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3700094,33.9298131,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3696676,33.9298129,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3693005,33.9298165,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3690381,33.9298234,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.3687425,33.9298342,"['3', '4']",65 mph,Century Freeway,I 105,East
+-118.2968369,33.9280638,6,65 mph,Century Freeway,I 105,East
+-118.2964609,33.9281372,6,65 mph,Century Freeway,I 105,East
+-118.2962652,33.9281739,6,65 mph,Century Freeway,I 105,East
+-118.2960593,33.9282106,6,65 mph,Century Freeway,I 105,East
+-118.2957282,33.9282608,6,65 mph,Century Freeway,I 105,East
+-118.2954444,33.9282991,6,65 mph,Century Freeway,I 105,East
+-118.2951479,33.9283373,6,65 mph,Century Freeway,I 105,East
+-118.2945366,33.9284025,6,65 mph,Century Freeway,I 105,East
+-118.2941949,33.9284313,6,65 mph,Century Freeway,I 105,East
+-118.2938097,33.9284579,6,65 mph,Century Freeway,I 105,East
+-118.2933191,33.9284777,6,65 mph,Century Freeway,I 105,East
+-118.2928081,33.928489,6,65 mph,Century Freeway,I 105,East
+-118.2904356,33.9284799,6,65 mph,Century Freeway,I 105,East
+-118.2904356,33.9284799,6,65 mph,Century Freeway,I 105,East
+-118.2898821,33.9284764,6,65 mph,Century Freeway,I 105,East
+-118.2821223,33.9284839,4,65 mph,Century Freeway,I 105,East
+-118.2801912,33.9284934,4,65 mph,Century Freeway,I 105,East
+-118.2798726,33.9284934,4,65 mph,Century Freeway,I 105,East
+-118.2796156,33.9284924,4,65 mph,Century Freeway,I 105,East
+-118.2793571,33.9284882,4,65 mph,Century Freeway,I 105,East
+-118.2790529,33.9284815,4,65 mph,Century Freeway,I 105,East
+-118.2787497,33.9284717,4,65 mph,Century Freeway,I 105,East
+-118.2784617,33.9284595,4,65 mph,Century Freeway,I 105,East
+-118.2781323,33.9284442,4,65 mph,Century Freeway,I 105,East
+-118.2777968,33.9284239,4,65 mph,Century Freeway,I 105,East
+-118.2774864,33.9283983,4,65 mph,Century Freeway,I 105,East
+-118.2771912,33.9283702,4,65 mph,Century Freeway,I 105,East
+-118.2769348,33.9283467,4,65 mph,Century Freeway,I 105,East
+-118.276648,33.9283157,4,65 mph,Century Freeway,I 105,East
+-118.2763291,33.9282789,4,65 mph,Century Freeway,I 105,East
+-118.2759797,33.9282346,4,65 mph,Century Freeway,I 105,East
+-118.2756432,33.9281829,4,65 mph,Century Freeway,I 105,East
+-118.2753219,33.9281313,4,65 mph,Century Freeway,I 105,East
+-118.2748144,33.928044,4,65 mph,Century Freeway,I 105,East
+-118.274529,33.9279932,4,65 mph,Century Freeway,I 105,East
+-118.2742711,33.9279424,4,65 mph,Century Freeway,I 105,East
+-118.2719386,33.9274889,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2715615,33.9274405,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2713902,33.9274215,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2709525,33.9273753,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2707069,33.9273538,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2704509,33.9273342,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2701756,33.9273178,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2698953,33.9273057,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2695653,33.9272998,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.26923,33.9272969,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.268771,33.9272954,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2682885,33.927295,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2673734,33.9272966,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2655451,33.9272936,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.264857,33.9272936,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2623682,33.927293,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2619096,33.9272911,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2613079,33.9272888,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2606715,33.9272894,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2600777,33.9272944,"['5', '6']",65 mph,Century Freeway,I 105,East
+-118.2742711,33.9279424,4,65 mph,Century Freeway,I 105,East
+-118.2741013,33.927908,4,65 mph,Century Freeway,I 105,East
+-118.2737794,33.9278432,4,65 mph,Century Freeway,I 105,East
+-118.2735653,33.9277991,4,65 mph,Century Freeway,I 105,East
+-118.2730084,33.9276841,4,65 mph,Century Freeway,I 105,East
+-118.2727434,33.9276303,4,65 mph,Century Freeway,I 105,East
+-118.272448,33.9275764,4,65 mph,Century Freeway,I 105,East
+-118.272207,33.9275327,4,65 mph,Century Freeway,I 105,East
+-118.2719386,33.9274889,4,65 mph,Century Freeway,I 105,East
+-118.206258,33.923064,4,65 mph,Century Freeway,I 105,East
+-118.2049796,33.9225337,4,65 mph,Century Freeway,I 105,East
+-118.2044092,33.9222929,4,65 mph,Century Freeway,I 105,East
+-118.2031079,33.9216994,4,65 mph,Century Freeway,I 105,East
+-118.1139892,33.9136481,2,65 mph,Century Freeway,I 105,East
+-118.1135443,33.9137393,2,65 mph,Century Freeway,I 105,East
+-118.1132884,33.9137482,2,65 mph,Century Freeway,I 105,East
+-118.1125724,33.9137372,2,65 mph,Century Freeway,I 105,East
+-118.1117559,33.9137688,2,65 mph,Century Freeway,I 105,East
+-118.1103739,33.9137787,2,65 mph,Century Freeway,I 105,East
+-118.109289,33.9137768,2,65 mph,Century Freeway,I 105,East
+-118.109289,33.9137768,2,65 mph,Century Freeway,I 105,East
+-118.1078861,33.9137728,2,65 mph,Century Freeway,I 105,East
+-118.1063411,33.9137871,2,65 mph,Century Freeway,I 105,East
+-118.1059377,33.9138013,2,65 mph,Century Freeway,I 105,East
+-118.1053541,33.913844,2,65 mph,Century Freeway,I 105,East
+-118.1044614,33.9139651,2,65 mph,Century Freeway,I 105,East
+-118.1035859,33.914072,2,65 mph,Century Freeway,I 105,East
+-118.102659,33.9141717,2,65 mph,Century Freeway,I 105,East
+-118.1020582,33.9142287,2,65 mph,Century Freeway,I 105,East
+-118.1017572,33.9142509,2,65 mph,Century Freeway,I 105,East
+-118.1016719,33.9142572,2,65 mph,Century Freeway,I 105,East
+-118.1013178,33.9142589,2,65 mph,Century Freeway,I 105,East
+-118.1008013,33.9142411,2,65 mph,Century Freeway,I 105,East
+-118.1533571,33.9123773,4,65 mph,Century Freeway,I 105,East
+-118.1520547,33.9124979,4,65 mph,Century Freeway,I 105,East
+-118.1485407,33.9127681,4,65 mph,Century Freeway,I 105,East
+-118.146294,33.9128552,4,65 mph,Century Freeway,I 105,East
+-118.1891552,33.9157345,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1873514,33.9151573,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1858236,33.9146373,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1846734,33.9142454,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1842431,33.9140959,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1833838,33.9137874,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1809519,33.9129333,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1801708,33.9126751,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.179053,33.9123057,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1730519,33.9109544,5,65 mph,Century Freeway,I 105,East
+-118.1713624,33.910897,5,65 mph,Century Freeway,I 105,East
+-118.1713624,33.910897,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1693237,33.9109056,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.168372,33.9109635,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1674893,33.9110425,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.166614,33.9111174,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1651772,33.9112597,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1639666,33.9113868,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1612966,33.9116504,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1597871,33.9117877,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1586365,33.9118925,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1558469,33.9121489,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1533571,33.9123773,"['5', '6', '4']",65 mph,Century Freeway,I 105,East
+-118.1311421,33.912929,4,65 mph,Century Freeway,I 105,East
+-118.1293509,33.912953,4,65 mph,Century Freeway,I 105,East
+-118.1282501,33.9129673,4,65 mph,Century Freeway,I 105,East
+-118.1266338,33.913003,4,65 mph,Century Freeway,I 105,East
+-118.1255417,33.9130458,4,65 mph,Century Freeway,I 105,East
+-118.1240114,33.91311,4,65 mph,Century Freeway,I 105,East
+-118.1230125,33.9131743,4,65 mph,Century Freeway,I 105,East
+-118.1207809,33.9133285,4,65 mph,Century Freeway,I 105,East
+-118.1202217,33.9133569,4,65 mph,Century Freeway,I 105,East
+-118.179053,33.9123057,4,65 mph,Century Freeway,I 105,East
+-118.1787557,33.912203,4,65 mph,Century Freeway,I 105,East
+-118.1771532,33.9116744,4,65 mph,Century Freeway,I 105,East
+-118.1761379,33.9113826,4,65 mph,Century Freeway,I 105,East
+-118.1752647,33.9112043,4,65 mph,Century Freeway,I 105,East
+-118.1745175,33.911083,4,65 mph,Century Freeway,I 105,East
+-118.173743,33.9110037,4,65 mph,Century Freeway,I 105,East
+-118.1730519,33.9109544,4,65 mph,Century Freeway,I 105,East
+-118.1393047,33.9128972,5,65 mph,Century Freeway,I 105,East
+-118.1361515,33.9128849,5,65 mph,Century Freeway,I 105,East
+-118.1361515,33.9128849,5,65 mph,Century Freeway,I 105,East
+-118.1317726,33.9129234,5,65 mph,Century Freeway,I 105,East
+-118.1311421,33.912929,5,65 mph,Century Freeway,I 105,East
+-118.1202217,33.9133569,5,65 mph,Century Freeway,I 105,East
+-118.1171366,33.9136015,5,65 mph,Century Freeway,I 105,East
+-118.1139892,33.9136481,5,65 mph,Century Freeway,I 105,East
+-118.146294,33.9128552,4,65 mph,Century Freeway,I 105,East
+-118.1455346,33.9128889,4,65 mph,Century Freeway,I 105,East
+-118.1421136,33.9129317,4,65 mph,Century Freeway,I 105,East
+-118.1393047,33.9128972,4,65 mph,Century Freeway,I 105,East
+-118.0993063,33.9142309,2,65 mph,Century Freeway,I 105,East
+-118.099181,33.9142565,2,65 mph,Century Freeway,I 105,East
+-118.1008013,33.9142411,3,65 mph,Century Freeway,I 105,East
+-118.0994856,33.9142321,3,65 mph,Century Freeway,I 105,East
+-118.099431,33.9142317,3,65 mph,Century Freeway,I 105,East
+-118.0993063,33.9142309,3,65 mph,Century Freeway,I 105,East
+-118.3687425,33.9298342,4,65 mph,Century Freeway,I 105,East
+-118.3683164,33.9298807,4,65 mph,Century Freeway,I 105,East
+-118.3680556,33.9299108,4,65 mph,Century Freeway,I 105,East
+-118.3678389,33.9299425,4,65 mph,Century Freeway,I 105,East
+-118.3674812,33.9300001,4,65 mph,Century Freeway,I 105,East
+-118.3672406,33.9300458,4,65 mph,Century Freeway,I 105,East
+-118.3668023,33.9301429,4,65 mph,Century Freeway,I 105,East
+-118.3666101,33.9301892,4,65 mph,Century Freeway,I 105,East
+-118.3663835,33.930251,4,65 mph,Century Freeway,I 105,East
+-118.3658932,33.9303965,4,65 mph,Century Freeway,I 105,East
+-118.3651782,33.9306134,4,65 mph,Century Freeway,I 105,East
+-118.3645906,33.9307954,4,65 mph,Century Freeway,I 105,East
+-118.3632139,33.931193,4,65 mph,Century Freeway,I 105,East
+-118.3415642,33.928079,5,65 mph,Century Freeway,I 105,East
+-118.3410113,33.927715,5,65 mph,Century Freeway,I 105,East
+-118.3395194,33.9266489,5,65 mph,Century Freeway,I 105,East
+-118.338807,33.9262002,5,65 mph,Century Freeway,I 105,East
+-118.338086,33.925837,5,65 mph,Century Freeway,I 105,East
+-118.3373307,33.9255094,5,65 mph,Century Freeway,I 105,East
+-118.3366441,33.9252672,5,65 mph,Century Freeway,I 105,East
+-118.3361468,33.9251174,5,65 mph,Century Freeway,I 105,East
+-118.3353794,33.9249084,5,65 mph,Century Freeway,I 105,East
+-118.3349017,33.9248185,5,65 mph,Century Freeway,I 105,East
+-118.2898821,33.9284764,4,65 mph,Century Freeway,I 105,East
+-118.2885794,33.9284813,4,65 mph,Century Freeway,I 105,East
+-118.2872656,33.9284817,4,65 mph,Century Freeway,I 105,East
+-118.2867785,33.928479,4,65 mph,Century Freeway,I 105,East
+-118.2854106,33.928475,4,65 mph,Century Freeway,I 105,East
+-118.2841404,33.9284791,4,65 mph,Century Freeway,I 105,East
+-118.2830238,33.9284832,4,65 mph,Century Freeway,I 105,East
+-118.2821223,33.9284839,4,65 mph,Century Freeway,I 105,East
+-118.3253955,33.9250908,5,65 mph,Century Freeway,I 105,East
+-118.3229541,33.9252387,5,65 mph,Century Freeway,I 105,East
+-118.3221987,33.9252886,5,65 mph,Century Freeway,I 105,East
+-118.3214349,33.9253099,5,65 mph,Century Freeway,I 105,East
+-118.3199843,33.9253242,5,65 mph,Century Freeway,I 105,East
+-118.2031079,33.9216994,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2025063,33.9214358,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2019585,33.9211959,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.2008075,33.9206919,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1997243,33.9202254,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1987018,33.9197722,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1981694,33.9195369,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1963353,33.918728,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1948069,33.9180549,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.194331,33.9178389,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.193826,33.9176093,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1924352,33.9169939,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1918664,33.9167516,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1915793,33.9166329,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1912874,33.9165222,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1907677,33.9162991,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1906079,33.9162431,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1902204,33.9161105,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1899237,33.9160041,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1894684,33.9158416,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.1891552,33.9157345,"['5', '4']",65 mph,Century Freeway,I 105,East
+-118.3435465,34.0345019,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3379415,34.0347521,5,65 mph,Santa Monica Freeway,I 10,East
+-118.28685,34.0368014,3,55 mph,Santa Monica Freeway,I 10,East
+-118.286203,34.0368229,3,55 mph,Santa Monica Freeway,I 10,East
+-118.285763,34.0368436,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2854051,34.0368705,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2850104,34.036908,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2846971,34.0369439,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2843739,34.0369881,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2840784,34.0370335,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2836435,34.0371105,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2825765,34.0373297,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2821403,34.0374242,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2816077,34.0375209,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2810532,34.0376196,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2572282,34.030077,"['5', '4']",55 mph,Santa Monica Freeway,I 10,East
+-118.2568688,34.029913,"['5', '4']",55 mph,Santa Monica Freeway,I 10,East
+-118.2565228,34.0297434,"['5', '4']",55 mph,Santa Monica Freeway,I 10,East
+-118.2558444,34.0293848,"['5', '4']",55 mph,Santa Monica Freeway,I 10,East
+-118.2515045,34.0270361,"['5', '4']",55 mph,Santa Monica Freeway,I 10,East
+-118.2139046,34.0511029,2,,,I 10,East
+-118.2138454,34.0518395,2,,,I 10,East
+-118.2138085,34.0528499,2,,,I 10,East
+-118.2137873,34.0530057,2,,,I 10,East
+-118.2137475,34.0531662,2,,,I 10,East
+-118.2136658,34.0533698,2,,,I 10,East
+-118.2135309,34.0535954,2,,,I 10,East
+-118.2134002,34.0537569,2,,,I 10,East
+-118.213229,34.0539243,2,,,I 10,East
+-118.2131159,34.05401,2,,,I 10,East
+-118.212973,34.054102,2,,,I 10,East
+-118.212846,34.0541725,2,,,I 10,East
+-118.212696,34.054241,2,,,I 10,East
+-118.2124626,34.0543238,2,,,I 10,East
+-118.2121647,34.0543945,2,,,I 10,East
+-118.2119119,34.0544162,2,,,I 10,East
+-118.2117423,34.0544189,2,,,I 10,East
+-118.211546,34.0544083,2,,,I 10,East
+-118.2113784,34.0543829,2,,,I 10,East
+-118.2112221,34.0543518,2,,,I 10,East
+-118.2107563,34.0542518,2,,,I 10,East
+-118.2095284,34.0539475,2,,,I 10,East
+-118.4486005,34.0283415,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4451612,34.0292512,4,65 mph,Santa Monica Freeway,I 10,East
+-118.444867,34.0293211,4,65 mph,Santa Monica Freeway,I 10,East
+-118.444326,34.0294602,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4368802,34.030721,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4354626,34.0309294,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4348918,34.031013,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4339056,34.0311357,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4331076,34.0312524,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4323423,34.0313709,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4317448,34.0314485,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4308641,34.0315409,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4300468,34.0316147,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4291367,34.0316524,3,65 mph,Santa Monica Freeway,I 10,East
+-118.428311,34.0316689,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4274956,34.0316713,3,65 mph,Santa Monica Freeway,I 10,East
+-118.214553,34.047287,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.214194,34.0484927,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2140022,34.0494584,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2139419,34.0499489,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2139085,34.0504222,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2139001,34.0507639,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2139046,34.0511029,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.4274956,34.0316713,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4243053,34.03167,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4238169,34.0316736,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4219983,34.0316744,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4216348,34.0316762,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4197954,34.0316798,5,65 mph,Santa Monica Freeway,I 10,East
+-118.2224323,34.0535396,3,,San Bernardino Freeway,I 10,East
+-118.2214043,34.0542732,3,,San Bernardino Freeway,I 10,East
+-118.220634,34.054684,3,,San Bernardino Freeway,I 10,East
+-118.2198493,34.0549672,3,,San Bernardino Freeway,I 10,East
+-118.2191465,34.0550909,3,,San Bernardino Freeway,I 10,East
+-118.2185591,34.0551347,3,,San Bernardino Freeway,I 10,East
+-118.2180873,34.0551432,3,,San Bernardino Freeway,I 10,East
+-118.2158503,34.0551424,3,,San Bernardino Freeway,I 10,East
+-118.1019922,34.0717198,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1015799,34.0717276,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0996763,34.0717502,4,65 mph,San Bernardino Freeway,I 10,East
+-118.099412,34.0717526,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0984764,34.0717765,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0980356,34.0717833,4,65 mph,San Bernardino Freeway,I 10,East
+-118.2709767,34.0366785,1,,Santa Monica Freeway,I 10,East
+-118.2705032,34.0363951,1,,Santa Monica Freeway,I 10,East
+-118.2700273,34.0360955,1,,Santa Monica Freeway,I 10,East
+-118.2696021,34.0358156,1,,Santa Monica Freeway,I 10,East
+-118.2683031,34.0349878,1,,Santa Monica Freeway,I 10,East
+-118.2676518,34.034609,1,,Santa Monica Freeway,I 10,East
+-118.2672336,34.034371,1,,Santa Monica Freeway,I 10,East
+-118.444326,34.0294602,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4438193,34.0295868,5,65 mph,Santa Monica Freeway,I 10,East
+-118.443193,34.0297256,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4425941,34.0298526,5,65 mph,Santa Monica Freeway,I 10,East
+-118.441503,34.0300563,5,65 mph,Santa Monica Freeway,I 10,East
+-118.441503,34.0300563,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4368802,34.030721,4,65 mph,Santa Monica Freeway,I 10,East
+-118.237005,34.0254978,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2318764,34.0275687,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2314514,34.0277792,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2309329,34.0279638,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2305949,34.0280759,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2301272,34.0282152,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2298036,34.0282986,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2184964,34.0408218,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2178945,34.0417117,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2172388,34.0427013,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2169165,34.0431934,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2161393,34.0443431,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2154008,34.045503,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2152843,34.0457049,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2148216,34.0466187,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2148216,34.0466187,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.2145687,34.0472478,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.214553,34.047287,5,55 mph,Golden State Freeway,I 5;I 10,East
+-118.4780517,34.0205356,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4775443,34.0209631,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4765675,34.0217608,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4760056,34.0221655,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4756278,34.0224033,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4751973,34.0226397,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4747217,34.0228581,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4740595,34.0231242,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4734711,34.023303,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4645512,34.0257163,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4642309,34.0257925,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4815036,34.0176988,3,65 mph,Santa Monica Freeway,I 10,East
+-118.479984,34.0189614,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4780517,34.0205356,3,65 mph,Santa Monica Freeway,I 10,East
+-118.1069823,34.0716432,4,65 mph,San Bernardino Freeway,I 10,East
+-118.103858,34.0717048,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1019922,34.0717198,4,65 mph,San Bernardino Freeway,I 10,East
+-118.4575435,34.0273168,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4571358,34.0273959,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4563146,34.0275676,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4560114,34.0276164,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4557484,34.027652,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4554285,34.0276773,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4551392,34.0276895,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4547253,34.0276934,4,65 mph,Santa Monica Freeway,I 10,East
+-118.454295,34.027669,4,65 mph,Santa Monica Freeway,I 10,East
+-118.453694,34.0276378,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4530331,34.0275951,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4526297,34.0275809,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4524101,34.0275818,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4521828,34.0275942,4,65 mph,Santa Monica Freeway,I 10,East
+-118.451829,34.0276197,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4514972,34.0276503,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4512415,34.0276834,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4508119,34.027762,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4503056,34.0278788,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4494779,34.0281049,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4489888,34.0282399,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4486005,34.0283415,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4197954,34.0316798,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4162955,34.0317191,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4157356,34.0317141,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4152498,34.0316858,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4149127,34.0316573,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4145919,34.0316247,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4143075,34.0315766,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4140019,34.0315293,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4137029,34.0314668,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4132133,34.0313327,4,65 mph,Santa Monica Freeway,I 10,East
+-118.1578704,34.06468,5,65 mph,San Bernardino Freeway,I 10,East
+-118.1553952,34.0659952,5,65 mph,San Bernardino Freeway,I 10,East
+-118.152915,34.0672937,5,65 mph,San Bernardino Freeway,I 10,East
+-118.1523202,34.0676069,5,65 mph,San Bernardino Freeway,I 10,East
+-118.1480243,34.0698631,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1471382,34.0703293,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1466232,34.0705923,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1462799,34.0707345,4,65 mph,San Bernardino Freeway,I 10,East
+-118.146048,34.07082,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1457817,34.070905,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1457817,34.070905,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1453358,34.071026,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1449581,34.0710971,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1445976,34.0711469,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1442629,34.0711895,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1437822,34.0712109,4,65 mph,San Bernardino Freeway,I 10,East
+-118.142984,34.0712322,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1399027,34.071282,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1382526,34.0712988,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1375015,34.0713064,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1361326,34.0713132,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0933134,34.0718408,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0907645,34.0718589,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0905064,34.0718614,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0892578,34.0718709,4,65 mph,San Bernardino Freeway,I 10,East
+-118.075744,34.0720335,4,65 mph,San Bernardino Freeway,I 10,East
+-118.075315,34.0720456,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0750156,34.0720479,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0732883,34.0720646,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0727259,34.0720717,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0714361,34.0721043,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0702705,34.072147,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0545894,34.0722706,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0539988,34.0722624,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0537276,34.0722499,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0535031,34.0722337,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0530191,34.0722053,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0527226,34.0721608,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0523556,34.0720854,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0518437,34.0719547,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0512742,34.0717828,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0504952,34.0714622,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0503734,34.0714109,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.2093983,34.0541181,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2087672,34.0539247,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2085111,34.0538507,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2082437,34.0537767,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2080088,34.0537199,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.207754,34.0536654,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2075526,34.0536329,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2073342,34.0536005,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2070997,34.0535759,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.206851,34.0535538,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2066398,34.0535463,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2064088,34.0535411,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2062126,34.0535448,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2060277,34.0535509,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.205833,34.0535624,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2056312,34.0535797,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2053685,34.0536092,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2050903,34.0536516,"['3', '4']",,San Bernardino Freeway,I 10,East
+-118.2095284,34.0539475,3,,,I 10,East
+-118.2087048,34.0537232,3,,,I 10,East
+-118.2087048,34.0537232,2,,,I 10,East
+-118.2082563,34.0536086,2,,,I 10,East
+-118.2078885,34.0535321,2,,,I 10,East
+-118.2076629,34.0534939,2,,,I 10,East
+-118.2074261,34.0534696,2,,,I 10,East
+-118.2072082,34.0534562,2,,,I 10,East
+-118.2069903,34.0534506,2,,,I 10,East
+-118.2067857,34.0534455,2,,,I 10,East
+-118.2065858,34.0534481,2,,,I 10,East
+-118.2062162,34.0534707,2,,,I 10,East
+-118.2059207,34.053502,2,,,I 10,East
+-118.2056402,34.0535456,2,,,I 10,East
+-118.2053577,34.0535971,2,,,I 10,East
+-118.2050903,34.0536516,2,,,I 10,East
+-118.2050903,34.0536516,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2048007,34.0537114,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2045264,34.0537818,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2042876,34.053854,6,65 mph,San Bernardino Freeway,I 10,East
+-118.204064,34.0539262,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2036463,34.0540711,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2027473,34.0543817,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2023991,34.0545033,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2020583,34.0546098,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2017569,34.0547004,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2014555,34.0547789,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2011744,34.0548421,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2009043,34.0548962,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2001769,34.0550232,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1990603,34.0552074,6,65 mph,San Bernardino Freeway,I 10,East
+-118.198353,34.0553023,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1980208,34.0553383,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1976953,34.0553688,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1973531,34.0553896,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1970343,34.0554048,6,65 mph,San Bernardino Freeway,I 10,East
+-118.2218351,34.0324077,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2215589,34.0327939,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2211203,34.0334266,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2298036,34.0282986,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2283636,34.0286525,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2266405,34.0289851,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2254915,34.0292248,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2251927,34.0292926,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2248153,34.0294085,2,55 mph,Santa Monica Freeway,I 10,East
+-118.224471,34.029553,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2242968,34.0296384,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2240754,34.0297632,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2237268,34.0299826,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2234389,34.0302057,2,55 mph,Santa Monica Freeway,I 10,East
+-118.223263,34.0303932,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2231691,34.0304979,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2230655,34.0306318,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2228435,34.0309485,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2226375,34.0312545,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2224123,34.0315855,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2223319,34.0317026,2,55 mph,Santa Monica Freeway,I 10,East
+-118.222244,34.031837,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2221589,34.0319618,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2220823,34.0320738,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2220449,34.0321308,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2219911,34.0322092,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2218351,34.0324077,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2810532,34.0376196,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2804266,34.037715,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2797882,34.0378054,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2793324,34.0378624,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2785274,34.0379379,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2776785,34.0379935,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2768525,34.0380386,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2768525,34.0380386,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2755482,34.038066,2,55 mph,Santa Monica Freeway,I 10,East
+-118.274703,34.038092,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2744541,34.0380966,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2742142,34.0380938,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2740612,34.0380906,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2739599,34.0380836,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2738135,34.0380703,2,55 mph,Santa Monica Freeway,I 10,East
+-118.273684,34.0380559,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2735613,34.0380397,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2734175,34.0380155,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2732942,34.0379914,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2731394,34.0379549,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2729669,34.0379073,2,55 mph,Santa Monica Freeway,I 10,East
+-118.27278,34.0378555,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2725944,34.0377972,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2724446,34.0377441,2,55 mph,Santa Monica Freeway,I 10,East
+-118.2724446,34.0377441,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2722885,34.0376869,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2721172,34.0376146,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2718944,34.0375123,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2716919,34.0374081,3,55 mph,Santa Monica Freeway,I 10,East
+-118.271533,34.0373206,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2713099,34.0371963,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2711095,34.0370745,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2708334,34.0369019,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2704236,34.0366146,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2697837,34.0361635,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2691542,34.0357206,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2831647,34.0369174,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2828643,34.0369459,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2825381,34.0370028,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2821776,34.0370881,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2815539,34.0372659,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2812154,34.0373619,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2808737,34.0374544,3,65 mph,Santa Monica Freeway,I 10,East
+-118.280598,34.037521,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2803284,34.037583,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2796675,34.0376716,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2867824,34.0366319,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.28656,34.0366305,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2862536,34.0366347,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2858763,34.0366417,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2855746,34.0366571,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.28525,34.0366851,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2845405,34.0367533,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2844513,34.0367634,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2843697,34.0367736,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.2831647,34.0369174,"['1', '2']",65 mph,Santa Monica Freeway,I 10,East
+-118.3061096,34.0368565,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3046219,34.0368439,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3042309,34.0368394,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3031557,34.0367666,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3175354,34.0366228,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3164221,34.0367575,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3157527,34.0368365,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3148154,34.0369132,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3137412,34.0369824,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3126205,34.0370367,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3115278,34.0370578,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3093101,34.0370623,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3175354,34.0366228,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3174252,34.0365955,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3168056,34.0366615,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3165099,34.0366698,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3158548,34.0366892,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3151977,34.0367298,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3144009,34.0367869,1,65 mph,Santa Monica Freeway,I 10,East
+-118.3118189,34.0368846,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3112472,34.0368715,2,65 mph,Santa Monica Freeway,I 10,East
+-118.310476,34.0368392,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3096005,34.036825,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3086515,34.036837,2,65 mph,Santa Monica Freeway,I 10,East
+-118.307718,34.036869,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3072976,34.0368761,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3061096,34.0368565,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3031557,34.0367666,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3028701,34.0367578,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3024111,34.0367563,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3016794,34.036789,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2953702,34.0368934,5,65 mph,Santa Monica Freeway,I 10,East
+-118.29188,34.0368417,5,65 mph,Santa Monica Freeway,I 10,East
+-118.291253,34.0368344,5,65 mph,Santa Monica Freeway,I 10,East
+-118.28685,34.0368014,5,65 mph,Santa Monica Freeway,I 10,East
+-118.2796675,34.0376716,3,,Santa Monica Freeway,I 10,East
+-118.2791202,34.0377263,3,,Santa Monica Freeway,I 10,East
+-118.278616,34.0377738,3,,Santa Monica Freeway,I 10,East
+-118.2780232,34.0378167,3,,Santa Monica Freeway,I 10,East
+-118.2774202,34.0378512,3,,Santa Monica Freeway,I 10,East
+-118.2768578,34.0378749,3,,Santa Monica Freeway,I 10,East
+-118.2763132,34.0378944,3,,Santa Monica Freeway,I 10,East
+-118.2763132,34.0378944,2,,Santa Monica Freeway,I 10,East
+-118.2750949,34.0378766,2,,Santa Monica Freeway,I 10,East
+-118.2747346,34.0378659,2,,Santa Monica Freeway,I 10,East
+-118.2746032,34.0378611,2,,Santa Monica Freeway,I 10,East
+-118.2742766,34.0378483,2,,Santa Monica Freeway,I 10,East
+-118.2740762,34.0378325,2,,Santa Monica Freeway,I 10,East
+-118.2738876,34.037814,2,,Santa Monica Freeway,I 10,East
+-118.2737025,34.0377916,2,,Santa Monica Freeway,I 10,East
+-118.2735261,34.0377649,2,,Santa Monica Freeway,I 10,East
+-118.2735261,34.0377649,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.273357,34.0377346,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2732021,34.0377037,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2730798,34.0376757,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2729361,34.0376375,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2727502,34.0375851,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2725783,34.0375272,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2724181,34.0374681,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2721661,34.0373674,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2719976,34.0372886,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2717676,34.0371732,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2715959,34.0370802,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2714389,34.0369832,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2712907,34.036881,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.2709767,34.0366785,"['3', '2']",,Santa Monica Freeway,I 10,East
+-118.3761649,34.0365764,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3758103,34.0365023,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3756184,34.0364586,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3753481,34.0363986,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3731498,34.0359467,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3720266,34.0356984,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3698017,34.0352377,4,65 mph,Santa Monica Freeway,I 10,East
+-118.368031,34.0348548,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3855431,34.033944,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3831748,34.0353066,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3822479,34.0358472,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3819131,34.0360392,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3815955,34.036217,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3812866,34.0363593,4,65 mph,Santa Monica Freeway,I 10,East
+-118.381121,34.0364254,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3809514,34.0364865,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3805551,34.0366066,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3802652,34.0366865,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3799133,34.0367647,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3795528,34.0368216,4,65 mph,Santa Monica Freeway,I 10,East
+-118.379158,34.0368714,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3787545,34.0368998,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3783254,34.0369069,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3780422,34.0368998,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3778837,34.0368883,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3777293,34.0368718,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3773275,34.0368176,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3761649,34.0365764,4,65 mph,Santa Monica Freeway,I 10,East
+-118.368031,34.0348548,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3643675,34.0340586,5,65 mph,Santa Monica Freeway,I 10,East
+-118.1765626,34.0590635,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1756579,34.0594516,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1735894,34.0603618,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1723449,34.0609022,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1721217,34.0609955,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1718985,34.0610799,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1717156,34.0611401,4,65 mph,San Bernardino Freeway,I 10,East
+-118.171538,34.0611937,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1713393,34.0612515,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1711432,34.0613004,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1709193,34.0613538,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1706954,34.0613983,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1704583,34.0614375,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1702212,34.0614657,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1700227,34.061482,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1698322,34.0614916,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1696559,34.0614954,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1694876,34.0614947,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1692435,34.0614858,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1690064,34.0614698,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1687714,34.0614478,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1685436,34.0614233,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1680584,34.0613675,4,65 mph,San Bernardino Freeway,I 10,East
+-118.4904174,34.0124906,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4902347,34.012521,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4899663,34.0125697,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4896432,34.012647,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4893358,34.0127386,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4891793,34.012796,2,65 mph,Santa Monica Freeway,I 10,East
+-118.489037,34.0128568,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4887635,34.012985,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4855723,34.0149354,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4849405,34.0153128,2,65 mph,Santa Monica Freeway,I 10,East
+-118.4849405,34.0153128,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4834902,34.0162131,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4825471,34.0168831,3,65 mph,Santa Monica Freeway,I 10,East
+-118.4815036,34.0176988,3,65 mph,Santa Monica Freeway,I 10,East
+-118.2656244,34.0336194,5,55 mph,Santa Monica Freeway,I 10,East
+-118.264158,34.0327899,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2691542,34.0357206,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2683388,34.0351809,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2680424,34.0350051,4,55 mph,Santa Monica Freeway,I 10,East
+-118.267472,34.0346832,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2662967,34.0340175,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2656244,34.0336194,4,55 mph,Santa Monica Freeway,I 10,East
+-118.0847647,34.0719446,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0820107,34.0719744,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0817501,34.0719792,4,65 mph,San Bernardino Freeway,I 10,East
+-118.081704,34.071979,4,65 mph,San Bernardino Freeway,I 10,East
+-118.081704,34.071979,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0804563,34.0719764,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.075744,34.0720335,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.1970343,34.0554048,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1966996,34.0554119,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1963548,34.0554135,6,65 mph,San Bernardino Freeway,I 10,East
+-118.195439,34.0553909,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1945475,34.0553626,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1877406,34.0551771,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1873274,34.0551686,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1868759,34.0551775,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1864493,34.0552005,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1860722,34.0552362,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1857089,34.0552833,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1854099,34.0553293,6,65 mph,San Bernardino Freeway,I 10,East
+-118.184964,34.0554231,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1845044,34.0555433,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0892578,34.0718709,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0860363,34.0719284,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.0847647,34.0719446,"['5', '4']",65 mph,San Bernardino Freeway,I 10,East
+-118.242994,34.0236004,5,55 mph,Santa Monica Freeway,I 10,East
+-118.242343,34.0236556,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2417757,34.0237325,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2411892,34.0238555,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2406182,34.0240131,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2397071,34.0243588,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2388752,34.0247122,5,55 mph,Santa Monica Freeway,I 10,East
+-118.065949,34.0721805,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0649191,34.0721635,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0601316,34.0722204,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0557248,34.0722816,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0555234,34.0722804,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0554342,34.0722787,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0545894,34.0722706,5,65 mph,San Bernardino Freeway,I 10,East
+-118.1361326,34.0713132,4,65 mph,San Bernardino Freeway,I 10,East
+-118.134563,34.0713348,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1342934,34.0713348,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1332742,34.0713449,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1330402,34.0713474,4,65 mph,San Bernardino Freeway,I 10,East
+-118.2388752,34.0247122,6,55 mph,Santa Monica Freeway,I 10,East
+-118.2376927,34.0252208,6,55 mph,Santa Monica Freeway,I 10,East
+-118.237005,34.0254978,6,55 mph,Santa Monica Freeway,I 10,East
+-118.4132133,34.0313327,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4128523,34.0312175,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4114139,34.0307113,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4108251,34.0305137,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4102395,34.0303315,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4098308,34.0302285,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4091763,34.0301083,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4085618,34.0300349,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4068328,34.0298769,5,65 mph,Santa Monica Freeway,I 10,East
+-118.402031,34.0294344,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3971175,34.0290301,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3968916,34.0290184,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3966446,34.0290108,5,65 mph,Santa Monica Freeway,I 10,East
+-118.396579,34.0290079,5,65 mph,Santa Monica Freeway,I 10,East
+-118.0980356,34.0717833,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0966665,34.0717864,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0964055,34.0717843,4,65 mph,San Bernardino Freeway,I 10,East
+-118.0933134,34.0718408,4,65 mph,San Bernardino Freeway,I 10,East
+-118.258724,34.0306964,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2584683,34.030602,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2581591,34.0304824,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2578454,34.0303526,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2572282,34.030077,5,55 mph,Santa Monica Freeway,I 10,East
+-118.1523202,34.0676069,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1510801,34.0682736,4,65 mph,San Bernardino Freeway,I 10,East
+-118.150846,34.0683982,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1496177,34.0690359,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1103307,34.0716305,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1093236,34.0716312,4,65 mph,San Bernardino Freeway,I 10,East
+-118.108328,34.0716387,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1080544,34.0716386,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1069823,34.0716432,4,65 mph,San Bernardino Freeway,I 10,East
+-118.3890959,34.031815,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3859317,34.0337112,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3855431,34.033944,5,65 mph,Santa Monica Freeway,I 10,East
+-118.2196868,34.0377424,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2196259,34.038101,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2195509,34.0385375,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2194788,34.0389068,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2193862,34.0392167,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2192792,34.039506,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2191344,34.0398214,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2189074,34.0402431,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.2184964,34.0408218,5,65 mph,Golden State Freeway,I 5;I 10,East
+-118.1250316,34.0714503,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1230521,34.0714764,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1227947,34.0714784,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1216211,34.0714942,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1330402,34.0713474,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1284767,34.0714145,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1266911,34.0714399,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1250316,34.0714503,4,65 mph,San Bernardino Freeway,I 10,East
+-118.322127,34.0359498,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3212048,34.0360852,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3195826,34.0363128,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3175354,34.0366228,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3144009,34.0367869,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3136935,34.0368168,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3136935,34.0368168,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3133011,34.0368388,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3118189,34.0368846,2,65 mph,Santa Monica Freeway,I 10,East
+-118.304557,34.0370232,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3005939,34.0369668,4,65 mph,Santa Monica Freeway,I 10,East
+-118.2999857,34.0369595,4,65 mph,Santa Monica Freeway,I 10,East
+-118.2965747,34.0369148,4,65 mph,Santa Monica Freeway,I 10,East
+-118.2961555,34.0369102,4,65 mph,Santa Monica Freeway,I 10,East
+-118.2953702,34.0368934,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3093101,34.0370623,5,65 mph,Santa Monica Freeway,I 10,East
+-118.304557,34.0370232,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4642309,34.0257925,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4629902,34.0261207,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4625662,34.0262384,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4614455,34.0265113,4,65 mph,Santa Monica Freeway,I 10,East
+-118.4575435,34.0273168,4,65 mph,Santa Monica Freeway,I 10,East
+-118.2158503,34.0551424,3,,San Bernardino Freeway,I 10,East
+-118.2138209,34.0551475,3,,San Bernardino Freeway,I 10,East
+-118.2133551,34.0551205,3,,San Bernardino Freeway,I 10,East
+-118.2129107,34.0550652,3,,San Bernardino Freeway,I 10,East
+-118.2124251,34.0549752,3,,San Bernardino Freeway,I 10,East
+-118.2119169,34.0548463,3,,San Bernardino Freeway,I 10,East
+-118.2112237,34.0546445,3,,San Bernardino Freeway,I 10,East
+-118.2093983,34.0541181,3,,San Bernardino Freeway,I 10,East
+-118.3379415,34.0347521,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3310597,34.0350928,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3297709,34.0351233,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3289481,34.0351689,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3583519,34.0338197,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3559244,34.0339317,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3555094,34.0339457,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3504947,34.0341804,4,65 mph,Santa Monica Freeway,I 10,East
+-118.349824,34.0342037,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3454453,34.0344087,4,65 mph,Santa Monica Freeway,I 10,East
+-118.344978,34.03443,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3435465,34.0345019,4,65 mph,Santa Monica Freeway,I 10,East
+-118.3643675,34.0340586,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3634564,34.0339225,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3624982,34.0338095,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.362009,34.0337647,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3615521,34.0337399,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3610683,34.033715,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3603717,34.0337094,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.3583519,34.0338197,"['5', '4']",65 mph,Santa Monica Freeway,I 10,East
+-118.2264,34.0526059,2,,San Bernardino Freeway,I 10,East
+-118.2250326,34.0524202,2,,San Bernardino Freeway,I 10,East
+-118.2247595,34.0523974,2,,San Bernardino Freeway,I 10,East
+-118.2245511,34.0524032,2,,San Bernardino Freeway,I 10,East
+-118.2244035,34.0524245,2,,San Bernardino Freeway,I 10,East
+-118.2241833,34.0524697,2,,San Bernardino Freeway,I 10,East
+-118.2239864,34.0525286,2,,San Bernardino Freeway,I 10,East
+-118.2237631,34.0526198,2,,San Bernardino Freeway,I 10,East
+-118.2235101,34.0527676,2,,San Bernardino Freeway,I 10,East
+-118.2224323,34.0535396,2,,San Bernardino Freeway,I 10,East
+-118.396579,34.0290079,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3961325,34.0290052,5,65 mph,Santa Monica Freeway,I 10,East
+-118.395772,34.0290336,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3954287,34.0290763,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3950888,34.0291212,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3946425,34.0291995,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3942305,34.0292919,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3938271,34.0293986,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3934666,34.0295053,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3931405,34.0296191,5,65 mph,Santa Monica Freeway,I 10,East
+-118.392905,34.0297064,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3926718,34.0297965,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3924649,34.0298899,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3923079,34.0299681,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3917758,34.0302451,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3916001,34.0303533,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3902603,34.0311471,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3890959,34.031815,5,65 mph,Santa Monica Freeway,I 10,East
+-118.3289481,34.0351689,6,65 mph,Santa Monica Freeway,I 10,East
+-118.3277964,34.0352327,6,65 mph,Santa Monica Freeway,I 10,East
+-118.3260527,34.0353771,6,65 mph,Santa Monica Freeway,I 10,East
+-118.3239171,34.0356869,6,65 mph,Santa Monica Freeway,I 10,East
+-118.322127,34.0359498,6,65 mph,Santa Monica Freeway,I 10,East
+-118.288374,34.0366504,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2867824,34.0366319,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2952068,34.0366814,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2943141,34.0366827,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2930781,34.036704,2,65 mph,Santa Monica Freeway,I 10,East
+-118.291882,34.0366992,2,65 mph,Santa Monica Freeway,I 10,East
+-118.291253,34.0366878,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2894287,34.0366688,2,65 mph,Santa Monica Freeway,I 10,East
+-118.288374,34.0366504,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2972854,34.0367406,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2971354,34.0367307,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2966153,34.0367019,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2961983,34.0366909,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2952068,34.0366814,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2977455,34.0367549,2,,Santa Monica Freeway,I 10,East
+-118.2972854,34.0367406,2,,Santa Monica Freeway,I 10,East
+-118.2431167,34.0235936,6,55 mph,Santa Monica Freeway,I 10,East
+-118.242994,34.0236004,6,55 mph,Santa Monica Freeway,I 10,East
+-118.250854,34.0266819,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2495935,34.0260014,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2469355,34.0245588,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2465184,34.0243471,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2460521,34.0241442,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2456252,34.0239859,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2451239,34.0238408,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2446931,34.0237477,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2442814,34.0236809,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2436554,34.0236116,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2431167,34.0235936,5,55 mph,Santa Monica Freeway,I 10,East
+-118.2515045,34.0270361,6,55 mph,Santa Monica Freeway,I 10,East
+-118.250903,34.0267086,6,55 mph,Santa Monica Freeway,I 10,East
+-118.250854,34.0266819,6,55 mph,Santa Monica Freeway,I 10,East
+-118.264158,34.0327899,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2633782,34.0323848,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2630467,34.0322178,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2627,34.0320567,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2623574,34.0319119,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2620597,34.0317959,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2617701,34.0316915,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2612869,34.0315318,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2600621,34.0311523,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2596549,34.0310277,4,55 mph,Santa Monica Freeway,I 10,East
+-118.258724,34.0306964,4,55 mph,Santa Monica Freeway,I 10,East
+-118.2211203,34.0334266,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2206797,34.0340916,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2205338,34.0343334,3,55 mph,Santa Monica Freeway,I 10,East
+-118.220405,34.0345824,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2203452,34.0347394,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2202559,34.0350085,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2201651,34.0352988,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2200895,34.0355767,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2199909,34.0360524,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2199113,34.0364601,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2197318,34.0376287,3,55 mph,Santa Monica Freeway,I 10,East
+-118.2196868,34.0377424,3,55 mph,Santa Monica Freeway,I 10,East
+-118.1845044,34.0555433,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1842396,34.0556181,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1839599,34.0557171,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1837009,34.0558071,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1834835,34.0558899,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1832825,34.0559771,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1830426,34.056086,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1828104,34.0561949,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1819543,34.0565998,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1810096,34.0570475,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1788555,34.0580197,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1788555,34.0580197,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1779292,34.0584414,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1765626,34.0590635,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1680584,34.0613675,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1662401,34.0611522,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1660823,34.0611379,4,65 mph,San Bernardino Freeway,I 10,East
+-118.165905,34.0611263,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1657493,34.06112,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1655805,34.0611137,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1653989,34.0611156,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1651978,34.061123,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1649919,34.0611398,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1647892,34.0611606,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1645869,34.0611878,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1643879,34.0612189,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1641728,34.0612667,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1639707,34.0613172,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1637924,34.061372,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1636254,34.0614269,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1634571,34.061489,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1633069,34.0615455,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1630792,34.0616382,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1628518,34.0617372,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1626376,34.0618364,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1624285,34.0619356,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1622701,34.0620201,4,65 mph,San Bernardino Freeway,I 10,East
+-118.162122,34.0621018,4,65 mph,San Bernardino Freeway,I 10,East
+-118.161981,34.0621815,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1618476,34.0622591,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1617079,34.0623454,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1615732,34.0624275,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1614455,34.0625115,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1613255,34.0625914,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1610115,34.0628191,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1607128,34.0630426,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1605439,34.0631641,4,65 mph,San Bernardino Freeway,I 10,East
+-118.160375,34.0632803,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1601762,34.0634116,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1599801,34.0635344,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1597519,34.0636651,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1595237,34.0637894,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1588011,34.0641841,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1583485,34.064431,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1578704,34.06468,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1216211,34.0714942,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1112229,34.0716295,4,65 mph,San Bernardino Freeway,I 10,East
+-118.1103307,34.0716305,4,65 mph,San Bernardino Freeway,I 10,East
+-118.4068328,34.0298769,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4055306,34.0297481,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4055306,34.0297481,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4035239,34.0295802,5,65 mph,Santa Monica Freeway,I 10,East
+-118.4029346,34.0295271,5,65 mph,Santa Monica Freeway,I 10,East
+-118.402031,34.0294344,5,65 mph,Santa Monica Freeway,I 10,East
+-118.0702705,34.072147,6,65 mph,San Bernardino Freeway,I 10,East
+-118.0660617,34.0721811,6,65 mph,San Bernardino Freeway,I 10,East
+-118.1496177,34.0690359,5,65 mph,San Bernardino Freeway,I 10,East
+-118.1480243,34.0698631,5,65 mph,San Bernardino Freeway,I 10,East
+-118.0660617,34.0721811,4,65 mph,San Bernardino Freeway,I 10,East
+-118.065949,34.0721805,4,65 mph,San Bernardino Freeway,I 10,East
+-118.3016794,34.036789,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3009488,34.0367894,2,65 mph,Santa Monica Freeway,I 10,East
+-118.3005952,34.0367971,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2999839,34.0367931,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2981886,34.0367706,2,65 mph,Santa Monica Freeway,I 10,East
+-118.2977455,34.0367549,2,65 mph,Santa Monica Freeway,I 10,East
