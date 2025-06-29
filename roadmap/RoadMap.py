@@ -163,7 +163,7 @@ class RoadMapManager:
                 folium.PolyLine(
                     locations=[(lat1, lon1), (lat2, lon2)],
                     color=color,
-                    weight=6,
+                    weight=1,
                     opacity=0.9
                 ).add_to(m)
 
@@ -239,7 +239,7 @@ class RoadMapManager:
                     folium.PolyLine(
                         locations=[(lat1, lon1), (lat2, lon2)],
                         color=color,
-                        weight=6,
+                        weight=2,
                         opacity=0.95
                     ).add_to(m)
 
