@@ -26,7 +26,9 @@ class MockTrafficPredictor:
             raise ValueError("Input DataFrame must contain a 'ref' column with road names")
 
         road_ref = df['ref'].iloc[0]
-        classification = self.road_classification_map.get(road_ref, 'moderate')
+        road_direction = df['direction'].iloc[0]
+        classification_name = road_ref + " " + road_direction
+        classification = self.road_classification_map.get(classification_name, 'moderate')
         min_r, max_r = self.speed_range[classification]
 
         df['maxspeed_numeric'] = df['maxspeed'].str.extract(r'(\d+)').astype(float)
