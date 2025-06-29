@@ -40,6 +40,7 @@ def add_weather_to_df(df: pd.DataFrame, num_clusters: int = 4 , api_key = 'FLMEW
 
     weather_data = {}
     date_str = time.strftime("%Y-%m-%d")
+    target_hour = time.strftime("%H:%M:%S")
 
     for cluster_id in range(kmeans.n_clusters): # type: ignore
         lat, lon = kmeans.cluster_centers_[cluster_id]
