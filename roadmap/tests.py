@@ -10,12 +10,12 @@ LA_ROADS = [
     'I 405 North', 'I 405 South',
     'US 101 North', 'US 101 South',
     'I 5 North', 'I 5 South',
-    'I 10 East', 'I 10 West',
     'CA 110 North', 'CA 110 South',
     'CA 170 North', 'CA 170 South',
     'CA 118 East', 'CA 118 West',
     'CA 134 East', 'CA 134 West',
-    'CA 2 North', 'CA 2 South'
+    'I 605 North', 'I 605 South',
+    'I 210 East', 'I 210 West'
 ]
 LA_BBOX = (-118.569946, 33.252470, -116.976929, 34.388779)
 
