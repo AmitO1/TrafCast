@@ -113,9 +113,9 @@ class RoadMapManager:
             'I 405 North': 'moderate',
             'I 405 South': 'free',
             'US 101 North': 'busy',
-            'US 101 South': 'moderate',
+            'US 101 South': 'free',
             'I 5 North': 'busy',
-            'I 5 South': 'moderate',
+            'I 5 South': 'free',
             'I 10 East': 'moderate',
             'I 10 West': 'moderate',
             'CA 110 North': 'busy',
@@ -125,9 +125,13 @@ class RoadMapManager:
             'CA 118 East': 'free',
             'CA 118 West': 'free',
             'CA 134 East': 'moderate',
-            'CA 134 West': 'moderate',
+            'CA 134 West': 'free',
             'CA 2 North': 'moderate',
-            'CA 2 South': 'moderate'
+            'CA 2 South': 'moderate',
+            'I 605 North': 'busy',
+            'I 605': 'free',
+            'I 210 East' : 'free',
+            'I 210 West' : 'busy'
         })
 
         if predict_time is None:
