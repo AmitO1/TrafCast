@@ -8,3 +8,4 @@ scikit-learn
 geopy
 streamlit
 streamlit-folium
+selenium

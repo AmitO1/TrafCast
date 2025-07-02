@@ -9,8 +9,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 # Specify the download directory
-download_path = '/Users/amitomer/Downloads/data collection/data'
-
+download_path = '/Users/noamcohen/Downloads/data collection/data'
+ROADS = {'405': ['N', 'S'], 101: ['N', 'S'], 5: ['N', 'S'], 110: ['N', 'S'], 170: ['N', 'S'], 118: ['E', 'W'],
+         134: ['E', 'W'], 605: ['N', 'S'], 210: ['E', 'W']}
 # Set up Chrome options
 chrome_options = Options()
 chrome_prefs = {
@@ -46,46 +47,49 @@ login_button.click()
 
 # Wait for login to complete
 time.sleep(20)
-i = 2
-s_time_id=1740873600
-while(i <= 31):
+i = 1
+s_time_id=1740787200
+while(i <= 1):
     # Once logged in, navigate to the report page
     if i <= 9:
         day = f"0{i}"
     else:
         day = i
-    report_url = f"https://pems.dot.ca.gov/?report_form=1&dnode=Freeway&content=spatial&tab=contours&export=&fwy=405&dir=N&s_time_id={s_time_id}&s_time_id_f=03%2F{day}%2F2025&from_hh=0&to_hh=23&start_pm=.36&end_pm=72.09&lanes=&station_type=ml&q=speed&colormap=30%2C31%2C32&sc=auto&ymin=&ymax=&view_d=2&chart.x=93&chart.y=20"
-    driver.get(report_url)
-    time.sleep(60)
+    for road in ROADS.keys():
+        for dir in ROADS.get(road):
 
-    # Find the "Export XLS" button by its 'name' or 'alt' attribute
-    export_button = driver.find_element(By.NAME, "xls")
+            report_url = f"https://pems.dot.ca.gov/?report_form=1&dnode=Freeway&content=spatial&tab=contours&export=&fwy={road}&dir={dir}&s_time_id={s_time_id}&s_time_id_f=03%2F{day}%2F2025&from_hh=0&to_hh=23&start_pm=.0&end_pm=1000.09&lanes=&station_type=ml&q=speed&colormap=30%2C31%2C32&sc=auto&ymin=&ymax=&view_d=2&chart.x=93&chart.y=20"
+            driver.get(report_url)
+            time.sleep(60)
 
-    # Click the "Export XLS" button
-    export_button.click()
+            # Find the "Export XLS" button by its 'name' or 'alt' attribute
+            export_button = driver.find_element(By.NAME, "xls")
 
-    # Wait for the download to complete (you can increase or decrease this based on your network speed)
-    time.sleep(100)
+            # Click the "Export XLS" button
+            export_button.click()
 
-    # Extract highway number and date from the report URL
-    parsed_url = urlparse(report_url)
-    query_params = parse_qs(parsed_url.query)
-    highway_number = query_params.get('fwy', ['unknown'])[0]  # Default to 'unknown' if not found
-    date_taken = query_params.get('s_time_id_f', ['unknown_date'])[0]  # Default to 'unknown_date' if not found
+            # Wait for the download to complete (you can increase or decrease this based on your network speed)
+            time.sleep(100)
 
-    # Construct the new file name
-    new_file_name = rf"{highway_number}_{date_taken.replace("/", "*")}.xlsx"
-    new_file_path = os.path.join(download_path, new_file_name)
+            # Extract highway number and date from the report URL
+            parsed_url = urlparse(report_url)
+            query_params = parse_qs(parsed_url.query)
+            highway_number = query_params.get('fwy', ['unknown'])[0]  # Default to 'unknown' if not found
+            date_taken = query_params.get('s_time_id_f', ['unknown_date'])[0]  # Default to 'unknown_date' if not found
 
-    # Original file path (before renaming)
-    original_file_path = os.path.join(download_path, 'pems_output.xlsx')
+            # Construct the new file name
+            new_file_name = rf"{highway_number}_{dir}_{date_taken.replace("/", "*")}.xlsx"
+            new_file_path = os.path.join(download_path, new_file_name)
 
-    # Rename the file if it exists
-    if os.path.exists(original_file_path):
-        os.rename(original_file_path, new_file_path)
-        print(f"File renamed to: {new_file_path}")
-    else:
-        print("Original file not found!")
+            # Original file path (before renaming)
+            original_file_path = os.path.join(download_path, 'pems_output.xlsx')
+
+            # Rename the file if it exists
+            if os.path.exists(original_file_path):
+                os.rename(original_file_path, new_file_path)
+                print(f"File renamed to: {new_file_path}")
+            else:
+                print("Original file not found!")
 
     print(f"Download {i} to March complete!")
     i+=1
