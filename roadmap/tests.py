@@ -10,6 +10,7 @@ LA_ROADS = [
     'I 405 North', 'I 405 South',
     'US 101 North', 'US 101 South',
     'I 5 North', 'I 5 South',
+    'I 110 North', 'I 110 South',
     'CA 110 North', 'CA 110 South',
     'CA 170 North', 'CA 170 South',
     'CA 118 East', 'CA 118 West',
