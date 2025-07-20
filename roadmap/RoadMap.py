@@ -118,6 +118,8 @@ class RoadMapManager:
             'I 5 South': 'free',
             'I 10 East': 'moderate',
             'I 10 West': 'moderate',
+            'I 110 North': 'busy',
+            'I 110 South': 'busy',
             'CA 110 North': 'busy',
             'CA 110 South': 'busy',
             'CA 170 North': 'moderate',
@@ -138,7 +140,7 @@ class RoadMapManager:
             predict_time = datetime.now()
 
         for (road_name, direction), df in self.roads.items():
-            self.roads[(road_name, direction)] = add_weather_to_df(self.roads[(road_name, direction)], time = predict_time)
+            #self.roads[(road_name, direction)] = add_weather_to_df(self.roads[(road_name, direction)], time = predict_time)
             print(f"Mocking for {road_name} - {direction}")
             df = mock_predictor.predict(df)
             print(df.head())
