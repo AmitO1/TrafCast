@@ -165,17 +165,3 @@ def sort_gps_by_greedy_path(df: pd.DataFrame) -> pd.DataFrame:
 
     return df.iloc[path].reset_index(drop=True)
 
-
-def match_training_data_to_road_network(training_df, road_df):
-    speed_coords = np.radians(training_df[['Latitude', 'Longitude']].values)
-    points_coords = np.radians(road_df[['Latitude', 'Longitude']].values)
-
-    tree = BallTree(speed_coords, metric='haversine')
-
-    distances, indices = tree.query(points_coords, k=1)
-
-    meters = distances[:, 0] * 6371000
-
-    road_df['Speed'] = training_df.loc[indices[:, 0], 'Speed'].values
-
-    road_df.to_csv("i405_geometry_points_with_speed.csv", index=False)
