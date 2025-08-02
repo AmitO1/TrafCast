@@ -38,7 +38,7 @@ def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
     df_data = add_coordinate(coordinate, df_data)
 
     #TODO send in in 1 hour intervals according to time column, send with time parameter
-    df_data["Time_hour"] = df_data["Time"].dt.round("H")
+    df_data["Time_hour"] = df_data["Time"].dt.round("h")
     df_data = enrich_weather_hourly(df_data)
 
     return df_data
