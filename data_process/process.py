@@ -37,7 +37,6 @@ def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
 
     df_data = add_coordinate(coordinate, df_data)
 
-    #TODO send in in 1 hour intervals according to time column, send with time parameter
     df_data["Time_hour"] = df_data["Time"].dt.round("h")
     df_data = enrich_weather_hourly(df_data)
 
@@ -118,8 +117,24 @@ def build_enriched_time_series(data_df: pd.DataFrame, sensor_map: pd.DataFrame, 
     return enriched
 
 
+def normalize_lanes(value):
+    if isinstance(value, list):
+        try:
+            return min(int(x) for x in value)
+        except ValueError:
+            return None
+    try:
+        return int(value)
+    except ValueError:
+        return None
+
 clean_data_df = prepare_data_df(df_data, df_coord,date)
 sensors = build_sensor_index(clean_data_df)
 network_mapped = map_network_to_sensors(df_network, sensors)
 enriched = build_enriched_time_series(clean_data_df, network_mapped,sensors)
+enriched.drop('sensor_id', axis=1)
+enriched['lanes'] = enriched['lanes'].apply(normalize_lanes)
+enriched.to_csv('exmaple.csv',index=False)
 print(enriched)
+
+#TODO regading multuple lanes such as ['5', '6'], choose maximum and keep it 
