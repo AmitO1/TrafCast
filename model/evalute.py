@@ -34,9 +34,20 @@ def main(args):
     enc: TrafficDataEncoder = joblib.load(args.encoder)
     X, y = enc.transform(df)                         # (N_win, seq, F)
 
+    # Extract timestamps for the encoded samples (same logic as training)
+    seq_len = 12  # default from training
+    horizon = 1   # default from training
+    target_row_indices = np.arange(seq_len + horizon - 1, len(df))
+    timestamps = df.iloc[target_row_indices]['Time'].values
+    
+    # Sort by timestamp to ensure chronological order
+    sorted_indices = np.argsort(timestamps)
+    X_sorted = X[sorted_indices]
+    y_sorted = y[sorted_indices]
+    
     # replicate the 70/15/15 time split used in training
-    n = len(X); n_train = int(n*0.70); n_val = int(n*0.15)
-    X_test, y_test = X[n_train+n_val:], y[n_train+n_val:]
+    n = len(X_sorted); n_train = int(n*0.70); n_val = int(n*0.15)
+    X_test, y_test = X_sorted[n_train+n_val:], y_sorted[n_train+n_val:]
 
     # ---------- model -------------------------------------------------------
     net = LSTMReg(n_feats=X.shape[2], hidden=args.hidden).to(device)
