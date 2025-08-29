@@ -50,6 +50,7 @@ map/cache/
 # Project-specific exclusions
 roadmap/old_implmentation/road_network.graphml
 roadmap/data/Los Angeles/maps/Los_Angeles_network.graphml
+data_process/exmaple.csv
 
 # Prevent Git LFS tracked files from being committed directly
 .gitattributes

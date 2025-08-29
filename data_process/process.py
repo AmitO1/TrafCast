@@ -12,33 +12,19 @@ sys.path.append(PROJECT_ROOT)
 
 from roadmap.utils import add_weather_to_df
 
-""""
-handles this part in another file?
-"""
-DATA_DIR = os.path.join(PROJECT_ROOT, "data collection", "data", "I405(North) - March")
-COORDINTE_DIR = os.path.join(PROJECT_ROOT,"data collection", "coordinates")
-NETWORK_DIR = os.path.join(PROJECT_ROOT, "data", "Los Angeles", "coordinates")
-
-test_data = os.path.join(DATA_DIR, "405_03*01*2025.xlsx")
-test_coordinate = os.path.join(COORDINTE_DIR, "I 405 North.xlsx")
-test_network = os.path.join(NETWORK_DIR, "I 405 North.csv")
-
-df_coord = pd.read_excel(test_coordinate)
-df_data = pd.read_excel(test_data)
-df_network = pd.read_csv(test_network)
-date = "2025-03-01"
 
 def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
     """"
     first remove points with no observations, add date to the table and weather
     """
-    df_data.drop(df_data[df_data["% Observed"] == 0.0].index, inplace=True)
+    df_data.drop(df_data[df_data["% Observed"] < 50].index, inplace=True)
     df_data["Time"] = pd.to_datetime(date + " " + df_data["Time"].astype(str),format="%Y-%m-%d %H:%M")
 
     df_data = add_coordinate(coordinate, df_data)
 
     df_data["Time_hour"] = df_data["Time"].dt.round("h")
-    df_data = enrich_weather_hourly(df_data)
+    #df_data = enrich_weather_hourly(df_data)
+    df_data["weather"] = None
 
     return df_data
 
@@ -109,7 +95,7 @@ def build_enriched_time_series(data_df: pd.DataFrame, sensor_map: pd.DataFrame, 
     ].values
 
     enriched = (sensor_map[["sensor_id", "Latitude", "Longitude",
-                            "lanes", "maxspeed", "ref", "direction", "road_name"]]
+                            "lanes", "maxspeed", "ref", "direction"]]
                 .merge(data_df[["sensor_id", "Time", "AggSpeed", "% Observed", "weather"]],
                        on="sensor_id",
                        how="left"))
@@ -128,13 +114,4 @@ def normalize_lanes(value):
     except ValueError:
         return None
 
-clean_data_df = prepare_data_df(df_data, df_coord,date)
-sensors = build_sensor_index(clean_data_df)
-network_mapped = map_network_to_sensors(df_network, sensors)
-enriched = build_enriched_time_series(clean_data_df, network_mapped,sensors)
-enriched.drop('sensor_id', axis=1)
-enriched['lanes'] = enriched['lanes'].apply(normalize_lanes)
-enriched.to_csv('exmaple.csv',index=False)
-print(enriched)
 
-#TODO regading multuple lanes such as ['5', '6'], choose maximum and keep it 

@@ -39,7 +39,7 @@ class TrafficDataEncoder:
     horizon: int = 1        # predict 1 × 5‑min step ahead
     seq_len: int = 12       # history length (12 × 5‑min = 1 h)
 
-    _cat_cols: List[str] = field(default_factory=lambda: ["direction", "road_name", "weather"])
+    _cat_cols: List[str] = field(default_factory=lambda: ["direction", "weather"])
     _num_cols: List[str] = field(default_factory=lambda: [
         "lanes", "maxspeed_mph", "% Observed",
         "hour_sin", "hour_cos", "dow_sin", "dow_cos", "x_km", "y_km",

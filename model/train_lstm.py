@@ -128,7 +128,7 @@ def main(args):
         trues = y[test_win_idx].squeeze()
 
         tgt_row_idx = test_win_idx + args.seq + args.h - 1
-        meta_cols = ['Latitude', 'Longitude', 'direction', 'road_name', 'Time', 'AggSpeed']
+        meta_cols = ['Latitude', 'Longitude', 'direction', 'Time', 'AggSpeed']
         meta_df = df.iloc[tgt_row_idx][meta_cols].reset_index(drop=True)
         meta_df['y_true'] = trues
         meta_df['y_pred'] = preds
@@ -139,7 +139,7 @@ def main(args):
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--csv", required=True)
-    p.add_argument("--epochs", type=int, default=8)
+    p.add_argument("--epochs", type=int, default=4)
     p.add_argument("--batch", type=int, default=512)
     p.add_argument("--seq", type=int, default=12)
     p.add_argument("--h", type=int, default=1)
