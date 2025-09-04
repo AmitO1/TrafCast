@@ -12,6 +12,17 @@ sys.path.append(PROJECT_ROOT)
 
 from roadmap.utils import add_weather_to_df
 
+def compute_sensor_id(df: pd.DataFrame,
+                      lat_col: str = "Latitude",
+                      lon_col: str = "Longitude",
+                      decimals: int = 6,
+                      out_col: str = "sensor_id") -> pd.DataFrame:
+    df[out_col] = (
+        df[lat_col].round(decimals).astype(str)
+        + ";" +
+        df[lon_col].round(decimals).astype(str)
+    )
+    return df
 
 def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
     """"
@@ -21,10 +32,10 @@ def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
     df_data["Time"] = pd.to_datetime(date + " " + df_data["Time"].astype(str),format="%Y-%m-%d %H:%M")
 
     df_data = add_coordinate(coordinate, df_data)
+    df_data = compute_sensor_id(df_data)
 
     df_data["Time_hour"] = df_data["Time"].dt.round("h")
-    #df_data = enrich_weather_hourly(df_data)
-    df_data["weather"] = None
+    df_data = enrich_weather_hourly(df_data)
 
     return df_data
 
@@ -58,13 +69,13 @@ def build_sensor_index(data_df: pd.DataFrame) -> pd.DataFrame:
     sensors = (
         data_df
         .drop_duplicates(subset=["Latitude", "Longitude"])
-        .reset_index(drop=True)
         .loc[:, ["Latitude", "Longitude"]]
-    ).copy()
-
-    sensors["sensor_id"] = np.arange(len(sensors), dtype=int)
-
-    return sensors
+        .copy()
+        .reset_index(drop=True)
+    )
+    sensors = compute_sensor_id(sensors)  # adds 'sensor_id' as "lat;lon"
+    # keep only what we need; you can also keep an integer 'sensor_idx' if you like
+    return sensors[["sensor_id", "Latitude", "Longitude"]]
 
 def map_network_to_sensors(network_df: pd.DataFrame, sensors: pd.DataFrame, max_distance_m: float | None = None) -> pd.DataFrame:
     net = network_df.dropna(subset=["Latitude", "Longitude"]).copy()
@@ -87,19 +98,22 @@ def map_network_to_sensors(network_df: pd.DataFrame, sensors: pd.DataFrame, max_
     
     return matched
 
-def build_enriched_time_series(data_df: pd.DataFrame, sensor_map: pd.DataFrame, sensors: pd.DataFrame) -> pd.DataFrame:
-    sensor_lookup = sensors.set_index(["Latitude", "Longitude"])["sensor_id"]
-    data_df = data_df.copy()
-    data_df["sensor_id"] = sensor_lookup.loc[
-        list(zip(data_df["Latitude"], data_df["Longitude"]))
-    ].values
+def build_enriched_time_series(data_df: pd.DataFrame,
+                               sensor_map: pd.DataFrame,
+                               sensors: pd.DataFrame) -> pd.DataFrame:
+    # Ensure both sides have the same sensor_id key
+    data_df = compute_sensor_id(data_df)  # from its own lat/lon
 
-    enriched = (sensor_map[["sensor_id", "Latitude", "Longitude",
-                            "lanes", "maxspeed", "ref", "direction"]]
-                .merge(data_df[["sensor_id", "Time", "AggSpeed", "% Observed", "weather"]],
-                       on="sensor_id",
-                       how="left"))
-
+    enriched = (
+        sensor_map[["sensor_id", "Latitude", "Longitude", "lanes", "maxspeed", "ref", "direction"]]
+        .merge(
+            data_df[["sensor_id", "Time", "AggSpeed", "% Observed", "weather"]],
+            on="sensor_id",
+            how="left"
+        )
+        .sort_values(["sensor_id", "Time"])
+        .reset_index(drop=True)
+    )
     return enriched
 
 

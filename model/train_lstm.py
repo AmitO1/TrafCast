@@ -32,7 +32,7 @@ print("Using device:", DEVICE)
 
 # ───────────────────────────── model definition ────────────────────────────────
 class LSTMReg(nn.Module):
-    def __init__(self, n_feats: int, hidden: int = 64, n_layers: int = 2, dropout: float = 0.3):
+    def __init__(self, n_feats: int, hidden: int = 128, n_layers: int = 2, dropout: float = 0.3):
         super().__init__()
         self.lstm = nn.LSTM(n_feats, hidden, n_layers, batch_first=True, dropout=dropout)
         self.head = nn.Sequential(
@@ -183,7 +183,7 @@ def epoch_loop(model, loader, optim=None, weighted_loss_fn=None):
         weighted_loss_fn: MemoryEfficientWeightedL1Loss instance (None for standard L1Loss)
     """
     if weighted_loss_fn is None:
-        loss_fn = nn.L1Loss()
+        loss_fn = nn.L1Loss() if args.loss=="l1" else nn.SmoothL1Loss(beta=1.0)
     else:
         loss_fn = weighted_loss_fn
         
@@ -222,10 +222,28 @@ def main(args):
     enc = TrafficDataEncoder(seq_len=args.seq, horizon=args.h).fit(df)
     X, y = enc.transform(df)
     
-    # Extract timestamps for the encoded samples
-    # The encoder creates windows, so we need to get timestamps for the target rows
-    target_row_indices = np.arange(args.seq + args.h - 1, len(df))
-    timestamps = df.iloc[target_row_indices]['Time'].values
+    # Extract timestamps for the encoded samples (sensor-safe)
+    # Make sure Time is datetime
+    df["Time"] = pd.to_datetime(df["Time"], errors="coerce")
+
+    target_row_indices = []
+    for _, g in df.groupby("sensor_id", sort=False):
+        n = len(g)
+        if n < args.seq + args.h:
+            continue
+        # for each window i, the target row is at i + seq + h - 1
+        base_idx = g.index.to_numpy()
+        local_targets = np.arange(args.seq + args.h - 1, n)
+        target_row_indices.extend(base_idx[local_targets])
+
+    target_row_indices = np.asarray(target_row_indices, dtype=int)
+    timestamps = df.loc[target_row_indices, "Time"].to_numpy()
+
+    # sanity: lengths must agree
+    assert len(target_row_indices) == len(X) == len(y), \
+        f"Mapping mismatch: targets={len(target_row_indices)} X={len(X)} y={len(y)}"
+    print(f"Encoded {len(X):,} samples with timestamps from {timestamps.min()} to {timestamps.max()}")
+
     
     print(f"Encoded {len(X)} samples with timestamps from {timestamps[0]} to {timestamps[-1]}")
     
@@ -286,8 +304,9 @@ def main(args):
         df_meta['sensor_id'] = df_meta['Latitude'].round(6).astype(str) + ';' + df_meta['Longitude'].round(6).astype(str)
         df_meta = df_meta.sort_values(['sensor_id', 'Time']).reset_index(drop=True)
         
-        tgt_row_idx = test_win_idx + args.seq + args.h - 1
-        meta_cols = ['Latitude', 'Longitude', 'direction', 'Time', 'AggSpeed']
+        # Use the per-window → raw-row mapping we built earlier
+        tgt_row_idx = np.asarray(target_row_indices)[test_win_idx]
+        meta_cols = ["Latitude", "Longitude", "direction", "Time", "AggSpeed"]
         meta_df = df_meta.iloc[tgt_row_idx][meta_cols].reset_index(drop=True)
         meta_df['y_true'] = trues
         meta_df['y_pred'] = preds
@@ -303,6 +322,7 @@ if __name__ == "__main__":
     p.add_argument("--seq", type=int, default=12)
     p.add_argument("--h", type=int, default=1)
     p.add_argument("--hidden", type=int, default=64)
+    p.add_argument("--loss", choices=["l1","huber"], default="l1")
     p.add_argument("--lr", type=float, default=1e-3)
     p.add_argument("--pred_csv", type=str, default=None,
                    help="write preds with geo/meta columns to this CSV")
@@ -321,7 +341,7 @@ python model/resample_data.py --input data_process/exmaple.csv --output data_pro
 
 # 2. Train on balanced data (no weights needed)
 python model/train_lstm.py --csv data_process/balanced_example.csv \
-       --epochs 50 --batch 256 --model_out lstm_balanced.pt \
+       --epochs 5 --batch 128 --hidden 128 --loss huber --model_out lstm_balanced.pt \
        --pred_csv test_preds_balanced.csv
 
 # 3. Evaluate
