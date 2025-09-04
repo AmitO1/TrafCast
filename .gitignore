@@ -54,3 +54,4 @@ data_process/exmaple.csv
 
 # Prevent Git LFS tracked files from being committed directly
 .gitattributes
+data_process/balanced_example.csv
