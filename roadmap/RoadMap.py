@@ -18,13 +18,6 @@ from datetime import datetime
 DIST_THRESHOLD_METERS_MAX = 1200 #2000
 DIST_THRESHOLD_METERS_MIN = 10 #10
 
-#TODO
-#2. After matching need to append relevent data for predictions for exmaple only Weather, date, direction left:
-#   Road: US-101 | Time: 17:45 Friday | Weather: Clear | Coordinates: (34.1, -118.3) | Lanes: 4 | Speed Limit: 65mph | Direction: North
-#   keep in mind will need this also for training - maybe add another class for this handler
-#
-#3. Then predict using LLM - skip for now can be implmented later
-#   LSTM - how many different roads can predict? predit all together? how many points from a given road in a time?
 
 class RoadMapManager:
 

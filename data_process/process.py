@@ -28,14 +28,21 @@ def prepare_data_df(df_data: pd.DataFrame, coordinate: pd.DataFrame, date: str):
     """"
     first remove points with no observations, add date to the table and weather
     """
-    df_data.drop(df_data[df_data["% Observed"] < 50].index, inplace=True)
+    #df_data.drop(df_data[df_data["% Observed"] < 50].index, inplace=True)
     df_data["Time"] = pd.to_datetime(date + " " + df_data["Time"].astype(str),format="%Y-%m-%d %H:%M")
 
     df_data = add_coordinate(coordinate, df_data)
     df_data = compute_sensor_id(df_data)
 
     df_data["Time_hour"] = df_data["Time"].dt.round("h")
-    df_data = enrich_weather_hourly(df_data)
+
+    try:
+        df_data = enrich_weather_hourly(df_data) #TODO find better way to do this
+    except Exception as e:
+        print(f"Error enriching weather: {e}")
+        df_data["weather"] = None
+
+    df_data["Day"] = df_data["Time"].dt.dayofweek
 
     return df_data
 
@@ -77,26 +84,6 @@ def build_sensor_index(data_df: pd.DataFrame) -> pd.DataFrame:
     # keep only what we need; you can also keep an integer 'sensor_idx' if you like
     return sensors[["sensor_id", "Latitude", "Longitude"]]
 
-def map_network_to_sensors(network_df: pd.DataFrame, sensors: pd.DataFrame, max_distance_m: float | None = None) -> pd.DataFrame:
-    net = network_df.dropna(subset=["Latitude", "Longitude"]).copy()
-
-    sensor_rad = np.radians(sensors[["Latitude", "Longitude"]].to_numpy())
-    net_rad = np.radians(net[["Latitude", "Longitude"]].to_numpy())
-
-    tree = BallTree(sensor_rad, metric="haversine")
-    dist_rad, idx = tree.query(net_rad,k=1)
-    dist_m = dist_rad[:, 0] * EARTH_RADIUS_M
-
-    matched = net.copy()
-    matched["sensor_id"] = sensors.iloc[idx[:, 0]].sensor_id.values
-    matched["matched_sensor_lat"] = sensors.iloc[idx[:, 0]].Latitude.values
-    matched["matched_sensor_lon"] = sensors.iloc[idx[:, 0]].Longitude.values
-    matched["distance_m"] = dist_m
-
-    if max_distance_m is not None:
-        matched = matched[matched["distance_m"] <= max_distance_m].copy()
-    
-    return matched
 
 def build_enriched_time_series(data_df: pd.DataFrame,
                                sensor_map: pd.DataFrame,
@@ -129,3 +116,23 @@ def normalize_lanes(value):
         return None
 
 
+def map_pms_to_sensors(network_df: pd.DataFrame, sensors: pd.DataFrame, max_distance_m: float | None = None) -> pd.DataFrame:
+    net = network_df.dropna(subset=["Latitude", "Longitude"]).copy()
+
+    sensor_rad = np.radians(sensors[["Latitude", "Longitude"]].to_numpy())
+    net_rad = np.radians(net[["Latitude", "Longitude"]].to_numpy())
+
+    tree = BallTree(sensor_rad, metric="haversine")
+    dist_rad, idx = tree.query(net_rad,k=1)
+    dist_m = dist_rad[:, 0] * EARTH_RADIUS_M
+
+    matched = net.copy()
+    matched["sensor_id"] = sensors.iloc[idx[:, 0]].sensor_id.values
+    matched["matched_sensor_lat"] = sensors.iloc[idx[:, 0]].Latitude.values
+    matched["matched_sensor_lon"] = sensors.iloc[idx[:, 0]].Longitude.values
+    matched["distance_m"] = dist_m
+
+    if max_distance_m is not None:
+        matched = matched[matched["distance_m"] <= max_distance_m].copy()
+    
+    return matched

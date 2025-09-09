@@ -43,7 +43,7 @@ def pre_train_stat():
 
 def post_train_stat():
     # path to your predictions file
-    csv_path = "/Users/amitomer/Desktop/Personal/University/deep_learning/TrafCast/test_preds_balanced.csv"
+    csv_path = "/Users/amitomer/Desktop/Personal/University/deep_learning/TrafCast/preds_101_2025-03-28_2030.csv"
 
     df = pd.read_csv(csv_path)
 

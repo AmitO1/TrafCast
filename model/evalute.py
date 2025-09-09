@@ -179,4 +179,3 @@ if __name__ == "__main__":
                     help="If set, keep only the row closest to --when for each sensor")
     main(ap.parse_args())
 
-
