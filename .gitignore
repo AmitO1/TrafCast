@@ -30,8 +30,6 @@ map/cache/
 *.zip
 *.gz
 *.npz
-*.pt
-*.pkl
 *.ckpt
 *.pdf
 *.mp4
