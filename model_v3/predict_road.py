@@ -11,6 +11,12 @@ import torch
 from typing import List, Dict, Tuple, Optional
 from datetime import datetime, timedelta
 import joblib
+import sys
+import os
+
+# Add current directory to path for local imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
 
 from encode import TrafficDataEncoder
 from train_lstm import LSTMRegressor
