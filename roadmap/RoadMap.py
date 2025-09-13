@@ -8,8 +8,8 @@ from shapely.geometry import LineString, MultiLineString, Point
 from shapely import ops
 from sklearn.neighbors import BallTree
 from typing import Tuple, List
-from utils import get_coordinates_from_network, sort_gps_by_greedy_path, add_weather_to_df
-from mock_predictor import MockTrafficPredictor
+from .utils import get_coordinates_from_network, sort_gps_by_greedy_path, add_weather_to_df
+from .mock_predictor import MockTrafficPredictor
 from geopy.distance import geodesic
 import re
 import math
