@@ -54,4 +54,4 @@ The app will be available at `http://localhost:8501`
 
 ## Data
 
-The model was trained on compressed CSV files containing traffic sensor data from major LA roads including I-405, US-101, I-5, and state highways.
+The model was trained on CSV files containing traffic sensor data from major LA roads including I-405, US-101, I-5, and state highways.
