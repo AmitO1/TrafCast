@@ -121,7 +121,7 @@ class RoadMapManager:
         road_predictor = RoadPredictor(MODEL_PATH, ENCODER_PATH)
         for (road_name, direction) in self.roads.keys():
             road_under = road_name.replace(" ", "_")
-            df = pd.read_csv(os.path.join(self.roads_path, f"{road_under}_{direction.lower()}.csv"))
+            df = pd.read_csv(os.path.join(self.roads_path, f"{road_under}_{direction.lower()}.csv.gz"), compression='gzip')
             predictions[(road_name, direction)] = road_predictor.predict_road_speeds(df, road_name, direction, predict_time)
         
         # Map predictions to road coordinates
@@ -173,6 +173,13 @@ class RoadMapManager:
             
             # Get predicted speeds for closest points
             closest_pred_speeds = pred_df.iloc[indices.flatten()]['predicted_speed'].values
+            
+            # Get real speeds for closest points (if available)
+            if 'real_speed' in pred_df.columns:
+                closest_real_speeds = pred_df.iloc[indices.flatten()]['real_speed'].values
+                road_df['real_speed'] = closest_real_speeds
+            else:
+                road_df['real_speed'] = None
             
             # Add predicted speeds to road DataFrame
             road_df['predicted_speed'] = closest_pred_speeds
@@ -364,6 +371,104 @@ class RoadMapManager:
         m.save(output_path)
         print("✅ Saved map with directional offsets to 'direction_offset_map.html'")
         return m
+
+    def draw_map_with_real_speed(self):
+        """
+        Draw map using real speed data instead of predicted speed.
+        """
+        def get_color(speed, max_speed):
+            if speed >= 0.85 * max_speed:
+                return '#00FF00'  # Neon green
+            elif speed >= 0.55 * max_speed:
+                return '#FFA500'  # Bright orange
+            else:
+                return '#FF0000'  # Bright red
+
+        def get_maxspeed(raw_speed):
+            match = re.search(r'\d+', str(raw_speed))
+            return float(match.group()) if match else 60
+
+        def apply_offset(lat, lon, bearing, direction):
+            """Offset lat/lon a little perpendicular to bearing, based on direction."""
+            offset_meters = -600 if direction.lower() in ["north", "east"] else 600
+
+            # Convert bearing to radians and rotate 90°
+            angle_rad = math.radians((bearing + 90) % 360)
+            delta_lat = offset_meters * math.cos(angle_rad) / 111111
+            delta_lon = offset_meters * math.sin(angle_rad) / (111111 * math.cos(math.radians(lat)))
+
+            return lat + delta_lat, lon + delta_lon
+
+        # Create dark base map
+        center_lon = (self.bbox[0] + self.bbox[2]) / 2
+        center_lat = (self.bbox[1] + self.bbox[3]) / 2
+
+        m = folium.Map(
+            location=[center_lat, center_lon],
+            zoom_start=13,
+            tiles='CartoDB dark_matter'
+        )
+
+        # Group by road name
+        road_groups = {}
+        for (road_name, direction), df in self.roads.items():
+            road_groups.setdefault(road_name, {})[direction] = df
+
+        for road_name, direction_map in road_groups.items():
+            for direction, df in direction_map.items():
+                for i in range(len(df) - 1):
+                    lat1, lon1 = df.loc[i, ['Latitude', 'Longitude']]
+                    lat2, lon2 = df.loc[i + 1, ['Latitude', 'Longitude']]
+                    
+                    # Use real speed if available, otherwise fall back to predicted speed
+                    if 'real_speed' in df.columns and pd.notna(df.loc[i, 'real_speed']):
+                        speed1 = df.loc[i, 'real_speed']
+                        speed2 = df.loc[i + 1, 'real_speed'] if i + 1 < len(df) and pd.notna(df.loc[i + 1, 'real_speed']) else speed1
+                    else:
+                        speed1 = df.loc[i, 'speed']
+                        speed2 = df.loc[i + 1, 'speed']
+                    
+                    raw_speed = df.loc[i, 'maxspeed']
+                    max_speed = get_maxspeed(raw_speed)
+                    bearing = df.loc[i, 'bearing'] if 'bearing' in df.columns else 0
+
+                    dist = geodesic((lat1, lon1), (lat2, lon2)).meters
+                    if dist > DIST_THRESHOLD_METERS_MAX or dist < DIST_THRESHOLD_METERS_MIN:
+                        continue
+
+                    avg_speed = (speed1 + speed2) / 2
+                    color = get_color(avg_speed, max_speed)
+
+                    # Apply visual offset if road has both directions
+                    has_opposite = len(direction_map) > 1
+                    if has_opposite:
+                        lat1, lon1 = apply_offset(lat1, lon1, bearing, direction)
+                        lat2, lon2 = apply_offset(lat2, lon2, bearing, direction)
+
+                    folium.PolyLine(
+                        locations=[(lat1, lon1), (lat2, lon2)],
+                        color=color,
+                        weight=2,
+                        opacity=0.95
+                    ).add_to(m)
+
+        output_path = os.path.join(self.visualizations_path, "real_speed_map.html")
+        m.save(output_path)
+        print("✅ Saved map with real speed data to 'real_speed_map.html'")
+        return m
+
+    def draw_side_by_side_maps(self):
+        """
+        Create side-by-side maps showing both predicted and real speeds.
+        Returns a tuple of (predicted_map, real_map) for use in Streamlit.
+        """
+        # Create predicted speed map
+        predicted_map = self.draw_map_offset()
+        
+        # Create real speed map
+        real_map = self.draw_map_with_real_speed()
+        
+        return predicted_map, real_map
 
 
 """

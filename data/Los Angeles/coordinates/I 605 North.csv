@@ -1,0 +1,479 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.0344158,34.0288958,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.0323091,34.0300517,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.031251,34.0307509,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.005945,34.0511389,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0053653,34.0521694,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0049831,34.0528489,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.004643,34.0534508,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.004288,34.0540769,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0040017,34.0545933,5,65 mph,San Gabriel River Freeway,I 605,North
+-117.9872422,34.0950571,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.987023,34.095306,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9867347,34.0956283,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9864142,34.096044,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.986109,34.096504,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9859042,34.0968684,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.985729,34.0972208,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9855406,34.0977191,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9844151,34.1010475,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9840081,34.1022751,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9834448,34.1039658,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.031251,34.0307509,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0303726,34.0314226,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0294486,34.032145,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0284548,34.032913,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0274897,34.033653,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0265713,34.0343571,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0251796,34.0354449,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0251796,34.0354449,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0235865,34.0366822,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0040017,34.0545933,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0034909,34.0554873,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0027377,34.056785,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0027377,34.056785,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0022452,34.0577056,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0019388,34.0582597,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0017793,34.0586082,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0016657,34.0588513,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0013665,34.0595924,5,65 mph,San Gabriel River Freeway,I 605,North
+-117.9989232,34.0738013,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9983721,34.0754817,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9982583,34.0758978,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.998155,34.0763153,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9980442,34.0768866,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9979589,34.0774461,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9979068,34.0780115,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9977922,34.0798091,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9977248,34.0804286,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.997648,34.0809624,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.997648,34.0809624,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.997529,34.0816129,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9973863,34.082252,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.997322,34.0825186,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9970689,34.0833971,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9968118,34.0841514,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9964033,34.0851511,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9960517,34.0859003,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.995345,34.0871841,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9947537,34.0881041,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9942299,34.0888459,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9942299,34.0888459,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9937539,34.0894349,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9931207,34.0901752,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.992236,34.0910969,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9913065,34.0919741,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9908437,34.0923469,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9900404,34.092981,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9893191,34.0935016,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9877628,34.0946123,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9872422,34.0950571,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9834448,34.1039658,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9833306,34.1042772,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9831218,34.1047841,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9828898,34.1052599,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.982447,34.1061157,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9799761,34.1109051,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9792374,34.1123202,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9788564,34.1130696,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9784687,34.113794,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9781772,34.1142588,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9779073,34.1146352,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9777674,34.1148088,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.977471,34.1151567,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9772638,34.1153821,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9771186,34.1155207,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.039433,34.026119,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0381237,34.0268966,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0369162,34.0275473,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0344158,34.0288958,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0013665,34.0595924,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0011566,34.0601742,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0011163,34.0602837,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0006458,34.061524,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0003786,34.0623051,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0002756,34.0626535,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0001984,34.0629379,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0001383,34.0632223,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000954,34.0634854,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000723,34.063675,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000466,34.0639464,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000328,34.0641728,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.000027,34.0644039,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000329,34.0647416,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000525,34.0651006,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0000907,34.0653945,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0001731,34.0657987,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0002201,34.0660268,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0002512,34.0661909,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0002707,34.0662939,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0003326,34.066625,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0004419,34.0672492,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0004915,34.0677042,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.000505,34.068122,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0004892,34.0685672,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0004365,34.0690766,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0003683,34.0694866,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0002411,34.0700262,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-117.9999419,34.0709685,"['3', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-117.9999419,34.0709685,5,65 mph,San Gabriel River Freeway,I 605,North
+-117.9989232,34.0738013,5,65 mph,San Gabriel River Freeway,I 605,North
+-117.9618945,34.1284172,3,65 mph,San Gabriel River Freeway,I 605,North
+-117.9614782,34.1288618,3,65 mph,San Gabriel River Freeway,I 605,North
+-117.9610818,34.129304,3,65 mph,San Gabriel River Freeway,I 605,North
+-117.960402,34.1301078,3,65 mph,San Gabriel River Freeway,I 605,North
+-117.960349,34.1301705,3,65 mph,San Gabriel River Freeway,I 605,North
+-117.9741975,34.117594,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9727997,34.1184048,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9720643,34.1188946,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9712428,34.1195133,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9705904,34.1200668,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9698621,34.1207525,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9638246,34.12651,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9632965,34.1270183,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9627909,34.1275022,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9618945,34.1284172,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9771186,34.1155207,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9768892,34.1157396,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9765667,34.11602,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9761024,34.1163813,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9756227,34.1167052,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.975225,34.1169499,4,65 mph,San Gabriel River Freeway,I 605,North
+-117.9741975,34.117594,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.055133,34.0156438,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0539512,34.0168922,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.053178,34.0175691,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0524747,34.0180106,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0499876,34.0195517,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0493228,34.0199677,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0493228,34.0199677,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.039433,34.026119,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0235865,34.0366822,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0234717,34.036779,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0229056,34.0372232,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0227053,34.03738,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0224979,34.0375371,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0223886,34.0376179,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0222642,34.0377073,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0220349,34.0378664,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0218852,34.0379638,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0216906,34.0380851,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.02149,34.0382034,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0212819,34.0383199,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.021067,34.0384347,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0208929,34.0385226,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.020692,34.0386186,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0205084,34.0387035,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0202996,34.0387926,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0201131,34.0388683,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.014669,34.0409913,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0141603,34.0411881,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0138946,34.0412929,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0137124,34.0413693,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0135366,34.0414476,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0133681,34.041525,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0132193,34.0415968,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0130686,34.0416723,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0128715,34.0417751,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0126226,34.0419142,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0124244,34.0420309,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0122164,34.042159,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0119483,34.0423388,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0116104,34.0425796,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0114178,34.0427275,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0111825,34.0429205,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0110055,34.0430741,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0107819,34.043279,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0106501,34.0434078,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.010511,34.0435494,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0103378,34.0437325,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.010124,34.0439768,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0099695,34.0441638,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0097626,34.0444359,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0096164,34.0446437,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0095135,34.0447951,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0093393,34.0450783,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0091177,34.0454616,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0089036,34.0458532,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0085317,34.0465301,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0065904,34.0499942,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0061154,34.0508372,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.005945,34.0511389,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0905788,33.8430237,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0911444,33.8439977,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.092166,33.8457669,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0926123,33.8465391,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.099954,33.8697543,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1002548,33.8705628,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1007006,33.8716803,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1007487,33.8718151,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1010046,33.8726394,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1011736,33.873166,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1030968,33.8785625,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0812853,33.8053909,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813164,33.806773,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813287,33.8110308,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1030968,33.8785625,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1032663,33.8791114,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.103553,33.8802005,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1039008,33.8821185,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0840711,33.8316918,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0855572,33.8342868,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.088401,33.790757,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0882944,33.7910614,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0878119,33.7923918,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0876107,33.7929652,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0864129,33.7963791,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0861039,33.797071,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0857263,33.7977914,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0854001,33.7982478,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0850911,33.798633,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.084717,33.7990454,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.084717,33.7990454,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0830511,33.8006776,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0825819,33.8012606,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0822372,33.8017777,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0819688,33.8022701,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0817437,33.8027983,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0815318,33.8034079,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0814404,33.8037834,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813692,33.8041335,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813238,33.8044676,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0812907,33.8048913,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0812853,33.8053909,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.080968,33.9713999,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0802355,33.972902,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0799976,33.9737001,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.079842,33.9741146,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0792988,33.9757191,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0789972,33.9766518,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0787852,33.9771263,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0915828,33.7820072,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0916065,33.7823955,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0916038,33.7827868,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.091573,33.7830922,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0915141,33.7834199,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0914278,33.7837943,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0913129,33.7841623,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0912028,33.7844085,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0909764,33.7849292,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0904646,33.7859444,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0901794,33.7866977,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0896839,33.7878689,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0893221,33.7886456,2,65 mph,San Gabriel River Freeway,I 605,North
+-118.0941205,33.7741929,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0936041,33.7741744,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0922837,33.7742072,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0919404,33.7742357,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.091763,33.7742725,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0915931,33.7743216,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0914544,33.7743696,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0913356,33.7744197,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.091168,33.7745111,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0910454,33.7745914,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.090941,33.774665,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.090864,33.7747274,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0907924,33.7747887,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0907334,33.7748478,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0905913,33.7750083,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0904813,33.7751911,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0904169,33.7753383,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0903727,33.7754709,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0903298,33.7756181,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0903137,33.7757719,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0903177,33.7759704,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0903514,33.7761587,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0906181,33.7774362,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0907629,33.7781485,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0909373,33.7788207,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0911448,33.7797766,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0914126,33.7811085,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.091512,33.7816396,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0915828,33.7820072,"['3', '2']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1039008,33.8821185,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.103993,33.8829459,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.0966821,33.9408907,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0962141,33.9417972,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0951961,33.943733,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0949358,33.9441972,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.083648,33.9662575,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0833554,33.9669665,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0831275,33.9674715,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0827065,33.9681705,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0815745,33.9703322,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0814216,33.9706213,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.080968,33.9713999,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0898969,33.9530067,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0880633,33.9560877,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0871363,33.9578106,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0853242,33.9621904,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0850714,33.9628349,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0844498,33.9642817,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0842272,33.9648643,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0838865,33.9656963,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.083648,33.9662575,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0702148,33.9890796,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0699578,33.990025,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0692112,33.9931283,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0690967,33.9936306,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0690003,33.993979,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.065253,34.0031074,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0611514,34.00642,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0606076,34.0068783,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0960917,33.8586202,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0962858,33.8593611,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0964878,33.860138,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0967418,33.8608912,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0968077,33.8610866,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.095233,33.8550239,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0953289,33.8554231,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0960526,33.8584568,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0960917,33.8586202,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0824216,33.8277735,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0830771,33.8294995,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0838025,33.8312152,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0840711,33.8316918,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0855572,33.8342868,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0905788,33.8430237,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813287,33.8110308,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0812937,33.8210512,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0813403,33.8221091,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0814137,33.8230906,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0815323,33.8240638,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0819891,33.8263919,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.082204,33.8270603,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0824216,33.8277735,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0893221,33.7886456,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0887593,33.7898824,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.088401,33.790757,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047396,33.9131187,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047263,33.9134926,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1046821,33.9145078,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045947,33.9168682,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045761,33.9173269,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045753,33.9173688,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1049049,33.9095177,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1048835,33.9101639,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047396,33.9131187,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.104905,33.8994675,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1050663,33.9018619,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1050863,33.9023013,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.105164,33.9036763,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1050093,33.9069155,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1028788,33.928475,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.102209,33.9301287,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.101806,33.9309031,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045753,33.9173688,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1044178,33.9209879,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1042843,33.9224394,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.101806,33.9309031,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1014473,33.931731,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1012059,33.9321716,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0999614,33.9345714,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0996555,33.9351613,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0990101,33.936364,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0984098,33.9375022,"['5', '4']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1043756,33.8892137,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045028,33.8920829,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.1045028,33.8920829,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.104657,33.8945366,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.1046785,33.8949688,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047184,33.895769,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047433,33.8963103,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.1047724,33.8971179,7,65 mph,San Gabriel River Freeway,I 605,North
+-118.103993,33.8829459,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1042955,33.8873116,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1043172,33.8877436,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1043395,33.8883054,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1043756,33.8892137,"['5', '6']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1047724,33.8971179,7,65 mph,San Gabriel River Freeway,I 605 North,North
+-118.104905,33.8994675,7,65 mph,San Gabriel River Freeway,I 605 North,North
+-118.0984098,33.9375022,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0983672,33.9376001,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0980515,33.9381816,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0969455,33.9403887,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.0966821,33.9408907,4,65 mph,San Gabriel River Freeway,I 605,North
+-118.1042843,33.9224394,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1042477,33.9228248,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1041715,33.9233512,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1039999,33.9243937,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.103886,33.9250171,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1036411,33.9261369,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.1028788,33.928475,"['6', '7']",65 mph,San Gabriel River Freeway,I 605,North
+-118.0690003,33.993979,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0684762,33.9961383,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0787852,33.9771263,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0785849,33.9774592,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0781902,33.9781023,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0778837,33.9785532,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0776182,33.9788535,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0769837,33.9794971,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0751023,33.981329,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0747553,33.9816387,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.09428,33.9454461,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0941916,33.9456152,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0940333,33.9459289,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0935747,33.9467277,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0922604,33.9489127,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0919851,33.9494309,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0916559,33.9500021,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0898969,33.9530067,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0949358,33.9441972,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.09428,33.9454461,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0606076,34.0068783,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0599861,34.0073557,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0589259,34.0082791,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0584726,34.0086282,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0582392,34.0088394,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0580139,34.0090773,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0577742,34.0093456,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0575313,34.0096823,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0573082,34.0100594,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0571193,34.0104151,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0570434,34.0105898,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0569648,34.0107708,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0568618,34.0111124,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0567588,34.0115037,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0563652,34.0132094,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0559943,34.0141838,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0557743,34.014629,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.055133,34.0156438,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0747553,33.9816387,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0731495,33.9835179,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0729047,33.9838549,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0719924,33.985221,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0713499,33.9863688,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0708054,33.9874897,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0706954,33.9877832,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0705452,33.9881724,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0702148,33.9890796,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0926123,33.8465391,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0931802,33.8476079,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0933564,33.8479881,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0935353,33.8484241,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0935353,33.8484241,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0937479,33.8490023,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.093958,33.8497035,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.095233,33.8550239,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0684762,33.9961383,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0683026,33.9968202,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0679435,33.998282,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0678601,33.9986101,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0676919,33.9994485,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0675834,33.9997824,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0673294,34.0003945,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0671829,34.0006686,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0668656,34.0012149,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0666109,34.0015984,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0663268,34.0019824,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.065836,34.0025497,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.0654829,34.0028969,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.065253,34.0031074,5,65 mph,San Gabriel River Freeway,I 605,North
+-118.1050093,33.9069155,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.1049049,33.9095177,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0968077,33.8610866,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0983825,33.8654174,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0985329,33.865832,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0991116,33.8674145,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.0993551,33.8680912,6,65 mph,San Gabriel River Freeway,I 605,North
+-118.099954,33.8697543,6,65 mph,San Gabriel River Freeway,I 605,North

@@ -58,15 +58,71 @@ if st.session_state.get("roads_loaded"):
     )
 
 
+    # Map visualization options
+    map_option = st.radio(
+        "Choose map visualization:",
+        ["Predicted Speed Only", "Real Speed Only", "Side by Side Comparison"],
+        key="map_option"
+    )
+    
     if st.button("Apply Prediction"):
         with st.spinner("Running prediction and generating map..."):
             map_manager.apply_prediction_data(predict_time)
-            folium_map = map_manager.draw_map_offset()
-            st.session_state["folium_map"] = folium_map
+            
+            if map_option == "Predicted Speed Only":
+                folium_map = map_manager.draw_map_offset()
+                st.session_state["folium_map"] = folium_map
+                st.session_state["map_type"] = "predicted"
+            elif map_option == "Real Speed Only":
+                folium_map = map_manager.draw_map_with_real_speed()
+                st.session_state["folium_map"] = folium_map
+                st.session_state["map_type"] = "real"
+            else:  # Side by Side Comparison
+                predicted_map, real_map = map_manager.draw_side_by_side_maps()
+                st.session_state["predicted_map"] = predicted_map
+                st.session_state["real_map"] = real_map
+                st.session_state["map_type"] = "side_by_side"
         st.success("Map updated!")
+        
+        # Show prediction statistics
+        if hasattr(map_manager, 'get_prediction_statistics'):
+            stats = map_manager.get_prediction_statistics()
+            if stats:
+                st.info("📊 **Prediction Statistics:**")
+                for (road_name, direction), stat in list(stats.items())[:3]:  # Show first 3 roads
+                    st.write(f"**{road_name} {direction}:** {stat['points_with_predictions']}/{stat['total_points']} points, "
+                            f"Avg speed: {stat['avg_predicted_speed']:.1f} mph")
 
-# Show map if one exists
-if "folium_map" in st.session_state:
+# Show map(s) based on visualization type
+if st.session_state.get("map_type") == "side_by_side":
+    # Side by side comparison
+    if "predicted_map" in st.session_state and "real_map" in st.session_state:
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.subheader("🟢 Predicted Speed")
+            st_folium(
+                st.session_state["predicted_map"],
+                width=500,
+                height=500,
+                returned_objects=[],
+                key="predicted_map"
+            )
+        
+        with col2:
+            st.subheader("🔴 Real Speed")
+            st_folium(
+                st.session_state["real_map"],
+                width=500,
+                height=500,
+                returned_objects=[],
+                key="real_map"
+            )
+            
+elif "folium_map" in st.session_state:
+    # Single map display
+    map_title = "Predicted Speed" if st.session_state.get("map_type") == "predicted" else "Real Speed"
+    st.subheader(f"🗺️ {map_title}")
     st_folium(
         st.session_state["folium_map"],
         width=1000,

@@ -1,0 +1,922 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-117.8411962,34.1184705,7,65 mph,Foothill Freeway,I 210,East
+-117.8398118,34.1191129,7,65 mph,Foothill Freeway,I 210,East
+-117.8390964,34.1194242,7,65 mph,Foothill Freeway,I 210,East
+-117.8382639,34.1197672,7,65 mph,Foothill Freeway,I 210,East
+-117.8378322,34.1199227,7,65 mph,Foothill Freeway,I 210,East
+-117.8373991,34.1200716,7,65 mph,Foothill Freeway,I 210,East
+-117.8369495,34.1202098,7,65 mph,Foothill Freeway,I 210,East
+-117.8794968,34.1208491,5,65 mph,Foothill Freeway,I 210,East
+-117.8778277,34.1208054,5,65 mph,Foothill Freeway,I 210,East
+-117.8762703,34.1207326,5,65 mph,Foothill Freeway,I 210,East
+-117.8751158,34.1206582,5,65 mph,Foothill Freeway,I 210,East
+-117.8728812,34.1205493,5,65 mph,Foothill Freeway,I 210,East
+-117.872388,34.1205169,5,65 mph,Foothill Freeway,I 210,East
+-117.8714287,34.1204649,5,65 mph,Foothill Freeway,I 210,East
+-117.8707896,34.1204023,5,65 mph,Foothill Freeway,I 210,East
+-117.8703353,34.1203303,5,65 mph,Foothill Freeway,I 210,East
+-117.8694325,34.120146,5,65 mph,Foothill Freeway,I 210,East
+-117.8687114,34.1199365,5,65 mph,Foothill Freeway,I 210,East
+-117.8683326,34.1197939,5,65 mph,Foothill Freeway,I 210,East
+-117.8944726,34.1208735,5,65 mph,Foothill Freeway,I 210,East
+-117.8934741,34.1208469,5,65 mph,Foothill Freeway,I 210,East
+-117.8922942,34.1208118,5,65 mph,Foothill Freeway,I 210,East
+-117.8913934,34.1207769,5,65 mph,Foothill Freeway,I 210,East
+-117.8893922,34.1207433,5,65 mph,Foothill Freeway,I 210,East
+-118.0347936,34.1481142,5,65 mph,Foothill Freeway,I 210,East
+-118.0339483,34.1480482,5,65 mph,Foothill Freeway,I 210,East
+-118.0332788,34.1479914,5,65 mph,Foothill Freeway,I 210,East
+-118.0326008,34.1479274,5,65 mph,Foothill Freeway,I 210,East
+-118.0318869,34.1477816,5,65 mph,Foothill Freeway,I 210,East
+-118.0312834,34.1476378,5,65 mph,Foothill Freeway,I 210,East
+-118.030902,34.1475188,5,65 mph,Foothill Freeway,I 210,East
+-118.030485,34.1473633,5,65 mph,Foothill Freeway,I 210,East
+-118.0299143,34.147139,5,65 mph,Foothill Freeway,I 210,East
+-118.0287813,34.1465991,5,65 mph,Foothill Freeway,I 210,East
+-118.0287422,34.1465791,5,65 mph,Foothill Freeway,I 210,East
+-118.0282276,34.1463279,5,65 mph,Foothill Freeway,I 210,East
+-118.0275797,34.1460166,5,65 mph,Foothill Freeway,I 210,East
+-118.0273024,34.1458838,5,65 mph,Foothill Freeway,I 210,East
+-118.021077,34.1429261,5,65 mph,Foothill Freeway,I 210,East
+-118.0208189,34.1428058,5,65 mph,Foothill Freeway,I 210,East
+-118.019668,34.142246,5,65 mph,Foothill Freeway,I 210,East
+-118.0185829,34.1417273,5,65 mph,Foothill Freeway,I 210,East
+-118.0182179,34.1415182,5,65 mph,Foothill Freeway,I 210,East
+-118.0178692,34.1412942,5,65 mph,Foothill Freeway,I 210,East
+-118.0175472,34.141038,5,65 mph,Foothill Freeway,I 210,East
+-118.0171827,34.1407131,5,65 mph,Foothill Freeway,I 210,East
+-118.0169681,34.1404907,5,65 mph,Foothill Freeway,I 210,East
+-118.0164608,34.1399923,5,65 mph,Foothill Freeway,I 210,East
+-118.0157883,34.1392998,5,65 mph,Foothill Freeway,I 210,East
+-118.0157883,34.1392998,5,65 mph,Foothill Freeway,I 210,East
+-118.015317,34.1388314,5,65 mph,Foothill Freeway,I 210,East
+-118.0150463,34.1385802,5,65 mph,Foothill Freeway,I 210,East
+-118.0146002,34.1381991,5,65 mph,Foothill Freeway,I 210,East
+-118.0146002,34.1381991,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0144316,34.1380801,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0142048,34.1379431,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0138962,34.1377614,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.013481,34.1375533,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0130972,34.1373919,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0126772,34.1372408,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0097817,34.1363333,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0093096,34.1361834,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0078766,34.1357071,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0073091,34.1355571,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.006796,34.1354669,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0063582,34.1354252,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0059339,34.1354105,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0056795,34.1354081,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0052434,34.1353964,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0050262,34.1353931,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.0046951,34.1353907,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.95081,34.1323023,6,65 mph,Foothill Freeway,I 210,East
+-117.9484075,34.1314179,6,65 mph,Foothill Freeway,I 210,East
+-117.9433595,34.1296211,6,65 mph,Foothill Freeway,I 210,East
+-117.9424637,34.1292969,6,65 mph,Foothill Freeway,I 210,East
+-117.9418038,34.1290749,6,65 mph,Foothill Freeway,I 210,East
+-117.941262,34.1289328,6,65 mph,Foothill Freeway,I 210,East
+-117.940275,34.1287532,6,65 mph,Foothill Freeway,I 210,East
+-117.940028,34.128723,6,65 mph,Foothill Freeway,I 210,East
+-117.9397358,34.128696,6,65 mph,Foothill Freeway,I 210,East
+-117.9392943,34.1286751,6,65 mph,Foothill Freeway,I 210,East
+-117.9388761,34.1286809,6,65 mph,Foothill Freeway,I 210,East
+-117.9383937,34.1287007,6,65 mph,Foothill Freeway,I 210,East
+-117.9379067,34.1287468,6,65 mph,Foothill Freeway,I 210,East
+-118.0458561,34.1486944,5,65 mph,Foothill Freeway,I 210,East
+-118.0432789,34.148712,5,65 mph,Foothill Freeway,I 210,East
+-118.0425837,34.1486906,5,65 mph,Foothill Freeway,I 210,East
+-118.0419829,34.1486764,5,65 mph,Foothill Freeway,I 210,East
+-118.0408749,34.1486094,5,65 mph,Foothill Freeway,I 210,East
+-118.0400337,34.1485525,5,65 mph,Foothill Freeway,I 210,East
+-118.0393814,34.1484957,5,65 mph,Foothill Freeway,I 210,East
+-118.037682,34.1483536,5,65 mph,Foothill Freeway,I 210,East
+-118.0347936,34.1481142,5,65 mph,Foothill Freeway,I 210,East
+-118.0273024,34.1458838,5,65 mph,Foothill Freeway,I 210,East
+-118.0271605,34.1458062,5,65 mph,Foothill Freeway,I 210,East
+-118.0245602,34.144581,5,65 mph,Foothill Freeway,I 210,East
+-118.021077,34.1429261,5,65 mph,Foothill Freeway,I 210,East
+-118.0046951,34.1353907,5,65 mph,Foothill Freeway,I 210,East
+-118.0009838,34.1353733,5,65 mph,Foothill Freeway,I 210,East
+-118.0006521,34.1353752,5,65 mph,Foothill Freeway,I 210,East
+-117.995183,34.135367,5,65 mph,Foothill Freeway,I 210,East
+-117.995183,34.135367,6,65 mph,Foothill Freeway,I 210,East
+-117.9949161,34.1353675,6,65 mph,Foothill Freeway,I 210,East
+-117.9932511,34.1353591,6,65 mph,Foothill Freeway,I 210,East
+-117.9731736,34.1353744,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9728319,34.1353942,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9726055,34.1354026,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9668736,34.1354539,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9663364,34.135454,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9649425,34.1354574,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9649425,34.1354574,5,65 mph,Foothill Freeway,I 210,East
+-117.9641525,34.135454,5,65 mph,Foothill Freeway,I 210,East
+-117.9631775,34.1354001,5,65 mph,Foothill Freeway,I 210,East
+-117.9624877,34.1353273,5,65 mph,Foothill Freeway,I 210,East
+-117.9615261,34.1351866,5,65 mph,Foothill Freeway,I 210,East
+-117.9609374,34.1350768,5,65 mph,Foothill Freeway,I 210,East
+-117.9297996,34.1306018,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9293951,34.1306586,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9293051,34.1306631,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9290163,34.1306776,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9285336,34.1306788,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9280958,34.1306612,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9277702,34.1306298,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9271536,34.1305295,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9266894,34.1304238,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9261583,34.1302667,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9257568,34.1301086,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9254272,34.1299607,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.924691,34.1296106,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9239352,34.1292596,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9233858,34.1290333,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9229228,34.1288566,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9222741,34.1286612,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9214113,34.1284547,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9201647,34.1281895,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9114805,34.1217652,5,65 mph,Foothill Freeway,I 210,East
+-117.9109553,34.121446,5,65 mph,Foothill Freeway,I 210,East
+-117.9104795,34.1211931,5,65 mph,Foothill Freeway,I 210,East
+-117.9099315,34.1209595,5,65 mph,Foothill Freeway,I 210,East
+-117.9094865,34.1208181,5,65 mph,Foothill Freeway,I 210,East
+-117.9089248,34.1206784,5,65 mph,Foothill Freeway,I 210,East
+-117.9085139,34.1205911,5,65 mph,Foothill Freeway,I 210,East
+-117.9079016,34.1205146,5,65 mph,Foothill Freeway,I 210,East
+-117.9073187,34.1204868,5,65 mph,Foothill Freeway,I 210,East
+-117.9064999,34.1205081,5,65 mph,Foothill Freeway,I 210,East
+-117.905989,34.1205547,5,65 mph,Foothill Freeway,I 210,East
+-117.9050089,34.1206721,5,65 mph,Foothill Freeway,I 210,East
+-117.9048129,34.1206969,5,65 mph,Foothill Freeway,I 210,East
+-117.9041728,34.1207734,5,65 mph,Foothill Freeway,I 210,East
+-117.9023336,34.1209363,5,65 mph,Foothill Freeway,I 210,East
+-117.8683326,34.1197939,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8680464,34.1196843,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8679075,34.1196308,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8669299,34.1191759,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8661158,34.1187267,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8654461,34.1183558,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8646769,34.1179719,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8642257,34.1177816,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8637532,34.11759,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8632373,34.1174255,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.862249,34.1171992,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8615403,34.1170866,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8611884,34.1170406,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8605333,34.1169707,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.859896,34.1169606,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8591564,34.11698,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8584165,34.1170458,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8568176,34.1172816,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8559203,34.1174091,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8552546,34.1174771,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8549067,34.1175032,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.854216,34.1175309,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8523356,34.1175187,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8506996,34.1175106,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8851614,34.1208256,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8845186,34.1208399,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8835181,34.1208556,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.88231,34.1208709,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8794968,34.1208491,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8506996,34.1175106,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8489073,34.1175185,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8477606,34.1175029,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8465511,34.1174986,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8460692,34.1174945,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8453445,34.1174928,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8446184,34.1175385,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.843995,34.1176168,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8433847,34.1177397,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8427168,34.1179149,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.8411962,34.1184705,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-117.9755903,34.1352596,6,65 mph,Foothill Freeway,I 210,East
+-117.9731736,34.1353744,6,65 mph,Foothill Freeway,I 210,East
+-117.9379067,34.1287468,5,65 mph,Foothill Freeway,I 210,East
+-117.9376281,34.1287845,5,65 mph,Foothill Freeway,I 210,East
+-117.9373887,34.1288279,5,65 mph,Foothill Freeway,I 210,East
+-117.9371634,34.1288708,5,65 mph,Foothill Freeway,I 210,East
+-117.9367761,34.128951,5,65 mph,Foothill Freeway,I 210,East
+-117.9301264,34.1305515,5,65 mph,Foothill Freeway,I 210,East
+-117.9297996,34.1306018,5,65 mph,Foothill Freeway,I 210,East
+-117.9023336,34.1209363,5,65 mph,Foothill Freeway,I 210,East
+-117.901684,34.1209765,5,65 mph,Foothill Freeway,I 210,East
+-117.9008343,34.1210087,5,65 mph,Foothill Freeway,I 210,East
+-117.8991758,34.1210124,5,65 mph,Foothill Freeway,I 210,East
+-117.8967599,34.1209492,5,65 mph,Foothill Freeway,I 210,East
+-117.8944726,34.1208735,5,65 mph,Foothill Freeway,I 210,East
+-117.9609374,34.1350768,5,65 mph,Foothill Freeway,I 210,East
+-117.9598904,34.1348207,5,65 mph,Foothill Freeway,I 210,East
+-117.9588342,34.1345199,5,65 mph,Foothill Freeway,I 210,East
+-117.957877,34.1342528,5,65 mph,Foothill Freeway,I 210,East
+-117.9559354,34.1338021,5,65 mph,Foothill Freeway,I 210,East
+-117.95558,34.1337155,5,65 mph,Foothill Freeway,I 210,East
+-117.955118,34.133597,5,65 mph,Foothill Freeway,I 210,East
+-117.9932511,34.1353591,5,65 mph,Foothill Freeway,I 210,East
+-117.9909237,34.1353474,5,65 mph,Foothill Freeway,I 210,East
+-117.9906328,34.1353474,5,65 mph,Foothill Freeway,I 210,East
+-117.9888388,34.1353689,5,65 mph,Foothill Freeway,I 210,East
+-117.9886982,34.1353689,5,65 mph,Foothill Freeway,I 210,East
+-117.9865869,34.135373,5,65 mph,Foothill Freeway,I 210,East
+-117.9865869,34.135373,5,65 mph,Foothill Freeway,I 210,East
+-117.986504,34.1353743,5,65 mph,Foothill Freeway,I 210,East
+-117.9861994,34.1353745,5,65 mph,Foothill Freeway,I 210,East
+-117.9801505,34.1353071,5,65 mph,Foothill Freeway,I 210,East
+-117.977771,34.1352556,5,65 mph,Foothill Freeway,I 210,East
+-117.9772666,34.1352503,5,65 mph,Foothill Freeway,I 210,East
+-117.9755903,34.1352596,5,65 mph,Foothill Freeway,I 210,East
+-117.9201647,34.1281895,5,65 mph,Foothill Freeway,I 210,East
+-117.9194215,34.1280268,5,65 mph,Foothill Freeway,I 210,East
+-117.9190337,34.127921,5,65 mph,Foothill Freeway,I 210,East
+-117.9186707,34.1278048,5,65 mph,Foothill Freeway,I 210,East
+-117.9181556,34.1276011,5,65 mph,Foothill Freeway,I 210,East
+-117.9176932,34.1273752,5,65 mph,Foothill Freeway,I 210,East
+-117.9173077,34.1271505,5,65 mph,Foothill Freeway,I 210,East
+-117.91682,34.1268164,5,65 mph,Foothill Freeway,I 210,East
+-117.9162049,34.1262877,5,65 mph,Foothill Freeway,I 210,East
+-117.914391,34.1244956,5,65 mph,Foothill Freeway,I 210,East
+-117.9131465,34.1232627,5,65 mph,Foothill Freeway,I 210,East
+-117.8893922,34.1207433,5,65 mph,Foothill Freeway,I 210,East
+-117.8851614,34.1208256,5,65 mph,Foothill Freeway,I 210,East
+-117.9131465,34.1232627,6,65 mph,Foothill Freeway,I 210,East
+-117.9127931,34.1229379,6,65 mph,Foothill Freeway,I 210,East
+-117.9119894,34.1221584,6,65 mph,Foothill Freeway,I 210,East
+-117.9115918,34.1218489,6,65 mph,Foothill Freeway,I 210,East
+-117.9114805,34.1217652,6,65 mph,Foothill Freeway,I 210,East
+-117.955118,34.133597,5,65 mph,Foothill Freeway,I 210,East
+-117.9536895,34.1332549,5,65 mph,Foothill Freeway,I 210,East
+-117.9530541,34.1331035,5,65 mph,Foothill Freeway,I 210,East
+-117.9528302,34.1330456,5,65 mph,Foothill Freeway,I 210,East
+-117.9519316,34.1327455,5,65 mph,Foothill Freeway,I 210,East
+-117.95081,34.1323023,5,65 mph,Foothill Freeway,I 210,East
+-118.4948647,34.3200555,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4946119,34.3197756,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4943507,34.3195893,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4939695,34.3192893,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4936125,34.3189576,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4935575,34.3189065,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4922898,34.3176429,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4920732,34.3174519,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4919111,34.3172867,"['3', '2']",65 mph,Foothill Freeway,I 210,East
+-118.4858473,34.3178097,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4846149,34.3191741,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4840137,34.3198129,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4835268,34.3203897,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2111105,34.2068845,5,65 mph,Foothill Freeway,I 210;CA 2,East
+-118.2066312,34.206846,5,65 mph,Foothill Freeway,I 210;CA 2,East
+-118.2059351,34.2068423,5,65 mph,Foothill Freeway,I 210;CA 2,East
+-118.0542145,34.1486307,5,65 mph,Foothill Freeway,I 210,East
+-118.0531635,34.1486518,5,65 mph,Foothill Freeway,I 210,East
+-118.0504101,34.1486745,5,65 mph,Foothill Freeway,I 210,East
+-118.0500686,34.1486761,5,65 mph,Foothill Freeway,I 210,East
+-118.0458561,34.1486944,5,65 mph,Foothill Freeway,I 210,East
+-118.2448524,34.2209696,4,65 mph,Foothill Freeway,I 210,East
+-118.2384398,34.2176777,4,65 mph,Foothill Freeway,I 210,East
+-118.2378133,34.2173086,4,65 mph,Foothill Freeway,I 210,East
+-118.252872,34.2255138,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2513934,34.2246091,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2493544,34.2233611,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2490104,34.2231498,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2484595,34.2228256,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2475497,34.2223475,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2471491,34.222133,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2468288,34.2219714,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.2448524,34.2209696,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.0994683,34.1523833,6,65 mph,Foothill Freeway,I 210,East
+-118.0988533,34.1523717,6,65 mph,Foothill Freeway,I 210,East
+-118.0982385,34.1523775,6,65 mph,Foothill Freeway,I 210,East
+-118.0953001,34.1524057,6,65 mph,Foothill Freeway,I 210,East
+-118.0949911,34.1523986,6,65 mph,Foothill Freeway,I 210,East
+-118.0946907,34.1523844,6,65 mph,Foothill Freeway,I 210,East
+-118.0943646,34.152356,6,65 mph,Foothill Freeway,I 210,East
+-118.0940212,34.1523205,6,65 mph,Foothill Freeway,I 210,East
+-118.0936739,34.1522679,6,65 mph,Foothill Freeway,I 210,East
+-118.0930474,34.1521471,6,65 mph,Foothill Freeway,I 210,East
+-118.0925238,34.1520122,6,65 mph,Foothill Freeway,I 210,East
+-118.0920346,34.151863,6,65 mph,Foothill Freeway,I 210,East
+-118.0915329,34.1516597,6,65 mph,Foothill Freeway,I 210,East
+-118.090712,34.1513118,6,65 mph,Foothill Freeway,I 210,East
+-118.0901448,34.1509984,6,65 mph,Foothill Freeway,I 210,East
+-118.0895295,34.1505778,6,65 mph,Foothill Freeway,I 210,East
+-118.0890835,34.1502319,6,65 mph,Foothill Freeway,I 210,East
+-118.1438553,34.1516597,7,65 mph,Foothill Freeway,I 210,East
+-118.140551,34.1516314,7,65 mph,Foothill Freeway,I 210,East
+-118.140551,34.1516314,8,65 mph,Foothill Freeway,I 210,East
+-118.1389542,34.1516416,8,65 mph,Foothill Freeway,I 210,East
+-118.1382748,34.1516504,8,65 mph,Foothill Freeway,I 210,East
+-118.1382748,34.1516504,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.1379745,34.1516485,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.137071,34.1516467,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.1354922,34.1516573,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.1290495,34.1516455,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.1278222,34.1516597,"['6', '7']",65 mph,Foothill Freeway,I 210,East
+-118.1278222,34.1516597,7,65 mph,Foothill Freeway,I 210,East
+-118.1270681,34.1517133,7,65 mph,Foothill Freeway,I 210,East
+-118.1270681,34.1517133,6,65 mph,Foothill Freeway,I 210,East
+-118.1256335,34.1518515,6,65 mph,Foothill Freeway,I 210,East
+-118.1240284,34.152022,6,65 mph,Foothill Freeway,I 210,East
+-118.1224073,34.1521077,6,65 mph,Foothill Freeway,I 210,East
+-118.1216645,34.1521261,6,65 mph,Foothill Freeway,I 210,East
+-118.121118,34.1521368,6,65 mph,Foothill Freeway,I 210,East
+-118.1175358,34.152215,6,65 mph,Foothill Freeway,I 210,East
+-118.1170903,34.1522248,6,65 mph,Foothill Freeway,I 210,East
+-118.1158659,34.152252,6,65 mph,Foothill Freeway,I 210,East
+-118.1158659,34.152252,6,65 mph,Foothill Freeway,I 210,East
+-118.1135082,34.1522729,6,65 mph,Foothill Freeway,I 210,East
+-118.1129006,34.1522818,6,65 mph,Foothill Freeway,I 210,East
+-118.1071342,34.1523221,6,65 mph,Foothill Freeway,I 210,East
+-118.0890835,34.1502319,7,65 mph,Foothill Freeway,I 210,East
+-118.0884758,34.1497583,7,65 mph,Foothill Freeway,I 210,East
+-118.0879964,34.1493824,7,65 mph,Foothill Freeway,I 210,East
+-118.087626,34.1491186,7,65 mph,Foothill Freeway,I 210,East
+-118.0870216,34.1487348,7,65 mph,Foothill Freeway,I 210,East
+-118.0868066,34.1486217,7,65 mph,Foothill Freeway,I 210,East
+-118.0863229,34.1483672,7,65 mph,Foothill Freeway,I 210,East
+-118.0863229,34.1483672,6,65 mph,Foothill Freeway,I 210,East
+-118.085932,34.1482072,6,65 mph,Foothill Freeway,I 210,East
+-118.0856614,34.148103,6,65 mph,Foothill Freeway,I 210,East
+-118.0852081,34.1479418,6,65 mph,Foothill Freeway,I 210,East
+-118.0848209,34.1478384,6,65 mph,Foothill Freeway,I 210,East
+-118.0844432,34.1477556,6,65 mph,Foothill Freeway,I 210,East
+-118.0840544,34.1476979,6,65 mph,Foothill Freeway,I 210,East
+-118.083597,34.1476224,6,65 mph,Foothill Freeway,I 210,East
+-118.0750149,34.1479181,5,65 mph,Foothill Freeway,I 210,East
+-118.0735848,34.1481455,5,65 mph,Foothill Freeway,I 210,East
+-118.073216,34.1481989,5,65 mph,Foothill Freeway,I 210,East
+-118.0715792,34.1483988,5,65 mph,Foothill Freeway,I 210,East
+-118.0700286,34.1485057,5,65 mph,Foothill Freeway,I 210,East
+-118.0680555,34.1485276,5,65 mph,Foothill Freeway,I 210,East
+-118.0776085,34.1476799,6,65 mph,Foothill Freeway,I 210,East
+-118.0767418,34.1477436,6,65 mph,Foothill Freeway,I 210,East
+-118.0756101,34.1478459,6,65 mph,Foothill Freeway,I 210,East
+-118.0750149,34.1479181,6,65 mph,Foothill Freeway,I 210,East
+-118.083597,34.1476224,6,65 mph,Foothill Freeway,I 210,East
+-118.0832026,34.1475798,6,65 mph,Foothill Freeway,I 210,East
+-118.0828507,34.1475514,6,65 mph,Foothill Freeway,I 210,East
+-118.0822092,34.1475459,6,65 mph,Foothill Freeway,I 210,East
+-118.0816239,34.1475528,6,65 mph,Foothill Freeway,I 210,East
+-118.0794089,34.1476174,6,65 mph,Foothill Freeway,I 210,East
+-118.0776085,34.1476799,6,65 mph,Foothill Freeway,I 210,East
+-118.4737192,34.3231659,3,65 mph,Foothill Freeway,I 210,East
+-118.4731776,34.3231966,3,65 mph,Foothill Freeway,I 210,East
+-118.4721369,34.3232542,3,65 mph,Foothill Freeway,I 210,East
+-118.4711284,34.323303,3,65 mph,Foothill Freeway,I 210,East
+-118.4702915,34.3233384,3,65 mph,Foothill Freeway,I 210,East
+-118.4698677,34.3233605,3,65 mph,Foothill Freeway,I 210,East
+-118.4695512,34.3233738,3,65 mph,Foothill Freeway,I 210,East
+-118.4692562,34.3233871,3,65 mph,Foothill Freeway,I 210,East
+-118.4675342,34.3234757,3,65 mph,Foothill Freeway,I 210,East
+-118.4657578,34.3235743,3,65 mph,Foothill Freeway,I 210,East
+-118.4643272,34.3236457,3,65 mph,Foothill Freeway,I 210,East
+-118.2959926,34.2345968,4,65 mph,Foothill Freeway,I 210,East
+-118.2958469,34.234603,4,65 mph,Foothill Freeway,I 210,East
+-118.2957757,34.2346071,4,65 mph,Foothill Freeway,I 210,East
+-118.2956957,34.2346123,4,65 mph,Foothill Freeway,I 210,East
+-118.2954134,34.2346402,4,65 mph,Foothill Freeway,I 210,East
+-118.2940597,34.2347895,4,65 mph,Foothill Freeway,I 210,East
+-118.2937451,34.2348207,4,65 mph,Foothill Freeway,I 210,East
+-118.2934296,34.2348465,4,65 mph,Foothill Freeway,I 210,East
+-118.2931304,34.2348658,4,65 mph,Foothill Freeway,I 210,East
+-118.2928256,34.2348823,4,65 mph,Foothill Freeway,I 210,East
+-118.2925268,34.2348908,4,65 mph,Foothill Freeway,I 210,East
+-118.2922111,34.2348908,4,65 mph,Foothill Freeway,I 210,East
+-118.2918992,34.2348863,4,65 mph,Foothill Freeway,I 210,East
+-118.2915895,34.2348775,4,65 mph,Foothill Freeway,I 210,East
+-118.2912635,34.2348611,4,65 mph,Foothill Freeway,I 210,East
+-118.2910306,34.2348448,4,65 mph,Foothill Freeway,I 210,East
+-118.2907842,34.2348225,4,65 mph,Foothill Freeway,I 210,East
+-118.2905651,34.2348001,4,65 mph,Foothill Freeway,I 210,East
+-118.2903423,34.2347745,4,65 mph,Foothill Freeway,I 210,East
+-118.2900509,34.2347376,4,65 mph,Foothill Freeway,I 210,East
+-118.2897587,34.2346975,4,65 mph,Foothill Freeway,I 210,East
+-118.2872684,34.2343549,4,65 mph,Foothill Freeway,I 210,East
+-118.2869515,34.2343143,4,65 mph,Foothill Freeway,I 210,East
+-118.2866391,34.2342777,4,65 mph,Foothill Freeway,I 210,East
+-118.2863119,34.2342471,4,65 mph,Foothill Freeway,I 210,East
+-118.2859919,34.2342239,4,65 mph,Foothill Freeway,I 210,East
+-118.2856732,34.2342072,4,65 mph,Foothill Freeway,I 210,East
+-118.2853654,34.2341942,4,65 mph,Foothill Freeway,I 210,East
+-118.2850423,34.2341873,4,65 mph,Foothill Freeway,I 210,East
+-118.157665,34.154489,2,65 mph,Foothill Freeway,I 210,East
+-118.157312,34.1536737,2,65 mph,Foothill Freeway,I 210,East
+-118.1571833,34.1532973,2,65 mph,Foothill Freeway,I 210,East
+-118.1570803,34.1530913,2,65 mph,Foothill Freeway,I 210,East
+-118.1569445,34.1528459,2,65 mph,Foothill Freeway,I 210,East
+-118.156591,34.1524378,2,65 mph,Foothill Freeway,I 210,East
+-118.156215,34.152093,2,65 mph,Foothill Freeway,I 210,East
+-118.1556571,34.1517379,2,65 mph,Foothill Freeway,I 210,East
+-118.1552708,34.1515603,2,65 mph,Foothill Freeway,I 210,East
+-118.1549275,34.1514111,2,65 mph,Foothill Freeway,I 210,East
+-118.1546271,34.1512975,2,65 mph,Foothill Freeway,I 210,East
+-118.1542065,34.1511767,2,65 mph,Foothill Freeway,I 210,East
+-118.153949,34.1511199,2,65 mph,Foothill Freeway,I 210,East
+-118.153477,34.1510489,2,65 mph,Foothill Freeway,I 210,East
+-118.1529791,34.1510063,2,65 mph,Foothill Freeway,I 210,East
+-118.1524041,34.1509778,2,65 mph,Foothill Freeway,I 210,East
+-118.1518977,34.1510063,2,65 mph,Foothill Freeway,I 210,East
+-118.1514428,34.151056,2,65 mph,Foothill Freeway,I 210,East
+-118.1494858,34.151404,2,65 mph,Foothill Freeway,I 210,East
+-118.1488507,34.151468,2,65 mph,Foothill Freeway,I 210,East
+-118.1479666,34.1515106,2,65 mph,Foothill Freeway,I 210,East
+-118.1451685,34.1515603,2,65 mph,Foothill Freeway,I 210,East
+-118.1438553,34.1516597,2,65 mph,Foothill Freeway,I 210,East
+-118.2182067,34.2077192,4,65 mph,Foothill Freeway,I 210,East
+-118.2176038,34.2075074,4,65 mph,Foothill Freeway,I 210,East
+-118.2171744,34.2073676,4,65 mph,Foothill Freeway,I 210,East
+-118.2168535,34.2072781,4,65 mph,Foothill Freeway,I 210,East
+-118.2165915,34.2072128,4,65 mph,Foothill Freeway,I 210,East
+-118.2161974,34.2071327,4,65 mph,Foothill Freeway,I 210,East
+-118.2157082,34.2070475,4,65 mph,Foothill Freeway,I 210,East
+-118.2152657,34.2069907,4,65 mph,Foothill Freeway,I 210,East
+-118.2148284,34.2069534,4,65 mph,Foothill Freeway,I 210,East
+-118.2144026,34.2069288,4,65 mph,Foothill Freeway,I 210,East
+-118.2140604,34.2069184,4,65 mph,Foothill Freeway,I 210,East
+-118.2111105,34.2068845,4,65 mph,Foothill Freeway,I 210,East
+-118.2275595,34.2114922,4,65 mph,Foothill Freeway,I 210,East
+-118.2273173,34.2113877,4,65 mph,Foothill Freeway,I 210,East
+-118.2268747,34.2112141,4,65 mph,Foothill Freeway,I 210,East
+-118.2230569,34.209676,4,65 mph,Foothill Freeway,I 210,East
+-118.2223526,34.2093914,4,65 mph,Foothill Freeway,I 210,East
+-118.2204804,34.2086233,4,65 mph,Foothill Freeway,I 210,East
+-118.2192959,34.2081477,4,65 mph,Foothill Freeway,I 210,East
+-118.218841,34.2079703,4,65 mph,Foothill Freeway,I 210,East
+-118.2182067,34.2077192,4,65 mph,Foothill Freeway,I 210,East
+-118.3299288,34.2596194,4,65 mph,Foothill Freeway,I 210,East
+-118.3297872,34.2594742,4,65 mph,Foothill Freeway,I 210,East
+-118.3273016,34.2568821,4,65 mph,Foothill Freeway,I 210,East
+-118.3261425,34.2556764,4,65 mph,Foothill Freeway,I 210,East
+-118.3261425,34.2556764,4,65 mph,Foothill Freeway,I 210,East
+-118.3248422,34.2543208,4,65 mph,Foothill Freeway,I 210,East
+-118.3245327,34.2539863,4,65 mph,Foothill Freeway,I 210,East
+-118.3242928,34.2537138,4,65 mph,Foothill Freeway,I 210,East
+-118.3241179,34.2534987,4,65 mph,Foothill Freeway,I 210,East
+-118.3239627,34.253292,4,65 mph,Foothill Freeway,I 210,East
+-118.3238046,34.2530638,4,65 mph,Foothill Freeway,I 210,East
+-118.3236618,34.2528432,4,65 mph,Foothill Freeway,I 210,East
+-118.3235245,34.2526168,4,65 mph,Foothill Freeway,I 210,East
+-118.3233943,34.2523799,4,65 mph,Foothill Freeway,I 210,East
+-118.3232771,34.252149,4,65 mph,Foothill Freeway,I 210,East
+-118.3231714,34.2519169,4,65 mph,Foothill Freeway,I 210,East
+-118.3230673,34.2516783,4,65 mph,Foothill Freeway,I 210,East
+-118.3229742,34.251433,4,65 mph,Foothill Freeway,I 210,East
+-118.3228884,34.2511844,4,65 mph,Foothill Freeway,I 210,East
+-118.3223125,34.2493181,4,65 mph,Foothill Freeway,I 210,East
+-118.3220221,34.2483769,4,65 mph,Foothill Freeway,I 210,East
+-118.3219304,34.2480903,4,65 mph,Foothill Freeway,I 210,East
+-118.3218326,34.2478178,4,65 mph,Foothill Freeway,I 210,East
+-118.3217283,34.247543,4,65 mph,Foothill Freeway,I 210,East
+-118.3216118,34.2472691,4,65 mph,Foothill Freeway,I 210,East
+-118.3214875,34.247006,4,65 mph,Foothill Freeway,I 210,East
+-118.3213464,34.2467446,4,65 mph,Foothill Freeway,I 210,East
+-118.3211988,34.2464908,4,65 mph,Foothill Freeway,I 210,East
+-118.3210423,34.2462422,4,65 mph,Foothill Freeway,I 210,East
+-118.3208688,34.2459925,4,65 mph,Foothill Freeway,I 210,East
+-118.3206858,34.2457457,4,65 mph,Foothill Freeway,I 210,East
+-118.3204942,34.2455079,4,65 mph,Foothill Freeway,I 210,East
+-118.3202905,34.2452702,4,65 mph,Foothill Freeway,I 210,East
+-118.3200891,34.2450537,4,65 mph,Foothill Freeway,I 210,East
+-118.3198787,34.2448427,4,65 mph,Foothill Freeway,I 210,East
+-118.3196663,34.2446442,4,65 mph,Foothill Freeway,I 210,East
+-118.3194365,34.2444381,4,65 mph,Foothill Freeway,I 210,East
+-118.3192022,34.2442448,4,65 mph,Foothill Freeway,I 210,East
+-118.3189625,34.2440567,4,65 mph,Foothill Freeway,I 210,East
+-118.318714,34.2438751,4,65 mph,Foothill Freeway,I 210,East
+-118.3184574,34.2436974,4,65 mph,Foothill Freeway,I 210,East
+-118.3182022,34.243532,4,65 mph,Foothill Freeway,I 210,East
+-118.317929,34.24337,4,65 mph,Foothill Freeway,I 210,East
+-118.3176412,34.2432105,4,65 mph,Foothill Freeway,I 210,East
+-118.3173708,34.2430687,4,65 mph,Foothill Freeway,I 210,East
+-118.3170769,34.2429279,4,65 mph,Foothill Freeway,I 210,East
+-118.3167954,34.2428046,4,65 mph,Foothill Freeway,I 210,East
+-118.3164928,34.242684,4,65 mph,Foothill Freeway,I 210,East
+-118.3161992,34.2425772,4,65 mph,Foothill Freeway,I 210,East
+-118.3158857,34.2424717,4,65 mph,Foothill Freeway,I 210,East
+-118.3155614,34.242376,4,65 mph,Foothill Freeway,I 210,East
+-118.3152353,34.242288,4,65 mph,Foothill Freeway,I 210,East
+-118.3149046,34.2422066,4,65 mph,Foothill Freeway,I 210,East
+-118.314564,34.242129,4,65 mph,Foothill Freeway,I 210,East
+-118.3123945,34.2416725,4,65 mph,Foothill Freeway,I 210,East
+-118.3120279,34.2415948,4,65 mph,Foothill Freeway,I 210,East
+-118.3117232,34.2415227,4,65 mph,Foothill Freeway,I 210,East
+-118.3114414,34.2414528,4,65 mph,Foothill Freeway,I 210,East
+-118.3111535,34.2413695,4,65 mph,Foothill Freeway,I 210,East
+-118.3108887,34.241288,4,65 mph,Foothill Freeway,I 210,East
+-118.3106143,34.2411905,4,65 mph,Foothill Freeway,I 210,East
+-118.3103388,34.2410858,4,65 mph,Foothill Freeway,I 210,East
+-118.3100701,34.2409759,4,65 mph,Foothill Freeway,I 210,East
+-118.3098033,34.2408573,4,65 mph,Foothill Freeway,I 210,East
+-118.3095515,34.2407379,4,65 mph,Foothill Freeway,I 210,East
+-118.3092832,34.2406021,4,65 mph,Foothill Freeway,I 210,East
+-118.3090151,34.2404611,4,65 mph,Foothill Freeway,I 210,East
+-118.3087547,34.240314,4,65 mph,Foothill Freeway,I 210,East
+-118.3085202,34.24017,4,65 mph,Foothill Freeway,I 210,East
+-118.3082849,34.2400098,4,65 mph,Foothill Freeway,I 210,East
+-118.3036363,34.2367119,4,65 mph,Foothill Freeway,I 210,East
+-118.3033954,34.2365425,4,65 mph,Foothill Freeway,I 210,East
+-118.3031525,34.2363778,4,65 mph,Foothill Freeway,I 210,East
+-118.3029067,34.2362206,4,65 mph,Foothill Freeway,I 210,East
+-118.302646,34.2360634,4,65 mph,Foothill Freeway,I 210,East
+-118.3023674,34.2358987,4,65 mph,Foothill Freeway,I 210,East
+-118.3021104,34.235759,4,65 mph,Foothill Freeway,I 210,East
+-118.3018394,34.2356226,4,65 mph,Foothill Freeway,I 210,East
+-118.3015523,34.2354871,4,65 mph,Foothill Freeway,I 210,East
+-118.3012752,34.2353718,4,65 mph,Foothill Freeway,I 210,East
+-118.3009908,34.2352579,4,65 mph,Foothill Freeway,I 210,East
+-118.3006883,34.2351516,4,65 mph,Foothill Freeway,I 210,East
+-118.3003839,34.2350557,4,65 mph,Foothill Freeway,I 210,East
+-118.3000935,34.2349718,4,65 mph,Foothill Freeway,I 210,East
+-118.2997878,34.2348924,4,65 mph,Foothill Freeway,I 210,East
+-118.2994947,34.2348245,4,65 mph,Foothill Freeway,I 210,East
+-118.2991758,34.2347605,4,65 mph,Foothill Freeway,I 210,East
+-118.2988614,34.2347075,4,65 mph,Foothill Freeway,I 210,East
+-118.2985346,34.2346522,4,65 mph,Foothill Freeway,I 210,East
+-118.298199,34.2346165,4,65 mph,Foothill Freeway,I 210,East
+-118.2978221,34.2345867,4,65 mph,Foothill Freeway,I 210,East
+-118.2975203,34.2345712,4,65 mph,Foothill Freeway,I 210,East
+-118.2972393,34.23456,4,65 mph,Foothill Freeway,I 210,East
+-118.2959926,34.2345968,4,65 mph,Foothill Freeway,I 210,East
+-118.3339545,34.2638203,4,65 mph,Foothill Freeway,I 210,East
+-118.3319497,34.2617339,4,65 mph,Foothill Freeway,I 210,East
+-118.3303015,34.2600122,4,65 mph,Foothill Freeway,I 210,East
+-118.3301022,34.259801,4,65 mph,Foothill Freeway,I 210,East
+-118.3299288,34.2596194,4,65 mph,Foothill Freeway,I 210,East
+-118.1588004,34.1586974,4,65 mph,Foothill Freeway,I 210,East
+-118.1587247,34.1580886,4,65 mph,Foothill Freeway,I 210,East
+-118.1586873,34.1575816,4,65 mph,Foothill Freeway,I 210,East
+-118.1958177,34.2047576,5,65 mph,Foothill Freeway,I 210,East
+-118.1940933,34.2039923,5,65 mph,Foothill Freeway,I 210,East
+-118.192865,34.2034102,5,65 mph,Foothill Freeway,I 210,East
+-118.1789086,34.1863931,4,65 mph,Foothill Freeway,I 210,East
+-118.178558,34.1860666,4,65 mph,Foothill Freeway,I 210,East
+-118.1781889,34.1857471,4,65 mph,Foothill Freeway,I 210,East
+-118.177734,34.1853708,4,65 mph,Foothill Freeway,I 210,East
+-118.1775108,34.1852004,4,65 mph,Foothill Freeway,I 210,East
+-118.1772447,34.1850158,4,65 mph,Foothill Freeway,I 210,East
+-118.1768585,34.1847744,4,65 mph,Foothill Freeway,I 210,East
+-118.1764551,34.18454,4,65 mph,Foothill Freeway,I 210,East
+-118.1761032,34.1843341,4,65 mph,Foothill Freeway,I 210,East
+-118.1756998,34.1841282,4,65 mph,Foothill Freeway,I 210,East
+-118.1751419,34.1838655,4,65 mph,Foothill Freeway,I 210,East
+-118.1743494,34.1835328,4,65 mph,Foothill Freeway,I 210,East
+-118.1726572,34.1827896,4,65 mph,Foothill Freeway,I 210,East
+-118.1724541,34.1827011,4,65 mph,Foothill Freeway,I 210,East
+-118.18256,34.1940998,4,65 mph,Foothill Freeway,I 210,East
+-118.1822517,34.1936667,4,65 mph,Foothill Freeway,I 210,East
+-118.18208,34.1933827,4,65 mph,Foothill Freeway,I 210,East
+-118.1819341,34.1931271,4,65 mph,Foothill Freeway,I 210,East
+-118.1817882,34.1928148,4,65 mph,Foothill Freeway,I 210,East
+-118.1816595,34.1924811,4,65 mph,Foothill Freeway,I 210,East
+-118.181505,34.192048,4,65 mph,Foothill Freeway,I 210,East
+-118.181402,34.1916504,4,65 mph,Foothill Freeway,I 210,East
+-118.1812818,34.1911109,4,65 mph,Foothill Freeway,I 210,East
+-118.1810758,34.1902092,4,65 mph,Foothill Freeway,I 210,East
+-118.1809575,34.1897757,4,65 mph,Foothill Freeway,I 210,East
+-118.1808526,34.1893998,4,65 mph,Foothill Freeway,I 210,East
+-118.1807411,34.1891016,4,65 mph,Foothill Freeway,I 210,East
+-118.1806037,34.1888035,4,65 mph,Foothill Freeway,I 210,East
+-118.1804407,34.1884556,4,65 mph,Foothill Freeway,I 210,East
+-118.1802518,34.1881148,4,65 mph,Foothill Freeway,I 210,East
+-118.1800201,34.1877527,4,65 mph,Foothill Freeway,I 210,East
+-118.1798055,34.1874545,4,65 mph,Foothill Freeway,I 210,East
+-118.1795394,34.1871137,4,65 mph,Foothill Freeway,I 210,East
+-118.1792819,34.1868084,4,65 mph,Foothill Freeway,I 210,East
+-118.1789086,34.1863931,4,65 mph,Foothill Freeway,I 210,East
+-118.1834876,34.1952073,5,65 mph,Foothill Freeway,I 210,East
+-118.1832216,34.194902,5,65 mph,Foothill Freeway,I 210,East
+-118.1829212,34.194547,5,65 mph,Foothill Freeway,I 210,East
+-118.18256,34.1940998,5,65 mph,Foothill Freeway,I 210,East
+-118.192865,34.2034102,4,65 mph,Foothill Freeway,I 210,East
+-118.1917371,34.2029089,4,65 mph,Foothill Freeway,I 210,East
+-118.1907883,34.2024466,4,65 mph,Foothill Freeway,I 210,East
+-118.1900367,34.2019885,4,65 mph,Foothill Freeway,I 210,East
+-118.1891323,34.2013232,4,65 mph,Foothill Freeway,I 210,East
+-118.1885315,34.2007127,4,65 mph,Foothill Freeway,I 210,East
+-118.1875131,34.1996371,4,65 mph,Foothill Freeway,I 210,East
+-118.1865861,34.1985865,4,65 mph,Foothill Freeway,I 210,East
+-118.1853158,34.1972163,4,65 mph,Foothill Freeway,I 210,East
+-118.1834876,34.1952073,4,65 mph,Foothill Freeway,I 210,East
+-118.1585429,34.1593679,5,65 mph,Foothill Freeway,I 210,East
+-118.1585292,34.1596714,5,65 mph,Foothill Freeway,I 210,East
+-118.1585311,34.1599329,5,65 mph,Foothill Freeway,I 210,East
+-118.1584711,34.1605974,5,65 mph,Foothill Freeway,I 210,East
+-118.1583041,34.1619009,5,65 mph,Foothill Freeway,I 210,East
+-118.1582612,34.1623839,5,65 mph,Foothill Freeway,I 210,East
+-118.1579951,34.1657431,5,65 mph,Foothill Freeway,I 210,East
+-118.16364,34.1771836,4,65 mph,Foothill Freeway,I 210,East
+-118.161545,34.1756998,4,65 mph,Foothill Freeway,I 210,East
+-118.1609528,34.1752596,4,65 mph,Foothill Freeway,I 210,East
+-118.1605065,34.1748974,4,65 mph,Foothill Freeway,I 210,East
+-118.1599143,34.1743506,4,65 mph,Foothill Freeway,I 210,East
+-118.1596053,34.1740098,4,65 mph,Foothill Freeway,I 210,East
+-118.1592705,34.1736192,4,65 mph,Foothill Freeway,I 210,East
+-118.159056,34.1732926,4,65 mph,Foothill Freeway,I 210,East
+-118.1589499,34.1730877,4,65 mph,Foothill Freeway,I 210,East
+-118.2378133,34.2173086,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.2371438,34.216904,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.23681,34.2167049,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.2357543,34.2160661,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.2347415,34.2154344,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.2339456,34.2149379,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.233311,34.2144868,"['5', '6']",65 mph,Foothill Freeway,I 210,East
+-118.2676501,34.2314033,4,65 mph,Foothill Freeway,I 210,East
+-118.2664599,34.2311274,4,65 mph,Foothill Freeway,I 210,East
+-118.2660105,34.2310253,4,65 mph,Foothill Freeway,I 210,East
+-118.2642653,34.2306287,4,65 mph,Foothill Freeway,I 210,East
+-118.2634555,34.2304446,4,65 mph,Foothill Freeway,I 210,East
+-118.2620947,34.2301354,4,65 mph,Foothill Freeway,I 210,East
+-118.2616186,34.2300272,4,65 mph,Foothill Freeway,I 210,East
+-118.2613346,34.2299595,4,65 mph,Foothill Freeway,I 210,East
+-118.2610467,34.2298807,4,65 mph,Foothill Freeway,I 210,East
+-118.2607397,34.2297905,4,65 mph,Foothill Freeway,I 210,East
+-118.2604608,34.2297004,4,65 mph,Foothill Freeway,I 210,East
+-118.2601667,34.2295994,4,65 mph,Foothill Freeway,I 210,East
+-118.2598726,34.2294931,4,65 mph,Foothill Freeway,I 210,East
+-118.2595813,34.229379,4,65 mph,Foothill Freeway,I 210,East
+-118.2593169,34.2292688,4,65 mph,Foothill Freeway,I 210,East
+-118.2590419,34.229149,4,65 mph,Foothill Freeway,I 210,East
+-118.2587463,34.2290132,4,65 mph,Foothill Freeway,I 210,East
+-118.2584395,34.2288652,4,65 mph,Foothill Freeway,I 210,East
+-118.2059351,34.2068423,4,65 mph,Foothill Freeway,I 210,East
+-118.2044789,34.2068579,4,65 mph,Foothill Freeway,I 210,East
+-118.2022453,34.2068239,4,65 mph,Foothill Freeway,I 210,East
+-118.2014129,34.206755,4,65 mph,Foothill Freeway,I 210,East
+-118.2004921,34.2066056,4,65 mph,Foothill Freeway,I 210,East
+-118.1999225,34.2064751,4,65 mph,Foothill Freeway,I 210,East
+-118.1990431,34.2062135,4,65 mph,Foothill Freeway,I 210,East
+-118.1724541,34.1827011,4,65 mph,Foothill Freeway,I 210,East
+-118.1702797,34.1817317,4,65 mph,Foothill Freeway,I 210,East
+-118.1697561,34.1814903,4,65 mph,Foothill Freeway,I 210,East
+-118.1692926,34.1812417,4,65 mph,Foothill Freeway,I 210,East
+-118.1688635,34.1809719,4,65 mph,Foothill Freeway,I 210,East
+-118.1684858,34.1807092,4,65 mph,Foothill Freeway,I 210,East
+-118.1672184,34.1797899,4,65 mph,Foothill Freeway,I 210,East
+-118.1661029,34.1789872,4,65 mph,Foothill Freeway,I 210,East
+-118.1661029,34.1789872,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.1645362,34.1778311,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.1641843,34.1775826,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.16364,34.1771836,"['5', '4']",65 mph,Foothill Freeway,I 210,East
+-118.1589499,34.1730877,5,65 mph,Foothill Freeway,I 210,East
+-118.1588241,34.1728638,5,65 mph,Foothill Freeway,I 210,East
+-118.1586525,34.1725469,5,65 mph,Foothill Freeway,I 210,East
+-118.1585066,34.1722274,5,65 mph,Foothill Freeway,I 210,East
+-118.1583865,34.1719717,5,65 mph,Foothill Freeway,I 210,East
+-118.1582491,34.1716025,5,65 mph,Foothill Freeway,I 210,East
+-118.1581461,34.1712403,5,65 mph,Foothill Freeway,I 210,East
+-118.1580775,34.170935,5,65 mph,Foothill Freeway,I 210,East
+-118.1580088,34.1705515,5,65 mph,Foothill Freeway,I 210,East
+-118.1579659,34.1701254,5,65 mph,Foothill Freeway,I 210,East
+-118.1579675,34.1697631,5,65 mph,Foothill Freeway,I 210,East
+-118.1579849,34.1693903,5,65 mph,Foothill Freeway,I 210,East
+-118.1582479,34.1661513,5,65 mph,Foothill Freeway,I 210,East
+-118.1582784,34.1657786,5,65 mph,Foothill Freeway,I 210,East
+-118.0616354,34.1485936,6,65 mph,Foothill Freeway,I 210,East
+-118.0556003,34.1486076,6,65 mph,Foothill Freeway,I 210,East
+-118.0542145,34.1486307,6,65 mph,Foothill Freeway,I 210,East
+-118.4835268,34.3203897,3,65 mph,Foothill Freeway,I 210,East
+-118.4829271,34.321017,3,65 mph,Foothill Freeway,I 210,East
+-118.4826751,34.3212568,3,65 mph,Foothill Freeway,I 210,East
+-118.4824343,34.3214637,3,65 mph,Foothill Freeway,I 210,East
+-118.4820639,34.3217358,3,65 mph,Foothill Freeway,I 210,East
+-118.4816488,34.3219997,3,65 mph,Foothill Freeway,I 210,East
+-118.4812294,34.3222125,3,65 mph,Foothill Freeway,I 210,East
+-118.4807627,34.3224211,3,65 mph,Foothill Freeway,I 210,East
+-118.4802684,34.3225989,3,65 mph,Foothill Freeway,I 210,East
+-118.4798707,34.3227098,3,65 mph,Foothill Freeway,I 210,East
+-118.4794502,34.3228009,3,65 mph,Foothill Freeway,I 210,East
+-118.478859,34.3228952,3,65 mph,Foothill Freeway,I 210,East
+-118.4784762,34.3229331,3,65 mph,Foothill Freeway,I 210,East
+-118.4737192,34.3231659,3,65 mph,Foothill Freeway,I 210,East
+-118.0680555,34.1485276,5,65 mph,Foothill Freeway,I 210,East
+-118.0675379,34.148527,5,65 mph,Foothill Freeway,I 210,East
+-118.0636975,34.14859,5,65 mph,Foothill Freeway,I 210,East
+-118.0616354,34.1485936,5,65 mph,Foothill Freeway,I 210,East
+-118.399771,34.2805538,4,65 mph,Foothill Freeway,I 210,East
+-118.3991085,34.2799328,4,65 mph,Foothill Freeway,I 210,East
+-118.398484,34.2793593,4,65 mph,Foothill Freeway,I 210,East
+-118.3980801,34.279015,4,65 mph,Foothill Freeway,I 210,East
+-118.3976415,34.278706,4,65 mph,Foothill Freeway,I 210,East
+-118.3971008,34.2783951,4,65 mph,Foothill Freeway,I 210,East
+-118.3966118,34.2781653,4,65 mph,Foothill Freeway,I 210,East
+-118.3960595,34.277947,4,65 mph,Foothill Freeway,I 210,East
+-118.3955054,34.2777912,4,65 mph,Foothill Freeway,I 210,East
+-118.395028,34.2776794,4,65 mph,Foothill Freeway,I 210,East
+-118.3943081,34.2775759,4,65 mph,Foothill Freeway,I 210,East
+-118.3932915,34.2775092,4,65 mph,Foothill Freeway,I 210,East
+-118.392376,34.277454,4,65 mph,Foothill Freeway,I 210,East
+-118.3920942,34.2774378,4,65 mph,Foothill Freeway,I 210,East
+-118.391813,34.2774157,4,65 mph,Foothill Freeway,I 210,East
+-118.3915372,34.2773893,4,65 mph,Foothill Freeway,I 210,East
+-118.3912122,34.2773535,4,65 mph,Foothill Freeway,I 210,East
+-118.3908424,34.2773083,4,65 mph,Foothill Freeway,I 210,East
+-118.3904975,34.2772609,4,65 mph,Foothill Freeway,I 210,East
+-118.3901954,34.277213,4,65 mph,Foothill Freeway,I 210,East
+-118.3898916,34.27716,4,65 mph,Foothill Freeway,I 210,East
+-118.3895896,34.2771047,4,65 mph,Foothill Freeway,I 210,East
+-118.3892789,34.2770384,4,65 mph,Foothill Freeway,I 210,East
+-118.388979,34.2769712,4,65 mph,Foothill Freeway,I 210,East
+-118.3886808,34.2768976,4,65 mph,Foothill Freeway,I 210,East
+-118.3854363,34.276047,4,65 mph,Foothill Freeway,I 210,East
+-118.4032981,34.2838958,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4010143,34.2817431,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4006879,34.2814357,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.399771,34.2805538,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.409516,34.2897582,3,65 mph,Foothill Freeway,I 210,East
+-118.4072909,34.2876686,3,65 mph,Foothill Freeway,I 210,East
+-118.4068912,34.2872861,3,65 mph,Foothill Freeway,I 210,East
+-118.4032981,34.2838958,3,65 mph,Foothill Freeway,I 210,East
+-118.411627,34.2917229,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4111267,34.2912904,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.409516,34.2897582,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4919111,34.3172867,3,65 mph,Foothill Freeway,I 210,East
+-118.491695,34.3171201,3,65 mph,Foothill Freeway,I 210,East
+-118.4914623,34.3169695,3,65 mph,Foothill Freeway,I 210,East
+-118.4911814,34.3168219,3,65 mph,Foothill Freeway,I 210,East
+-118.4907951,34.3166731,3,65 mph,Foothill Freeway,I 210,East
+-118.490314,34.3165269,3,65 mph,Foothill Freeway,I 210,East
+-118.4897036,34.3164178,3,65 mph,Foothill Freeway,I 210,East
+-118.4890785,34.3163895,3,65 mph,Foothill Freeway,I 210,East
+-118.4886494,34.3164037,3,65 mph,Foothill Freeway,I 210,East
+-118.4882838,34.3164622,3,65 mph,Foothill Freeway,I 210,East
+-118.4878761,34.3165574,3,65 mph,Foothill Freeway,I 210,East
+-118.4875507,34.3166731,3,65 mph,Foothill Freeway,I 210,East
+-118.4871645,34.3168432,3,65 mph,Foothill Freeway,I 210,East
+-118.4864092,34.3173111,3,65 mph,Foothill Freeway,I 210,East
+-118.4858473,34.3178097,3,65 mph,Foothill Freeway,I 210,East
+-118.1586873,34.1575816,2,65 mph,Foothill Freeway,I 210,East
+-118.1586949,34.1574359,2,65 mph,Foothill Freeway,I 210,East
+-118.1585924,34.1570736,2,65 mph,Foothill Freeway,I 210,East
+-118.157665,34.154489,2,65 mph,Foothill Freeway,I 210,East
+-118.1990431,34.2062135,4,65 mph,Foothill Freeway,I 210,East
+-118.1984635,34.2060001,4,65 mph,Foothill Freeway,I 210,East
+-118.1968621,34.2052755,4,65 mph,Foothill Freeway,I 210,East
+-118.1958177,34.2047576,4,65 mph,Foothill Freeway,I 210,East
+-118.1047935,34.1523396,6,65 mph,Foothill Freeway,I 210,East
+-118.0994683,34.1523833,6,65 mph,Foothill Freeway,I 210,East
+-118.4175061,34.2972921,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4173231,34.2971227,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4169251,34.2967537,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4135989,34.2936141,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4133501,34.2933829,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.411627,34.2917229,"['3', '4']",65 mph,Foothill Freeway,I 210,East
+-118.4222103,34.3017106,3,65 mph,Foothill Freeway,I 210,East
+-118.419709,34.2993739,3,65 mph,Foothill Freeway,I 210,East
+-118.4193833,34.2990686,3,65 mph,Foothill Freeway,I 210,East
+-118.4175061,34.2972921,3,65 mph,Foothill Freeway,I 210,East
+-118.4262808,34.3053441,3,65 mph,Foothill Freeway,I 210,East
+-118.4222103,34.3017106,3,65 mph,Foothill Freeway,I 210,East
+-118.4431779,34.3189391,3,65 mph,Foothill Freeway,I 210,East
+-118.4426052,34.3184907,3,65 mph,Foothill Freeway,I 210,East
+-118.4401048,34.3164513,3,65 mph,Foothill Freeway,I 210,East
+-118.4397433,34.3161721,3,65 mph,Foothill Freeway,I 210,East
+-118.4372491,34.3142816,3,65 mph,Foothill Freeway,I 210,East
+-118.453897,34.3235325,3,65 mph,Foothill Freeway,I 210,East
+-118.4534227,34.3235591,3,65 mph,Foothill Freeway,I 210,East
+-118.4528496,34.3235664,3,65 mph,Foothill Freeway,I 210,East
+-118.4523876,34.3235544,3,65 mph,Foothill Freeway,I 210,East
+-118.4518226,34.3235148,3,65 mph,Foothill Freeway,I 210,East
+-118.4512747,34.3234511,3,65 mph,Foothill Freeway,I 210,East
+-118.4508948,34.3233904,3,65 mph,Foothill Freeway,I 210,East
+-118.4502575,34.3232524,3,65 mph,Foothill Freeway,I 210,East
+-118.449703,34.3231063,3,65 mph,Foothill Freeway,I 210,East
+-118.4489612,34.3228631,3,65 mph,Foothill Freeway,I 210,East
+-118.4482281,34.3225547,3,65 mph,Foothill Freeway,I 210,East
+-118.4474929,34.3221862,3,65 mph,Foothill Freeway,I 210,East
+-118.4470361,34.3219044,3,65 mph,Foothill Freeway,I 210,East
+-118.4465201,34.3215514,3,65 mph,Foothill Freeway,I 210,East
+-118.444551,34.3199872,3,65 mph,Foothill Freeway,I 210,East
+-118.4431779,34.3189391,3,65 mph,Foothill Freeway,I 210,East
+-118.1071342,34.1523221,7,65 mph,Foothill Freeway,I 210,East
+-118.1064636,34.1523355,7,65 mph,Foothill Freeway,I 210,East
+-118.1059942,34.1523348,7,65 mph,Foothill Freeway,I 210,East
+-118.1055364,34.1523392,7,65 mph,Foothill Freeway,I 210,East
+-118.1047935,34.1523396,7,65 mph,Foothill Freeway,I 210,East
+-118.4643272,34.3236457,3,65 mph,Foothill Freeway,I 210,East
+-118.4635959,34.3236939,3,65 mph,Foothill Freeway,I 210,East
+-118.4626258,34.3237416,3,65 mph,Foothill Freeway,I 210,East
+-118.4622547,34.3237437,3,65 mph,Foothill Freeway,I 210,East
+-118.4618801,34.3237371,3,65 mph,Foothill Freeway,I 210,East
+-118.4615925,34.3237211,3,65 mph,Foothill Freeway,I 210,East
+-118.4613049,34.3236904,3,65 mph,Foothill Freeway,I 210,East
+-118.4605969,34.3235981,3,65 mph,Foothill Freeway,I 210,East
+-118.4600122,34.3235129,3,65 mph,Foothill Freeway,I 210,East
+-118.4592636,34.3234217,3,65 mph,Foothill Freeway,I 210,East
+-118.4586445,34.3233809,3,65 mph,Foothill Freeway,I 210,East
+-118.4580555,34.3233773,3,65 mph,Foothill Freeway,I 210,East
+-118.4554859,34.3234537,3,65 mph,Foothill Freeway,I 210,East
+-118.4544058,34.3235146,3,65 mph,Foothill Freeway,I 210,East
+-118.453897,34.3235325,3,65 mph,Foothill Freeway,I 210,East
+-118.4320885,34.3103775,3,65 mph,Foothill Freeway,I 210,East
+-118.4306418,34.3092025,3,65 mph,Foothill Freeway,I 210,East
+-118.4262808,34.3053441,3,65 mph,Foothill Freeway,I 210,East
+-118.4372491,34.3142816,3,65 mph,Foothill Freeway,I 210,East
+-118.4369156,34.3140309,3,65 mph,Foothill Freeway,I 210,East
+-118.4342105,34.3119867,3,65 mph,Foothill Freeway,I 210,East
+-118.4320885,34.3103775,3,65 mph,Foothill Freeway,I 210,East
+-118.233311,34.2144868,6,65 mph,Foothill Freeway,I 210,East
+-118.2307114,34.2129176,6,65 mph,Foothill Freeway,I 210,East
+-118.2299308,34.2125314,6,65 mph,Foothill Freeway,I 210,East
+-118.2280692,34.2117112,6,65 mph,Foothill Freeway,I 210,East
+-118.2275595,34.2114922,6,65 mph,Foothill Freeway,I 210,East
+-118.3572989,34.2726437,4,65 mph,Foothill Freeway,I 210,East
+-118.3531923,34.2721183,4,65 mph,Foothill Freeway,I 210,East
+-118.3528107,34.2720774,4,65 mph,Foothill Freeway,I 210,East
+-118.3491296,34.271589,4,65 mph,Foothill Freeway,I 210,East
+-118.3749118,34.2740207,4,65 mph,Foothill Freeway,I 210,East
+-118.373536,34.2739361,4,65 mph,Foothill Freeway,I 210,East
+-118.3727257,34.2738863,4,65 mph,Foothill Freeway,I 210,East
+-118.3684593,34.273624,4,65 mph,Foothill Freeway,I 210,East
+-118.3681058,34.2736023,4,65 mph,Foothill Freeway,I 210,East
+-118.3627223,34.2732713,4,65 mph,Foothill Freeway,I 210,East
+-118.362254,34.2732397,4,65 mph,Foothill Freeway,I 210,East
+-118.361777,34.2732054,4,65 mph,Foothill Freeway,I 210,East
+-118.3613047,34.2731656,4,65 mph,Foothill Freeway,I 210,East
+-118.3608452,34.273121,4,65 mph,Foothill Freeway,I 210,East
+-118.3603848,34.2730695,4,65 mph,Foothill Freeway,I 210,East
+-118.3599101,34.2730114,4,65 mph,Foothill Freeway,I 210,East
+-118.3592329,34.2729214,4,65 mph,Foothill Freeway,I 210,East
+-118.3588018,34.2728641,4,65 mph,Foothill Freeway,I 210,East
+-118.3572989,34.2726437,4,65 mph,Foothill Freeway,I 210,East
+-118.3854363,34.276047,4,65 mph,Foothill Freeway,I 210,East
+-118.3823129,34.2752248,4,65 mph,Foothill Freeway,I 210,East
+-118.3818603,34.2751118,4,65 mph,Foothill Freeway,I 210,East
+-118.3815323,34.2750315,4,65 mph,Foothill Freeway,I 210,East
+-118.3812133,34.2749539,4,65 mph,Foothill Freeway,I 210,East
+-118.3808962,34.2748793,4,65 mph,Foothill Freeway,I 210,East
+-118.3805697,34.2748035,4,65 mph,Foothill Freeway,I 210,East
+-118.3803223,34.2747509,4,65 mph,Foothill Freeway,I 210,East
+-118.3800534,34.274695,4,65 mph,Foothill Freeway,I 210,East
+-118.3796655,34.2746192,4,65 mph,Foothill Freeway,I 210,East
+-118.3792722,34.2745469,4,65 mph,Foothill Freeway,I 210,East
+-118.3788745,34.2744789,4,65 mph,Foothill Freeway,I 210,East
+-118.3784753,34.274417,4,65 mph,Foothill Freeway,I 210,East
+-118.3780809,34.2743569,4,65 mph,Foothill Freeway,I 210,East
+-118.3776997,34.274303,4,65 mph,Foothill Freeway,I 210,East
+-118.3772996,34.2742518,4,65 mph,Foothill Freeway,I 210,East
+-118.3769148,34.2742072,4,65 mph,Foothill Freeway,I 210,East
+-118.3765137,34.2741598,4,65 mph,Foothill Freeway,I 210,East
+-118.3761236,34.2741187,4,65 mph,Foothill Freeway,I 210,East
+-118.3757195,34.2740823,4,65 mph,Foothill Freeway,I 210,East
+-118.3753099,34.2740511,4,65 mph,Foothill Freeway,I 210,East
+-118.3749118,34.2740207,4,65 mph,Foothill Freeway,I 210,East
+-118.3491296,34.271589,4,65 mph,Foothill Freeway,I 210,East
+-118.3457303,34.2711446,4,65 mph,Foothill Freeway,I 210,East
+-118.3454165,34.2710947,4,65 mph,Foothill Freeway,I 210,East
+-118.3451067,34.2710515,4,65 mph,Foothill Freeway,I 210,East
+-118.3447822,34.2710005,4,65 mph,Foothill Freeway,I 210,East
+-118.344463,34.2709495,4,65 mph,Foothill Freeway,I 210,East
+-118.3441532,34.2708886,4,65 mph,Foothill Freeway,I 210,East
+-118.3438474,34.2708188,4,65 mph,Foothill Freeway,I 210,East
+-118.343543,34.2707456,4,65 mph,Foothill Freeway,I 210,East
+-118.343248,34.270668,4,65 mph,Foothill Freeway,I 210,East
+-118.3429529,34.2705871,4,65 mph,Foothill Freeway,I 210,East
+-118.3426606,34.2704985,4,65 mph,Foothill Freeway,I 210,East
+-118.3423709,34.2704054,4,65 mph,Foothill Freeway,I 210,East
+-118.3420758,34.2702968,4,65 mph,Foothill Freeway,I 210,East
+-118.3417915,34.2701893,4,65 mph,Foothill Freeway,I 210,East
+-118.3415085,34.2700773,4,65 mph,Foothill Freeway,I 210,East
+-118.3412686,34.2699498,4,65 mph,Foothill Freeway,I 210,East
+-118.3409874,34.2698222,4,65 mph,Foothill Freeway,I 210,East
+-118.3407151,34.2696915,4,65 mph,Foothill Freeway,I 210,East
+-118.3404524,34.269557,4,65 mph,Foothill Freeway,I 210,East
+-118.3401899,34.2694179,4,65 mph,Foothill Freeway,I 210,East
+-118.3399277,34.2692699,4,65 mph,Foothill Freeway,I 210,East
+-118.3396718,34.2691183,4,65 mph,Foothill Freeway,I 210,East
+-118.3394192,34.2689642,4,65 mph,Foothill Freeway,I 210,East
+-118.3391738,34.2688074,4,65 mph,Foothill Freeway,I 210,East
+-118.338944,34.2686507,4,65 mph,Foothill Freeway,I 210,East
+-118.3387152,34.2684847,4,65 mph,Foothill Freeway,I 210,East
+-118.3384821,34.2683107,4,65 mph,Foothill Freeway,I 210,East
+-118.3382523,34.2681295,4,65 mph,Foothill Freeway,I 210,East
+-118.3380228,34.2679421,4,65 mph,Foothill Freeway,I 210,East
+-118.3378061,34.2677608,4,65 mph,Foothill Freeway,I 210,East
+-118.3375907,34.26757,4,65 mph,Foothill Freeway,I 210,East
+-118.3373865,34.2673822,4,65 mph,Foothill Freeway,I 210,East
+-118.3371913,34.2671911,4,65 mph,Foothill Freeway,I 210,East
+-118.3369863,34.2669807,4,65 mph,Foothill Freeway,I 210,East
+-118.3363248,34.2662911,4,65 mph,Foothill Freeway,I 210,East
+-118.3356449,34.2655824,4,65 mph,Foothill Freeway,I 210,East
+-118.3343455,34.2642278,4,65 mph,Foothill Freeway,I 210,East
+-118.3339545,34.2638203,4,65 mph,Foothill Freeway,I 210,East
+-118.2584395,34.2288652,5,65 mph,Foothill Freeway,I 210,East
+-118.2581905,34.2287374,5,65 mph,Foothill Freeway,I 210,East
+-118.25793,34.2285945,5,65 mph,Foothill Freeway,I 210,East
+-118.2576581,34.2284395,5,65 mph,Foothill Freeway,I 210,East
+-118.2572625,34.2282004,5,65 mph,Foothill Freeway,I 210,East
+-118.2532926,34.2257711,5,65 mph,Foothill Freeway,I 210,East
+-118.252872,34.2255138,5,65 mph,Foothill Freeway,I 210,East
+-118.2850423,34.2341873,4,65 mph,Foothill Freeway,I 210,East
+-118.2847354,34.2341867,4,65 mph,Foothill Freeway,I 210,East
+-118.2844241,34.2341927,4,65 mph,Foothill Freeway,I 210,East
+-118.2840933,34.2342061,4,65 mph,Foothill Freeway,I 210,East
+-118.2825361,34.2342878,4,65 mph,Foothill Freeway,I 210,East
+-118.2822199,34.2343038,4,65 mph,Foothill Freeway,I 210,East
+-118.2819054,34.2343121,4,65 mph,Foothill Freeway,I 210,East
+-118.2816069,34.2343121,4,65 mph,Foothill Freeway,I 210,East
+-118.2812883,34.234303,4,65 mph,Foothill Freeway,I 210,East
+-118.2809805,34.2342863,4,65 mph,Foothill Freeway,I 210,East
+-118.2806781,34.2342632,4,65 mph,Foothill Freeway,I 210,East
+-118.2803722,34.2342303,4,65 mph,Foothill Freeway,I 210,East
+-118.2800851,34.2341897,4,65 mph,Foothill Freeway,I 210,East
+-118.2797861,34.2341398,4,65 mph,Foothill Freeway,I 210,East
+-118.2794793,34.2340789,4,65 mph,Foothill Freeway,I 210,East
+-118.2791837,34.234017,4,65 mph,Foothill Freeway,I 210,East
+-118.2676501,34.2314033,4,65 mph,Foothill Freeway,I 210,East

@@ -1,0 +1,607 @@
+Longitude,Latitude,lanes,maxspeed,road_name,ref,direction
+-118.2813803,33.7863679,5,65 mph,Harbor Freeway,I 110,South
+-118.2813407,33.7861233,5,65 mph,Harbor Freeway,I 110,South
+-118.2813064,33.7858899,5,65 mph,Harbor Freeway,I 110,South
+-118.280782,33.7825433,5,65 mph,Harbor Freeway,I 110,South
+-118.2802312,33.9374842,6,65 mph,Harbor Freeway,I 110,South
+-118.2802505,33.936794,6,65 mph,Harbor Freeway,I 110,South
+-118.2802751,33.9362961,6,65 mph,Harbor Freeway,I 110,South
+-118.2803021,33.935953,6,65 mph,Harbor Freeway,I 110,South
+-118.2803441,33.9355997,6,65 mph,Harbor Freeway,I 110,South
+-118.2810153,33.9790857,5,65 mph,Harbor Freeway,I 110,South
+-118.2810168,33.9789131,5,65 mph,Harbor Freeway,I 110,South
+-118.281017,33.9785075,5,65 mph,Harbor Freeway,I 110,South
+-118.2810712,33.9632086,4,65 mph,Harbor Freeway,I 110,South
+-118.2811166,33.9610069,4,65 mph,Harbor Freeway,I 110,South
+-118.2811279,33.9603116,4,65 mph,Harbor Freeway,I 110,South
+-118.2811265,33.9598593,4,65 mph,Harbor Freeway,I 110,South
+-118.2811259,33.9592579,4,65 mph,Harbor Freeway,I 110,South
+-118.2840419,33.9194531,5,65 mph,Harbor Freeway,I 110,South
+-118.284456,33.9189701,5,65 mph,Harbor Freeway,I 110,South
+-118.2847175,33.9186607,5,65 mph,Harbor Freeway,I 110,South
+-118.2849524,33.9183518,5,65 mph,Harbor Freeway,I 110,South
+-118.2852392,33.917944,5,65 mph,Harbor Freeway,I 110,South
+-118.2854444,33.9176213,5,65 mph,Harbor Freeway,I 110,South
+-118.2856536,33.9172618,5,65 mph,Harbor Freeway,I 110,South
+-118.2857917,33.9170014,5,65 mph,Harbor Freeway,I 110,South
+-118.2859572,33.9166706,5,65 mph,Harbor Freeway,I 110,South
+-118.2861353,33.9162538,5,65 mph,Harbor Freeway,I 110,South
+-118.2857989,33.8885392,5,65 mph,Harbor Freeway,I 110,South
+-118.2856943,33.8855329,5,65 mph,Harbor Freeway,I 110,South
+-118.2856779,33.8852462,5,65 mph,Harbor Freeway,I 110,South
+-118.2855776,33.8843695,5,65 mph,Harbor Freeway,I 110,South
+-118.2850263,33.8535761,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.28507,33.8522109,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2851278,33.8494691,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2850929,33.8475826,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.285126,33.8471033,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.280782,33.7825433,4,65 mph,Harbor Freeway,I 110,South
+-118.280568,33.7812839,4,65 mph,Harbor Freeway,I 110,South
+-118.280476,33.7806088,4,65 mph,Harbor Freeway,I 110,South
+-118.2803655,33.7791314,4,65 mph,Harbor Freeway,I 110,South
+-118.2803453,33.7788766,4,65 mph,Harbor Freeway,I 110,South
+-118.2801217,33.7759333,4,65 mph,Harbor Freeway,I 110,South
+-118.283892,33.7936604,4,65 mph,Harbor Freeway,I 110,South
+-118.2829884,33.7923052,4,65 mph,Harbor Freeway,I 110,South
+-118.282688,33.7917702,4,65 mph,Harbor Freeway,I 110,South
+-118.2824649,33.7912709,4,65 mph,Harbor Freeway,I 110,South
+-118.2822544,33.7907498,4,65 mph,Harbor Freeway,I 110,South
+-118.2821389,33.7904317,4,65 mph,Harbor Freeway,I 110,South
+-118.281881,33.7895221,4,65 mph,Harbor Freeway,I 110,South
+-118.2817667,33.7889608,4,65 mph,Harbor Freeway,I 110,South
+-118.2813803,33.7863679,4,65 mph,Harbor Freeway,I 110,South
+-118.2800126,33.7745884,4,65 mph,Harbor Freeway,I 110,South
+-118.2799118,33.7733863,4,65 mph,Harbor Freeway,I 110,South
+-118.2799157,33.772787,4,65 mph,Harbor Freeway,I 110,South
+-118.2800344,33.7720134,4,65 mph,Harbor Freeway,I 110,South
+-118.281277,34.0137383,4,65 mph,Harbor Freeway,I 110,South
+-118.2812764,34.0133664,4,65 mph,Harbor Freeway,I 110,South
+-118.2812923,34.0120421,4,65 mph,Harbor Freeway,I 110,South
+-118.2812878,34.0112328,4,65 mph,Harbor Freeway,I 110,South
+-118.2812851,34.0109392,4,65 mph,Harbor Freeway,I 110,South
+-118.2812826,34.0106792,4,65 mph,Harbor Freeway,I 110,South
+-118.285242,33.8786666,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.285231,33.8782177,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2851712,33.8766967,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2851502,33.8753177,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2851151,33.8730167,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2850779,33.8725422,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.285071,33.8719244,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2884754,33.8057073,4,65 mph,Harbor Freeway,I 110,South
+-118.2887471,33.8044465,4,65 mph,Harbor Freeway,I 110,South
+-118.2888274,33.8040759,4,65 mph,Harbor Freeway,I 110,South
+-118.288896,33.8037834,4,65 mph,Harbor Freeway,I 110,South
+-118.288999,33.8033412,4,65 mph,Harbor Freeway,I 110,South
+-118.2890677,33.8029133,4,65 mph,Harbor Freeway,I 110,South
+-118.2890934,33.8024925,4,65 mph,Harbor Freeway,I 110,South
+-118.2890848,33.8020503,4,65 mph,Harbor Freeway,I 110,South
+-118.2890419,33.8016224,4,65 mph,Harbor Freeway,I 110,South
+-118.2889818,33.801223,4,65 mph,Harbor Freeway,I 110,South
+-118.288896,33.800845,4,65 mph,Harbor Freeway,I 110,South
+-118.288793,33.8004812,4,65 mph,Harbor Freeway,I 110,South
+-118.2886814,33.8001603,4,65 mph,Harbor Freeway,I 110,South
+-118.2885699,33.7998892,4,65 mph,Harbor Freeway,I 110,South
+-118.2884325,33.7996039,4,65 mph,Harbor Freeway,I 110,South
+-118.288278,33.7993186,4,65 mph,Harbor Freeway,I 110,South
+-118.2881235,33.7990761,4,65 mph,Harbor Freeway,I 110,South
+-118.2879862,33.7988836,4,65 mph,Harbor Freeway,I 110,South
+-118.2878746,33.7987338,4,65 mph,Harbor Freeway,I 110,South
+-118.2876858,33.7984913,4,65 mph,Harbor Freeway,I 110,South
+-118.2874455,33.7982202,4,65 mph,Harbor Freeway,I 110,South
+-118.2871279,33.7978921,4,65 mph,Harbor Freeway,I 110,South
+-118.2868361,33.7975997,4,65 mph,Harbor Freeway,I 110,South
+-118.2861034,33.7968607,4,65 mph,Harbor Freeway,I 110,South
+-118.2855871,33.7962468,4,65 mph,Harbor Freeway,I 110,South
+-118.283892,33.7936604,4,65 mph,Harbor Freeway,I 110,South
+-118.2878913,33.8082736,4,65 mph,Harbor Freeway,I 110,South
+-118.2884754,33.8057073,4,65 mph,Harbor Freeway,I 110,South
+-118.2875,33.8123485,4,65 mph,Harbor Freeway,I 110,South
+-118.2874541,33.8110864,4,65 mph,Harbor Freeway,I 110,South
+-118.2874712,33.8106442,4,65 mph,Harbor Freeway,I 110,South
+-118.2875141,33.8101878,4,65 mph,Harbor Freeway,I 110,South
+-118.2875828,33.8097029,4,65 mph,Harbor Freeway,I 110,South
+-118.2876601,33.8092322,4,65 mph,Harbor Freeway,I 110,South
+-118.2877201,33.8089326,4,65 mph,Harbor Freeway,I 110,South
+-118.2878913,33.8082736,4,65 mph,Harbor Freeway,I 110,South
+-118.2907476,33.7569438,3,65 mph,Harbor Freeway,I 110,South
+-118.2909126,33.7563604,3,65 mph,Harbor Freeway,I 110,South
+-118.2910106,33.7560187,3,65 mph,Harbor Freeway,I 110,South
+-118.2911067,33.7556114,3,65 mph,Harbor Freeway,I 110,South
+-118.291169,33.7552793,3,65 mph,Harbor Freeway,I 110,South
+-118.2912169,33.7548799,3,65 mph,Harbor Freeway,I 110,South
+-118.2912584,33.7542978,3,65 mph,Harbor Freeway,I 110,South
+-118.2912478,33.7537118,3,65 mph,Harbor Freeway,I 110,South
+-118.291236,33.7532526,3,65 mph,Harbor Freeway,I 110,South
+-118.291236,33.7532526,3,65 mph,Harbor Freeway,I 110,South
+-118.2911981,33.7524031,3,65 mph,Harbor Freeway,I 110,South
+-118.291111,33.7506906,3,65 mph,Harbor Freeway,I 110,South
+-118.2910585,33.7496368,3,65 mph,Harbor Freeway,I 110,South
+-118.2910411,33.7493063,3,65 mph,Harbor Freeway,I 110,South
+-118.2910074,33.7486536,3,65 mph,Harbor Freeway,I 110,South
+-118.2910072,33.7485646,3,65 mph,Harbor Freeway,I 110,South
+-118.2910092,33.7485017,3,65 mph,Harbor Freeway,I 110,South
+-118.2910129,33.7484334,3,65 mph,Harbor Freeway,I 110,South
+-118.2910201,33.7483727,3,65 mph,Harbor Freeway,I 110,South
+-118.2910316,33.7483012,3,65 mph,Harbor Freeway,I 110,South
+-118.2910459,33.7482367,3,65 mph,Harbor Freeway,I 110,South
+-118.2910637,33.7481716,3,65 mph,Harbor Freeway,I 110,South
+-118.2910845,33.7481058,3,65 mph,Harbor Freeway,I 110,South
+-118.2911067,33.7480426,3,65 mph,Harbor Freeway,I 110,South
+-118.2911341,33.7479772,3,65 mph,Harbor Freeway,I 110,South
+-118.2911606,33.7479199,3,65 mph,Harbor Freeway,I 110,South
+-118.2911953,33.7478542,3,65 mph,Harbor Freeway,I 110,South
+-118.2912274,33.7477974,3,65 mph,Harbor Freeway,I 110,South
+-118.2912684,33.7477339,3,65 mph,Harbor Freeway,I 110,South
+-118.2913059,33.7476798,3,65 mph,Harbor Freeway,I 110,South
+-118.29135,33.7476226,3,65 mph,Harbor Freeway,I 110,South
+-118.2913923,33.7475698,3,65 mph,Harbor Freeway,I 110,South
+-118.2914401,33.7475166,3,65 mph,Harbor Freeway,I 110,South
+-118.2914902,33.7474655,3,65 mph,Harbor Freeway,I 110,South
+-118.2915446,33.7474139,3,65 mph,Harbor Freeway,I 110,South
+-118.2915969,33.7473666,3,65 mph,Harbor Freeway,I 110,South
+-118.291655,33.7473165,3,65 mph,Harbor Freeway,I 110,South
+-118.2917105,33.7472698,3,65 mph,Harbor Freeway,I 110,South
+-118.2917895,33.7472045,3,65 mph,Harbor Freeway,I 110,South
+-118.2919108,33.7471042,3,65 mph,Harbor Freeway,I 110,South
+-118.2920922,33.7469536,3,65 mph,Harbor Freeway,I 110,South
+-118.2923208,33.7467645,3,65 mph,Harbor Freeway,I 110,South
+-118.2923463,33.7467366,3,65 mph,Harbor Freeway,I 110,South
+-118.2923671,33.7467053,3,65 mph,Harbor Freeway,I 110,South
+-118.2923845,33.7466741,3,65 mph,Harbor Freeway,I 110,South
+-118.292398,33.7466429,3,65 mph,Harbor Freeway,I 110,South
+-118.2849603,33.8556497,5,65 mph,Harbor Freeway,I 110,South
+-118.2849691,33.8552268,5,65 mph,Harbor Freeway,I 110,South
+-118.2850263,33.8535761,5,65 mph,Harbor Freeway,I 110,South
+-118.285177,33.8641435,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852092,33.863741,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852147,33.8636807,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852644,33.8629205,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852806,33.8626639,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852749,33.8623521,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852549,33.8620401,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2852206,33.8617051,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2851862,33.8614414,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2851347,33.8610636,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2850232,33.8602868,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2850038,33.8601659,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2848515,33.8592177,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2848,33.8588399,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2847743,33.8585548,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2847571,33.8582554,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2847485,33.8579846,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2847485,33.8577993,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2849603,33.8556497,"['3', '5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2810998,33.9571676,5,65 mph,Harbor Freeway,I 110,South
+-118.281082,33.9568269,5,65 mph,Harbor Freeway,I 110,South
+-118.281075,33.9566547,5,65 mph,Harbor Freeway,I 110,South
+-118.2810723,33.9564517,5,65 mph,Harbor Freeway,I 110,South
+-118.2810602,33.9556719,5,65 mph,Harbor Freeway,I 110,South
+-118.2810467,33.9552952,5,65 mph,Harbor Freeway,I 110,South
+-118.281004,33.9548509,5,65 mph,Harbor Freeway,I 110,South
+-118.280949,33.9544299,5,65 mph,Harbor Freeway,I 110,South
+-118.2808833,33.9540647,5,65 mph,Harbor Freeway,I 110,South
+-118.2808149,33.9536817,5,65 mph,Harbor Freeway,I 110,South
+-118.2806492,33.9529135,5,65 mph,Harbor Freeway,I 110,South
+-118.2815121,33.9238851,4,65 mph,Harbor Freeway,I 110,South
+-118.2815491,33.9235357,4,65 mph,Harbor Freeway,I 110,South
+-118.2815964,33.9232021,4,65 mph,Harbor Freeway,I 110,South
+-118.2816466,33.9229175,4,65 mph,Harbor Freeway,I 110,South
+-118.2817035,33.9226722,4,65 mph,Harbor Freeway,I 110,South
+-118.2817854,33.9224152,4,65 mph,Harbor Freeway,I 110,South
+-118.2818717,33.9221918,4,65 mph,Harbor Freeway,I 110,South
+-118.2819713,33.9219632,4,65 mph,Harbor Freeway,I 110,South
+-118.2820288,33.9218409,4,65 mph,Harbor Freeway,I 110,South
+-118.2820864,33.9217268,4,65 mph,Harbor Freeway,I 110,South
+-118.2821683,33.9215795,4,65 mph,Harbor Freeway,I 110,South
+-118.2822502,33.9214367,4,65 mph,Harbor Freeway,I 110,South
+-118.2801217,33.7759333,5,65 mph,Harbor Freeway,I 110,South
+-118.2800267,33.774767,5,65 mph,Harbor Freeway,I 110,South
+-118.2800126,33.7745884,5,65 mph,Harbor Freeway,I 110,South
+-118.285126,33.8471033,4,65 mph,Harbor Freeway,I 110,South
+-118.285139,33.8464242,4,65 mph,Harbor Freeway,I 110,South
+-118.2852266,33.8460791,4,65 mph,Harbor Freeway,I 110,South
+-118.2853419,33.8455358,4,65 mph,Harbor Freeway,I 110,South
+-118.2861986,33.8421618,4,65 mph,Harbor Freeway,I 110,South
+-118.2861986,33.8421618,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.286253,33.8419212,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2872752,33.837533,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.287378,33.8368339,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2874757,33.8346749,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2874757,33.8346749,4,65 mph,Harbor Freeway,I 110,South
+-118.2874879,33.8285055,4,65 mph,Harbor Freeway,I 110,South
+-118.2874879,33.8285055,5,65 mph,Harbor Freeway,I 110,South
+-118.2874858,33.828204,5,65 mph,Harbor Freeway,I 110,South
+-118.2874858,33.828204,4,65 mph,Harbor Freeway,I 110,South
+-118.2874919,33.8249156,4,65 mph,Harbor Freeway,I 110,South
+-118.2874935,33.8240552,4,65 mph,Harbor Freeway,I 110,South
+-118.2874987,33.8212234,4,65 mph,Harbor Freeway,I 110,South
+-118.2874987,33.8212234,4,65 mph,Harbor Freeway,I 110,South
+-118.2874925,33.8191853,4,65 mph,Harbor Freeway,I 110,South
+-118.2874913,33.8187949,4,65 mph,Harbor Freeway,I 110,South
+-118.2874818,33.8156563,4,65 mph,Harbor Freeway,I 110,South
+-118.2875,33.8123485,4,65 mph,Harbor Freeway,I 110,South
+-118.279774,33.9482967,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797473,33.9479898,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797384,33.9477962,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797331,33.9475586,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797335,33.9473128,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797471,33.9470865,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2797999,33.946604,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2799106,33.9456901,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2799495,33.9453984,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.280022,33.9448848,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2800523,33.9446467,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2800814,33.9444129,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801071,33.94417,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801278,33.9439209,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801417,33.9437236,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801506,33.9435199,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801603,33.9431354,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801774,33.9420035,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801793,33.9418271,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2802248,33.9383875,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2802272,33.9381565,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2802312,33.9374842,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2810236,33.9665391,5,65 mph,Harbor Freeway,I 110,South
+-118.2810599,33.9642552,5,65 mph,Harbor Freeway,I 110,South
+-118.2810632,33.9640823,5,65 mph,Harbor Freeway,I 110,South
+-118.2810697,33.9638877,5,65 mph,Harbor Freeway,I 110,South
+-118.2810712,33.9632086,5,65 mph,Harbor Freeway,I 110,South
+-118.2800344,33.7720134,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2800938,33.771736,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2801732,33.7713672,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2803598,33.7708286,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2806994,33.770144,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2815427,33.7683688,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2816818,33.7680841,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2831376,33.7650233,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2834167,33.7644756,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2837279,33.7639957,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2841995,33.7634157,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2846672,33.7629618,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2849595,33.7627206,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2854847,33.7623244,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2869048,33.7613852,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2875495,33.7609356,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2880999,33.7604827,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2885692,33.7600846,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2889528,33.7597051,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2894434,33.759129,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2897664,33.7587013,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2900628,33.7582453,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.290412,33.757652,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2905857,33.757312,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2907476,33.7569438,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2868451,33.906723,4,65 mph,Harbor Freeway,I 110,South
+-118.2868847,33.9039871,4,65 mph,Harbor Freeway,I 110,South
+-118.286922,33.9018945,4,65 mph,Harbor Freeway,I 110,South
+-118.2868967,33.8997774,4,65 mph,Harbor Freeway,I 110,South
+-118.286904,33.8989183,4,65 mph,Harbor Freeway,I 110,South
+-118.2809374,33.9558726,2,,Harbor Transitway,I 110,South
+-118.2809235,33.9554083,2,,Harbor Transitway,I 110,South
+-118.2808954,33.9550433,2,,Harbor Transitway,I 110,South
+-118.2808497,33.9547087,2,,Harbor Transitway,I 110,South
+-118.28078,33.9542502,2,,Harbor Transitway,I 110,South
+-118.280721,33.9539438,2,,Harbor Transitway,I 110,South
+-118.2811259,33.9592579,4,65 mph,Harbor Freeway,I 110,South
+-118.2811143,33.9588197,4,65 mph,Harbor Freeway,I 110,South
+-118.2811051,33.9581409,4,65 mph,Harbor Freeway,I 110,South
+-118.2811153,33.957653,4,65 mph,Harbor Freeway,I 110,South
+-118.2810998,33.9571676,4,65 mph,Harbor Freeway,I 110,South
+-118.2805839,33.9924128,2,65 mph,Harbor Transitway,I 110,South
+-118.280637,33.9908477,2,65 mph,Harbor Transitway,I 110,South
+-118.280658,33.9903651,2,65 mph,Harbor Transitway,I 110,South
+-118.2806727,33.9894436,2,65 mph,Harbor Transitway,I 110,South
+-118.2806705,33.9889265,2,65 mph,Harbor Transitway,I 110,South
+-118.2806736,33.9883952,2,65 mph,Harbor Transitway,I 110,South
+-118.2806717,33.9882712,2,65 mph,Harbor Transitway,I 110,South
+-118.2806615,33.987622,2,65 mph,Harbor Transitway,I 110,South
+-118.2806267,33.9860802,2,65 mph,Harbor Transitway,I 110,South
+-118.2806233,33.9859035,2,65 mph,Harbor Transitway,I 110,South
+-118.2805942,33.9852226,2,65 mph,Harbor Transitway,I 110,South
+-118.2805942,33.9852226,2,,Harbor Transitway,I 110,South
+-118.2805882,33.9839267,2,,Harbor Transitway,I 110,South
+-118.280611,33.9833996,2,,Harbor Transitway,I 110,South
+-118.2806486,33.9829403,2,,Harbor Transitway,I 110,South
+-118.2806927,33.9824997,2,,Harbor Transitway,I 110,South
+-118.2807195,33.9822598,2,,Harbor Transitway,I 110,South
+-118.2807868,33.9816058,2,,Harbor Transitway,I 110,South
+-118.2808395,33.9810416,2,,Harbor Transitway,I 110,South
+-118.2808728,33.9805711,2,,Harbor Transitway,I 110,South
+-118.2808862,33.9799095,2,,Harbor Transitway,I 110,South
+-118.2808873,33.9790866,2,,Harbor Transitway,I 110,South
+-118.2808884,33.9789111,2,,Harbor Transitway,I 110,South
+-118.2808792,33.9751329,2,,Harbor Transitway,I 110,South
+-118.2809292,33.9647325,2,,Harbor Transitway,I 110,South
+-118.2809342,33.9642545,2,,Harbor Transitway,I 110,South
+-118.2809367,33.9640808,2,,Harbor Transitway,I 110,South
+-118.280949,33.9633292,2,,Harbor Transitway,I 110,South
+-118.2809745,33.9617097,2,,Harbor Transitway,I 110,South
+-118.2809892,33.9610201,2,,Harbor Transitway,I 110,South
+-118.2809931,33.9603121,2,,Harbor Transitway,I 110,South
+-118.2809953,33.9598598,2,,Harbor Transitway,I 110,South
+-118.2809941,33.9595384,2,,Harbor Transitway,I 110,South
+-118.2809936,33.9594174,2,,Harbor Transitway,I 110,South
+-118.2809866,33.9589044,2,,Harbor Transitway,I 110,South
+-118.2809678,33.9578555,2,,Harbor Transitway,I 110,South
+-118.2809544,33.9568263,2,,Harbor Transitway,I 110,South
+-118.2809515,33.9566545,2,,Harbor Transitway,I 110,South
+-118.2809374,33.9558726,2,,Harbor Transitway,I 110,South
+-118.2810931,34.0104852,2,65 mph,Harbor Transitway,I 110,South
+-118.2810892,34.0090387,2,65 mph,Harbor Transitway,I 110,South
+-118.2811542,34.0032199,2,65 mph,Harbor Transitway,I 110,South
+-118.2811341,34.0019642,2,65 mph,Harbor Transitway,I 110,South
+-118.2810973,34.0014699,2,65 mph,Harbor Transitway,I 110,South
+-118.2807025,33.9971099,2,65 mph,Harbor Transitway,I 110,South
+-118.2806019,33.995722,2,65 mph,Harbor Transitway,I 110,South
+-118.2805748,33.9934743,2,65 mph,Harbor Transitway,I 110,South
+-118.2805839,33.9924128,2,65 mph,Harbor Transitway,I 110,South
+-118.2808169,33.9911991,4,65 mph,Harbor Freeway,I 110,South
+-118.280835,33.9904663,4,65 mph,Harbor Freeway,I 110,South
+-118.2808431,33.9899749,4,65 mph,Harbor Freeway,I 110,South
+-118.2808339,33.9894441,4,65 mph,Harbor Freeway,I 110,South
+-118.2808207,33.988926,4,65 mph,Harbor Freeway,I 110,South
+-118.2807665,33.9876666,4,65 mph,Harbor Freeway,I 110,South
+-118.2807623,33.9875332,4,65 mph,Harbor Freeway,I 110,South
+-118.280757,33.9860792,4,65 mph,Harbor Freeway,I 110,South
+-118.2810066,33.9994727,4,65 mph,Harbor Freeway,I 110,South
+-118.2807005,33.9963726,4,65 mph,Harbor Freeway,I 110,South
+-118.2806286,33.995273,4,65 mph,Harbor Freeway,I 110,South
+-118.2806419,33.9944226,4,65 mph,Harbor Freeway,I 110,South
+-118.2806851,33.9934738,4,65 mph,Harbor Freeway,I 110,South
+-118.2808169,33.9911991,4,65 mph,Harbor Freeway,I 110,South
+-118.2812409,34.0067173,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812617,34.0057072,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812662,34.0041593,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812689,34.0035972,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812571,34.0028755,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812189,34.0020172,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2811866,34.0014408,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.281098,34.0005658,"['5', '4']",65 mph,Harbor Freeway,I 110,South
+-118.2812826,34.0106792,5,65 mph,Harbor Freeway,I 110,South
+-118.2813432,34.0083998,5,65 mph,Harbor Freeway,I 110,South
+-118.281098,34.0005658,5,65 mph,Harbor Freeway,I 110,South
+-118.2810066,33.9994727,5,65 mph,Harbor Freeway,I 110,South
+-118.2813432,34.0083998,5,65 mph,Harbor Freeway,I 110,South
+-118.2812409,34.0067173,5,65 mph,Harbor Freeway,I 110,South
+-118.2867985,33.912617,5,65 mph,Harbor Freeway,I 110,South
+-118.2868056,33.9089491,5,65 mph,Harbor Freeway,I 110,South
+-118.286815,33.9075701,5,65 mph,Harbor Freeway,I 110,South
+-118.2868451,33.906723,5,65 mph,Harbor Freeway,I 110,South
+-118.2822502,33.9214367,6,65 mph,Harbor Freeway,I 110,South
+-118.282357,33.9212689,6,65 mph,Harbor Freeway,I 110,South
+-118.2824638,33.9211112,6,65 mph,Harbor Freeway,I 110,South
+-118.2825389,33.921008,6,65 mph,Harbor Freeway,I 110,South
+-118.2826139,33.920913,6,65 mph,Harbor Freeway,I 110,South
+-118.2827193,33.9207904,6,65 mph,Harbor Freeway,I 110,South
+-118.2828223,33.9206779,6,65 mph,Harbor Freeway,I 110,South
+-118.2830794,33.9204113,6,65 mph,Harbor Freeway,I 110,South
+-118.283905,33.9195842,6,65 mph,Harbor Freeway,I 110,South
+-118.2840419,33.9194531,6,65 mph,Harbor Freeway,I 110,South
+-118.2807323,33.985166,4,65 mph,Harbor Freeway,I 110,South
+-118.2807135,33.9839465,4,65 mph,Harbor Freeway,I 110,South
+-118.2807277,33.9835642,4,65 mph,Harbor Freeway,I 110,South
+-118.2807639,33.9830582,4,65 mph,Harbor Freeway,I 110,South
+-118.2808224,33.9824995,4,65 mph,Harbor Freeway,I 110,South
+-118.2808477,33.9822583,4,65 mph,Harbor Freeway,I 110,South
+-118.2809485,33.9813247,4,65 mph,Harbor Freeway,I 110,South
+-118.2809865,33.9808285,4,65 mph,Harbor Freeway,I 110,South
+-118.2810067,33.9804749,4,65 mph,Harbor Freeway,I 110,South
+-118.2810154,33.9801262,4,65 mph,Harbor Freeway,I 110,South
+-118.2810153,33.9790857,4,65 mph,Harbor Freeway,I 110,South
+-118.280757,33.9860792,5,65 mph,Harbor Freeway,I 110,South
+-118.2807498,33.9859017,5,65 mph,Harbor Freeway,I 110,South
+-118.2807323,33.985166,5,65 mph,Harbor Freeway,I 110,South
+-118.281017,33.9785075,4,65 mph,Harbor Freeway,I 110,South
+-118.2810226,33.9748082,4,65 mph,Harbor Freeway,I 110,South
+-118.2810177,33.9745243,4,65 mph,Harbor Freeway,I 110,South
+-118.281024,33.9742363,4,65 mph,Harbor Freeway,I 110,South
+-118.286904,33.8989183,5,65 mph,Harbor Freeway,I 110,South
+-118.2868324,33.8982534,5,65 mph,Harbor Freeway,I 110,South
+-118.286759,33.8977607,5,65 mph,Harbor Freeway,I 110,South
+-118.2866916,33.8974057,5,65 mph,Harbor Freeway,I 110,South
+-118.286583,33.8969522,5,65 mph,Harbor Freeway,I 110,South
+-118.286363,33.8960082,5,65 mph,Harbor Freeway,I 110,South
+-118.2862302,33.8954937,5,65 mph,Harbor Freeway,I 110,South
+-118.2862302,33.8954937,4,65 mph,Harbor Freeway,I 110,South
+-118.2861009,33.8948936,4,65 mph,Harbor Freeway,I 110,South
+-118.2860157,33.894462,4,65 mph,Harbor Freeway,I 110,South
+-118.2859557,33.8940535,4,65 mph,Harbor Freeway,I 110,South
+-118.2859272,33.8937695,4,65 mph,Harbor Freeway,I 110,South
+-118.2859042,33.8934709,4,65 mph,Harbor Freeway,I 110,South
+-118.2858831,33.8927935,4,65 mph,Harbor Freeway,I 110,South
+-118.2858733,33.8925035,4,65 mph,Harbor Freeway,I 110,South
+-118.285835,33.8898954,4,65 mph,Harbor Freeway,I 110,South
+-118.2857989,33.8885392,4,65 mph,Harbor Freeway,I 110,South
+-118.2808792,33.9751329,2,,Harbor Transitway,I 110,South
+-118.2808784,33.9748102,2,,Harbor Transitway,I 110,South
+-118.2808801,33.9745252,2,,Harbor Transitway,I 110,South
+-118.2808779,33.9713697,2,,Harbor Transitway,I 110,South
+-118.2808772,33.9708843,2,,Harbor Transitway,I 110,South
+-118.2808779,33.9707098,2,,Harbor Transitway,I 110,South
+-118.2808794,33.9704522,2,,Harbor Transitway,I 110,South
+-118.281024,33.9742363,5,65 mph,Harbor Freeway,I 110,South
+-118.281026,33.9710902,5,65 mph,Harbor Freeway,I 110,South
+-118.281026,33.9710902,4,65 mph,Harbor Freeway,I 110,South
+-118.2810264,33.9708842,4,65 mph,Harbor Freeway,I 110,South
+-118.2810258,33.9707085,4,65 mph,Harbor Freeway,I 110,South
+-118.281024,33.9679984,4,65 mph,Harbor Freeway,I 110,South
+-118.2810259,33.9677622,4,65 mph,Harbor Freeway,I 110,South
+-118.2810236,33.9665391,4,65 mph,Harbor Freeway,I 110,South
+-118.280721,33.9539438,2,,Harbor Transitway,I 110,South
+-118.2805098,33.9529132,2,,Harbor Transitway,I 110,South
+-118.2804573,33.9526773,2,,Harbor Transitway,I 110,South
+-118.2802892,33.9518339,2,,Harbor Transitway,I 110,South
+-118.2801108,33.950964,2,,Harbor Transitway,I 110,South
+-118.2797775,33.9492684,2,,Harbor Transitway,I 110,South
+-118.280024,33.9398061,1,,Harbor Transitway,I 110,South
+-118.2800558,33.9383845,1,,Harbor Transitway,I 110,South
+-118.2800624,33.9381528,1,,Harbor Transitway,I 110,South
+-118.2800904,33.9373338,1,,Harbor Transitway,I 110,South
+-118.2800934,33.9372395,1,,Harbor Transitway,I 110,South
+-118.2801175,33.936751,1,,Harbor Transitway,I 110,South
+-118.2801492,33.9362413,1,,Harbor Transitway,I 110,South
+-118.2802154,33.9355349,1,,Harbor Transitway,I 110,South
+-118.2802838,33.9348217,1,,Harbor Transitway,I 110,South
+-118.2803348,33.9344492,1,,Harbor Transitway,I 110,South
+-118.2806492,33.9529135,6,65 mph,Harbor Freeway,I 110,South
+-118.2806093,33.952676,6,65 mph,Harbor Freeway,I 110,South
+-118.2800858,33.950121,6,65 mph,Harbor Freeway,I 110,South
+-118.2855776,33.8843695,6,65 mph,Harbor Freeway,I 110,South
+-118.2853777,33.882968,6,65 mph,Harbor Freeway,I 110,South
+-118.2853089,33.8823316,6,65 mph,Harbor Freeway,I 110,South
+-118.285273,33.8818841,6,65 mph,Harbor Freeway,I 110,South
+-118.2852602,33.881658,6,65 mph,Harbor Freeway,I 110,South
+-118.2852754,33.8795793,6,65 mph,Harbor Freeway,I 110,South
+-118.2852712,33.8794569,6,65 mph,Harbor Freeway,I 110,South
+-118.2852634,33.879218,6,65 mph,Harbor Freeway,I 110,South
+-118.285242,33.8786666,6,65 mph,Harbor Freeway,I 110,South
+-118.2797775,33.9492684,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2797433,33.9490948,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796587,33.9486021,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796306,33.9483829,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796104,33.9481572,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2795996,33.9479924,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2795915,33.9478189,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2795863,33.9476159,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2795889,33.9474085,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796003,33.9472138,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796144,33.9470433,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796419,33.9467669,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2796721,33.9464994,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2797238,33.9460915,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2797754,33.9456969,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2798171,33.9453951,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2799432,33.9443968,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2799902,33.943904,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2800075,33.9435991,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2800196,33.9432854,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2800243,33.942003,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2800244,33.9418286,"['3', '2']",,Harbor Transitway,I 110,South
+-118.280024,33.9398061,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2800858,33.950121,5,65 mph,Harbor Freeway,I 110,South
+-118.2799156,33.9492676,5,65 mph,Harbor Freeway,I 110,South
+-118.2798868,33.9490761,5,65 mph,Harbor Freeway,I 110,South
+-118.2798214,33.948672,5,65 mph,Harbor Freeway,I 110,South
+-118.279774,33.9482967,5,65 mph,Harbor Freeway,I 110,South
+-118.2866244,33.9142217,4,65 mph,Harbor Freeway,I 110,South
+-118.286745,33.9139398,4,65 mph,Harbor Freeway,I 110,South
+-118.2867573,33.9137394,4,65 mph,Harbor Freeway,I 110,South
+-118.286764,33.9133165,4,65 mph,Harbor Freeway,I 110,South
+-118.2867985,33.912617,4,65 mph,Harbor Freeway,I 110,South
+-118.2861353,33.9162538,6,65 mph,Harbor Freeway,I 110,South
+-118.286219,33.915902,6,65 mph,Harbor Freeway,I 110,South
+-118.2863541,33.9154284,6,65 mph,Harbor Freeway,I 110,South
+-118.286526,33.9147198,6,65 mph,Harbor Freeway,I 110,South
+-118.2866244,33.9142217,6,65 mph,Harbor Freeway,I 110,South
+-118.2803441,33.9355997,4,65 mph,Harbor Freeway,I 110,South
+-118.2806417,33.933411,4,65 mph,Harbor Freeway,I 110,South
+-118.2808291,33.9322225,4,65 mph,Harbor Freeway,I 110,South
+-118.280946,33.9313172,4,65 mph,Harbor Freeway,I 110,South
+-118.2809953,33.9308063,4,65 mph,Harbor Freeway,I 110,South
+-118.2810263,33.9304203,4,65 mph,Harbor Freeway,I 110,South
+-118.2810634,33.9297998,4,65 mph,Harbor Freeway,I 110,South
+-118.281094,33.9292694,4,65 mph,Harbor Freeway,I 110,South
+-118.2812204,33.9271959,4,65 mph,Harbor Freeway,I 110,South
+-118.2812869,33.926182,4,65 mph,Harbor Freeway,I 110,South
+-118.2813304,33.9256414,4,65 mph,Harbor Freeway,I 110,South
+-118.281388,33.924987,4,65 mph,Harbor Freeway,I 110,South
+-118.2814508,33.9244266,4,65 mph,Harbor Freeway,I 110,South
+-118.2815121,33.9238851,4,65 mph,Harbor Freeway,I 110,South
+-118.2808794,33.9704522,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2808824,33.9698575,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2808939,33.9679984,"['3', '2']",,Harbor Transitway,I 110,South
+-118.280897,33.967762,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2808845,33.9671267,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2809179,33.9655039,"['3', '2']",,Harbor Transitway,I 110,South
+-118.2809292,33.9647325,"['3', '2']",,Harbor Transitway,I 110,South
+-118.285071,33.8719244,3,65 mph,Harbor Freeway,I 110,South
+-118.2850501,33.8700502,3,65 mph,Harbor Freeway,I 110,South
+-118.2850537,33.8695746,3,65 mph,Harbor Freeway,I 110,South
+-118.2850661,33.8661453,3,65 mph,Harbor Freeway,I 110,South
+-118.2850737,33.8656551,3,65 mph,Harbor Freeway,I 110,South
+-118.2850804,33.8650035,3,65 mph,Harbor Freeway,I 110,South
+-118.2851265,33.8644576,3,65 mph,Harbor Freeway,I 110,South
+-118.285177,33.8641435,3,65 mph,Harbor Freeway,I 110,South
+-118.277911,34.0218446,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2779798,34.0217387,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2781085,34.0215219,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2782455,34.0213046,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2783765,34.0210707,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2794598,34.0194307,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2799888,34.0186018,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2801219,34.0183862,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2802731,34.0180716,"['5', '6']",65 mph,Harbor Freeway,I 110,South
+-118.2802731,34.0180716,5,65 mph,Harbor Freeway,I 110,South
+-118.2804032,34.0177871,5,65 mph,Harbor Freeway,I 110,South
+-118.2805535,34.0174678,5,65 mph,Harbor Freeway,I 110,South
+-118.2806948,34.0171324,5,65 mph,Harbor Freeway,I 110,South
+-118.2807538,34.0169647,5,65 mph,Harbor Freeway,I 110,South
+-118.2808127,34.0167906,5,65 mph,Harbor Freeway,I 110,South
+-118.2809393,34.0164941,5,65 mph,Harbor Freeway,I 110,South
+-118.2810361,34.0162357,5,65 mph,Harbor Freeway,I 110,South
+-118.2810758,34.0160438,5,65 mph,Harbor Freeway,I 110,South
+-118.281102,34.0158785,5,65 mph,Harbor Freeway,I 110,South
+-118.2811288,34.015689,5,65 mph,Harbor Freeway,I 110,South
+-118.2811629,34.0154417,5,65 mph,Harbor Freeway,I 110,South
+-118.2811917,34.0152199,5,65 mph,Harbor Freeway,I 110,South
+-118.2812663,34.0143947,5,65 mph,Harbor Freeway,I 110,South
+-118.2812748,34.014079,5,65 mph,Harbor Freeway,I 110,South
+-118.2812768,34.0137512,5,65 mph,Harbor Freeway,I 110,South
+-118.281277,34.0137383,5,65 mph,Harbor Freeway,I 110,South
+-118.2805703,34.0170936,2,65 mph,Harbor Transitway,I 110,South
+-118.2807304,34.0166187,2,65 mph,Harbor Transitway,I 110,South
+-118.2808364,34.0162404,2,65 mph,Harbor Transitway,I 110,South
+-118.2809168,34.015914,2,65 mph,Harbor Transitway,I 110,South
+-118.280979,34.0156117,2,65 mph,Harbor Transitway,I 110,South
+-118.2810536,34.0151847,2,65 mph,Harbor Transitway,I 110,South
+-118.2810965,34.0148179,2,65 mph,Harbor Transitway,I 110,South
+-118.2811241,34.0144592,2,65 mph,Harbor Transitway,I 110,South
+-118.2811404,34.0141468,2,65 mph,Harbor Transitway,I 110,South
+-118.2786254,34.020337,1,65 mph,Harbor Transitway,I 110,South
+-118.2788839,34.0199867,1,65 mph,Harbor Transitway,I 110,South
+-118.279653,34.0188629,1,65 mph,Harbor Transitway,I 110,South
+-118.2798118,34.018611,1,65 mph,Harbor Transitway,I 110,South
+-118.2799548,34.0183796,1,65 mph,Harbor Transitway,I 110,South
+-118.2800912,34.01814,1,65 mph,Harbor Transitway,I 110,South
+-118.2803126,34.0176847,1,65 mph,Harbor Transitway,I 110,South
+-118.2804392,34.0174055,1,65 mph,Harbor Transitway,I 110,South
+-118.2804861,34.0172965,1,65 mph,Harbor Transitway,I 110,South
+-118.2805703,34.0170936,1,65 mph,Harbor Transitway,I 110,South
+-118.2746045,34.0311617,5,65 mph,Harbor Freeway,I 110,South
+-118.274495,34.0291665,5,65 mph,Harbor Freeway,I 110,South
+-118.2744916,34.0290555,5,65 mph,Harbor Freeway,I 110,South
+-118.2744905,34.0289388,5,65 mph,Harbor Freeway,I 110,South
+-118.2744927,34.0288124,5,65 mph,Harbor Freeway,I 110,South
+-118.2744965,34.0286837,5,65 mph,Harbor Freeway,I 110,South
+-118.2745022,34.0285612,5,65 mph,Harbor Freeway,I 110,South
+-118.2745107,34.0284384,5,65 mph,Harbor Freeway,I 110,South
+-118.2745217,34.0283247,5,65 mph,Harbor Freeway,I 110,South
+-118.2745364,34.0282019,5,65 mph,Harbor Freeway,I 110,South
+-118.2745558,34.0280661,5,65 mph,Harbor Freeway,I 110,South
+-118.274577,34.0279506,5,65 mph,Harbor Freeway,I 110,South
+-118.2746071,34.0278215,5,65 mph,Harbor Freeway,I 110,South
+-118.2746359,34.0277065,5,65 mph,Harbor Freeway,I 110,South
+-118.2747014,34.0274821,5,65 mph,Harbor Freeway,I 110,South
+-118.2747737,34.0272817,5,65 mph,Harbor Freeway,I 110,South
+-118.2748616,34.0270851,5,65 mph,Harbor Freeway,I 110,South
+-118.2749591,34.0268888,5,65 mph,Harbor Freeway,I 110,South
+-118.2750654,34.0267017,5,65 mph,Harbor Freeway,I 110,South
+-118.2754813,34.0260411,5,65 mph,Harbor Freeway,I 110,South
+-118.2759801,34.0252213,5,65 mph,Harbor Freeway,I 110,South
+-118.276598,34.0242468,5,65 mph,Harbor Freeway,I 110,South
+-118.2768698,34.0238052,5,65 mph,Harbor Freeway,I 110,South
+-118.2770169,34.0235671,5,65 mph,Harbor Freeway,I 110,South
+-118.2771723,34.0233055,5,65 mph,Harbor Freeway,I 110,South
+-118.2773428,34.0229836,5,65 mph,Harbor Freeway,I 110,South
+-118.2775051,34.022639,5,65 mph,Harbor Freeway,I 110,South
+-118.277911,34.0218446,5,65 mph,Harbor Freeway,I 110,South
+-118.2811404,34.0141468,2,65 mph,Harbor Transitway,I 110,South
+-118.2811433,34.0140352,2,65 mph,Harbor Transitway,I 110,South
+-118.2811485,34.0136975,2,65 mph,Harbor Transitway,I 110,South
+-118.2811622,34.0125335,2,65 mph,Harbor Transitway,I 110,South
+-118.2811622,34.0118765,2,65 mph,Harbor Transitway,I 110,South
+-118.2811445,34.0112381,2,65 mph,Harbor Transitway,I 110,South
+-118.2811348,34.0109387,2,65 mph,Harbor Transitway,I 110,South
+-118.2811303,34.010837,2,65 mph,Harbor Transitway,I 110,South
+-118.2810931,34.0104852,2,65 mph,Harbor Transitway,I 110,South

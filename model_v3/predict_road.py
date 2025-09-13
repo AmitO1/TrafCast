@@ -291,6 +291,14 @@ class RoadPredictor:
             
             # Get sensor info
             sensor_data = prepared_data[prepared_data['sensor_id'] == sensor_id].iloc[0]
+            
+            # Get real speed from the most recent data point
+            real_speed = sensor_data.get('speed_mph', None)
+            if real_speed is None and 'speed' in sensor_data:
+                real_speed = sensor_data['speed']
+            elif real_speed is None and 'Speed' in sensor_data:
+                real_speed = sensor_data['Speed']
+            
             sensor_info.append({
                 'sensor_id': sensor_id,
                 'Latitude': sensor_data['Latitude'],
@@ -299,6 +307,7 @@ class RoadPredictor:
                 'direction': sensor_data['direction'],
                 'lanes': sensor_data['lanes'],
                 'predicted_speed': prediction,
+                'real_speed': real_speed,
                 'target_time': target_time
             })
         
@@ -306,7 +315,15 @@ class RoadPredictor:
         results_df = pd.DataFrame(sensor_info)
         
         print(f"Generated predictions for {len(results_df)} sensors")
-        print(f"Speed range: {results_df['predicted_speed'].min():.1f} - {results_df['predicted_speed'].max():.1f} mph")
+        print(f"Predicted speed range: {results_df['predicted_speed'].min():.1f} - {results_df['predicted_speed'].max():.1f} mph")
+        
+        # Print real speed statistics if available
+        real_speeds = results_df['real_speed'].dropna()
+        if len(real_speeds) > 0:
+            print(f"Real speed range: {real_speeds.min():.1f} - {real_speeds.max():.1f} mph")
+            print(f"Real speed available for {len(real_speeds)}/{len(results_df)} sensors")
+        else:
+            print("No real speed data available")
         
         return results_df
     
