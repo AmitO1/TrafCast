@@ -28,7 +28,6 @@ map/cache/
 *.h5
 *.tar
 *.zip
-*.gz
 *.npz
 *.ckpt
 *.pdf
