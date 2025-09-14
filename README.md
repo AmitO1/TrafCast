@@ -37,7 +37,7 @@ TrafCast predicts real-time traffic speeds across major Los Angeles highways and
    ```bash
    git clone <your-repo-url>
    cd TrafCast-main
-   git lf
+   git lfs
 
 3. **Create and activate virtual environment**
    ```bash
