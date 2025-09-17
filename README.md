@@ -21,24 +21,36 @@ TrafCast predicts real-time traffic speeds across major Los Angeles highways and
 
 ### Installation
 
-1. **Clone the repository**
+1. **Install Git LFS:**
    ```bash
-   git clone <repository-url>
-   cd TrafCast
+   # On macOS with Homebrew
+   brew install git-lfs
+   
+   # On Ubuntu/Debian
+   sudo apt install git-lfs
+   
+   # On Windows (with Git for Windows)
+   git lfs install
    ```
 
-2. **Create and activate virtual environment**
+2. **Clone the repository:**
+   ```bash
+   git clone <your-repo-url>
+   cd TrafCast
+   git lfs
+
+3. **Create and activate virtual environment**
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
-3. **Install dependencies**
+4. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the application**
+5. **Run the application**
    ```bash
    streamlit run app.py
    ```
