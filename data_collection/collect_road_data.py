@@ -12,15 +12,18 @@ from selenium.common.exceptions import WebDriverException, TimeoutException
 
 # Add data_process to path for imports
 import sys
-sys.path.append('/Users/noamcohen/PycharmProjects/TrafCast/data_process')
+
+# Get project root directory (parent of data_collection)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.join(PROJECT_ROOT, 'data_process'))
 
 from process import prepare_data_df, build_sensor_index, map_pms_to_sensors
 
-# Paths
-download_path = '/Users/noamcohen/Downloads/data collection/data'
-roads_dir = '/Users/noamcohen/PycharmProjects/TrafCast/data/Los Angeles/roads'
+# Dynamic paths relative to project root
+download_path = os.path.join(os.path.expanduser('~'), 'Downloads', 'data_collection', 'data')
+roads_dir = os.path.join(PROJECT_ROOT, 'data', 'Los Angeles', 'roads')
 metadata_file = os.path.join(roads_dir, 'road_metadata.json')
-coordinates_dir = '/Users/noamcohen/PycharmProjects/TrafCast/data collection/coordinates'
+coordinates_dir = os.path.join(PROJECT_ROOT, 'data_collection', 'coordinates')
 
 
 def create_chrome_driver():
@@ -35,8 +38,9 @@ def create_chrome_driver():
     chrome_options.add_experimental_option("prefs", chrome_prefs)
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    
-    return webdriver.Chrome(service=Service('/opt/homebrew/bin/chromedriver'), options=chrome_options)
+
+    # Use system ChromeDriver (users should install via 'brew install chromedriver' or similar)
+    return webdriver.Chrome(options=chrome_options)
 
 
 def login_to_pems(driver):
