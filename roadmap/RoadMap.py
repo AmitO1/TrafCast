@@ -18,7 +18,10 @@ import sys
 import os
 # Add parent directory to path to import model_v3
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add data collection path for imports
+sys.path.append(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data collection'))
 from model_v3.predict_road import RoadPredictor
+from collect_road_data import collect_road_data_if_missing
 
 # Define model paths relative to the project root
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -109,7 +112,7 @@ class RoadMapManager:
 
     def apply_prediction_data(self, predict_time: datetime | None = None):
         """
-        Needed data to predict: 
+        Needed data to predict:
         Gather data about weather in current day in time for each point
         Speed limit - from the road network
         Road name, Direction - key of the coordinates dict
@@ -117,6 +120,28 @@ class RoadMapManager:
         Lanes - either from coordinate if given else from road network
         Time - input from user
         """
+
+        # Collect missing data for the prediction date if needed
+        if predict_time:
+            target_date = predict_time.strftime("%Y-%m-%d")
+            print(f"Checking for missing data on {target_date}...")
+
+            for (road_name, direction) in self.roads.keys():
+                # Convert road format for data collection
+                # From "I 405" -> "405", "North" -> "N"
+                road_num = road_name.split()[-1]  # Get number part
+                direction_short = direction[0].upper()  # Get first letter
+
+                print(f"Checking data for {road_name} {direction} ({road_num} {direction_short})")
+                result = collect_road_data_if_missing(road_num, direction_short, target_date)
+
+                if result == 'exists':
+                    print(f"✅ {road_name} {direction} already has data for {target_date}")
+                elif result == 'success':
+                    print(f"✅ Successfully collected data for {road_name} {direction}")
+                else:
+                    print(f"❌ Failed to collect data for {road_name} {direction}")
+
         predictions = {}
         road_predictor = RoadPredictor(MODEL_PATH, ENCODER_PATH)
         for (road_name, direction) in self.roads.keys():
