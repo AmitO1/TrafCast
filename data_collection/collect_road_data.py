@@ -18,6 +18,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.join(PROJECT_ROOT, 'data_process'))
 
 from process import prepare_data_df, build_sensor_index, map_pms_to_sensors
+from git_sync import git_commit_and_push_data
 
 # Dynamic paths relative to project root
 download_path = os.path.join(os.path.expanduser('~'), 'Downloads', 'data_collection', 'data')
@@ -395,7 +396,7 @@ def convert_to_metadata_key(road_name, direction):
 
     return f"{prefix}_{road_name}_{direction_full}"
 
-def collect_road_data_if_missing(road_name, direction, target_date):
+def collect_road_data_if_missing(road_name, direction, target_date, auto_sync=True):
     """
     Check if data exists for a road/date, download and append if missing.
 
@@ -403,6 +404,7 @@ def collect_road_data_if_missing(road_name, direction, target_date):
         road_name: Road name like '405', '134', '101' (just the number)
         direction: Direction like 'N', 'S', 'E', 'W' (single letter)
         target_date: Date string 'YYYY-MM-DD'
+        auto_sync: If True, automatically commit and push to git after successful collection
 
     Returns:
         str: 'exists', 'success', or 'failed'
@@ -426,6 +428,14 @@ def collect_road_data_if_missing(road_name, direction, target_date):
         # Download and process data
         success = download_road_data(driver, road_name, direction, target_date)
 
+        if success and auto_sync:
+            print(f"🔄 Auto-syncing {road_key} to Git...")
+            sync_success = git_commit_and_push_data([road_key], target_date, PROJECT_ROOT)
+            if sync_success:
+                print("✅ Data successfully synced to Git")
+            else:
+                print("⚠️ Git sync failed, but data collection completed")
+
         return 'success' if success else 'failed'
 
     except Exception as e:
@@ -440,13 +450,14 @@ def collect_road_data_if_missing(road_name, direction, target_date):
                 pass
 
 
-def collect_roads_data(roads_list, target_date):
+def collect_roads_data(roads_list, target_date, auto_sync=True):
     """
     Download data for multiple roads and their directions on a specific date.
 
     Args:
         roads_list: List of tuples [(road, direction), ...] e.g., [('405', 'N'), ('101', 'S')]
         target_date: Date string "YYYY-MM-DD" or datetime object
+        auto_sync: If True, automatically commit and push to git after successful collection
 
     Returns:
         dict: Results dictionary with success/failure status for each road
@@ -488,6 +499,17 @@ def collect_roads_data(roads_list, target_date):
 
             # Small delay between downloads
             time.sleep(10)
+
+        # Auto-sync to Git if requested and there were successful downloads
+        if auto_sync:
+            successful_roads = [road_key for road_key, success in results.items() if success]
+            if successful_roads:
+                print(f"\n🔄 Auto-syncing {len(successful_roads)} updated roads to Git...")
+                sync_success = git_commit_and_push_data(successful_roads, target_date, PROJECT_ROOT)
+                if sync_success:
+                    print("✅ Data successfully synced to Git")
+                else:
+                    print("⚠️ Git sync failed, but data collection completed")
 
         return results
 
