@@ -41,9 +41,16 @@ map/cache/
 *.webp
 *.html
 
-# Block heavy .json and .graphml
-*.json
+# Block heavy .json and .graphml (but allow important project files)
 *.graphml
+
+# Allow important project JSON files
+!**/road_metadata.json
+!package.json
+!**/config.json
+B
+# Block other heavy JSON files (you can add specific patterns here)
+# *.json
 
 # Project-specific exclusions
 roadmap/old_implmentation/road_network.graphml
@@ -53,3 +60,6 @@ data_process/exmaple.csv
 # Prevent Git LFS tracked files from being committed directly
 .gitattributes
 data_process/balanced_example.csv
+
+# Data collection temporary files
+data_collection/data/
